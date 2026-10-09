@@ -203,7 +203,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-09",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 5,
+   "open": 4,
    "sources": [
     {
      "kind": "workday",
@@ -297,7 +297,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "d354d8ea6b353716",
+     "hash": "0cfcf78436af8029",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -320,7 +320,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "03827bb8b959e625",
+     "hash": "c9d8bff065edb124",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -378,7 +378,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-09",
    "name": "Lazard (Lazard Wealth Management)",
-   "open": 4,
+   "open": 3,
    "sources": [
     {
      "kind": "oracle",
@@ -993,7 +993,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-10-09",
    "name": "Charles Schwab",
-   "open": 1,
+   "open": 2,
    "sources": [
     {
      "kind": "icims",
@@ -1252,11 +1252,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
      "hash": "141ec77912857372",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.hilltopsecurities.com/careers/"
     }
    ],
@@ -1351,8 +1350,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "40f543263d9b4297",
+     "changed_on": "2026-10-09",
+     "hash": "c59089d01089c674",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1501,8 +1500,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "17446685fc0fa2c0",
+     "changed_on": "2026-10-09",
+     "hash": "f3c3959ddf31a3ef",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1545,8 +1544,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "e8b25457f8157487",
+     "changed_on": "2026-10-09",
+     "hash": "539971c9326ce6b9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2205,7 +2204,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-09",
    "name": "Blackstone",
-   "open": 8,
+   "open": 7,
    "sources": [
     {
      "kind": "workday",
@@ -2397,7 +2396,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-09",
    "name": "JLL",
-   "open": 31,
+   "open": 30,
    "sources": [
     {
      "kind": "workday",
@@ -2619,7 +2618,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "8932aafa2908db39",
+     "hash": "2a3ff07ee16dc45c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2707,7 +2706,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "89d5d2892fedf4d5",
+     "hash": "6b78960954915537",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2729,8 +2728,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-08",
-     "hash": "cede8d21716ead37",
+     "changed_on": "2026-10-09",
+     "hash": "c6aa589384699d14",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3477,7 +3476,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "ccfb22b4adfd7443",
+     "hash": "0d050978f333162a",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -3811,11 +3810,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7fcfdac77b60>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "2e3f950686073ccd",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4330,7 +4328,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "bb86e654100a666d",
+     "hash": "60923b21b48cadb4",
      "kind": "page",
      "links": [],
      "ok": true,
