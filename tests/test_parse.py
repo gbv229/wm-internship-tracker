@@ -59,7 +59,22 @@ def test_relevance():
     assert not parse.is_internship("Senior Wealth Advisor")
     assert parse.is_wealth("Summer Analyst - Private Bank", "", "mixed")
     assert not parse.is_wealth("Software Engineer Intern", "Build trading systems.", "mixed")
-    assert parse.is_wealth("Software Engineer Intern", "", "wealth")
+    assert parse.is_wealth("Client Associate Intern", "", "wealth")
+    assert not parse.is_wealth("Software Engineer Intern", "", "wealth")
+    assert parse.is_wealth("Summer 2027 US Wealth Management Technology Internship", "", "mixed")
+    assert not parse.is_wealth("2027 Asset Management Investments - Summer Internship", "Asset & Wealth Management Asset & Wealth Management", "mixed")
+    assert not parse.is_wealth("2027 Summer Internship Program - Commercial Banking", "", "mixed")
+    assert parse.is_wealth("Intern", "Join Wealth Management. Our Wealth Management division serves clients.", "mixed")
+
+
+def test_region():
+    assert parse.region("New York, NY") == "US"
+    assert parse.region("San Antonio, Texas, United States of America") == "US"
+    assert parse.region("", "Wealth - LATAM, Summer Analyst, Miami - USA, 2027") == "US"
+    assert parse.region("Halifax, NS") == "Canada"
+    assert parse.region("Luxembourg 2 Blvd K. Adenauer") == "International"
+    assert parse.region("", "Wealth - Citigold, Summer Analyst, Hong Kong, 2027") == "International"
+    assert parse.region("2 Locations") == ""
 
 
 def test_extras():

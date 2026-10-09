@@ -29,6 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 400 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
+PARSER_VERSION = 2       # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -100,7 +101,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         rejected[j.id] = "not wealth"
         return None
 
-    fresh = old and old.get("detail_at") and \
+    fresh = old and old.get("v") == PARSER_VERSION and old.get("detail_at") and \
         (today - date.fromisoformat(old["detail_at"])).days < REFRESH_DAYS
     if old and fresh:
         rec = dict(old)
@@ -144,6 +145,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         "title": j.title,
         "url": j.url,
         "location": loc,
+        "region": parse.region(loc, j.title),
         "season": season,
         "season_inferred": inferred,
         "classes": classes,
@@ -164,6 +166,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         "level": parse.level(j.title, text),
         "source": j.source,
         "detail_at": today.isoformat() if text else None,
+        "v": PARSER_VERSION,
     }
 
 
@@ -219,8 +222,8 @@ def main(argv=None):
         for pid, p in found.items():
             out[pid] = p
         for p in prev.values():
-            if p["company"] != name or p["id"] in found:
-                continue
+            if p["company"] != name or p["id"] in found or p["id"] in rejected:
+                continue                  # rejected = no longer matches the filters: drop it
             p = dict(p)
             if p["source"] in ok_kinds and p["status"] == "open":
                 p["misses"] = p.get("misses", 0) + 1

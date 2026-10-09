@@ -267,9 +267,9 @@ companies:
     type: Private Bank & Trust
     focus: wealth
     hq: New York, NY
-    careers: https://www.bessemertrust.com/careers
+    careers: https://www.bessemertrust.com/intern-with-us
     sources:
-      - page: {url: "https://www.bessemertrust.com/careers"}
+      - page: {url: "https://www.bessemertrust.com/intern-with-us"}
 
   - name: Glenmede
     type: Private Bank & Trust
@@ -713,13 +713,6 @@ companies:
     sources:
       - page: {url: "https://www.silvercrestgroup.com/careers/"}
 
-  - name: Manning & Napier
-    type: Independent RIA
-    focus: wealth
-    hq: Rochester, NY
-    careers: https://www.manning-napier.com/careers
-    sources:
-      - page: {url: "https://www.manning-napier.com/careers"}
 
   # -------------------------------------------------- Insurance & financial planning
   - name: Northwestern Mutual
@@ -977,14 +970,6 @@ companies:
       - ashby: {board: range}
     verified: true
 
-  - name: Robinhood
-    type: Wealthtech
-    focus: mixed
-    hq: Menlo Park, CA
-    careers: https://careers.robinhood.com/
-    sources:
-      - greenhouse: {board: robinhood}
-    verified: true
 
   - name: Wealthfront
     type: Wealthtech

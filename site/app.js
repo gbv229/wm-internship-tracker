@@ -21,12 +21,12 @@
 
   const state = {
     postings: [], firms: [], run: null,
-    cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate",
+    cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", region: "US", area: "",
     sort: "deadline", dir: 1, open: new Set(),
   };
 
   // ---------------------------------------------------------- url state
-  const KEYS = ["cls", "q", "season", "type", "status", "level", "sort", "dir"];
+  const KEYS = ["cls", "q", "season", "type", "status", "level", "region", "area", "sort", "dir"];
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     KEYS.forEach((k) => { if (p.has(k)) state[k] = k === "dir" ? +p.get(k) : p.get(k); });
@@ -97,10 +97,13 @@
     if (![...$("#f-season").options].some((o) => o.value === state.season)) state.season = "upcoming";
 
     const types = [...new Set(state.firms.map((f) => f.type).concat(state.postings.map((p) => p.company_type)))].filter(Boolean).sort();
+    const areas = [...new Set(state.postings.map((p) => p.function).filter(Boolean))].sort();
+    $("#f-area").insertAdjacentHTML("beforeend", areas.map((a) => `<option>${esc(a)}</option>`).join(""));
     for (const id of ["#f-type", "#ff-type"]) $(id).insertAdjacentHTML("beforeend", types.map((t) => `<option>${esc(t)}</option>`).join(""));
 
     const bind = (id, key, ev = "change") => { const el = $(id); el.value = state[key]; el.addEventListener(ev, () => { state[key] = el.value; update(); }); };
     bind("#f-q", "q", "input"); bind("#f-season", "season"); bind("#f-type", "type"); bind("#f-status", "status"); bind("#f-level", "level");
+    bind("#f-region", "region"); bind("#f-area", "area");
     const un = $("#f-unstated"); un.checked = state.unstated; un.addEventListener("change", () => { state.unstated = un.checked; update(); });
 
     document.querySelectorAll("th button[data-sort]").forEach((b) => b.addEventListener("click", () => {
@@ -110,7 +113,8 @@
     }));
     $("#reset").addEventListener("click", () => {
       Object.assign(state, { cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", sort: "deadline", dir: 1 });
-      ["q", "season", "type", "status", "level"].forEach((k) => ($("#f-" + k).value = state[k]));
+      state.region = "US"; state.area = "";
+      ["q", "season", "type", "status", "level", "region", "area"].forEach((k) => ($("#f-" + k).value = state[k]));
       un.checked = true;
       seg.querySelectorAll("button").forEach((x) => x.setAttribute("aria-checked", x.dataset.v === state.cls));
       update();
@@ -164,6 +168,8 @@
       if (state.status === "closed" && p._status !== "closed") return false;
       if (state.level && p.level !== state.level) return false;
       if (state.type && p.company_type !== state.type) return false;
+      if (state.area && p.function !== state.area) return false;
+      if (state.region === "US" ? !(p.region === "US" || !p.region) : state.region && p.region !== state.region) return false;
       if (state.season === "upcoming") { if (p.season && seasonKey(p.season) < nowKey) return false; }
       else if (state.season === "unknown") { if (p.season) return false; }
       else if (state.season !== "all" && p.season !== state.season) return false;
@@ -259,7 +265,7 @@
 
   function renderClosing() {
     const soon = state.postings
-      .filter((p) => p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate")
+      .filter((p) => p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && (p.region === "US" || !p.region))
       .sort((a, b) => a._dl - b._dl).slice(0, 5);
     const ol = $("#closing-list");
     if (!soon.length) {
@@ -288,9 +294,10 @@
   }
 
   // -------------------------------------------------------------- firms
+  const blocked = (s) => s.kind === "page" && /\b(403|401|429)\b/.test(s.error || "");
   function firmMode(f) {
     const srcs = f.sources || [];
-    if (srcs.some((s) => !s.ok)) return "error";
+    if (srcs.some((s) => !s.ok && !blocked(s))) return "error";
     return srcs.every((s) => s.kind === "page") ? "page" : "feed";
   }
   function renderFirms() {
@@ -303,8 +310,10 @@
     $("#firm-rows").innerHTML = list.map((f) => {
       const srcs = f.sources || [];
       const feeds = srcs.filter((s) => s.kind !== "page"), pages = srcs.filter((s) => s.kind === "page");
-      const errs = srcs.filter((s) => !s.ok);
+      const errs = srcs.filter((s) => !s.ok && !blocked(s));
+      const isBlocked = srcs.some(blocked);
       let mode = feeds.length ? `<span class="mode${errs.length ? " err" : ""}"><i></i>Live feed</span>` : `<span class="mode page${errs.length ? " err" : ""}"><i></i>Page watch</span>`;
+      if (isBlocked && !errs.length) mode += `<span class="role-meta">Site blocks automated checks — open the link</span>`;
       if (errs.length) mode += `<span class="err-msg">Couldn't reach ${errs.map((e) => e.kind).join(", ")}: ${esc((errs[0].error || "").slice(0, 120))}</span>`;
       const changed = pages.map((s) => s.changed_on).filter(Boolean).sort().pop();
       const links = pages.flatMap((s) => s.links || []).slice(0, 4);

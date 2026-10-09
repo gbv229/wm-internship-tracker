@@ -54,9 +54,8 @@ NOT_INTERN_RE = re.compile(
 WEALTH_RE = re.compile(
     r"(wealth|private bank|private client|private wealth|financial advis[eo]r|"
     r"financial planning|financial plann?er|client associate|advisor development|"
-    r"\bpwm\b|\bwm\b|\bawm\b|family office|trust (and|&) estate|fiduciary|"
-    r"high[- ]net[- ]worth|\bhnw\b|\buhnw\b|personal trust|investment advis|"
-    r"retirement plan|portfolio management|relationship manag)", re.I)
+    r"\bpwm\b|\bwm\b|\bawm\b|family office|trust (and|&) estate|trust management|"
+    r"high[- ]net[- ]worth|\bhnw\b|\buhnw\b|personal trust|investment advis)", re.I)
 MBA_RE = re.compile(r"\b(mba|summer associate|graduate (student|program)|master'?s student|ph\.?d)\b", re.I)
 
 
@@ -70,16 +69,66 @@ def is_internship(title: str, text_head: str = "") -> bool:
     return False
 
 
+# Strong signals used when reading a description (boilerplate like
+# "retirement plans" or "relationship" is too common to count there).
+WEALTH_STRONG_RE = re.compile(r"(wealth management|private bank|private wealth|private client|financial advis[eo]r|"
+                              r"wealth & investment|wealth and investment|global wealth|wealth division)", re.I)
+# Titles that clearly belong to another division or to pure tech roles
+OTHER_DIVISION_RE = re.compile(
+    r"(investment banking|corporate bank|commercial bank|global markets|sales (and|&) trading|\bmarkets\b|"
+    r"asset management|\bgam\b|quant|software|engineer|developer|data scien|cyber|\bit\b|technology|"
+    r"audit|accounting|tax\b|legal|human resources|\bhr\b|people partner|marketing|treasury|real estate|"
+    r"forestry|insurance|actuar|underwrit|lending|credit|research analyst|equity research|fraud|crypto)", re.I)
+
+
 def is_wealth(title: str, text: str, focus: str) -> bool:
+    t = title or ""
+    if WEALTH_RE.search(t):
+        return True
+    if OTHER_DIVISION_RE.search(t):
+        return False
     if focus == "wealth":
         return True
-    if WEALTH_RE.search(title or ""):
-        return True
-    head = (text or "")[:2500]
-    # A mixed firm counts when the opening of the posting is about wealth,
-    # e.g. a generic "Summer Analyst" title whose first paragraph says
-    # "Wealth Management Summer Analyst Program".
-    return len(WEALTH_RE.findall(head)) >= 2
+    # A generic title ("Summer Analyst", "Intern") at a big firm counts when
+    # the opening of the posting is about wealth management.
+    head = (text or "")[:1200]
+    return len(WEALTH_STRONG_RE.findall(head)) >= 2
+
+
+US_STATES = ("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND "
+             "OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC").split()
+US_STATE_NAMES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|"
+                  "idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|"
+                  "minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|"
+                  "new york|north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|"
+                  "south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|"
+                  "wisconsin|wyoming")
+CA_RE = re.compile(r"(,\s*(ON|BC|AB|QC|NS|NB|MB|SK|PE|NL)\b|\bcanada\b|toronto|vancouver|montreal|calgary|ottawa|halifax)", re.I)
+INTL_RE = re.compile(
+    r"(london|united kingdom|\buk\b|dublin|ireland|paris|france|frankfurt|germany|luxembourg|geneva|zurich|zürich|"
+    r"switzerland|milan|milano|italy|madrid|spain|amsterdam|netherlands|brussels|singapore|hong kong|tokyo|japan|"
+    r"sydney|australia|india|mumbai|bengaluru|bangalore|dubai|uae|abu dhabi|riyadh|saudi|mexico|são paulo|"
+    r"sao paulo|brazil|buenos aires|chile|colombia|warsaw|poland|budapest|prague|stockholm|monaco|jersey channel|"
+    r"emea|apac|latam(?! .*usa)|bahrain|qatar|doha|shanghai|beijing|china|taipei|seoul|korea|manila|"
+    r"kuala lumpur|bertrange|glasgow|edinburgh|birmingham, uk)", re.I)
+
+
+def region(location: str, title: str = "") -> str:
+    """US / Canada / International / '' (unknown)."""
+    loc = location or ""
+    s = f"{loc} {title or ''}"
+    if re.search(r"(?i)united states|\busa\b|\bu\.s\.", s):
+        return "US"
+    if re.search(r",\s*(" + "|".join(US_STATES) + r")\b", loc) or re.search(r"(?i)\b(" + US_STATE_NAMES + r")\b", loc):
+        return "US"
+    if CA_RE.search(s):
+        return "Canada"
+    if INTL_RE.search(s):
+        return "International"
+    if re.search(r"(?i)\b(new york|chicago|boston|charlotte|philadelphia|dallas|houston|miami|atlanta|san francisco|"
+                 r"los angeles|denver|seattle|pittsburgh|baltimore|st\.? louis|minneapolis|nashville|remote - us)\b", s):
+        return "US"
+    return ""
 
 
 def level(title: str, text: str) -> str:
@@ -120,6 +169,10 @@ def season(title: str, text: str, posted: date | None) -> tuple[str | None, bool
         m = re.search(r"(20\d\d)[\s|,/-]+(?:[\w&|,/ -]{0,80}?\b)?" + SEASON_WORD, src, re.I)
         if m and src is title:
             return f"{_season_name(m.group(2))} {m.group(1)}", False
+    # "Winter Co-op 2027": a few words between season and year, title only
+    m = re.search(SEASON_WORD + r"(?:[\s-]+[A-Za-z&/-]+){1,3}[\s,/-]+(20\d\d)\b", title or "", re.I)
+    if m:
+        return f"{_season_name(m.group(1))} {m.group(2)}", False
     # "2027 Summer Analyst" style where the year and season are far apart
     ty = re.search(r"\b(20\d\d)\b", title or "")
     if ty and re.search(r"(?i)summer|analyst program|internship program", title or ""):
