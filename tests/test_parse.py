@@ -115,3 +115,14 @@ def test_real_estate_track():
     assert tf("Real Estate Intern", "", "wealth", ["wealth"]) == []
     assert parse.function("Capital Markets Intern", "real_estate") == "Capital Markets / Investment Sales"
     assert parse.function("Leasing Intern", "real_estate") == "Leasing / Brokerage"
+
+
+def test_noise_filters():
+    tf = parse.tracks_for
+    assert tf("Multifamily Software Development Intern – Summer 2027", "", "mixed", ["real_estate"]) == []
+    assert tf("Summer 2027 Technology Intern - Irvine, CA", "", "real_estate", ["real_estate"]) == []
+    assert tf("Internship – Conference Services (Year-Round)", "", "wealth", ["wealth"]) == []
+    assert tf("Internship 2027 - Social Media", "", "wealth", ["wealth"]) == []
+    assert tf("Internship – Private Wealth Management (Dayton, OH Summer 2027)", "", "wealth", ["wealth"]) == ["wealth"]
+    t = "This externship prepares you for our Summer 2028 internship."
+    assert parse.season("PGIM: 2027 Real Estate, Sophomore Externship Program", t, date(2026, 10, 1))[0] != "Summer 2028"

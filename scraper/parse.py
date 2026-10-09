@@ -81,7 +81,10 @@ OTHER_DIVISION_RE = re.compile(
     r"audit|accounting|tax\b|legal|human resources|\bhr\b|people partner|marketing|treasury|real estate|"
     r"forestry|insurance|actuar|underwrit|lending|credit|research analyst|equity research|fraud|crypto|"
     r"financial institutions|institutional|restructuring|\bm&a\b|mergers|capital markets|leveraged|"
-    r"private equity|asset servicing|custody|fund services|chief operations|corporate finance)", re.I)
+    r"private equity|asset servicing|custody|fund services|chief operations|corporate finance|"
+    r"social media|communications|conference|hospitality|event|sustainab|model risk|third-party risk|"
+    r"operational risk|enterprise risk|facilities|procurement|graphic|creative|design|talent|"
+    r"\bai\b|machine learning)", re.I)
 
 
 def is_wealth(title: str, text: str, focus: str) -> bool:
@@ -113,18 +116,20 @@ RE_OTHER_RE = re.compile(
     r"people (partner|team)|talent acquisition|recruit|legal|paralegal|audit|tax\b|graphic design|"
     r"marketing|social media|communications|maintenance|technician|hvac|janitor|custodial|housekeep|"
     r"porter|groundskeep|security officer|electrician|plumb|mechanic|culinary|cook|"
-    r"front desk|concierge|call center|customer service|payroll|benefits)", re.I)
+    r"front desk|concierge|call center|customer service|payroll|benefits|technology intern|\bai\b|"
+    r"machine learning|computer science|information services|digital product|product analy|"
+    r"interior design|architecture|\bdesign\b)", re.I)
 
 
 def is_real_estate(title: str, text: str, focus: str) -> bool:
     t = title or ""
+    if RE_OTHER_RE.search(t):
+        return False
     if focus == "real_estate":
-        if RE_OTHER_RE.search(t):
-            return False
         return True
     if RE_STRICT_TITLE_RE.search(t):
         return True
-    if RE_OTHER_RE.search(t) or WEALTH_RE.search(t):
+    if WEALTH_RE.search(t):
         return False
     head = (text or "")[:1200]
     return bool(re.search(r"(?i)\b(summer analyst|intern|internship)\b", t)) and len(RE_STRONG_RE.findall(head)) >= 2 \
@@ -227,8 +232,11 @@ def season(title: str, text: str, posted: date | None) -> tuple[str | None, bool
     # graduation sentences ("graduating between December 2027 and Summer 2028")
     # describe the student, not the program, so they're left out here
     body = " ".join(x for x in sentences((text or "")[:4000]) if not GRAD_CONTEXT.search(x))
+    title_year = re.search(r"\b(20\d\d)\b", title or "")
     for src in (title or "", body):
         m = re.search(SEASON_WORD + r"[\s,/-]*(?:of\s+)?(20\d\d)", src, re.I)
+        if m and src is body and title_year and m.group(2) != title_year.group(1):
+            m = None  # e.g. a 2027 externship mentioning the "Summer 2028 internship" it leads to
         if m:
             return f"{_season_name(m.group(1))} {m.group(2)}", False
         m = re.search(r"(20\d\d)[\s|,/-]+(?:[\w&|,/ -]{0,80}?\b)?" + SEASON_WORD, src, re.I)

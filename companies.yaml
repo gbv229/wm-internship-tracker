@@ -773,7 +773,6 @@ companies:
   - name: Prudential Financial
     type: Insurance & Planning
     focus: mixed
-    tracks: [wealth, real_estate]
     hq: Newark, NJ
     careers: https://pru.wd5.myworkdayjobs.com/Careers
     sources:

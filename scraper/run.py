@@ -29,7 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 4       # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 5       # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -225,6 +225,8 @@ def main(argv=None):
             seen[k] = today.isoformat()
         ok_kinds = {x["kind"] for x in st["sources"] if x["ok"]}
         for pid, p in found.items():
+            if pid in out and out[pid]["company"] != name:
+                continue                  # same posting reached through two firms' feeds: keep one
             out[pid] = p
         for p in prev.values():
             if p["company"] != name or p["id"] in found or p["id"] in rejected:
