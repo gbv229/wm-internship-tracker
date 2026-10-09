@@ -71,7 +71,7 @@ def workday(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     jobs: dict[str, Job] = {}
     for term in SEARCH_TERMS:
         offset = 0
-        while offset < 400:
+        while offset < 5000:  # stops early when the results run out
             r = s.post(f"{api}/jobs", json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": term},
                        timeout=TIMEOUT, headers={"Content-Type": "application/json"})
             r.raise_for_status()
@@ -112,7 +112,7 @@ def oracle(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     jobs: dict[str, Job] = {}
     for term in ["intern", "summer analyst", "internship", "sophomore"]:
         offset = 0
-        while offset < 400:
+        while offset < 5000:  # stops early when the results run out
             finder = (f'findReqs;siteNumber={site},keyword="{term}",limit=50,offset={offset},'
                       f"sortBy=POSTING_DATES_DESC")
             r = s.get(f"{base}/recruitingCEJobRequisitions",
@@ -216,7 +216,7 @@ def icims(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     host = cfg["host"]
     jobs: dict[str, Job] = {}
     for term in ["intern", "summer", "internship"]:
-        for page in range(0, 10):
+        for page in range(0, 100):  # stops early when the results run out
             r = s.get(f"https://{host}/jobs/search",
                       params={"ss": "1", "searchKeyword": term, "in_iframe": "1", "pr": page}, timeout=TIMEOUT)
             r.raise_for_status()
