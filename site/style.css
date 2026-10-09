@@ -44,6 +44,17 @@ a { color: var(--ink); text-underline-offset: 2px; }
 .skip { position: absolute; left: -999px; }
 .skip:focus { left: 12px; top: 12px; background: var(--surface); padding: 8px 12px; z-index: 10; }
 
+/* ----------------------------------------------------------- trackbar */
+.trackbar { border-bottom: 1px solid var(--rule); background: var(--surface); }
+.track-switch { display: flex; gap: 2px; }
+.track-switch button {
+  appearance: none; border: 0; background: none; cursor: pointer; font: inherit; font-weight: 650; font-size: 15px;
+  color: var(--muted); padding: 14px 14px 12px; border-bottom: 3px solid transparent; margin-bottom: -1px;
+}
+.track-switch button:first-child { padding-left: 0; }
+.track-switch button[aria-checked="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+.track-switch button:hover { color: var(--ink); }
+
 /* ------------------------------------------------------------ masthead */
 .masthead { padding: 48px 0 28px; }
 .masthead h1 {
@@ -76,7 +87,7 @@ a { color: var(--ink); text-underline-offset: 2px; }
 .c-left { display: block; font-size: 13px; margin-top: 6px; opacity: .8; }
 .c-firm { display: block; margin-top: 8px; font-weight: 600; }
 .c-role { display: block; font-size: 13px; opacity: .8; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.closing-empty { opacity: .85; max-width: 60ch; }
+.closing-list li.closing-empty { opacity: .85; max-width: 60ch; border-right: 0; grid-column: 1 / -1; }
 
 /* -------------------------------------------------------------- tabs */
 .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--rule); margin: 28px 0 0; overflow-x: auto; }

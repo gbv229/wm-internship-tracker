@@ -96,3 +96,22 @@ def test_extras():
     assert parse.relative_posted("Posted 3 Days Ago", TODAY) == date(2026, 10, 5)
     assert parse.relative_posted("Posted 30+ Days Ago", TODAY) == date(2026, 9, 8)
     assert parse.level("Summer Associate - Wealth (MBA)", "") == "Graduate/MBA"
+
+
+def test_real_estate_track():
+    tf = parse.tracks_for
+    # real estate firm: any internship except non-RE support roles
+    assert tf("Capital Markets Summer Intern", "", "real_estate", ["real_estate"]) == ["real_estate"]
+    assert tf("2027 Summer Analyst - Acquisitions", "", "real_estate", ["real_estate"]) == ["real_estate"]
+    assert tf("Software Engineering Intern", "", "real_estate", ["real_estate"]) == []
+    assert tf("Maintenance Technician Intern", "", "real_estate", ["real_estate"]) == []
+    # bank with both tracks
+    both = ["wealth", "real_estate"]
+    assert tf("2027 Commercial Real Estate Summer Analyst", "", "mixed", both) == ["real_estate"]
+    assert tf("2027 Private Bank Summer Analyst", "", "mixed", both) == ["wealth"]
+    assert tf("2027 Investment Banking Summer Analyst", "Real estate. Real estate investment.", "mixed", both) == []
+    assert tf("Summer Analyst", "Join our Commercial Real Estate group. Commercial Real Estate lending is", "mixed", both) == ["real_estate"]
+    # wealth-only firm never gets real estate
+    assert tf("Real Estate Intern", "", "wealth", ["wealth"]) == []
+    assert parse.function("Capital Markets Intern", "real_estate") == "Capital Markets / Investment Sales"
+    assert parse.function("Leasing Intern", "real_estate") == "Leasing / Brokerage"

@@ -1,7 +1,11 @@
 # Companies tracked by the scraper.
 #
+# tracks: which sections of the site a firm appears in: [wealth], [real_estate], or both.
+#   Defaults to [wealth].
+#
 # focus:
-#   wealth -> the whole firm is wealth/advisory focused: every internship counts
+#   wealth / real_estate -> the whole firm is in that business: every internship counts
+#     (except clearly unrelated roles like software, HR or maintenance)
 #   mixed  -> big firm with many divisions: only roles that mention wealth,
 #             private banking, private client, financial advisor, etc. count
 #
@@ -25,6 +29,7 @@ companies:
   - name: Morgan Stanley
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://www.morganstanley.com/people-opportunities/students-graduates
     sources:
@@ -34,6 +39,7 @@ companies:
   - name: Goldman Sachs
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://higher.gs.com/campus
     sources:
@@ -42,6 +48,7 @@ companies:
   - name: J.P. Morgan
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://careers.jpmorgan.com/us/en/students/programs
     sources:
@@ -51,6 +58,7 @@ companies:
   - name: Bank of America / Merrill
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Charlotte, NC
     careers: https://campus.bankofamerica.com/
     sources:
@@ -61,6 +69,7 @@ companies:
   - name: Wells Fargo
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: San Francisco, CA
     careers: https://www.wellsfargojobs.com/en/early-careers/
     sources:
@@ -70,6 +79,7 @@ companies:
   - name: Citi (incl. Citi Private Bank)
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://jobs.citi.com/students-and-graduates
     sources:
@@ -105,6 +115,7 @@ companies:
   - name: RBC (incl. RBC Wealth Mgmt & City National)
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Toronto / Minneapolis
     careers: https://jobs.rbc.com/ca/en/students-and-graduates
     sources:
@@ -116,6 +127,7 @@ companies:
   - name: TD (incl. TD Wealth)
     type: Global Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Toronto / Cherry Hill, NJ
     careers: https://jobs.td.com/en-CA/students-and-new-grads/
     sources:
@@ -169,6 +181,7 @@ companies:
   - name: Jefferies (Private Wealth)
     type: Investment Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://www.jefferies.com/careers/
     sources:
@@ -299,6 +312,7 @@ companies:
   - name: PNC (PNC Private Bank)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Pittsburgh, PA
     careers: https://careers.pnc.com/global/en/students
     sources:
@@ -308,6 +322,7 @@ companies:
   - name: Truist (Truist Wealth)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Charlotte, NC
     careers: https://careers.truist.com/
     sources:
@@ -317,6 +332,7 @@ companies:
   - name: U.S. Bank (Private Wealth)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Minneapolis, MN
     careers: https://careers.usbank.com/
     sources:
@@ -326,6 +342,7 @@ companies:
   - name: M&T Bank (Wealth)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Buffalo, NY
     careers: https://mtb.wd5.myworkdayjobs.com/Campus
     sources:
@@ -336,6 +353,7 @@ companies:
   - name: Citizens (Private Wealth)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Providence, RI
     careers: https://jobs.citizensbank.com/
     sources:
@@ -345,15 +363,17 @@ companies:
   - name: Fifth Third (Wealth)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Cincinnati, OH
     careers: https://fifththird.wd5.myworkdayjobs.com/53careers
     sources:
       - workday: {host: fifththird.wd5.myworkdayjobs.com, tenant: fifththird, site: 53careers}
     verified: true
 
-  - name: KeyBank (Key Private Bank)
+  - name: KeyBank
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Cleveland, OH
     careers: https://keybank.wd5.myworkdayjobs.com/External_Career_Site
     sources:
@@ -363,6 +383,7 @@ companies:
   - name: Huntington (Private Bank)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Columbus, OH
     careers: https://huntington.wd12.myworkdayjobs.com/HNBcareers
     sources:
@@ -372,6 +393,7 @@ companies:
   - name: Regions (Private Wealth)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Birmingham, AL
     careers: https://regions.wd5.myworkdayjobs.com/regions_careers
     sources:
@@ -399,6 +421,7 @@ companies:
   - name: Fulton Bank (Fulton Private Bank)
     type: Regional Bank
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Lancaster, PA
     careers: https://www.fultonbank.com/About-Fulton-Bank/Careers
     sources:
@@ -718,6 +741,7 @@ companies:
   - name: Northwestern Mutual
     type: Insurance & Planning
     focus: wealth
+    tracks: [wealth, real_estate]
     hq: Milwaukee, WI
     careers: https://www.northwesternmutual.com/careers/
     sources:
@@ -728,6 +752,7 @@ companies:
   - name: MassMutual
     type: Insurance & Planning
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Springfield, MA
     careers: https://massmutual.wd1.myworkdayjobs.com/MMCareers
     sources:
@@ -746,6 +771,7 @@ companies:
   - name: Prudential Financial
     type: Insurance & Planning
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Newark, NJ
     careers: https://pru.wd5.myworkdayjobs.com/Careers
     sources:
@@ -799,6 +825,7 @@ companies:
   - name: Principal Financial Group
     type: Insurance & Planning
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Des Moines, IA
     careers: https://careers.principal.com/
     sources:
@@ -825,6 +852,7 @@ companies:
   - name: BlackRock
     type: Asset Manager
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://careers.blackrock.com/early-careers/
     sources:
@@ -872,6 +900,7 @@ companies:
   - name: Invesco
     type: Asset Manager
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: Atlanta, GA
     careers: https://invesco.wd1.myworkdayjobs.com/IVZearlycareers
     sources:
@@ -918,6 +947,7 @@ companies:
   - name: TIAA / Nuveen
     type: Asset Manager
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://tiaa.wd1.myworkdayjobs.com/Search
     sources:
@@ -933,9 +963,10 @@ companies:
       - workday: {host: pimco.wd1.myworkdayjobs.com, tenant: pimco, site: pimco-careers}
     verified: true
 
-  - name: Blackstone (Private Wealth Solutions)
+  - name: Blackstone
     type: Asset Manager
     focus: mixed
+    tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers
     sources:
@@ -1002,3 +1033,961 @@ companies:
     careers: https://www.farther.com/careers
     sources:
       - page: {url: "https://www.farther.com/careers"}
+
+  # ================================================== added: real estate + more wealth
+  - name: CBRE
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Dallas, TX
+    careers: https://careers.cbre.com/en_US/careers
+    sources:
+      - page: {url: "https://careers.cbre.com/en_US/careers"}
+
+  - name: JLL
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Chicago, IL
+    careers: https://www.us.jll.com/en/careers
+    sources:
+      - workday: {host: jll.wd1.myworkdayjobs.com, tenant: jll, site: jllcareers}
+    verified: true
+
+  - name: Cushman & Wakefield
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Chicago, IL
+    careers: https://www.cushmanwakefield.com/en/united-states/careers
+    sources:
+      - workday: {host: cw.wd1.myworkdayjobs.com, tenant: cw, site: external}
+    verified: true
+
+  - name: Colliers
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Toronto / Seattle
+    careers: https://www.colliers.com/en/careers
+    sources:
+      - workday: {host: colliers.wd3.myworkdayjobs.com, tenant: colliers, site: Colliers-External-Career-Site}
+    verified: true
+
+  - name: Newmark
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.nmrk.com/careers
+    sources:
+      - oracle: {host: hdow.fa.us6.oraclecloud.com, site: CX_1001}
+    verified: true
+
+  - name: Avison Young
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Toronto / Chicago
+    careers: https://www.avisonyoung.us/careers
+    sources:
+      - icims: {host: canada-english-avisonyoung.icims.com}
+      - page: {url: "https://www.avisonyoung.us/careers"}
+    verified: true
+
+  - name: Marcus & Millichap
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Calabasas, CA
+    careers: https://www.marcusmillichap.com/careers
+    sources:
+      - page: {url: "https://www.marcusmillichap.com/careers"}
+
+  - name: Eastdil Secured
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.eastdilsecured.com/careers
+    sources:
+      - page: {url: "https://www.eastdilsecured.com/careers"}
+
+  - name: Savills
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: London / New York
+    careers: https://www.savills.us/careers/
+    sources:
+      - page: {url: "https://www.savills.us/careers/"}
+
+  - name: Kidder Mathews
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Seattle, WA
+    careers: https://kidder.com/careers/
+    sources:
+      - page: {url: "https://kidder.com/careers/"}
+
+  - name: Lee & Associates
+    type: CRE Services & Brokerage
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Los Angeles, CA
+    careers: https://www.lee-associates.com/careers/
+    sources:
+      - page: {url: "https://www.lee-associates.com/careers/"}
+
+  - name: Altus Group (ARGUS)
+    type: RE Data & Tech
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Toronto / New York
+    careers: https://www.altusgroup.com/careers/
+    sources:
+      - page: {url: "https://www.altusgroup.com/careers/"}
+
+  - name: CoStar Group
+    type: RE Data & Tech
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Arlington, VA
+    careers: https://www.costargroup.com/careers
+    sources:
+      - workday: {host: costar.wd1.myworkdayjobs.com, tenant: costar, site: Costar_Campus}
+      - workday: {host: costar.wd1.myworkdayjobs.com, tenant: costar, site: CoStarCareers}
+    verified: true
+
+  - name: Trepp
+    type: RE Data & Tech
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.trepp.com/careers
+    sources:
+      - page: {url: "https://www.trepp.com/careers"}
+
+  - name: Walker & Dunlop
+    type: CRE Finance & Lending
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Bethesda, MD
+    careers: https://www.walkerdunlop.com/careers/
+    sources:
+      - workday: {host: walkerdunlop.wd1.myworkdayjobs.com, tenant: walkerdunlop, site: WD}
+    verified: true
+
+  - name: Berkadia
+    type: CRE Finance & Lending
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.berkadia.com/careers/
+    sources:
+      - page: {url: "https://www.berkadia.com/careers/"}
+
+  - name: Greystone
+    type: CRE Finance & Lending
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.greystone.com/careers/
+    sources:
+      - page: {url: "https://www.greystone.com/careers/"}
+
+  - name: Northmarq
+    type: CRE Finance & Lending
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Minneapolis, MN
+    careers: https://www.northmarq.com/careers
+    sources:
+      - page: {url: "https://www.northmarq.com/careers"}
+
+  - name: Trimont
+    type: CRE Finance & Lending
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Atlanta, GA
+    careers: https://www.trimont.com/careers/
+    sources:
+      - page: {url: "https://www.trimont.com/careers/"}
+
+  - name: Arbor Realty Trust
+    type: CRE Finance & Lending
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Uniondale, NY
+    careers: https://arbor.com/careers/
+    sources:
+      - page: {url: "https://arbor.com/careers/"}
+
+  - name: Ladder Capital
+    type: CRE Finance & Lending
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.laddercapital.com/careers
+    sources:
+      - page: {url: "https://www.laddercapital.com/careers"}
+
+  - name: Fannie Mae (Multifamily)
+    type: CRE Finance & Lending
+    focus: mixed
+    tracks: [real_estate]
+    hq: Washington, DC
+    careers: https://www.fanniemae.com/careers
+    sources:
+      - workday: {host: fanniemae.wd1.myworkdayjobs.com, tenant: fanniemae, site: FannieMaeCareers}
+    verified: true
+
+  - name: Freddie Mac (Multifamily)
+    type: CRE Finance & Lending
+    focus: mixed
+    tracks: [real_estate]
+    hq: McLean, VA
+    careers: https://careers.freddiemac.com/
+    sources:
+      - workday: {host: freddiemac.wd5.myworkdayjobs.com, tenant: freddiemac, site: External}
+    verified: true
+
+  - name: Capital One (Commercial Real Estate)
+    type: CRE Finance & Lending
+    focus: mixed
+    tracks: [real_estate]
+    hq: McLean, VA
+    careers: https://www.capitalonecareers.com/
+    sources:
+      - workday: {host: capitalone.wd12.myworkdayjobs.com, tenant: capitalone, site: Capital_One}
+    verified: true
+
+  - name: First American
+    type: CRE Finance & Lending
+    focus: mixed
+    tracks: [real_estate]
+    hq: Santa Ana, CA
+    careers: https://careers.firstam.com/
+    sources:
+      - workday: {host: firstam.wd1.myworkdayjobs.com, tenant: firstam, site: firstamericancareers}
+    verified: true
+
+  - name: Brookfield
+    type: RE Investment Manager
+    focus: mixed
+    tracks: [real_estate]
+    hq: New York / Toronto
+    careers: https://www.brookfield.com/careers
+    sources:
+      - workday: {host: brookfield.wd5.myworkdayjobs.com, tenant: brookfield, site: brookfield}
+    verified: true
+
+  - name: PGIM Real Estate
+    type: RE Investment Manager
+    focus: mixed
+    tracks: [real_estate]
+    hq: Newark, NJ
+    careers: https://www.pgim.com/careers
+    sources:
+      - workday: {host: pru.wd5.myworkdayjobs.com, tenant: pru, site: pgim_careers}
+    verified: true
+
+  - name: Ares Management (Real Estate)
+    type: RE Investment Manager
+    focus: mixed
+    tracks: [real_estate]
+    hq: Los Angeles / New York
+    careers: https://www.aresmgmt.com/careers
+    sources:
+      - workday: {host: aresmgmt.wd1.myworkdayjobs.com, tenant: aresmgmt, site: External}
+    verified: true
+
+  - name: Apollo (Real Estate)
+    type: RE Investment Manager
+    focus: mixed
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.apollo.com/careers
+    sources:
+      - workday: {host: athene.wd5.myworkdayjobs.com, tenant: athene, site: Apollo_Careers}
+    verified: true
+
+  - name: KKR (Real Estate)
+    type: RE Investment Manager
+    focus: mixed
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.kkr.com/careers
+    sources:
+      - page: {url: "https://www.kkr.com/careers"}
+
+  - name: Starwood Capital Group
+    type: RE Investment Manager
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Miami Beach, FL
+    careers: https://www.starwoodcapital.com/careers/
+    sources:
+      - page: {url: "https://www.starwoodcapital.com/careers/"}
+
+  - name: Clarion Partners
+    type: RE Investment Manager
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.clarionpartners.com/careers
+    sources:
+      - page: {url: "https://www.clarionpartners.com/careers"}
+
+  - name: Heitman
+    type: RE Investment Manager
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Chicago, IL
+    careers: https://www.heitman.com/careers/
+    sources:
+      - page: {url: "https://www.heitman.com/careers/"}
+
+  - name: Harrison Street
+    type: RE Investment Manager
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Chicago, IL
+    careers: https://www.harrisonst.com/careers
+    sources:
+      - page: {url: "https://www.harrisonst.com/careers"}
+
+  - name: Bridge Investment Group
+    type: RE Investment Manager
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Salt Lake City, UT
+    careers: https://www.bridgeig.com/careers
+    sources:
+      - page: {url: "https://www.bridgeig.com/careers"}
+
+  - name: Crow Holdings
+    type: RE Investment Manager
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Dallas, TX
+    careers: https://www.crowholdings.com/careers/
+    sources:
+      - page: {url: "https://www.crowholdings.com/careers/"}
+
+  - name: Link Logistics
+    type: RE Investment Manager
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.linklogistics.com/careers/
+    sources:
+      - workday: {host: linklogistics.wd5.myworkdayjobs.com, tenant: linklogistics, site: Link}
+    verified: true
+
+  - name: Hines
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Houston, TX
+    careers: https://www.hines.com/careers
+    sources:
+      - page: {url: "https://www.hines.com/careers"}
+
+  - name: Tishman Speyer
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://tishmanspeyer.com/careers
+    sources:
+      - page: {url: "https://tishmanspeyer.com/careers"}
+
+  - name: Related Companies
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.related.com/careers
+    sources:
+      - page: {url: "https://www.related.com/careers"}
+
+  - name: Trammell Crow Company
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Dallas, TX
+    careers: https://www.trammellcrow.com/careers
+    sources:
+      - page: {url: "https://www.trammellcrow.com/careers"}
+
+  - name: Lincoln Property Company
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Dallas, TX
+    careers: https://www.lpc.com/careers/
+    sources:
+      - page: {url: "https://www.lpc.com/careers/"}
+
+  - name: Greystar
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Charleston, SC
+    careers: https://www.greystar.com/careers
+    sources:
+      - page: {url: "https://www.greystar.com/careers"}
+
+  - name: Cortland
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Atlanta, GA
+    careers: https://cortland.com/careers/
+    sources:
+      - greenhouse: {board: cortland}
+    verified: true
+
+  - name: Gables Residential
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Atlanta, GA
+    careers: https://gables.wd5.myworkdayjobs.com/Gables_Careers
+    sources:
+      - workday: {host: gables.wd5.myworkdayjobs.com, tenant: gables, site: Gables_Careers}
+    verified: true
+
+  - name: Ryan Companies
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Minneapolis, MN
+    careers: https://www.ryancompanies.com/careers
+    sources:
+      - workday: {host: ryancompanies.wd5.myworkdayjobs.com, tenant: ryancompanies, site: ryancompanies}
+    verified: true
+
+  - name: JBG SMITH
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Bethesda, MD
+    careers: https://www.jbgsmith.com/careers
+    sources:
+      - page: {url: "https://www.jbgsmith.com/careers"}
+
+  - name: RXR
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Uniondale, NY
+    careers: https://rxr.com/careers/
+    sources:
+      - page: {url: "https://rxr.com/careers/"}
+
+  - name: Silverstein Properties
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://silversteinproperties.com/careers/
+    sources:
+      - page: {url: "https://silversteinproperties.com/careers/"}
+
+  - name: Morgan Properties
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: King of Prussia, PA
+    careers: https://www.morgan-properties.com/careers
+    sources:
+      - page: {url: "https://www.morgan-properties.com/careers"}
+
+  - name: Conifer Realty
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Rochester, NY
+    careers: https://www.coniferllc.com/careers/
+    sources:
+      - page: {url: "https://www.coniferllc.com/careers/"}
+
+  - name: Invitation Homes
+    type: Developer & Operator
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Dallas, TX
+    careers: https://www.invh.com/careers
+    sources:
+      - workday: {host: invitationhomes.wd503.myworkdayjobs.com, tenant: invitationhomes, site: INVH}
+    verified: true
+
+  - name: Toll Brothers
+    type: Homebuilder
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Fort Washington, PA
+    careers: https://www.tollbrothers.com/careers
+    sources:
+      - page: {url: "https://www.tollbrothers.com/careers"}
+
+  - name: Lennar
+    type: Homebuilder
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Miami, FL
+    careers: https://www.lennar.com/careers
+    sources:
+      - workday: {host: lennar.wd1.myworkdayjobs.com, tenant: lennar, site: Lennar_Jobs}
+    verified: true
+
+  - name: PulteGroup
+    type: Homebuilder
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Atlanta, GA
+    careers: https://www.pultegroupcareers.com/
+    sources:
+      - workday: {host: pultegroup.wd1.myworkdayjobs.com, tenant: pultegroup, site: PGI}
+    verified: true
+
+  - name: D.R. Horton
+    type: Homebuilder
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Arlington, TX
+    careers: https://www.drhorton.com/careers
+    sources:
+      - page: {url: "https://www.drhorton.com/careers"}
+
+  - name: Prologis
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: San Francisco, CA
+    careers: https://www.prologis.com/careers
+    sources:
+      - page: {url: "https://www.prologis.com/careers"}
+
+  - name: Simon Property Group
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Indianapolis, IN
+    careers: https://careers.simon.com/
+    sources:
+      - workday: {host: simon.wd1.myworkdayjobs.com, tenant: simon, site: Simon}
+    verified: true
+
+  - name: BXP (Boston Properties)
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Boston, MA
+    careers: https://www.bxp.com/careers
+    sources:
+      - oracle: {host: edxn.fa.us2.oraclecloud.com, site: CX_5001}
+    verified: true
+
+  - name: Realty Income
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: San Diego, CA
+    careers: https://www.realtyincome.com/careers
+    sources:
+      - workday: {host: realtyincome.wd108.myworkdayjobs.com, tenant: realtyincome, site: realty_income_careers}
+    verified: true
+
+  - name: Digital Realty
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Austin, TX
+    careers: https://www.digitalrealty.com/careers
+    sources:
+      - oracle: {host: hdep.fa.us2.oraclecloud.com, site: CX}
+    verified: true
+
+  - name: Extra Space Storage
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Salt Lake City, UT
+    careers: https://careers.extraspace.com/
+    sources:
+      - workday: {host: extraspace.wd5.myworkdayjobs.com, tenant: extraspace, site: ESS_External}
+    verified: true
+
+  - name: Essex Property Trust
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: San Mateo, CA
+    careers: https://www.essexapartmenthomes.com/careers
+    sources:
+      - workday: {host: essex.wd5.myworkdayjobs.com, tenant: essex, site: essexcareers}
+    verified: true
+
+  - name: Rexford Industrial
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Los Angeles, CA
+    careers: https://www.rexfordindustrial.com/careers
+    sources:
+      - greenhouse: {board: rexfordindustrial}
+    verified: true
+
+  - name: Hudson Pacific Properties
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Los Angeles, CA
+    careers: https://www.hudsonpacificproperties.com/careers
+    sources:
+      - ashby: {board: hudson-pacific-properties}
+    verified: true
+
+  - name: Equity Residential
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Chicago, IL
+    careers: https://www.equityapartments.com/careers
+    sources:
+      - page: {url: "https://www.equityapartments.com/careers"}
+
+  - name: AvalonBay
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Arlington, VA
+    careers: https://www.avaloncommunities.com/careers
+    sources:
+      - page: {url: "https://www.avaloncommunities.com/careers"}
+
+  - name: Vornado Realty Trust
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.vno.com/careers
+    sources:
+      - page: {url: "https://www.vno.com/careers"}
+
+  - name: SL Green
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://slgreen.com/careers/
+    sources:
+      - page: {url: "https://slgreen.com/careers/"}
+
+  - name: Kimco Realty
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Jericho, NY
+    careers: https://www.kimcorealty.com/careers
+    sources:
+      - page: {url: "https://www.kimcorealty.com/careers"}
+
+  - name: Brixmor Property Group
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: New York, NY
+    careers: https://www.brixmor.com/careers
+    sources:
+      - page: {url: "https://www.brixmor.com/careers"}
+
+  - name: Federal Realty
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: North Bethesda, MD
+    careers: https://www.federalrealty.com/careers
+    sources:
+      - page: {url: "https://www.federalrealty.com/careers"}
+
+  - name: Brandywine Realty Trust
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Philadelphia, PA
+    careers: https://www.brandywinerealty.com/careers
+    sources:
+      - page: {url: "https://www.brandywinerealty.com/careers"}
+
+  - name: Welltower
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Toledo, OH
+    careers: https://welltower.com/careers/
+    sources:
+      - page: {url: "https://welltower.com/careers/"}
+
+  - name: Ventas
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Chicago, IL
+    careers: https://www.ventasreit.com/careers
+    sources:
+      - page: {url: "https://www.ventasreit.com/careers"}
+
+  - name: Public Storage
+    type: REIT
+    focus: real_estate
+    tracks: [real_estate]
+    hq: Glendale, CA
+    careers: https://www.publicstorage.com/careers
+    sources:
+      - page: {url: "https://www.publicstorage.com/careers"}
+
+  - name: American Century Investments
+    type: Asset Manager
+    focus: mixed
+    tracks: [wealth]
+    hq: Kansas City, MO
+    careers: https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments
+    sources:
+      - workday: {host: americancentury.wd5.myworkdayjobs.com, tenant: americancentury, site: AmericanCenturyInvestments}
+    verified: true
+
+  - name: Voya Financial
+    type: Insurance & Planning
+    focus: mixed
+    tracks: [wealth]
+    hq: New York, NY
+    careers: https://godirect.wd5.myworkdayjobs.com/voya_jobs
+    sources:
+      - workday: {host: godirect.wd5.myworkdayjobs.com, tenant: godirect, site: voya_jobs}
+    verified: true
+
+  - name: Corebridge Financial
+    type: Insurance & Planning
+    focus: mixed
+    tracks: [wealth]
+    hq: Houston, TX
+    careers: https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial
+    sources:
+      - workday: {host: corebridgefinancial.wd1.myworkdayjobs.com, tenant: corebridgefinancial, site: CorebridgeFinancial}
+    verified: true
+
+  - name: John Hancock (Manulife)
+    type: Insurance & Planning
+    focus: mixed
+    tracks: [wealth]
+    hq: Boston, MA
+    careers: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs
+    sources:
+      - workday: {host: manulife.wd3.myworkdayjobs.com, tenant: manulife, site: MFCJH_Jobs}
+    verified: true
+
+  - name: COUNTRY Financial
+    type: Insurance & Planning
+    focus: mixed
+    tracks: [wealth]
+    hq: Bloomington, IL
+    careers: https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships
+    sources:
+      - workday: {host: countryfinancial.wd5.myworkdayjobs.com, tenant: countryfinancial, site: COUNTRYCorporateInternships}
+    verified: true
+
+  - name: First Eagle Investments
+    type: Asset Manager
+    focus: mixed
+    tracks: [wealth]
+    hq: New York, NY
+    careers: https://fei.wd5.myworkdayjobs.com/External
+    sources:
+      - workday: {host: fei.wd5.myworkdayjobs.com, tenant: fei, site: External}
+    verified: true
+
+  - name: Wealth.com
+    type: Wealthtech
+    focus: wealth
+    tracks: [wealth]
+    hq: Los Angeles, CA
+    careers: https://jobs.ashbyhq.com/wealth-com
+    sources:
+      - ashby: {board: wealth-com}
+    verified: true
+
+  - name: Penn Mutual
+    type: Insurance & Planning
+    focus: mixed
+    tracks: [wealth]
+    hq: Malvern, PA
+    careers: https://www.pennmutual.com/careers
+    sources:
+      - page: {url: "https://www.pennmutual.com/careers"}
+
+  - name: Kestra Financial
+    type: Brokerage & Platform
+    focus: wealth
+    tracks: [wealth]
+    hq: Austin, TX
+    careers: https://www.kestrafinancial.com/careers
+    sources:
+      - page: {url: "https://www.kestrafinancial.com/careers"}
+
+  - name: Aspiriant
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Los Angeles, CA
+    careers: https://aspiriant.com/careers/
+    sources:
+      - page: {url: "https://aspiriant.com/careers/"}
+
+  - name: Pathstone
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Englewood, NJ
+    careers: https://pathstone.com/careers/
+    sources:
+      - page: {url: "https://pathstone.com/careers/"}
+
+  - name: Wealthspire Advisors
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: New York, NY
+    careers: https://www.wealthspire.com/careers/
+    sources:
+      - page: {url: "https://www.wealthspire.com/careers/"}
+
+  - name: Beacon Pointe Advisors
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Newport Beach, CA
+    careers: https://beaconpointe.com/careers/
+    sources:
+      - page: {url: "https://beaconpointe.com/careers/"}
+
+  - name: Buckingham Strategic Wealth
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: St. Louis, MO
+    careers: https://buckinghamstrategicwealth.com/careers/
+    sources:
+      - page: {url: "https://buckinghamstrategicwealth.com/careers/"}
+
+  - name: Moneta
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: St. Louis, MO
+    careers: https://moneta.com/careers/
+    sources:
+      - page: {url: "https://moneta.com/careers/"}
+
+  - name: Homrich Berg
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Atlanta, GA
+    careers: https://www.homrichberg.com/careers/
+    sources:
+      - page: {url: "https://www.homrichberg.com/careers/"}
+
+  - name: Kovitz
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Chicago, IL
+    careers: https://www.kovitz.com/careers/
+    sources:
+      - page: {url: "https://www.kovitz.com/careers/"}
+
+  - name: Sequoia Financial Group
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Akron, OH
+    careers: https://www.sequoia-financial.com/careers/
+    sources:
+      - page: {url: "https://www.sequoia-financial.com/careers/"}
+
+  - name: Hefren-Tillotson
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Pittsburgh, PA
+    careers: https://www.hefren.com/careers/
+    sources:
+      - page: {url: "https://www.hefren.com/careers/"}
+
+  - name: Haverford Trust
+    type: Private Bank & Trust
+    focus: wealth
+    tracks: [wealth]
+    hq: Radnor, PA
+    careers: https://haverfordtrust.com/careers/
+    sources:
+      - page: {url: "https://haverfordtrust.com/careers/"}
+
+  - name: Hirtle Callaghan
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Conshohocken, PA
+    careers: https://www.hirtlecallaghan.com/careers
+    sources:
+      - page: {url: "https://www.hirtlecallaghan.com/careers"}
+
+  - name: Bleakley Financial Group
+    type: Independent RIA
+    focus: wealth
+    tracks: [wealth]
+    hq: Fairfield, NJ
+    careers: https://www.bleakley.com/careers/
+    sources:
+      - page: {url: "https://www.bleakley.com/careers/"}
+
+  - name: Canandaigua National Bank (Wealth)
+    type: Regional Bank
+    focus: mixed
+    tracks: [wealth]
+    hq: Canandaigua, NY
+    careers: https://www.cnbank.com/careers
+    sources:
+      - page: {url: "https://www.cnbank.com/careers"}
+
+  - name: Tompkins Financial (Wealth)
+    type: Regional Bank
+    focus: mixed
+    tracks: [wealth]
+    hq: Ithaca, NY
+    careers: https://www.tompkinsfinancial.com/careers
+    sources:
+      - page: {url: "https://www.tompkinsfinancial.com/careers"}
+
+  - name: Comerica (Wealth)
+    type: Regional Bank
+    focus: mixed
+    tracks: [wealth]
+    hq: Dallas, TX
+    careers: https://www.comerica.com/about-us/careers.html
+    sources:
+      - page: {url: "https://www.comerica.com/about-us/careers.html"}
+
+  - name: Synovus (Wealth)
+    type: Regional Bank
+    focus: mixed
+    tracks: [wealth]
+    hq: Columbus, GA
+    careers: https://www.synovus.com/about-us/careers/
+    sources:
+      - page: {url: "https://www.synovus.com/about-us/careers/"}

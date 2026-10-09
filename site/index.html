@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>WM Internship Tracker</title>
-<meta name="description" content="Wealth management internships for college students at 100+ banks, private banks, brokerages and RIAs — deadlines, class-year eligibility and links, checked every 30 minutes.">
+<title>Internship Tracker</title>
+<meta name="description" content="Wealth management and real estate internships for college students at 200+ firms — deadlines, class-year eligibility and links, checked every 30 minutes.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
@@ -14,10 +14,18 @@
 <body>
 <a class="skip" href="#results">Skip to postings</a>
 
+<div class="trackbar">
+  <div class="wrap">
+    <div class="track-switch" role="radiogroup" aria-label="Field">
+      <button type="button" role="radio" data-track="wealth" aria-checked="true">Wealth management</button>
+      <button type="button" role="radio" data-track="real_estate" aria-checked="false">Real estate</button>
+    </div>
+  </div>
+</div>
 <header class="masthead">
   <div class="wrap">
-    <h1>Wealth management internships</h1>
-    <p class="lede">Internships at <span data-count="companies">100+</span> banks, private banks, brokerages, RIAs and wealthtech firms, pulled straight from their careers sites. Every role links to the employer's own posting.</p>
+    <h1 id="h1">Wealth management internships</h1>
+    <p class="lede" id="lede">Internships at <span data-count="companies">100+</span> banks, private banks, brokerages, RIAs and wealthtech firms, pulled straight from their careers sites. Every role links to the employer's own posting.</p>
     <p class="freshness" id="freshness" aria-live="polite">Loading…</p>
   </div>
 </header>
@@ -139,7 +147,8 @@
   <section role="tabpanel" id="panel-about" aria-labelledby="tab-about" hidden>
     <div class="prose">
       <h2>How it works</h2>
-      <p>Every 30 minutes a script reads the careers systems that 100+ firms use (Workday, Oracle, iCIMS, Greenhouse and others), keeps internships tied to wealth management, private banking and financial advising, and rebuilds this page.</p>
+      <p>Every 30 minutes a script reads the careers systems that 200+ firms use (Workday, Oracle, iCIMS, Greenhouse and others) and rebuilds this page. It keeps two lists: internships in wealth management, private banking and financial advising, and internships in real estate — brokerage and capital markets, acquisitions, development, REITs, lending and real estate investment. Switch between them at the top of the page.</p>
+      <p>At big banks and insurers, a role only counts when it's clearly in that field (for example "Commercial Real Estate Summer Analyst" or "Private Bank Summer Analyst"). At firms that are entirely in the field, every internship counts except unrelated ones like software, HR or maintenance.</p>
       <h3>What the columns mean</h3>
       <dl>
         <dt>Eligible</dt>

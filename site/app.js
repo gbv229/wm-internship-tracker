@@ -20,13 +20,22 @@
   const seasonKey = (s) => { if (!s) return 99999; const [n, y] = s.split(" "); return +y * 10 + (SEASON_ORDER[n] ?? 5); };
 
   const state = {
-    postings: [], firms: [], run: null,
+    postings: [], firms: [], run: null, track: "wealth",
     cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", region: "US", area: "",
     sort: "deadline", dir: 1, open: new Set(),
   };
 
   // ---------------------------------------------------------- url state
-  const KEYS = ["cls", "q", "season", "type", "status", "level", "region", "area", "sort", "dir"];
+  const TRACKS = {
+    wealth: { h1: "Wealth management internships",
+      lede: (n) => `Internships at ${n} banks, private banks, brokerages, RIAs and wealthtech firms, pulled straight from their careers sites. Every role links to the employer's own posting.` },
+    real_estate: { h1: "Real estate internships",
+      lede: (n) => `Internships at ${n} brokerages, REITs, developers, real estate investors and lenders, pulled straight from their careers sites. Every role links to the employer's own posting.` },
+  };
+  const inTrack = (p) => (p.tracks || ["wealth"]).includes(state.track);
+  const firmInTrack = (f) => (f.tracks || ["wealth"]).includes(state.track);
+
+  const KEYS = ["track", "cls", "q", "season", "type", "status", "level", "region", "area", "sort", "dir"];
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     KEYS.forEach((k) => { if (p.has(k)) state[k] = k === "dir" ? +p.get(k) : p.get(k); });
@@ -47,14 +56,24 @@
     state.firms = c?.companies || [];
     state.run = r;
     readHash();
+    if (!TRACKS[state.track]) state.track = "wealth";
     setupControls();
+    applyTrack();
     renderFreshness();
     renderClosing();
     render();
     renderFirms();
     const repo = r?.repo && r.repo.includes("/") && !r.repo.startsWith("local") ? `https://github.com/${r.repo}` : null;
     ["repo-link", "repo-link-2"].forEach((id) => { const a = $("#" + id); if (repo) a.href = repo; else a.removeAttribute("href"); });
-    document.querySelectorAll('[data-count="companies"]').forEach((el) => { if (state.firms.length) el.textContent = state.firms.length; });
+  }
+
+  function applyTrack() {
+    const t = TRACKS[state.track];
+    document.querySelectorAll(".track-switch button").forEach((b) => b.setAttribute("aria-checked", b.dataset.track === state.track));
+    $("#h1").textContent = t.h1;
+    const n = state.firms.filter(firmInTrack).length;
+    $("#lede").textContent = t.lede(n || "100+");
+    document.title = `${t.h1} · Internship Tracker`;
   }
 
   function enrich(p) {
@@ -67,6 +86,18 @@
 
   // ----------------------------------------------------------- controls
   function setupControls() {
+    const sw = document.querySelector(".track-switch");
+    sw.addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b || b.dataset.track === state.track) return;
+      state.track = b.dataset.track;
+      state.open.clear();
+      applyTrack(); fillOptions(); renderClosing(); renderFirms(); update();
+    });
+    sw.addEventListener("keydown", (e) => {
+      if (!["ArrowLeft", "ArrowRight"].includes(e.key)) return;
+      const bs = [...sw.querySelectorAll("button")]; const n = bs.find((b) => b.dataset.track !== state.track);
+      n.focus(); n.click();
+    });
     const seg = $("#class-seg");
     const opts = [[String(AY_END + 3), "Freshmen", AY_END + 3], [String(AY_END + 2), "Sophomores", AY_END + 2],
       [String(AY_END + 1), "Juniors", AY_END + 1], [String(AY_END), "Seniors", AY_END], ["any", "Any class year", null]];
@@ -84,22 +115,7 @@
       const n = bs[(i + (e.key === "ArrowRight" ? 1 : bs.length - 1)) % bs.length]; n.focus(); n.click();
     });
 
-    // seasons present in the data, upcoming first
-    const seasons = [...new Set(state.postings.map((p) => p.season).filter(Boolean))].sort((a, b) => seasonKey(a) - seasonKey(b));
-    const nowKey = TODAY.getFullYear() * 10 + (TODAY.getMonth() < 2 ? 0 : TODAY.getMonth() < 5 ? 1 : TODAY.getMonth() < 8 ? 2 : 3);
-    const upcoming = seasons.filter((s) => seasonKey(s) >= nowKey);
-    const past = seasons.filter((s) => seasonKey(s) < nowKey).reverse();
-    $("#f-season").innerHTML = `<option value="upcoming">All upcoming seasons</option>` +
-      upcoming.map((s) => `<option>${esc(s)}</option>`).join("") +
-      `<option value="unknown">Season not stated</option>` +
-      (past.length ? `<optgroup label="Past">${past.map((s) => `<option>${esc(s)}</option>`).join("")}</optgroup>` : "") +
-      `<option value="all">Any season</option>`;
-    if (![...$("#f-season").options].some((o) => o.value === state.season)) state.season = "upcoming";
-
-    const types = [...new Set(state.firms.map((f) => f.type).concat(state.postings.map((p) => p.company_type)))].filter(Boolean).sort();
-    const areas = [...new Set(state.postings.map((p) => p.function).filter(Boolean))].sort();
-    $("#f-area").insertAdjacentHTML("beforeend", areas.map((a) => `<option>${esc(a)}</option>`).join(""));
-    for (const id of ["#f-type", "#ff-type"]) $(id).insertAdjacentHTML("beforeend", types.map((t) => `<option>${esc(t)}</option>`).join(""));
+    fillOptions();
 
     const bind = (id, key, ev = "change") => { const el = $(id); el.value = state[key]; el.addEventListener(ev, () => { state[key] = el.value; update(); }); };
     bind("#f-q", "q", "input"); bind("#f-season", "season"); bind("#f-type", "type"); bind("#f-status", "status"); bind("#f-level", "level");
@@ -147,6 +163,26 @@
     ["#ff-q", "#ff-type", "#ff-mode"].forEach((id) => $(id).addEventListener(id === "#ff-q" ? "input" : "change", renderFirms));
   }
 
+  // options that depend on the current field (wealth / real estate)
+  function fillOptions() {
+    const posts = state.postings.filter(inTrack), firms = state.firms.filter(firmInTrack);
+    const seasons = [...new Set(posts.map((p) => p.season).filter(Boolean))].sort((a, b) => seasonKey(a) - seasonKey(b));
+    const nowKey = TODAY.getFullYear() * 10 + (TODAY.getMonth() < 2 ? 0 : TODAY.getMonth() < 5 ? 1 : TODAY.getMonth() < 8 ? 2 : 3);
+    const upcoming = seasons.filter((x) => seasonKey(x) >= nowKey);
+    const past = seasons.filter((x) => seasonKey(x) < nowKey).reverse();
+    $("#f-season").innerHTML = `<option value="upcoming">All upcoming seasons</option>` +
+      upcoming.map((x) => `<option>${esc(x)}</option>`).join("") +
+      `<option value="unknown">Season not stated</option>` +
+      (past.length ? `<optgroup label="Past">${past.map((x) => `<option>${esc(x)}</option>`).join("")}</optgroup>` : "") +
+      `<option value="all">Any season</option>`;
+    const types = [...new Set(firms.map((f) => f.type).concat(posts.map((p) => p.company_type)))].filter(Boolean).sort();
+    const areas = [...new Set(posts.map((p) => p.function).filter(Boolean))].sort();
+    $("#f-area").innerHTML = `<option value="">All areas</option>` + areas.map((a) => `<option>${esc(a)}</option>`).join("");
+    for (const id of ["#f-type", "#ff-type"]) $(id).innerHTML = `<option value="">All firm types</option>` + types.map((t) => `<option>${esc(t)}</option>`).join("");
+    const keep = (id, key, fallback) => { const el = $(id); if (![...el.options].some((o) => o.value === state[key])) state[key] = fallback; el.value = state[key]; };
+    keep("#f-season", "season", "upcoming"); keep("#f-type", "type", ""); keep("#f-area", "area", "");
+  }
+
   function toggleRow(tr) {
     const id = tr.dataset.id;
     const det = tr.nextElementSibling;
@@ -163,6 +199,7 @@
     const q = state.q.trim().toLowerCase();
     const nowKey = TODAY.getFullYear() * 10 + (TODAY.getMonth() < 2 ? 0 : TODAY.getMonth() < 5 ? 1 : TODAY.getMonth() < 8 ? 2 : 3);
     return state.postings.filter((p) => {
+      if (!inTrack(p)) return false;
       if (state.status === "active" && !(p._status === "open" || p._status === "soon")) return false;
       if (state.status === "open" && p._status === "closed") return false;
       if (state.status === "closed" && p._status !== "closed") return false;
@@ -204,7 +241,7 @@
       else b.removeAttribute("aria-sort");
     });
     const list = sorted(filtered());
-    const activeTotal = state.postings.filter((p) => p._status === "open" || p._status === "soon").length;
+    const activeTotal = state.postings.filter(inTrack).filter((p) => p._status === "open" || p._status === "soon").length;
     $("#n-postings").textContent = activeTotal;
     $("#result-count").textContent = `${list.length} ${list.length === 1 ? "role" : "roles"}` +
       (state.cls !== "any" ? ` for ${CLASS_NAMES[+state.cls]?.toLowerCase() || "class of " + state.cls}` : "");
@@ -265,11 +302,11 @@
 
   function renderClosing() {
     const soon = state.postings
-      .filter((p) => p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && (p.region === "US" || !p.region))
+      .filter((p) => inTrack(p) && p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && (p.region === "US" || !p.region))
       .sort((a, b) => a._dl - b._dl).slice(0, 5);
     const ol = $("#closing-list");
     if (!soon.length) {
-      ol.outerHTML = `<p class="closing-empty">No upcoming deadlines are listed yet. Most wealth programs review applications on a rolling basis, so apply as soon as a role opens.</p>`;
+      ol.innerHTML = `<li class="closing-empty">No upcoming deadlines are listed yet. Most programs review applications on a rolling basis, so apply as soon as a role opens.</li>`;
       return;
     }
     ol.innerHTML = soon.map((p) => {
@@ -302,11 +339,13 @@
   }
   function renderFirms() {
     const q = $("#ff-q").value.trim().toLowerCase(), t = $("#ff-type").value, m = $("#ff-mode").value;
-    const list = state.firms.filter((f) =>
+    const openCount = {};
+    state.postings.forEach((p) => { if (inTrack(p) && (p._status === "open" || p._status === "soon")) openCount[p.company] = (openCount[p.company] || 0) + 1; });
+    const list = state.firms.filter(firmInTrack).filter((f) =>
       (!q || `${f.name} ${f.hq} ${f.type}`.toLowerCase().includes(q)) && (!t || f.type === t) &&
       (!m || firmMode(f) === m || (m === "page" && (f.sources || []).some((s) => s.kind === "page")) ))
-      .sort((a, b) => (b.open || 0) - (a.open || 0) || a.name.localeCompare(b.name));
-    $("#n-firms").textContent = state.firms.length;
+      .sort((a, b) => (openCount[b.name] || 0) - (openCount[a.name] || 0) || a.name.localeCompare(b.name));
+    $("#n-firms").textContent = state.firms.filter(firmInTrack).length;
     $("#firm-rows").innerHTML = list.map((f) => {
       const srcs = f.sources || [];
       const feeds = srcs.filter((s) => s.kind !== "page"), pages = srcs.filter((s) => s.kind === "page");
@@ -321,7 +360,7 @@
         <td><a class="firm" href="${esc(f.careers)}" target="_blank" rel="noopener">${esc(f.name)}</a>
           ${links.length ? `<ul class="page-links">${links.map((l) => { const [txt, url] = l.split(" | "); return `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(txt)}</a></li>`; }).join("")}</ul>` : ""}</td>
         <td>${esc(f.type)}</td><td>${esc(f.hq || "")}</td>
-        <td class="num">${feeds.length ? f.open || 0 : "—"}</td>
+        <td class="num">${feeds.length ? openCount[f.name] || 0 : "—"}</td>
         <td>${mode}</td>
         <td>${changed ? `Page changed ${fmtDay(parseDay(changed))}` : f.last_ok ? `Checked ${fmtDay(parseDay(f.last_ok))}` : "Not checked yet"}</td>
       </tr>`;

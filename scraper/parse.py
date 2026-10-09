@@ -98,6 +98,49 @@ def is_wealth(title: str, text: str, focus: str) -> bool:
     return len(WEALTH_STRONG_RE.findall(head)) >= 2
 
 
+# ------------------------------------------------------------ real estate
+# At banks and insurers only explicit real estate wording counts
+RE_STRICT_TITLE_RE = re.compile(
+    r"(real estate|\bcre\b|realty|\breits?\b|multifamily|multi-family|commercial mortgage|cmbs|"
+    r"propert(y|ies) (finance|lending|investment)|real assets)", re.I)
+RE_STRONG_RE = re.compile(
+    r"(commercial real estate|real estate (investment|development|finance|lending|banking|brokerage|services|"
+    r"private equity|capital markets)|\breits?\b|multifamily|property management|leasing|"
+    r"investment properties|real assets)", re.I)
+# Roles at real estate firms that aren't real estate finance/investing work
+RE_OTHER_RE = re.compile(
+    r"(software|\bengineer|\bdeveloper\b|data scien|cyber|\bit\b|information technology|human resources|\bhr\b|"
+    r"people (partner|team)|talent acquisition|recruit|legal|paralegal|audit|tax\b|graphic design|"
+    r"marketing|social media|communications|maintenance|technician|hvac|janitor|custodial|housekeep|"
+    r"porter|groundskeep|security officer|electrician|plumb|mechanic|culinary|cook|"
+    r"front desk|concierge|call center|customer service|payroll|benefits)", re.I)
+
+
+def is_real_estate(title: str, text: str, focus: str) -> bool:
+    t = title or ""
+    if focus == "real_estate":
+        if RE_OTHER_RE.search(t):
+            return False
+        return True
+    if RE_STRICT_TITLE_RE.search(t):
+        return True
+    if RE_OTHER_RE.search(t) or WEALTH_RE.search(t):
+        return False
+    head = (text or "")[:1200]
+    return bool(re.search(r"(?i)\b(summer analyst|intern|internship)\b", t)) and len(RE_STRONG_RE.findall(head)) >= 2 \
+        and not re.search(r"(?i)investment banking|sales (and|&) trading|global markets", t)
+
+
+def tracks_for(title: str, text: str, focus: str, tracks: list[str]) -> list[str]:
+    """Which tracks ("wealth", "real_estate") this posting belongs to."""
+    out = []
+    if "wealth" in tracks and is_wealth(title, text, focus if focus in ("wealth", "mixed") else "mixed"):
+        out.append("wealth")
+    if "real_estate" in tracks and is_real_estate(title, text, focus):
+        out.append("real_estate")
+    return out
+
+
 US_STATES = ("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND "
              "OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC").split()
 US_STATE_NAMES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|"
@@ -152,7 +195,23 @@ FUNCTION_RULES = [
 ]
 
 
-def function(title: str) -> str:
+RE_FUNCTION_RULES = [
+    ("Capital Markets / Investment Sales", r"capital markets|investment sales|debt (and|&) equity|\bdebt\b|equity placement"),
+    ("Leasing / Brokerage", r"leasing|brokerage|broker|tenant|landlord|agency"),
+    ("Acquisitions / Investments", r"acquisition|invest|private equity|fund|portfolio|underwrit"),
+    ("Development / Construction", r"develop|construct|project manag|design|planning"),
+    ("Asset / Property Management", r"asset manag|property manag|operations|facilit|portfolio manag"),
+    ("Lending / Mortgage", r"lend|loan|mortgage|cmbs|credit|servicing|originat"),
+    ("Valuation / Research", r"valuation|apprais|research|analytics|market (analy|research)|data"),
+]
+
+
+def function(title: str, track: str = "wealth") -> str:
+    if track == "real_estate":
+        for name, pat in RE_FUNCTION_RULES:
+            if re.search(pat, title or "", re.I):
+                return name
+        return "Real Estate (general)"
     for name, pat in FUNCTION_RULES:
         if re.search(pat, title or "", re.I):
             return name

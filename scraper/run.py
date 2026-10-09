@@ -29,7 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 3       # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 4       # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -89,6 +89,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
     if j.id in seen and not old:
         return None                       # already judged not relevant
     focus = co.get("focus", "mixed")
+    tracks = co.get("tracks") or ["wealth"]
 
     title_intern = parse.is_internship(j.title)
     # "2027 Wealth Management Program" -style titles need the body to decide
@@ -97,8 +98,8 @@ def handle_job(j, co, old, seen, today, budget, rejected):
     if not title_intern and not maybe:
         rejected[j.id] = "not internship"
         return None
-    if focus == "mixed" and not parse.WEALTH_RE.search(j.title) and not j.text and not j._detail:
-        rejected[j.id] = "not wealth"
+    if focus == "mixed" and not parse.tracks_for(j.title, "", focus, tracks) and not j.text and not j._detail:
+        rejected[j.id] = "not relevant"
         return None
 
     fresh = old and old.get("v") == PARSER_VERSION and old.get("detail_at") and \
@@ -123,8 +124,9 @@ def handle_job(j, co, old, seen, today, budget, rejected):
     if maybe and not parse.is_internship(j.title, text):
         rejected[j.id] = "not internship"
         return None
-    if not parse.is_wealth(j.title, text, focus):
-        rejected[j.id] = "not wealth"
+    matched = parse.tracks_for(j.title, text, focus, tracks)
+    if not matched:
+        rejected[j.id] = "not relevant"
         return None
 
     posted = j.posted or (date.fromisoformat(old["posted"]) if old and old.get("posted") else None)
@@ -142,6 +144,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         "id": j.id,
         "company": co["name"],
         "company_type": co["type"],
+        "tracks": matched,
         "title": j.title,
         "url": j.url,
         "location": loc,
@@ -162,7 +165,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         "sponsorship": parse.sponsorship(text),
         "work_mode": parse.work_mode(text, j.remote_hint),
         "weeks": parse.weeks(text),
-        "function": parse.function(j.title),
+        "function": parse.function(j.title, matched[0]),
         "level": parse.level(j.title, text),
         "source": j.source,
         "detail_at": today.isoformat() if text else None,
@@ -189,6 +192,8 @@ def main(argv=None):
     prev_list = load_json(DATA / "postings.json", {"postings": []})["postings"]
     prev = {p["id"]: p for p in prev_list}
     seen = load_json(DATA / "seen.json", {})
+    if seen.pop("_v", None) != PARSER_VERSION:
+        seen = {}                         # filter rules changed: re-judge everything once
     prev_status = {c["name"]: c for c in load_json(DATA / "companies.json", {"companies": []})["companies"]}
 
     s = sources.session(repo)
@@ -247,6 +252,7 @@ def main(argv=None):
             continue
         st = results[co["name"]][2]
         rec = {k: co.get(k) for k in ("name", "type", "focus", "hq", "careers")}
+        rec["tracks"] = co.get("tracks") or ["wealth"]
         rec["verified"] = bool(co.get("verified"))
         rec["open"] = sum(1 for p in out.values() if p["company"] == co["name"] and p["status"] == "open")
         srcs = []
@@ -275,7 +281,7 @@ def main(argv=None):
     postings = sorted(out.values(), key=lambda p: (p["status"] != "open", p["company"], p["title"]))
     dump(DATA / "postings.json", {"postings": postings})
     dump(DATA / "companies.json", {"companies": status_out})
-    dump(DATA / "seen.json", seen)
+    dump(DATA / "seen.json", {"_v": PARSER_VERSION, **seen})
     # volatile run info: deployed with the site but not committed
     dump(DATA / "run.json", {
         "updated_at": now.isoformat(timespec="seconds"),
