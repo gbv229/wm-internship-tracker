@@ -15,6 +15,14 @@ def test_season_from_titles():
     assert parse.season("Private Bank Intern", "Start date: June 2027. This 10-week summer 2027 program", TODAY)[0] == "Summer 2027"
 
 
+def test_season_ignores_graduation_sentence():
+    t = ("This is a 10-week summer internship. You are pursuing a bachelor's degree with an expected graduation date "
+         "between December 2027 and Summer 2028.")
+    assert parse.season("Wealth Management Intern - Chicago", t, date(2026, 9, 8)) == ("Summer 2027", True)
+    assert parse.season("Wealth Management Intern", "You are graduating between December 2027 and Summer 2028.", date(2026, 9, 8)) == (None, False)
+    assert not parse.is_wealth("2027 Financial Institutions Group Summer Internship", "", "mixed")
+
+
 def test_class_year_from_graduation_window():
     t = ("Candidates are required to be pursuing a bachelor's degree from an accredited college or university "
          "with a graduation time frame between November 2027 and August 2028.")

@@ -21,6 +21,7 @@ MONTHS = {
 MONTH_RE = (r"(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|"
             r"aug(?:ust)?|sept?(?:ember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)")
 SEASONS = ["Winter", "Spring", "Summer", "Fall"]
+GRAD_CONTEXT = re.compile(r"(?i)graduat|class of|degree (completion|conferral)|expected to complete|complete (your|their) degree|receive (your|their) degree")
 
 
 # --------------------------------------------------------------------- text
@@ -78,7 +79,9 @@ OTHER_DIVISION_RE = re.compile(
     r"(investment banking|corporate bank|commercial bank|global markets|sales (and|&) trading|\bmarkets\b|"
     r"asset management|\bgam\b|quant|software|engineer|developer|data scien|cyber|\bit\b|technology|"
     r"audit|accounting|tax\b|legal|human resources|\bhr\b|people partner|marketing|treasury|real estate|"
-    r"forestry|insurance|actuar|underwrit|lending|credit|research analyst|equity research|fraud|crypto)", re.I)
+    r"forestry|insurance|actuar|underwrit|lending|credit|research analyst|equity research|fraud|crypto|"
+    r"financial institutions|institutional|restructuring|\bm&a\b|mergers|capital markets|leveraged|"
+    r"private equity|asset servicing|custody|fund services|chief operations|corporate finance)", re.I)
 
 
 def is_wealth(title: str, text: str, focus: str) -> bool:
@@ -162,7 +165,10 @@ SEASON_WORD = r"(summer|fall|autumn|winter|spring)"
 
 def season(title: str, text: str, posted: date | None) -> tuple[str | None, bool]:
     """Return ("Summer 2027", inferred?)."""
-    for src in (title or "", (text or "")[:3000]):
+    # graduation sentences ("graduating between December 2027 and Summer 2028")
+    # describe the student, not the program, so they're left out here
+    body = " ".join(x for x in sentences((text or "")[:4000]) if not GRAD_CONTEXT.search(x))
+    for src in (title or "", body):
         m = re.search(SEASON_WORD + r"[\s,/-]*(?:of\s+)?(20\d\d)", src, re.I)
         if m:
             return f"{_season_name(m.group(1))} {m.group(2)}", False
@@ -183,6 +189,10 @@ def season(title: str, text: str, posted: date | None) -> tuple[str | None, bool
     for s in ("Fall", "Winter", "Spring"):
         if re.search(rf"(?i)\b{s}\b", title or ""):
             return _infer(s, posted), True
+    # season named only in the description ("our summer internship program")
+    m = re.search(r"(?i)\b(summer|fall|winter|spring)\s+(internship|intern|analyst|program|co-?op)", body)
+    if m:
+        return _infer(_season_name(m.group(1)), posted), True
     return None, False
 
 
@@ -224,7 +234,6 @@ def _classes_from_window(lo: tuple[int, int], hi: tuple[int, int]) -> list[int]:
     return classes
 
 
-GRAD_CONTEXT = re.compile(r"(?i)graduat|class of|degree (completion|conferral)|expected to complete|complete (your|their) degree|receive (your|their) degree")
 
 
 def class_years(text: str, season_label: str | None) -> tuple[list[int], str | None]:

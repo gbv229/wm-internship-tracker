@@ -220,7 +220,7 @@ companies:
   # ------------------------------------------------------ Private banks & trust
   - name: Northern Trust
     type: Private Bank & Trust
-    focus: wealth
+    focus: mixed
     hq: Chicago, IL
     careers: https://www.northerntrust.com/united-states/about-us/careers/students
     sources:

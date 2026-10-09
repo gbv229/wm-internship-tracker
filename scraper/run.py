@@ -26,10 +26,10 @@ from . import parse, sources
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines get added later)
-MAX_DETAILS_PER_RUN = 400 # politeness cap; anything left over is picked up next run
+MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 2       # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 3       # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
