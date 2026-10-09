@@ -1,0 +1,1019 @@
+# Companies tracked by the scraper.
+#
+# focus:
+#   wealth -> the whole firm is wealth/advisory focused: every internship counts
+#   mixed  -> big firm with many divisions: only roles that mention wealth,
+#             private banking, private client, financial advisor, etc. count
+#
+# sources (one or more per company):
+#   workday:     {host, tenant, site}      e.g. ms.wd5.myworkdayjobs.com / ms / External
+#   oracle:      {host, site}              Oracle Recruiting Cloud
+#   icims:       {host}                    e.g. career-schwab.icims.com
+#   greenhouse:  {board}
+#   lever:       {site}
+#   ashby:       {board}
+#   page:        {url}   no job feed; the page is checked for changes and the
+#                        firm is shown with a "check directly" link
+#
+# verified: true means the endpoint was matched against real posting URLs
+# when this list was built. Unverified ones are flagged in the site's
+# "Sources" tab if they fail, so they can be fixed.
+
+companies:
+
+  # ---------------------------------------------------------------- Global banks
+  - name: Morgan Stanley
+    type: Global Bank
+    focus: mixed
+    hq: New York, NY
+    careers: https://www.morganstanley.com/people-opportunities/students-graduates
+    sources:
+      - workday: {host: ms.wd5.myworkdayjobs.com, tenant: ms, site: External}
+    verified: true
+
+  - name: Goldman Sachs
+    type: Global Bank
+    focus: mixed
+    hq: New York, NY
+    careers: https://higher.gs.com/campus
+    sources:
+      - page: {url: "https://higher.gs.com/campus"}
+
+  - name: J.P. Morgan
+    type: Global Bank
+    focus: mixed
+    hq: New York, NY
+    careers: https://careers.jpmorgan.com/us/en/students/programs
+    sources:
+      - oracle: {host: jpmc.fa.oraclecloud.com, site: CX_1001}
+    verified: true
+
+  - name: Bank of America / Merrill
+    type: Global Bank
+    focus: mixed
+    hq: Charlotte, NC
+    careers: https://campus.bankofamerica.com/
+    sources:
+      - workday: {host: ghr.wd1.myworkdayjobs.com, tenant: ghr, site: us-emplsv}
+      - page: {url: "https://campus.bankofamerica.com/"}
+    verified: true
+
+  - name: Wells Fargo
+    type: Global Bank
+    focus: mixed
+    hq: San Francisco, CA
+    careers: https://www.wellsfargojobs.com/en/early-careers/
+    sources:
+      - workday: {host: wd1.myworkdaysite.com, tenant: wf, site: WellsFargoJobs, path_prefix: /recruiting/wf}
+    verified: true
+
+  - name: Citi (incl. Citi Private Bank)
+    type: Global Bank
+    focus: mixed
+    hq: New York, NY
+    careers: https://jobs.citi.com/students-and-graduates
+    sources:
+      - workday: {host: citi.wd5.myworkdayjobs.com, tenant: citi, site: "2"}
+    verified: true
+
+  - name: UBS
+    type: Global Bank
+    focus: mixed
+    hq: Zurich / New York
+    careers: https://www.ubs.com/global/en/careers/early-careers.html
+    sources:
+      - page: {url: "https://www.ubs.com/global/en/careers/early-careers.html"}
+
+  - name: Barclays
+    type: Global Bank
+    focus: mixed
+    hq: London / New York
+    careers: https://search.jobs.barclays/
+    sources:
+      - workday: {host: barclays.wd3.myworkdayjobs.com, tenant: barclays, site: External_Career_Site_Barclays}
+    verified: true
+
+  - name: Deutsche Bank
+    type: Global Bank
+    focus: mixed
+    hq: Frankfurt / New York
+    careers: https://careers.db.com/students-graduates/
+    sources:
+      - workday: {host: db.wd3.myworkdayjobs.com, tenant: db, site: DBWebsite}
+    verified: true
+
+  - name: RBC (incl. RBC Wealth Mgmt & City National)
+    type: Global Bank
+    focus: mixed
+    hq: Toronto / Minneapolis
+    careers: https://jobs.rbc.com/ca/en/students-and-graduates
+    sources:
+      - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: RBCEARLYTALENT1}
+      - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: ExternalPrivatePostingStudents}
+      - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: rbcglobal1}
+    verified: true
+
+  - name: TD (incl. TD Wealth)
+    type: Global Bank
+    focus: mixed
+    hq: Toronto / Cherry Hill, NJ
+    careers: https://jobs.td.com/en-CA/students-and-new-grads/
+    sources:
+      - workday: {host: td.wd3.myworkdayjobs.com, tenant: td, site: TD_Bank_Careers}
+    verified: true
+
+  - name: CIBC Private Wealth
+    type: Global Bank
+    focus: mixed
+    hq: Toronto / Chicago
+    careers: https://cibc.wd3.myworkdayjobs.com/campus
+    sources:
+      - workday: {host: cibc.wd3.myworkdayjobs.com, tenant: cibc, site: campus}
+      - workday: {host: cibc.wd3.myworkdayjobs.com, tenant: cibc, site: search}
+    verified: true
+
+  - name: Santander (Private Banking)
+    type: Global Bank
+    focus: mixed
+    hq: Madrid / Boston
+    careers: https://santander.wd3.myworkdayjobs.com/SantanderCareers
+    sources:
+      - workday: {host: santander.wd3.myworkdayjobs.com, tenant: santander, site: SantanderCareers}
+    verified: true
+
+  - name: HSBC
+    type: Global Bank
+    focus: mixed
+    hq: London / New York
+    careers: https://www.hsbc.com/careers/students-and-graduates
+    sources:
+      - page: {url: "https://www.hsbc.com/careers/students-and-graduates"}
+
+  - name: BMO (incl. BMO Private Wealth)
+    type: Global Bank
+    focus: mixed
+    hq: Toronto / Chicago
+    careers: https://jobs.bmo.com/us/en
+    sources:
+      - page: {url: "https://jobs.bmo.com/us/en"}
+
+  - name: Julius Baer
+    type: Global Bank
+    focus: wealth
+    hq: Zurich
+    careers: https://juliusbaer.wd3.myworkdayjobs.com/External
+    sources:
+      - workday: {host: juliusbaer.wd3.myworkdayjobs.com, tenant: juliusbaer, site: External}
+    verified: true
+
+  - name: Jefferies (Private Wealth)
+    type: Investment Bank
+    focus: mixed
+    hq: New York, NY
+    careers: https://www.jefferies.com/careers/
+    sources:
+      - oracle: {host: hdid.fa.us2.oraclecloud.com, site: CX_1}
+    verified: true
+
+  - name: Lazard (Lazard Wealth Management)
+    type: Investment Bank
+    focus: mixed
+    hq: New York, NY
+    careers: https://www.lazard.com/careers/
+    sources:
+      - oracle: {host: icbpjb.fa.ocs.oraclecloud.com, site: LazardProfessionalCareers}
+    verified: true
+
+  - name: Rothschild & Co (Wealth Mgmt)
+    type: Investment Bank
+    focus: mixed
+    hq: Paris / New York
+    careers: https://www.rothschildandco.com/en/careers/
+    sources:
+      - page: {url: "https://www.rothschildandco.com/en/careers/"}
+
+  - name: Evercore Wealth Management
+    type: Investment Bank
+    focus: mixed
+    hq: New York, NY
+    careers: https://www.evercore.com/careers/
+    sources:
+      - page: {url: "https://www.evercore.com/careers/"}
+
+  - name: William Blair (Private Wealth)
+    type: Investment Bank
+    focus: mixed
+    hq: Chicago, IL
+    careers: https://www.williamblair.com/Careers
+    sources:
+      - greenhouse: {board: williamblair}
+
+  - name: Piper Sandler
+    type: Investment Bank
+    focus: mixed
+    hq: Minneapolis, MN
+    careers: https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers
+    sources:
+      - workday: {host: pipersandler.wd501.myworkdayjobs.com, tenant: pipersandler, site: Piper_Sandler_Careers}
+    verified: true
+
+  # ------------------------------------------------------ Private banks & trust
+  - name: Northern Trust
+    type: Private Bank & Trust
+    focus: wealth
+    hq: Chicago, IL
+    careers: https://www.northerntrust.com/united-states/about-us/careers/students
+    sources:
+      - workday: {host: ntrs.wd1.myworkdayjobs.com, tenant: ntrs, site: northerntrust}
+    verified: true
+
+  - name: BNY (incl. BNY Wealth)
+    type: Private Bank & Trust
+    focus: mixed
+    hq: New York, NY
+    careers: https://www.bny.com/corporate/global/en/careers/students-and-graduates.html
+    sources:
+      - oracle: {host: eofe.fa.us2.oraclecloud.com, site: CX_1001}
+    verified: true
+
+  - name: Brown Brothers Harriman
+    type: Private Bank & Trust
+    focus: mixed
+    hq: New York, NY
+    careers: https://www.bbh.com/us/en/careers.html
+    sources:
+      - workday: {host: bbh.wd5.myworkdayjobs.com, tenant: bbh, site: BBH}
+    verified: true
+
+  - name: Wilmington Trust
+    type: Private Bank & Trust
+    focus: wealth
+    hq: Wilmington, DE
+    careers: https://mtb.wd5.myworkdayjobs.com/wtexternal
+    sources:
+      - workday: {host: mtb.wd5.myworkdayjobs.com, tenant: mtb, site: wtexternal}
+    verified: true
+
+  - name: Fiduciary Trust International (Franklin)
+    type: Private Bank & Trust
+    focus: mixed
+    hq: New York, NY
+    careers: https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1
+    sources:
+      - workday: {host: franklintempleton.wd5.myworkdayjobs.com, tenant: franklintempleton, site: Primary-External-1}
+    verified: true
+
+  - name: Bessemer Trust
+    type: Private Bank & Trust
+    focus: wealth
+    hq: New York, NY
+    careers: https://www.bessemertrust.com/careers
+    sources:
+      - page: {url: "https://www.bessemertrust.com/careers"}
+
+  - name: Glenmede
+    type: Private Bank & Trust
+    focus: wealth
+    hq: Philadelphia, PA
+    careers: https://www.glenmede.com/careers/
+    sources:
+      - page: {url: "https://www.glenmede.com/careers/"}
+
+  - name: Brown Advisory
+    type: Private Bank & Trust
+    focus: wealth
+    hq: Baltimore, MD
+    careers: https://www.brownadvisory.com/us/careers
+    sources:
+      - page: {url: "https://www.brownadvisory.com/us/careers"}
+
+  - name: First Citizens (Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Raleigh, NC
+    careers: https://jobs.firstcitizens.com/
+    sources:
+      - page: {url: "https://jobs.firstcitizens.com/"}
+
+  # ----------------------------------------------------- Regional banks (wealth)
+  - name: PNC (PNC Private Bank)
+    type: Regional Bank
+    focus: mixed
+    hq: Pittsburgh, PA
+    careers: https://careers.pnc.com/global/en/students
+    sources:
+      - workday: {host: pnc.wd5.myworkdayjobs.com, tenant: pnc, site: External}
+    verified: true
+
+  - name: Truist (Truist Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Charlotte, NC
+    careers: https://careers.truist.com/
+    sources:
+      - workday: {host: truist.wd1.myworkdayjobs.com, tenant: truist, site: Careers}
+    verified: true
+
+  - name: U.S. Bank (Private Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Minneapolis, MN
+    careers: https://careers.usbank.com/
+    sources:
+      - workday: {host: usbank.wd1.myworkdayjobs.com, tenant: usbank, site: US_Bank_Careers}
+    verified: true
+
+  - name: M&T Bank (Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Buffalo, NY
+    careers: https://mtb.wd5.myworkdayjobs.com/Campus
+    sources:
+      - workday: {host: mtb.wd5.myworkdayjobs.com, tenant: mtb, site: Campus}
+      - workday: {host: mtb.wd5.myworkdayjobs.com, tenant: mtb, site: MTB}
+    verified: true
+
+  - name: Citizens (Private Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Providence, RI
+    careers: https://jobs.citizensbank.com/
+    sources:
+      - oracle: {host: hcgn.fa.us2.oraclecloud.com, site: CX_1}
+    verified: true
+
+  - name: Fifth Third (Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Cincinnati, OH
+    careers: https://fifththird.wd5.myworkdayjobs.com/53careers
+    sources:
+      - workday: {host: fifththird.wd5.myworkdayjobs.com, tenant: fifththird, site: 53careers}
+    verified: true
+
+  - name: KeyBank (Key Private Bank)
+    type: Regional Bank
+    focus: mixed
+    hq: Cleveland, OH
+    careers: https://keybank.wd5.myworkdayjobs.com/External_Career_Site
+    sources:
+      - workday: {host: keybank.wd5.myworkdayjobs.com, tenant: keybank, site: External_Career_Site}
+    verified: true
+
+  - name: Huntington (Private Bank)
+    type: Regional Bank
+    focus: mixed
+    hq: Columbus, OH
+    careers: https://huntington.wd12.myworkdayjobs.com/HNBcareers
+    sources:
+      - workday: {host: huntington.wd12.myworkdayjobs.com, tenant: huntington, site: HNBcareers}
+    verified: true
+
+  - name: Regions (Private Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Birmingham, AL
+    careers: https://regions.wd5.myworkdayjobs.com/regions_careers
+    sources:
+      - workday: {host: regions.wd5.myworkdayjobs.com, tenant: regions, site: regions_careers}
+    verified: true
+
+  - name: Associated Bank (Private Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Green Bay, WI
+    careers: https://associatedbank.wd1.myworkdayjobs.com/external_careers
+    sources:
+      - workday: {host: associatedbank.wd1.myworkdayjobs.com, tenant: associatedbank, site: external_careers}
+    verified: true
+
+  - name: Frost (Private Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: San Antonio, TX
+    careers: https://frostbank.wd5.myworkdayjobs.com/External
+    sources:
+      - workday: {host: frostbank.wd5.myworkdayjobs.com, tenant: frostbank, site: External}
+    verified: true
+
+  - name: Fulton Bank (Fulton Private Bank)
+    type: Regional Bank
+    focus: mixed
+    hq: Lancaster, PA
+    careers: https://www.fultonbank.com/About-Fulton-Bank/Careers
+    sources:
+      - page: {url: "https://www.fultonbank.com/About-Fulton-Bank/Careers"}
+
+  - name: Univest (Wealth)
+    type: Regional Bank
+    focus: mixed
+    hq: Souderton, PA
+    careers: https://www.univest.net/careers
+    sources:
+      - page: {url: "https://www.univest.net/careers"}
+
+  - name: WSFS / Bryn Mawr Trust
+    type: Regional Bank
+    focus: mixed
+    hq: Wilmington, DE
+    careers: https://www.wsfsbank.com/careers
+    sources:
+      - page: {url: "https://www.wsfsbank.com/careers"}
+
+  # -------------------------------------------- Wirehouses, brokerages, platforms
+  - name: Fidelity Investments
+    type: Brokerage & Platform
+    focus: mixed
+    hq: Boston, MA
+    careers: https://jobs.fidelity.com/en/students-and-graduates/
+    sources:
+      - workday: {host: fmr.wd1.myworkdayjobs.com, tenant: fmr, site: targeted}
+      - workday: {host: fmr.wd1.myworkdayjobs.com, tenant: fmr, site: fidelitycareers}
+    verified: true
+
+  - name: Charles Schwab
+    type: Brokerage & Platform
+    focus: wealth
+    hq: Westlake, TX
+    careers: https://www.schwabjobs.com/students
+    sources:
+      - icims: {host: career-schwab.icims.com}
+    verified: true
+
+  - name: Edward Jones
+    type: Brokerage & Platform
+    focus: wealth
+    hq: St. Louis, MO
+    careers: https://careers.edwardjones.com/
+    sources:
+      - page: {url: "https://careers.edwardjones.com/"}
+
+  - name: Raymond James
+    type: Brokerage & Platform
+    focus: wealth
+    hq: St. Petersburg, FL
+    careers: https://www.raymondjames.com/careers/students
+    sources:
+      - workday: {host: raymondjames.wd1.myworkdayjobs.com, tenant: raymondjames, site: RaymondJamesEarlyCareers}
+      - workday: {host: raymondjames.wd1.myworkdayjobs.com, tenant: raymondjames, site: RaymondJamesCareers}
+    verified: true
+
+  - name: Ameriprise Financial
+    type: Brokerage & Platform
+    focus: wealth
+    hq: Minneapolis, MN
+    careers: https://www.ameriprise.com/careers
+    sources:
+      - workday: {host: ameriprise.wd5.myworkdayjobs.com, tenant: ameriprise, site: Ameriprise}
+    verified: true
+
+  - name: LPL Financial
+    type: Brokerage & Platform
+    focus: wealth
+    hq: San Diego, CA
+    careers: https://lplfinancial.wd1.myworkdayjobs.com/university
+    sources:
+      - workday: {host: lplfinancial.wd1.myworkdayjobs.com, tenant: lplfinancial, site: university}
+      - workday: {host: lplfinancial.wd1.myworkdayjobs.com, tenant: lplfinancial, site: External}
+    verified: true
+
+  - name: Stifel
+    type: Brokerage & Platform
+    focus: wealth
+    hq: St. Louis, MO
+    careers: https://www.stifel.com/careers
+    sources:
+      - icims: {host: careers-stifel.icims.com}
+    verified: true
+
+  - name: Baird
+    type: Brokerage & Platform
+    focus: wealth
+    hq: Milwaukee, WI
+    careers: https://www.rwbaird.com/careers/
+    sources:
+      - workday: {host: baird.wd1.myworkdayjobs.com, tenant: baird, site: careers}
+    verified: true
+
+  - name: Rockefeller Capital Management
+    type: Brokerage & Platform
+    focus: wealth
+    hq: New York, NY
+    careers: https://rockco.com/careers/
+    sources:
+      - icims: {host: careers-rcm.icims.com}
+    verified: true
+
+  - name: Oppenheimer & Co.
+    type: Brokerage & Platform
+    focus: wealth
+    hq: New York, NY
+    careers: https://opco.hrmdirect.com/employment/job-openings.php?search=true
+    sources:
+      - page: {url: "https://opco.hrmdirect.com/employment/job-openings.php?search=true"}
+    verified: true
+
+  - name: Janney Montgomery Scott
+    type: Brokerage & Platform
+    focus: wealth
+    hq: Philadelphia, PA
+    careers: https://www.janney.com/careers
+    sources:
+      - page: {url: "https://www.janney.com/careers"}
+
+  - name: D.A. Davidson
+    type: Brokerage & Platform
+    focus: wealth
+    hq: Great Falls, MT
+    careers: https://dadavidson.com/careers
+    sources:
+      - page: {url: "https://dadavidson.com/careers"}
+
+  - name: Stephens
+    type: Brokerage & Platform
+    focus: mixed
+    hq: Little Rock, AR
+    careers: https://www.stephens.com/careers/
+    sources:
+      - page: {url: "https://www.stephens.com/careers/"}
+
+  - name: Hilltop Securities
+    type: Brokerage & Platform
+    focus: mixed
+    hq: Dallas, TX
+    careers: https://www.hilltopsecurities.com/careers/
+    sources:
+      - page: {url: "https://www.hilltopsecurities.com/careers/"}
+
+  - name: Cambridge Investment Research
+    type: Brokerage & Platform
+    focus: wealth
+    hq: Fairfield, IA
+    careers: https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site
+    sources:
+      - workday: {host: cir.wd108.myworkdayjobs.com, tenant: cir, site: CIR_External_Career_Site}
+    verified: true
+
+  - name: Osaic
+    type: Brokerage & Platform
+    focus: wealth
+    hq: Phoenix, AZ
+    careers: https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site
+    sources:
+      - workday: {host: advisorgroup.wd1.myworkdayjobs.com, tenant: advisorgroup, site: advisor_career_site}
+    verified: true
+
+  - name: Cetera Financial Group
+    type: Brokerage & Platform
+    focus: wealth
+    hq: San Diego, CA
+    careers: https://www.cetera.com/careers
+    sources:
+      - oracle: {host: ebhu.fa.us2.oraclecloud.com, site: CX}
+    verified: true
+
+  - name: SEI
+    type: Brokerage & Platform
+    focus: mixed
+    hq: Oaks, PA
+    careers: https://seic.wd1.myworkdayjobs.com/SEI_Global_Services
+    sources:
+      - workday: {host: seic.wd1.myworkdayjobs.com, tenant: seic, site: SEI_Global_Services}
+    verified: true
+
+  # -------------------------------------------------------------- Large RIAs
+  - name: Creative Planning
+    type: Independent RIA
+    focus: wealth
+    hq: Overland Park, KS
+    careers: https://creativeplanning.com/careers/
+    sources:
+      - page: {url: "https://creativeplanning.com/careers/"}
+
+  - name: CAPTRUST
+    type: Independent RIA
+    focus: wealth
+    hq: Raleigh, NC
+    careers: https://www.captrust.com/careers/
+    sources:
+      - icims: {host: careers-captrust.icims.com}
+    verified: true
+
+  - name: Cerity Partners
+    type: Independent RIA
+    focus: wealth
+    hq: New York, NY
+    careers: https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers
+    sources:
+      - workday: {host: ceritypartners.wd12.myworkdayjobs.com, tenant: ceritypartners, site: ceritypartnerscareers}
+    verified: true
+
+  - name: Focus Financial Partners
+    type: Independent RIA
+    focus: wealth
+    hq: New York, NY
+    careers: https://focusfinancialpartners.com/careers/
+    sources:
+      - greenhouse: {board: focusfinancialpartners}
+    verified: true
+
+  - name: Mariner
+    type: Independent RIA
+    focus: wealth
+    hq: Overland Park, KS
+    careers: https://www.mariner.com/careers/
+    sources:
+      - page: {url: "https://www.mariner.com/careers/"}
+
+  - name: Cresset
+    type: Independent RIA
+    focus: wealth
+    hq: Chicago, IL
+    careers: https://cressetcapital.com/careers/
+    sources:
+      - page: {url: "https://cressetcapital.com/careers/"}
+
+  - name: Hightower Advisors
+    type: Independent RIA
+    focus: wealth
+    hq: Chicago, IL
+    careers: https://hightoweradvisors.com/careers/
+    sources:
+      - page: {url: "https://hightoweradvisors.com/careers/"}
+
+  - name: Wealth Enhancement Group
+    type: Independent RIA
+    focus: wealth
+    hq: Minneapolis, MN
+    careers: https://www.wealthenhancement.com/careers
+    sources:
+      - page: {url: "https://www.wealthenhancement.com/careers"}
+
+  - name: Sanctuary Wealth
+    type: Independent RIA
+    focus: wealth
+    hq: St. Louis, MO
+    careers: https://sanctuarywealth.com/careers/
+    sources:
+      - page: {url: "https://sanctuarywealth.com/careers/"}
+
+  - name: Carson Group
+    type: Independent RIA
+    focus: wealth
+    hq: Omaha, NE
+    careers: https://www.carsongroup.com/careers/
+    sources:
+      - page: {url: "https://www.carsongroup.com/careers/"}
+
+  - name: Mercer Advisors
+    type: Independent RIA
+    focus: wealth
+    hq: Denver, CO
+    careers: https://www.merceradvisors.com/careers/
+    sources:
+      - page: {url: "https://www.merceradvisors.com/careers/"}
+
+  - name: Edelman Financial Engines
+    type: Independent RIA
+    focus: wealth
+    hq: Boston, MA
+    careers: https://www.edelmanfinancialengines.com/careers/
+    sources:
+      - page: {url: "https://www.edelmanfinancialengines.com/careers/"}
+
+  - name: Fisher Investments
+    type: Independent RIA
+    focus: wealth
+    hq: Plano, TX
+    careers: https://www.fisherinvestments.com/en-us/careers
+    sources:
+      - page: {url: "https://www.fisherinvestments.com/en-us/careers"}
+
+  - name: Savant Wealth Management
+    type: Independent RIA
+    focus: wealth
+    hq: Rockford, IL
+    careers: https://www.savantwealth.com/careers/
+    sources:
+      - page: {url: "https://www.savantwealth.com/careers/"}
+
+  - name: Dynasty Financial Partners
+    type: Independent RIA
+    focus: wealth
+    hq: St. Petersburg, FL
+    careers: https://www.dynastyfinancial.com/careers
+    sources:
+      - page: {url: "https://www.dynastyfinancial.com/careers"}
+
+  - name: Silvercrest Asset Management
+    type: Independent RIA
+    focus: wealth
+    hq: New York, NY
+    careers: https://www.silvercrestgroup.com/careers/
+    sources:
+      - page: {url: "https://www.silvercrestgroup.com/careers/"}
+
+  - name: Manning & Napier
+    type: Independent RIA
+    focus: wealth
+    hq: Rochester, NY
+    careers: https://www.manning-napier.com/careers
+    sources:
+      - page: {url: "https://www.manning-napier.com/careers"}
+
+  # -------------------------------------------------- Insurance & financial planning
+  - name: Northwestern Mutual
+    type: Insurance & Planning
+    focus: wealth
+    hq: Milwaukee, WI
+    careers: https://www.northwesternmutual.com/careers/
+    sources:
+      - workday: {host: northwesternmutual.wd5.myworkdayjobs.com, tenant: northwesternmutual, site: corporate-careers}
+      - page: {url: "https://www.northwesternmutual.com/careers/"}
+    verified: true
+
+  - name: MassMutual
+    type: Insurance & Planning
+    focus: mixed
+    hq: Springfield, MA
+    careers: https://massmutual.wd1.myworkdayjobs.com/MMCareers
+    sources:
+      - workday: {host: massmutual.wd1.myworkdayjobs.com, tenant: massmutual, site: MMCareers}
+    verified: true
+
+  - name: Guardian Life
+    type: Insurance & Planning
+    focus: mixed
+    hq: New York, NY
+    careers: https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers
+    sources:
+      - workday: {host: guardianlife.wd5.myworkdayjobs.com, tenant: guardianlife, site: guardian-life-careers}
+    verified: true
+
+  - name: Prudential Financial
+    type: Insurance & Planning
+    focus: mixed
+    hq: Newark, NJ
+    careers: https://pru.wd5.myworkdayjobs.com/Careers
+    sources:
+      - workday: {host: pru.wd5.myworkdayjobs.com, tenant: pru, site: Careers}
+    verified: true
+
+  - name: Thrivent
+    type: Insurance & Planning
+    focus: mixed
+    hq: Minneapolis, MN
+    careers: https://thrivent.wd5.myworkdayjobs.com/external
+    sources:
+      - workday: {host: thrivent.wd5.myworkdayjobs.com, tenant: thrivent, site: external}
+    verified: true
+
+  - name: Securian Financial
+    type: Insurance & Planning
+    focus: mixed
+    hq: St. Paul, MN
+    careers: https://hq.wd12.myworkdayjobs.com/Securian_External
+    sources:
+      - workday: {host: hq.wd12.myworkdayjobs.com, tenant: hq, site: Securian_External}
+    verified: true
+
+  - name: Nationwide
+    type: Insurance & Planning
+    focus: mixed
+    hq: Columbus, OH
+    careers: https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career
+    sources:
+      - workday: {host: nationwide.wd1.myworkdayjobs.com, tenant: nationwide, site: Nationwide_Career}
+    verified: true
+
+  - name: USAA
+    type: Insurance & Planning
+    focus: mixed
+    hq: San Antonio, TX
+    careers: https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD
+    sources:
+      - workday: {host: usaa.wd1.myworkdayjobs.com, tenant: usaa, site: USAAJOBSWD}
+    verified: true
+
+  - name: New York Life
+    type: Insurance & Planning
+    focus: mixed
+    hq: New York, NY
+    careers: https://www.newyorklife.com/careers
+    sources:
+      - page: {url: "https://www.newyorklife.com/careers"}
+
+  - name: Principal Financial Group
+    type: Insurance & Planning
+    focus: mixed
+    hq: Des Moines, IA
+    careers: https://careers.principal.com/
+    sources:
+      - page: {url: "https://careers.principal.com/"}
+
+  - name: Lincoln Financial
+    type: Insurance & Planning
+    focus: mixed
+    hq: Radnor, PA
+    careers: https://jobs.lincolnfinancial.com/
+    sources:
+      - page: {url: "https://jobs.lincolnfinancial.com/"}
+
+  # ----------------------------------------------------------- Asset managers
+  - name: Vanguard
+    type: Asset Manager
+    focus: mixed
+    hq: Malvern, PA
+    careers: https://www.vanguardjobs.com/
+    sources:
+      - workday: {host: vanguard.wd5.myworkdayjobs.com, tenant: vanguard, site: vanguard_external}
+    verified: true
+
+  - name: BlackRock
+    type: Asset Manager
+    focus: mixed
+    hq: New York, NY
+    careers: https://careers.blackrock.com/early-careers/
+    sources:
+      - workday: {host: blackrock.wd1.myworkdayjobs.com, tenant: blackrock, site: BlackRock_Early_Careers_Program}
+      - workday: {host: blackrock.wd1.myworkdayjobs.com, tenant: blackrock, site: BlackRock_Professional}
+    verified: true
+
+  - name: AllianceBernstein (Bernstein Private Wealth)
+    type: Asset Manager
+    focus: mixed
+    hq: Nashville, TN
+    careers: https://abglobal.wd1.myworkdayjobs.com/abcampuscareers
+    sources:
+      - workday: {host: abglobal.wd1.myworkdayjobs.com, tenant: abglobal, site: abcampuscareers}
+      - workday: {host: abglobal.wd1.myworkdayjobs.com, tenant: abglobal, site: alliancebernsteincareers}
+    verified: true
+
+  - name: T. Rowe Price
+    type: Asset Manager
+    focus: mixed
+    hq: Baltimore, MD
+    careers: https://troweprice.wd5.myworkdayjobs.com/TRowePrice
+    sources:
+      - workday: {host: troweprice.wd5.myworkdayjobs.com, tenant: troweprice, site: TRowePrice}
+    verified: true
+
+  - name: Capital Group
+    type: Asset Manager
+    focus: mixed
+    hq: Los Angeles, CA
+    careers: https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers
+    sources:
+      - workday: {host: capgroup.wd1.myworkdayjobs.com, tenant: capgroup, site: capitalgroupcareers}
+    verified: true
+
+  - name: Franklin Templeton
+    type: Asset Manager
+    focus: mixed
+    hq: San Mateo, CA
+    careers: https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1
+    sources:
+      - workday: {host: franklintempleton.wd5.myworkdayjobs.com, tenant: franklintempleton, site: invitation-only}
+    verified: true
+
+  - name: Invesco
+    type: Asset Manager
+    focus: mixed
+    hq: Atlanta, GA
+    careers: https://invesco.wd1.myworkdayjobs.com/IVZearlycareers
+    sources:
+      - workday: {host: invesco.wd1.myworkdayjobs.com, tenant: invesco, site: IVZearlycareers}
+      - workday: {host: invesco.wd1.myworkdayjobs.com, tenant: invesco, site: IVZ}
+    verified: true
+
+  - name: Neuberger Berman (Private Wealth)
+    type: Asset Manager
+    focus: mixed
+    hq: New York, NY
+    careers: https://nb.wd1.myworkdayjobs.com/NBCareers
+    sources:
+      - workday: {host: nb.wd1.myworkdayjobs.com, tenant: nb, site: NBCareers}
+    verified: true
+
+  - name: Dimensional Fund Advisors
+    type: Asset Manager
+    focus: mixed
+    hq: Austin, TX
+    careers: https://dimensional.wd5.myworkdayjobs.com/dfa_careers
+    sources:
+      - workday: {host: dimensional.wd5.myworkdayjobs.com, tenant: dimensional, site: dfa_careers}
+    verified: true
+
+  - name: Wellington Management
+    type: Asset Manager
+    focus: mixed
+    hq: Boston, MA
+    careers: https://wellington.wd5.myworkdayjobs.com/Campus
+    sources:
+      - workday: {host: wellington.wd5.myworkdayjobs.com, tenant: wellington, site: Campus}
+    verified: true
+
+  - name: State Street
+    type: Asset Manager
+    focus: mixed
+    hq: Boston, MA
+    careers: https://statestreet.wd1.myworkdayjobs.com/Global
+    sources:
+      - workday: {host: statestreet.wd1.myworkdayjobs.com, tenant: statestreet, site: Global}
+    verified: true
+
+  - name: TIAA / Nuveen
+    type: Asset Manager
+    focus: mixed
+    hq: New York, NY
+    careers: https://tiaa.wd1.myworkdayjobs.com/Search
+    sources:
+      - workday: {host: tiaa.wd1.myworkdayjobs.com, tenant: tiaa, site: Search}
+    verified: true
+
+  - name: PIMCO
+    type: Asset Manager
+    focus: mixed
+    hq: Newport Beach, CA
+    careers: https://pimco.wd1.myworkdayjobs.com/pimco-careers
+    sources:
+      - workday: {host: pimco.wd1.myworkdayjobs.com, tenant: pimco, site: pimco-careers}
+    verified: true
+
+  - name: Blackstone (Private Wealth Solutions)
+    type: Asset Manager
+    focus: mixed
+    hq: New York, NY
+    careers: https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers
+    sources:
+      - workday: {host: blackstone.wd1.myworkdayjobs.com, tenant: blackstone, site: Blackstone_Campus_Careers}
+    verified: true
+
+  # ---------------------------------------------------------------- Wealthtech
+  - name: Orion
+    type: Wealthtech
+    focus: wealth
+    hq: Omaha, NE
+    careers: https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers
+    sources:
+      - workday: {host: orionadvisor.wd1.myworkdayjobs.com, tenant: orionadvisor, site: Orion_Careers}
+    verified: true
+
+  - name: Addepar
+    type: Wealthtech
+    focus: wealth
+    hq: Mountain View, CA
+    careers: https://addepar.com/careers
+    sources:
+      - greenhouse: {board: addepar1}
+    verified: true
+
+  - name: Range
+    type: Wealthtech
+    focus: wealth
+    hq: McLean, VA
+    careers: https://jobs.ashbyhq.com/range
+    sources:
+      - ashby: {board: range}
+    verified: true
+
+  - name: Robinhood
+    type: Wealthtech
+    focus: mixed
+    hq: Menlo Park, CA
+    careers: https://careers.robinhood.com/
+    sources:
+      - greenhouse: {board: robinhood}
+    verified: true
+
+  - name: Wealthfront
+    type: Wealthtech
+    focus: wealth
+    hq: Palo Alto, CA
+    careers: https://www.wealthfront.com/careers
+    sources:
+      - page: {url: "https://www.wealthfront.com/careers"}
+
+  - name: Betterment
+    type: Wealthtech
+    focus: wealth
+    hq: New York, NY
+    careers: https://www.betterment.com/careers
+    sources:
+      - page: {url: "https://www.betterment.com/careers"}
+
+  - name: Altruist
+    type: Wealthtech
+    focus: wealth
+    hq: Los Angeles, CA
+    careers: https://altruist.com/careers
+    sources:
+      - page: {url: "https://altruist.com/careers"}
+
+  - name: Farther
+    type: Wealthtech
+    focus: wealth
+    hq: New York, NY
+    careers: https://www.farther.com/careers
+    sources:
+      - page: {url: "https://www.farther.com/careers"}

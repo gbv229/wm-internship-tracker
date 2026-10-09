@@ -1,0 +1,69 @@
+name: Update internships
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"      # every 30 minutes (GitHub may start runs a few minutes late)
+  workflow_dispatch:             # "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+    paths: ["companies.yaml", "scraper/**", "site/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m pytest -q tests
+
+      - name: Scrape careers sites
+        run: python -m scraper.run
+
+      - name: Save changes
+        run: |
+          git config user.name  "internship-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/postings.json data/companies.json data/seen.json
+          if git diff --cached --quiet; then
+            echo "No changes in postings."
+          else
+            git commit -m "Update postings $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Build site
+        run: |
+          mkdir -p _site/data
+          cp site/* _site/
+          cp data/*.json _site/data/
+
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4

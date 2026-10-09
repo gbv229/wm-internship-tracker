@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WM Internship Tracker</title>
+<meta name="description" content="Wealth management internships for college students at 100+ banks, private banks, brokerages and RIAs — deadlines, class-year eligibility and links, checked every 30 minutes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2312352E'/><path d='M7 9l3.5 14L16 12l5.5 11L25 9' fill='none' stroke='%23E6EFEA' stroke-width='3' stroke-linejoin='round'/></svg>">
+</head>
+<body>
+<a class="skip" href="#results">Skip to postings</a>
+
+<header class="masthead">
+  <div class="wrap">
+    <h1>Wealth management internships</h1>
+    <p class="lede">Internships at <span data-count="companies">100+</span> banks, private banks, brokerages, RIAs and wealthtech firms, pulled straight from their careers sites. Every role links to the employer's own posting.</p>
+    <p class="freshness" id="freshness" aria-live="polite">Loading…</p>
+  </div>
+</header>
+
+<section class="closing" aria-labelledby="closing-h">
+  <div class="wrap">
+    <h2 id="closing-h">Closing next</h2>
+    <ol class="closing-list" id="closing-list"></ol>
+  </div>
+</section>
+
+<main class="wrap" id="main">
+  <nav class="tabs" role="tablist" aria-label="Views">
+    <button role="tab" aria-selected="true" aria-controls="panel-postings" id="tab-postings" data-tab="postings">Postings <span class="tab-n" id="n-postings"></span></button>
+    <button role="tab" aria-selected="false" aria-controls="panel-firms" id="tab-firms" data-tab="firms" tabindex="-1">Firms <span class="tab-n" id="n-firms"></span></button>
+    <button role="tab" aria-selected="false" aria-controls="panel-about" id="tab-about" data-tab="about" tabindex="-1">How it works</button>
+  </nav>
+
+  <!-- ============================== POSTINGS -->
+  <section role="tabpanel" id="panel-postings" aria-labelledby="tab-postings">
+    <div class="who">
+      <span class="who-label" id="who-label">Show roles open to</span>
+      <div class="seg" role="radiogroup" aria-labelledby="who-label" id="class-seg"></div>
+      <label class="check"><input type="checkbox" id="f-unstated" checked> Include roles that don't say</label>
+    </div>
+
+    <form class="filters" id="filters" onsubmit="return false">
+      <label class="f-search">
+        <span class="sr">Search</span>
+        <input type="search" id="f-q" placeholder="Search firm, role or city" autocomplete="off">
+      </label>
+      <label><span>Season</span>
+        <select id="f-season"></select>
+      </label>
+      <label><span>Firm type</span>
+        <select id="f-type"><option value="">All firm types</option></select>
+      </label>
+      <label><span>Status</span>
+        <select id="f-status">
+          <option value="active">Open, deadline not passed</option>
+          <option value="open">Open (all)</option>
+          <option value="closed">Closed</option>
+          <option value="all">Everything</option>
+        </select>
+      </label>
+      <label><span>Level</span>
+        <select id="f-level">
+          <option value="Undergraduate">Undergraduate</option>
+          <option value="">Undergrad + MBA</option>
+        </select>
+      </label>
+    </form>
+
+    <div class="resultbar">
+      <p id="result-count" aria-live="polite"></p>
+      <div class="resultbar-actions">
+        <button type="button" class="link" id="reset">Reset filters</button>
+        <button type="button" class="btn-quiet" id="csv">Download CSV</button>
+      </div>
+    </div>
+
+    <div class="table-wrap" id="results">
+      <table class="postings">
+        <thead>
+          <tr>
+            <th scope="col"><button data-sort="company">Firm</button></th>
+            <th scope="col"><button data-sort="title">Role</button></th>
+            <th scope="col"><button data-sort="season">Season</button></th>
+            <th scope="col"><button data-sort="classes">Eligible</button></th>
+            <th scope="col"><button data-sort="deadline" aria-sort="ascending">Deadline</button></th>
+            <th scope="col"><button data-sort="posted">Posted</button></th>
+            <th scope="col"><span class="sr">Apply</span></th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <div class="empty" id="empty" hidden></div>
+    </div>
+  </section>
+
+  <!-- ============================== FIRMS -->
+  <section role="tabpanel" id="panel-firms" aria-labelledby="tab-firms" hidden>
+    <p class="panel-intro">Every firm on the list and how it's tracked. <strong>Live feed</strong> firms are read directly from their job system and parsed into the postings table. <strong>Page watch</strong> firms don't publish a feed, so the site checks their careers page for changes — open their link when it changes.</p>
+    <form class="filters" onsubmit="return false">
+      <label class="f-search"><span class="sr">Search firms</span><input type="search" id="ff-q" placeholder="Search firms" autocomplete="off"></label>
+      <label><span>Firm type</span><select id="ff-type"><option value="">All firm types</option></select></label>
+      <label><span>Tracking</span>
+        <select id="ff-mode">
+          <option value="">All</option>
+          <option value="feed">Live feed</option>
+          <option value="page">Page watch</option>
+          <option value="error">Needs attention</option>
+        </select>
+      </label>
+    </form>
+    <div class="table-wrap">
+      <table class="firms">
+        <thead><tr>
+          <th scope="col">Firm</th><th scope="col">Type</th><th scope="col">HQ</th>
+          <th scope="col" class="num">Open roles</th><th scope="col">Tracking</th><th scope="col">Last change</th>
+        </tr></thead>
+        <tbody id="firm-rows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============================== ABOUT -->
+  <section role="tabpanel" id="panel-about" aria-labelledby="tab-about" hidden>
+    <div class="prose">
+      <h2>How it works</h2>
+      <p>Every 30 minutes a script reads the careers systems that 100+ firms use (Workday, Oracle, iCIMS, Greenhouse and others), keeps internships tied to wealth management, private banking and financial advising, and rebuilds this page.</p>
+      <h3>What the columns mean</h3>
+      <dl>
+        <dt>Eligible</dt>
+        <dd>The graduating class the posting says it's for, read from lines like "expected graduation between December 2027 and June 2028" or "open to rising juniors". If a posting doesn't say, it shows <em>Not stated</em> — check the posting. Open a row to see the exact sentence it was read from.</dd>
+        <dt>Deadline</dt>
+        <dd>Only shown when the posting states one. Most banks review on a rolling basis, so applying early matters even when no deadline is listed.</dd>
+        <dt>Season</dt>
+        <dd>Read from the title or description. A small <em>est.</em> means the year wasn't stated and was estimated from when the role was posted.</dd>
+        <dt>Closed</dt>
+        <dd>A role is marked closed once it has disappeared from the firm's careers site on two checks in a row.</dd>
+      </dl>
+      <h3>What it can't see</h3>
+      <p>Some firms run careers sites that don't offer a feed, or block automated checks. They're listed under <em>Firms</em> as <em>Page watch</em> with a direct link. Programs posted only on Handshake or a school's career portal won't appear here.</p>
+      <p>This is an independent student project and isn't affiliated with any firm listed. Always confirm details on the employer's posting before applying.</p>
+      <h3>Suggest a firm</h3>
+      <p>Open an issue or pull request on the <a id="repo-link" href="#">GitHub repository</a> with the firm's careers link.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Independent student project. Not affiliated with any firm listed. <a id="repo-link-2" href="#">Source on GitHub</a></p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
