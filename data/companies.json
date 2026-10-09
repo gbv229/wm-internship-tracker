@@ -203,7 +203,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-09",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 4,
+   "open": 6,
    "sources": [
     {
      "kind": "workday",
@@ -320,7 +320,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "c9d8bff065edb124",
+     "hash": "8570e41631cbfb80",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1015,8 +1015,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "3198201d75e5c1ac",
+     "changed_on": "2026-10-09",
+     "hash": "ec757835e03f9c15",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1119,7 +1119,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-09",
    "name": "Baird",
-   "open": 29,
+   "open": 30,
    "sources": [
     {
      "kind": "workday",
@@ -1160,8 +1160,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "1f3b70d9551bc183",
+     "changed_on": "2026-10-09",
+     "hash": "76ac7df822f316ca",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1252,10 +1252,11 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
+     "changed_on": null,
      "hash": "141ec77912857372",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.hilltopsecurities.com/careers/"
     }
    ],
@@ -1501,7 +1502,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "f3c3959ddf31a3ef",
+     "hash": "aa675c6a96599758",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1545,7 +1546,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "539971c9326ce6b9",
+     "hash": "1b58e3cce13d7612",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2353,8 +2354,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-08",
-     "hash": "a13c11ef431197b0",
+     "changed_on": "2026-10-09",
+     "hash": "d2383e7de3514a25",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2396,7 +2397,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-09",
    "name": "JLL",
-   "open": 30,
+   "open": 38,
    "sources": [
     {
      "kind": "workday",
@@ -2618,7 +2619,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "2a3ff07ee16dc45c",
+     "hash": "8e82fb95a305333b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2706,7 +2707,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "6b78960954915537",
+     "hash": "1a9c981613c08453",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2729,7 +2730,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "c6aa589384699d14",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3453,7 +3454,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-09",
    "name": "PulteGroup",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -3810,10 +3811,11 @@
    "open": 0,
    "sources": [
     {
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7fcfdac77b60>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
-     "hash": "2e3f950686073ccd",
+     "changed_on": "2026-10-09",
+     "hash": "d2cb6914bcfc8d10",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4235,8 +4237,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "154f916ec76d415c",
+     "changed_on": "2026-10-09",
+     "hash": "7e8c96776f00b4b8",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4328,7 +4330,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "hash": "60923b21b48cadb4",
+     "hash": "bcc608546b95503c",
      "kind": "page",
      "links": [],
      "ok": true,
