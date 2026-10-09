@@ -4,7 +4,7 @@
    "careers": "https://www.morganstanley.com/people-opportunities/students-graduates",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Morgan Stanley",
    "open": 2,
    "sources": [
@@ -24,7 +24,7 @@
    "careers": "https://higher.gs.com/campus",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Goldman Sachs",
    "open": 0,
    "sources": [
@@ -48,7 +48,7 @@
    "careers": "https://careers.jpmorgan.com/us/en/students/programs",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "J.P. Morgan",
    "open": 20,
    "sources": [
@@ -68,7 +68,7 @@
    "careers": "https://campus.bankofamerica.com/",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Bank of America / Merrill",
    "open": 0,
    "sources": [
@@ -96,7 +96,7 @@
    "careers": "https://www.wellsfargojobs.com/en/early-careers/",
    "focus": "mixed",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Wells Fargo",
    "open": 3,
    "sources": [
@@ -116,7 +116,7 @@
    "careers": "https://jobs.citi.com/students-and-graduates",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Citi (incl. Citi Private Bank)",
    "open": 14,
    "sources": [
@@ -136,7 +136,7 @@
    "careers": "https://www.ubs.com/global/en/careers/early-careers.html",
    "focus": "mixed",
    "hq": "Zurich / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "UBS",
    "open": 0,
    "sources": [
@@ -163,7 +163,7 @@
    "careers": "https://search.jobs.barclays/",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Barclays",
    "open": 4,
    "sources": [
@@ -182,7 +182,7 @@
    "careers": "https://careers.db.com/students-graduates/",
    "focus": "mixed",
    "hq": "Frankfurt / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Deutsche Bank",
    "open": 3,
    "sources": [
@@ -201,7 +201,7 @@
    "careers": "https://jobs.rbc.com/ca/en/students-and-graduates",
    "focus": "mixed",
    "hq": "Toronto / Minneapolis",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
    "open": 5,
    "sources": [
@@ -229,7 +229,7 @@
    "careers": "https://jobs.td.com/en-CA/students-and-new-grads/",
    "focus": "mixed",
    "hq": "Toronto / Cherry Hill, NJ",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "TD (incl. TD Wealth)",
    "open": 0,
    "sources": [
@@ -249,7 +249,7 @@
    "careers": "https://cibc.wd3.myworkdayjobs.com/campus",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "CIBC Private Wealth",
    "open": 6,
    "sources": [
@@ -272,7 +272,7 @@
    "careers": "https://santander.wd3.myworkdayjobs.com/SantanderCareers",
    "focus": "mixed",
    "hq": "Madrid / Boston",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Santander (Private Banking)",
    "open": 0,
    "sources": [
@@ -291,13 +291,13 @@
    "careers": "https://www.hsbc.com/careers/students-and-graduates",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "HSBC",
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "6e4b4b475f173782",
+     "changed_on": "2026-10-09",
+     "hash": "d354d8ea6b353716",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -314,13 +314,13 @@
    "careers": "https://jobs.bmo.com/us/en",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "BMO (incl. BMO Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-08",
-     "hash": "3f6f31a309c15a7f",
+     "changed_on": "2026-10-09",
+     "hash": "03827bb8b959e625",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -337,7 +337,7 @@
    "careers": "https://juliusbaer.wd3.myworkdayjobs.com/External",
    "focus": "wealth",
    "hq": "Zurich",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Julius Baer",
    "open": 3,
    "sources": [
@@ -356,7 +356,7 @@
    "careers": "https://www.jefferies.com/careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Jefferies (Private Wealth)",
    "open": 0,
    "sources": [
@@ -376,9 +376,9 @@
    "careers": "https://www.lazard.com/careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Lazard (Lazard Wealth Management)",
-   "open": 3,
+   "open": 4,
    "sources": [
     {
      "kind": "oracle",
@@ -395,7 +395,7 @@
    "careers": "https://www.rothschildandco.com/en/careers/",
    "focus": "mixed",
    "hq": "Paris / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Rothschild & Co (Wealth Mgmt)",
    "open": 0,
    "sources": [
@@ -421,7 +421,7 @@
    "careers": "https://www.evercore.com/careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Evercore Wealth Management",
    "open": 0,
    "sources": [
@@ -444,7 +444,7 @@
    "careers": "https://www.williamblair.com/Careers",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "William Blair (Private Wealth)",
    "open": 0,
    "sources": [
@@ -463,7 +463,7 @@
    "careers": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Piper Sandler",
    "open": 0,
    "sources": [
@@ -482,7 +482,7 @@
    "careers": "https://www.northerntrust.com/united-states/about-us/careers/students",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Northern Trust",
    "open": 3,
    "sources": [
@@ -501,7 +501,7 @@
    "careers": "https://www.bny.com/corporate/global/en/careers/students-and-graduates.html",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "BNY (incl. BNY Wealth)",
    "open": 6,
    "sources": [
@@ -520,7 +520,7 @@
    "careers": "https://www.bbh.com/us/en/careers.html",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Brown Brothers Harriman",
    "open": 0,
    "sources": [
@@ -539,7 +539,7 @@
    "careers": "https://mtb.wd5.myworkdayjobs.com/wtexternal",
    "focus": "wealth",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Wilmington Trust",
    "open": 0,
    "sources": [
@@ -558,7 +558,7 @@
    "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Fiduciary Trust International (Franklin)",
    "open": 0,
    "sources": [
@@ -577,7 +577,7 @@
    "careers": "https://www.bessemertrust.com/intern-with-us",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Bessemer Trust",
    "open": 0,
    "sources": [
@@ -603,7 +603,7 @@
    "careers": "https://www.glenmede.com/careers/",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Glenmede",
    "open": 0,
    "sources": [
@@ -626,7 +626,7 @@
    "careers": "https://www.brownadvisory.com/us/careers",
    "focus": "wealth",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Brown Advisory",
    "open": 0,
    "sources": [
@@ -651,7 +651,7 @@
    "careers": "https://jobs.firstcitizens.com/",
    "focus": "mixed",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "First Citizens (Wealth)",
    "open": 0,
    "sources": [
@@ -674,7 +674,7 @@
    "careers": "https://careers.pnc.com/global/en/students",
    "focus": "mixed",
    "hq": "Pittsburgh, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "PNC (PNC Private Bank)",
    "open": 1,
    "sources": [
@@ -694,7 +694,7 @@
    "careers": "https://careers.truist.com/",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Truist (Truist Wealth)",
    "open": 0,
    "sources": [
@@ -714,7 +714,7 @@
    "careers": "https://careers.usbank.com/",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "U.S. Bank (Private Wealth)",
    "open": 1,
    "sources": [
@@ -734,7 +734,7 @@
    "careers": "https://mtb.wd5.myworkdayjobs.com/Campus",
    "focus": "mixed",
    "hq": "Buffalo, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "M&T Bank (Wealth)",
    "open": 0,
    "sources": [
@@ -758,7 +758,7 @@
    "careers": "https://jobs.citizensbank.com/",
    "focus": "mixed",
    "hq": "Providence, RI",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Citizens (Private Wealth)",
    "open": 0,
    "sources": [
@@ -778,7 +778,7 @@
    "careers": "https://fifththird.wd5.myworkdayjobs.com/53careers",
    "focus": "mixed",
    "hq": "Cincinnati, OH",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Fifth Third (Wealth)",
    "open": 0,
    "sources": [
@@ -798,7 +798,7 @@
    "careers": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
    "focus": "mixed",
    "hq": "Cleveland, OH",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "KeyBank",
    "open": 15,
    "sources": [
@@ -818,7 +818,7 @@
    "careers": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Huntington (Private Bank)",
    "open": 1,
    "sources": [
@@ -838,7 +838,7 @@
    "careers": "https://regions.wd5.myworkdayjobs.com/regions_careers",
    "focus": "mixed",
    "hq": "Birmingham, AL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Regions (Private Wealth)",
    "open": 0,
    "sources": [
@@ -858,7 +858,7 @@
    "careers": "https://associatedbank.wd1.myworkdayjobs.com/external_careers",
    "focus": "mixed",
    "hq": "Green Bay, WI",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Associated Bank (Private Wealth)",
    "open": 0,
    "sources": [
@@ -877,7 +877,7 @@
    "careers": "https://frostbank.wd5.myworkdayjobs.com/External",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Frost (Private Wealth)",
    "open": 0,
    "sources": [
@@ -896,7 +896,7 @@
    "careers": "https://www.fultonbank.com/About-Fulton-Bank/Careers",
    "focus": "mixed",
    "hq": "Lancaster, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Fulton Bank (Fulton Private Bank)",
    "open": 0,
    "sources": [
@@ -920,7 +920,7 @@
    "careers": "https://www.univest.net/careers",
    "focus": "mixed",
    "hq": "Souderton, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Univest (Wealth)",
    "open": 0,
    "sources": [
@@ -943,7 +943,7 @@
    "careers": "https://www.wsfsbank.com/careers",
    "focus": "mixed",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "WSFS / Bryn Mawr Trust",
    "open": 0,
    "sources": [
@@ -968,7 +968,7 @@
    "careers": "https://jobs.fidelity.com/en/students-and-graduates/",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Fidelity Investments",
    "open": 0,
    "sources": [
@@ -991,7 +991,7 @@
    "careers": "https://www.schwabjobs.com/students",
    "focus": "wealth",
    "hq": "Westlake, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Charles Schwab",
    "open": 1,
    "sources": [
@@ -1010,7 +1010,7 @@
    "careers": "https://careers.edwardjones.com/",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Edward Jones",
    "open": 0,
    "sources": [
@@ -1033,7 +1033,7 @@
    "careers": "https://www.raymondjames.com/careers/students",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Raymond James",
    "open": 2,
    "sources": [
@@ -1056,7 +1056,7 @@
    "careers": "https://www.ameriprise.com/careers",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Ameriprise Financial",
    "open": 3,
    "sources": [
@@ -1075,9 +1075,9 @@
    "careers": "https://lplfinancial.wd1.myworkdayjobs.com/university",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "LPL Financial",
-   "open": 11,
+   "open": 10,
    "sources": [
     {
      "kind": "workday",
@@ -1098,7 +1098,7 @@
    "careers": "https://www.stifel.com/careers",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Stifel",
    "open": 2,
    "sources": [
@@ -1117,9 +1117,9 @@
    "careers": "https://www.rwbaird.com/careers/",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Baird",
-   "open": 32,
+   "open": 29,
    "sources": [
     {
      "kind": "workday",
@@ -1136,7 +1136,7 @@
    "careers": "https://rockco.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Rockefeller Capital Management",
    "open": 11,
    "sources": [
@@ -1155,7 +1155,7 @@
    "careers": "https://opco.hrmdirect.com/employment/job-openings.php?search=true",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Oppenheimer & Co.",
    "open": 0,
    "sources": [
@@ -1178,7 +1178,7 @@
    "careers": "https://www.janney.com/careers",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Janney Montgomery Scott",
    "open": 0,
    "sources": [
@@ -1201,7 +1201,7 @@
    "careers": "https://dadavidson.com/careers",
    "focus": "wealth",
    "hq": "Great Falls, MT",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "D.A. Davidson",
    "open": 0,
    "sources": [
@@ -1224,7 +1224,7 @@
    "careers": "https://www.stephens.com/careers/",
    "focus": "mixed",
    "hq": "Little Rock, AR",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Stephens",
    "open": 0,
    "sources": [
@@ -1247,7 +1247,7 @@
    "careers": "https://www.hilltopsecurities.com/careers/",
    "focus": "mixed",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Hilltop Securities",
    "open": 0,
    "sources": [
@@ -1270,9 +1270,9 @@
    "careers": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site",
    "focus": "wealth",
    "hq": "Fairfield, IA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Cambridge Investment Research",
-   "open": 8,
+   "open": 6,
    "sources": [
     {
      "kind": "workday",
@@ -1289,7 +1289,7 @@
    "careers": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site",
    "focus": "wealth",
    "hq": "Phoenix, AZ",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Osaic",
    "open": 0,
    "sources": [
@@ -1308,7 +1308,7 @@
    "careers": "https://www.cetera.com/careers",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Cetera Financial Group",
    "open": 0,
    "sources": [
@@ -1327,7 +1327,7 @@
    "careers": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services",
    "focus": "mixed",
    "hq": "Oaks, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "SEI",
    "open": 0,
    "sources": [
@@ -1346,7 +1346,7 @@
    "careers": "https://creativeplanning.com/careers/",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Creative Planning",
    "open": 0,
    "sources": [
@@ -1372,7 +1372,7 @@
    "careers": "https://www.captrust.com/careers/",
    "focus": "wealth",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "CAPTRUST",
    "open": 0,
    "sources": [
@@ -1391,7 +1391,7 @@
    "careers": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Cerity Partners",
    "open": 18,
    "sources": [
@@ -1410,7 +1410,7 @@
    "careers": "https://focusfinancialpartners.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Focus Financial Partners",
    "open": 0,
    "sources": [
@@ -1429,7 +1429,7 @@
    "careers": "https://www.mariner.com/careers/",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Mariner",
    "open": 0,
    "sources": [
@@ -1452,7 +1452,7 @@
    "careers": "https://cressetcapital.com/careers/",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Cresset",
    "open": 0,
    "sources": [
@@ -1496,7 +1496,7 @@
    "careers": "https://www.wealthenhancement.com/careers",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Wealth Enhancement Group",
    "open": 0,
    "sources": [
@@ -1540,7 +1540,7 @@
    "careers": "https://www.carsongroup.com/careers/",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Carson Group",
    "open": 0,
    "sources": [
@@ -1563,7 +1563,7 @@
    "careers": "https://www.merceradvisors.com/careers/",
    "focus": "wealth",
    "hq": "Denver, CO",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Mercer Advisors",
    "open": 0,
    "sources": [
@@ -1649,7 +1649,7 @@
    "careers": "https://www.dynastyfinancial.com/careers",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Dynasty Financial Partners",
    "open": 0,
    "sources": [
@@ -1672,7 +1672,7 @@
    "careers": "https://www.silvercrestgroup.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Silvercrest Asset Management",
    "open": 0,
    "sources": [
@@ -1695,9 +1695,9 @@
    "careers": "https://www.northwesternmutual.com/careers/",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Northwestern Mutual",
-   "open": 6,
+   "open": 4,
    "sources": [
     {
      "kind": "workday",
@@ -1727,7 +1727,7 @@
    "careers": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
    "focus": "mixed",
    "hq": "Springfield, MA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "MassMutual",
    "open": 0,
    "sources": [
@@ -1747,7 +1747,7 @@
    "careers": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Guardian Life",
    "open": 1,
    "sources": [
@@ -1766,9 +1766,9 @@
    "careers": "https://pru.wd5.myworkdayjobs.com/Careers",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Prudential Financial",
-   "open": 3,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -1785,7 +1785,7 @@
    "careers": "https://thrivent.wd5.myworkdayjobs.com/external",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Thrivent",
    "open": 0,
    "sources": [
@@ -1804,7 +1804,7 @@
    "careers": "https://hq.wd12.myworkdayjobs.com/Securian_External",
    "focus": "mixed",
    "hq": "St. Paul, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Securian Financial",
    "open": 0,
    "sources": [
@@ -1823,7 +1823,7 @@
    "careers": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Nationwide",
    "open": 0,
    "sources": [
@@ -1842,7 +1842,7 @@
    "careers": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "USAA",
    "open": 0,
    "sources": [
@@ -1861,7 +1861,7 @@
    "careers": "https://www.newyorklife.com/careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "New York Life",
    "open": 0,
    "sources": [
@@ -1887,7 +1887,7 @@
    "careers": "https://careers.principal.com/",
    "focus": "mixed",
    "hq": "Des Moines, IA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Principal Financial Group",
    "open": 0,
    "sources": [
@@ -1913,7 +1913,7 @@
    "careers": "https://jobs.lincolnfinancial.com/",
    "focus": "mixed",
    "hq": "Radnor, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Lincoln Financial",
    "open": 0,
    "sources": [
@@ -1941,7 +1941,7 @@
    "careers": "https://www.vanguardjobs.com/",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Vanguard",
    "open": 0,
    "sources": [
@@ -1960,7 +1960,7 @@
    "careers": "https://careers.blackrock.com/early-careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "BlackRock",
    "open": 2,
    "sources": [
@@ -1984,7 +1984,7 @@
    "careers": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers",
    "focus": "mixed",
    "hq": "Nashville, TN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "AllianceBernstein (Bernstein Private Wealth)",
    "open": 10,
    "sources": [
@@ -2007,7 +2007,7 @@
    "careers": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
    "focus": "mixed",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "T. Rowe Price",
    "open": 0,
    "sources": [
@@ -2026,7 +2026,7 @@
    "careers": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers",
    "focus": "mixed",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Capital Group",
    "open": 0,
    "sources": [
@@ -2045,7 +2045,7 @@
    "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
    "focus": "mixed",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Franklin Templeton",
    "open": 0,
    "sources": [
@@ -2064,7 +2064,7 @@
    "careers": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers",
    "focus": "mixed",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Invesco",
    "open": 2,
    "sources": [
@@ -2088,7 +2088,7 @@
    "careers": "https://nb.wd1.myworkdayjobs.com/NBCareers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Neuberger Berman (Private Wealth)",
    "open": 0,
    "sources": [
@@ -2107,7 +2107,7 @@
    "careers": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers",
    "focus": "mixed",
    "hq": "Austin, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Dimensional Fund Advisors",
    "open": 0,
    "sources": [
@@ -2126,7 +2126,7 @@
    "careers": "https://wellington.wd5.myworkdayjobs.com/Campus",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Wellington Management",
    "open": 0,
    "sources": [
@@ -2145,7 +2145,7 @@
    "careers": "https://statestreet.wd1.myworkdayjobs.com/Global",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "State Street",
    "open": 0,
    "sources": [
@@ -2164,7 +2164,7 @@
    "careers": "https://tiaa.wd1.myworkdayjobs.com/Search",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "TIAA / Nuveen",
    "open": 0,
    "sources": [
@@ -2184,7 +2184,7 @@
    "careers": "https://pimco.wd1.myworkdayjobs.com/pimco-careers",
    "focus": "mixed",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "PIMCO",
    "open": 6,
    "sources": [
@@ -2203,7 +2203,7 @@
    "careers": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Blackstone",
    "open": 8,
    "sources": [
@@ -2223,7 +2223,7 @@
    "careers": "https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Orion",
    "open": 0,
    "sources": [
@@ -2242,7 +2242,7 @@
    "careers": "https://addepar.com/careers",
    "focus": "wealth",
    "hq": "Mountain View, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Addepar",
    "open": 0,
    "sources": [
@@ -2261,7 +2261,7 @@
    "careers": "https://jobs.ashbyhq.com/range",
    "focus": "wealth",
    "hq": "McLean, VA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Range",
    "open": 0,
    "sources": [
@@ -2280,7 +2280,7 @@
    "careers": "https://www.wealthfront.com/careers",
    "focus": "wealth",
    "hq": "Palo Alto, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Wealthfront",
    "open": 0,
    "sources": [
@@ -2303,7 +2303,7 @@
    "careers": "https://www.betterment.com/careers",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Betterment",
    "open": 0,
    "sources": [
@@ -2326,7 +2326,7 @@
    "careers": "https://altruist.com/careers",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Altruist",
    "open": 0,
    "sources": [
@@ -2349,7 +2349,7 @@
    "careers": "https://www.farther.com/careers",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Farther",
    "open": 0,
    "sources": [
@@ -2372,7 +2372,7 @@
    "careers": "https://careers.cbre.com/en_US/careers",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "CBRE (incl. Trammell Crow Company)",
    "open": 0,
    "sources": [
@@ -2395,9 +2395,9 @@
    "careers": "https://www.us.jll.com/en/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "JLL",
-   "open": 32,
+   "open": 31,
    "sources": [
     {
      "kind": "workday",
@@ -2414,7 +2414,7 @@
    "careers": "https://www.cushmanwakefield.com/en/united-states/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Cushman & Wakefield",
    "open": 22,
    "sources": [
@@ -2433,7 +2433,7 @@
    "careers": "https://www.colliers.com/en/careers",
    "focus": "real_estate",
    "hq": "Toronto / Seattle",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Colliers",
    "open": 0,
    "sources": [
@@ -2452,7 +2452,7 @@
    "careers": "https://www.nmrk.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Newmark",
    "open": 2,
    "sources": [
@@ -2471,7 +2471,7 @@
    "careers": "https://www.avisonyoung.us/careers",
    "focus": "real_estate",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Avison Young",
    "open": 0,
    "sources": [
@@ -2498,7 +2498,7 @@
    "careers": "https://www.marcusmillichap.com/careers",
    "focus": "real_estate",
    "hq": "Calabasas, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Marcus & Millichap",
    "open": 0,
    "sources": [
@@ -2521,7 +2521,7 @@
    "careers": "https://www.eastdilsecured.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Eastdil Secured",
    "open": 0,
    "sources": [
@@ -2544,7 +2544,7 @@
    "careers": "https://www.savills.us/careers/",
    "focus": "real_estate",
    "hq": "London / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Savills",
    "open": 0,
    "sources": [
@@ -2567,7 +2567,7 @@
    "careers": "https://kidder.com/careers/",
    "focus": "real_estate",
    "hq": "Seattle, WA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Kidder Mathews",
    "open": 0,
    "sources": [
@@ -2590,7 +2590,7 @@
    "careers": "https://www.lee-associates.com/careers/",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Lee & Associates",
    "open": 0,
    "sources": [
@@ -2613,13 +2613,13 @@
    "careers": "https://www.altusgroup.com/careers/",
    "focus": "real_estate",
    "hq": "Toronto / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Altus Group (ARGUS)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-08",
-     "hash": "c041312869a915f2",
+     "changed_on": "2026-10-09",
+     "hash": "8932aafa2908db39",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2636,9 +2636,9 @@
    "careers": "https://www.costargroup.com/careers",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "CoStar Group",
-   "open": 2,
+   "open": 0,
    "sources": [
     {
      "kind": "workday",
@@ -2659,7 +2659,7 @@
    "careers": "https://www.trepp.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Trepp",
    "open": 0,
    "sources": [
@@ -2682,7 +2682,7 @@
    "careers": "https://www.walkerdunlop.com/careers/",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Walker & Dunlop",
    "open": 0,
    "sources": [
@@ -2701,13 +2701,13 @@
    "careers": "https://www.berkadia.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Berkadia",
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "a156db42d0c5c1df",
+     "changed_on": "2026-10-09",
+     "hash": "89d5d2892fedf4d5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2724,7 +2724,7 @@
    "careers": "https://www.greystone.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Greystone",
    "open": 0,
    "sources": [
@@ -2747,7 +2747,7 @@
    "careers": "https://www.northmarq.com/careers",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Northmarq",
    "open": 0,
    "sources": [
@@ -2770,7 +2770,7 @@
    "careers": "https://www.trimont.com/careers/",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Trimont",
    "open": 0,
    "sources": [
@@ -2793,7 +2793,7 @@
    "careers": "https://arbor.com/careers/",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Arbor Realty Trust",
    "open": 0,
    "sources": [
@@ -2816,7 +2816,7 @@
    "careers": "https://www.fanniemae.com/careers",
    "focus": "mixed",
    "hq": "Washington, DC",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Fannie Mae (Multifamily)",
    "open": 0,
    "sources": [
@@ -2835,9 +2835,9 @@
    "careers": "https://careers.freddiemac.com/",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Freddie Mac (Multifamily)",
-   "open": 5,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -2854,7 +2854,7 @@
    "careers": "https://www.capitalonecareers.com/",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Capital One (Commercial Real Estate)",
    "open": 0,
    "sources": [
@@ -2873,7 +2873,7 @@
    "careers": "https://careers.firstam.com/",
    "focus": "mixed",
    "hq": "Santa Ana, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "First American",
    "open": 0,
    "sources": [
@@ -2892,7 +2892,7 @@
    "careers": "https://www.brookfield.com/careers",
    "focus": "mixed",
    "hq": "New York / Toronto",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Brookfield",
    "open": 0,
    "sources": [
@@ -2911,7 +2911,7 @@
    "careers": "https://www.pgim.com/careers",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "PGIM Real Estate",
    "open": 3,
    "sources": [
@@ -2930,7 +2930,7 @@
    "careers": "https://www.aresmgmt.com/careers",
    "focus": "mixed",
    "hq": "Los Angeles / New York",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Ares Management (Real Estate)",
    "open": 0,
    "sources": [
@@ -2949,7 +2949,7 @@
    "careers": "https://www.apollo.com/careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Apollo (Real Estate)",
    "open": 0,
    "sources": [
@@ -2968,7 +2968,7 @@
    "careers": "https://www.kkr.com/careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "KKR (Real Estate)",
    "open": 0,
    "sources": [
@@ -2991,7 +2991,7 @@
    "careers": "https://www.starwoodcapital.com/careers/",
    "focus": "real_estate",
    "hq": "Miami Beach, FL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Starwood Capital Group",
    "open": 0,
    "sources": [
@@ -3017,7 +3017,7 @@
    "careers": "https://www.clarionpartners.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Clarion Partners",
    "open": 0,
    "sources": [
@@ -3040,7 +3040,7 @@
    "careers": "https://www.heitman.com/careers/",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Heitman",
    "open": 0,
    "sources": [
@@ -3067,7 +3067,7 @@
    "careers": "https://www.harrisonst.com/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Harrison Street",
    "open": 0,
    "sources": [
@@ -3090,7 +3090,7 @@
    "careers": "https://www.bridgeig.com/careers",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Bridge Investment Group",
    "open": 0,
    "sources": [
@@ -3113,7 +3113,7 @@
    "careers": "https://www.crowholdings.com/careers/",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Crow Holdings",
    "open": 0,
    "sources": [
@@ -3138,7 +3138,7 @@
    "careers": "https://www.linklogistics.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Link Logistics",
    "open": 8,
    "sources": [
@@ -3199,7 +3199,7 @@
    "careers": "https://www.related.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Related Companies",
    "open": 0,
    "sources": [
@@ -3222,7 +3222,7 @@
    "careers": "https://www.lpc.com/careers/",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Lincoln Property Company",
    "open": 0,
    "sources": [
@@ -3245,7 +3245,7 @@
    "careers": "https://www.greystar.com/careers",
    "focus": "real_estate",
    "hq": "Charleston, SC",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Greystar",
    "open": 0,
    "sources": [
@@ -3271,7 +3271,7 @@
    "careers": "https://cortland.com/careers/",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Cortland",
    "open": 0,
    "sources": [
@@ -3290,7 +3290,7 @@
    "careers": "https://gables.wd5.myworkdayjobs.com/Gables_Careers",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Gables Residential",
    "open": 1,
    "sources": [
@@ -3309,7 +3309,7 @@
    "careers": "https://www.ryancompanies.com/careers",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Ryan Companies",
    "open": 2,
    "sources": [
@@ -3328,7 +3328,7 @@
    "careers": "https://www.jbgsmith.com/careers",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "JBG SMITH",
    "open": 0,
    "sources": [
@@ -3351,7 +3351,7 @@
    "careers": "https://job-boards.greenhouse.io/rxr",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "RXR",
    "open": 0,
    "sources": [
@@ -3370,7 +3370,7 @@
    "careers": "https://www.morgan-properties.com/careers",
    "focus": "real_estate",
    "hq": "King of Prussia, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Morgan Properties",
    "open": 0,
    "sources": [
@@ -3414,7 +3414,7 @@
    "careers": "https://www.invh.com/careers",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Invitation Homes",
    "open": 0,
    "sources": [
@@ -3433,7 +3433,7 @@
    "careers": "https://www.lennar.com/careers",
    "focus": "real_estate",
    "hq": "Miami, FL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Lennar",
    "open": 0,
    "sources": [
@@ -3452,7 +3452,7 @@
    "careers": "https://www.pultegroupcareers.com/",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "PulteGroup",
    "open": 0,
    "sources": [
@@ -3471,13 +3471,13 @@
    "careers": "https://www.drhorton.com/careers",
    "focus": "real_estate",
    "hq": "Arlington, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "D.R. Horton",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-08",
-     "hash": "3939bc7e507810c2",
+     "changed_on": "2026-10-09",
+     "hash": "ccfb22b4adfd7443",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -3497,7 +3497,7 @@
    "careers": "https://www.prologis.com/careers",
    "focus": "real_estate",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Prologis",
    "open": 0,
    "sources": [
@@ -3520,9 +3520,9 @@
    "careers": "https://careers.simon.com/",
    "focus": "real_estate",
    "hq": "Indianapolis, IN",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Simon Property Group",
-   "open": 4,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -3539,7 +3539,7 @@
    "careers": "https://www.bxp.com/careers",
    "focus": "real_estate",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "BXP (Boston Properties)",
    "open": 2,
    "sources": [
@@ -3558,7 +3558,7 @@
    "careers": "https://www.realtyincome.com/careers",
    "focus": "real_estate",
    "hq": "San Diego, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Realty Income",
    "open": 0,
    "sources": [
@@ -3577,7 +3577,7 @@
    "careers": "https://www.digitalrealty.com/careers",
    "focus": "real_estate",
    "hq": "Austin, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Digital Realty",
    "open": 1,
    "sources": [
@@ -3596,7 +3596,7 @@
    "careers": "https://careers.extraspace.com/",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Extra Space Storage",
    "open": 0,
    "sources": [
@@ -3615,7 +3615,7 @@
    "careers": "https://www.essexapartmenthomes.com/careers",
    "focus": "real_estate",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Essex Property Trust",
    "open": 0,
    "sources": [
@@ -3634,7 +3634,7 @@
    "careers": "https://www.rexfordindustrial.com/careers",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Rexford Industrial",
    "open": 0,
    "sources": [
@@ -3653,7 +3653,7 @@
    "careers": "https://www.hudsonpacificproperties.com/careers",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Hudson Pacific Properties",
    "open": 0,
    "sources": [
@@ -3714,7 +3714,7 @@
    "careers": "https://www.vno.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Vornado Realty Trust",
    "open": 0,
    "sources": [
@@ -3737,7 +3737,7 @@
    "careers": "https://slgreen.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "SL Green",
    "open": 0,
    "sources": [
@@ -3760,7 +3760,7 @@
    "careers": "https://www.kimcorealty.com/careers",
    "focus": "real_estate",
    "hq": "Jericho, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Kimco Realty",
    "open": 0,
    "sources": [
@@ -3783,7 +3783,7 @@
    "careers": "https://www.brixmor.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Brixmor Property Group",
    "open": 0,
    "sources": [
@@ -3806,7 +3806,7 @@
    "careers": "https://www.federalrealty.com/careers",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Federal Realty",
    "open": 0,
    "sources": [
@@ -3829,7 +3829,7 @@
    "careers": "https://www.brandywinerealty.com/careers",
    "focus": "real_estate",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Brandywine Realty Trust",
    "open": 0,
    "sources": [
@@ -3852,7 +3852,7 @@
    "careers": "https://welltower.com/careers/",
    "focus": "real_estate",
    "hq": "Toledo, OH",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Welltower",
    "open": 0,
    "sources": [
@@ -3875,7 +3875,7 @@
    "careers": "https://www.ventasreit.com/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Ventas",
    "open": 0,
    "sources": [
@@ -3898,7 +3898,7 @@
    "careers": "https://careers.smartrecruiters.com/PublicStorage",
    "focus": "real_estate",
    "hq": "Glendale, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Public Storage",
    "open": 0,
    "sources": [
@@ -3917,7 +3917,7 @@
    "careers": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments",
    "focus": "mixed",
    "hq": "Kansas City, MO",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "American Century Investments",
    "open": 0,
    "sources": [
@@ -3936,7 +3936,7 @@
    "careers": "https://godirect.wd5.myworkdayjobs.com/voya_jobs",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Voya Financial",
    "open": 0,
    "sources": [
@@ -3955,7 +3955,7 @@
    "careers": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial",
    "focus": "mixed",
    "hq": "Houston, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Corebridge Financial",
    "open": 0,
    "sources": [
@@ -3974,7 +3974,7 @@
    "careers": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "John Hancock (Manulife)",
    "open": 2,
    "sources": [
@@ -3993,7 +3993,7 @@
    "careers": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships",
    "focus": "mixed",
    "hq": "Bloomington, IL",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "COUNTRY Financial",
    "open": 3,
    "sources": [
@@ -4012,7 +4012,7 @@
    "careers": "https://fei.wd5.myworkdayjobs.com/External",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "First Eagle Investments",
    "open": 0,
    "sources": [
@@ -4031,7 +4031,7 @@
    "careers": "https://jobs.ashbyhq.com/wealth-com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Wealth.com",
    "open": 0,
    "sources": [
@@ -4050,7 +4050,7 @@
    "careers": "https://www.pennmutual.com/careers",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Penn Mutual",
    "open": 0,
    "sources": [
@@ -4075,7 +4075,7 @@
    "careers": "https://www.kestrafinancial.com/careers",
    "focus": "wealth",
    "hq": "Austin, TX",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Kestra Financial",
    "open": 0,
    "sources": [
@@ -4098,7 +4098,7 @@
    "careers": "https://aspiriant.com/careers/",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Aspiriant",
    "open": 0,
    "sources": [
@@ -4121,7 +4121,7 @@
    "careers": "https://pathstone.com/careers/",
    "focus": "wealth",
    "hq": "Englewood, NJ",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Pathstone",
    "open": 0,
    "sources": [
@@ -4144,7 +4144,7 @@
    "careers": "https://www.wealthspire.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Wealthspire Advisors",
    "open": 0,
    "sources": [
@@ -4167,7 +4167,7 @@
    "careers": "https://beaconpointe.com/careers/",
    "focus": "wealth",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Beacon Pointe Advisors",
    "open": 0,
    "sources": [
@@ -4190,7 +4190,7 @@
    "careers": "https://buckinghamstrategicwealth.com/careers/",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Buckingham Strategic Wealth",
    "open": 0,
    "sources": [
@@ -4213,7 +4213,7 @@
    "careers": "https://monetagroup.com/careers/internship-program",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Moneta",
    "open": 0,
    "sources": [
@@ -4232,7 +4232,7 @@
    "careers": "https://www.homrichberg.com/careers/",
    "focus": "wealth",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Homrich Berg",
    "open": 0,
    "sources": [
@@ -4255,7 +4255,7 @@
    "careers": "https://www.sequoia-financial.com/careers/",
    "focus": "wealth",
    "hq": "Akron, OH",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Sequoia Financial Group",
    "open": 0,
    "sources": [
@@ -4278,7 +4278,7 @@
    "careers": "https://www.bleakley.com/careers/",
    "focus": "wealth",
    "hq": "Fairfield, NJ",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Bleakley Financial Group",
    "open": 0,
    "sources": [
@@ -4301,7 +4301,7 @@
    "careers": "https://www.cnbank.com/careers",
    "focus": "mixed",
    "hq": "Canandaigua, NY",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Canandaigua National Bank (Wealth)",
    "open": 0,
    "sources": [
@@ -4324,13 +4324,13 @@
    "careers": "https://www.synovus.com/about-us/careers/",
    "focus": "mixed",
    "hq": "Columbus, GA",
-   "last_ok": "2026-10-08",
+   "last_ok": "2026-10-09",
    "name": "Synovus (Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-08",
-     "hash": "39943714678b9529",
+     "changed_on": "2026-10-09",
+     "hash": "bb86e654100a666d",
      "kind": "page",
      "links": [],
      "ok": true,
