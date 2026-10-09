@@ -13,6 +13,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Global Bank",
    "verified": true
   },
@@ -33,6 +37,10 @@
      "url": "https://higher.gs.com/campus"
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Global Bank",
    "verified": false
   },
@@ -48,6 +56,10 @@
      "kind": "oracle",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Global Bank",
    "verified": true
@@ -73,6 +85,10 @@
      "url": "https://campus.bankofamerica.com/"
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Global Bank",
    "verified": true
   },
@@ -82,12 +98,16 @@
    "hq": "San Francisco, CA",
    "last_ok": "2026-10-08",
    "name": "Wells Fargo",
-   "open": 0,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Global Bank",
    "verified": true
@@ -104,6 +124,10 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Global Bank",
    "verified": true
@@ -129,6 +153,9 @@
      "url": "https://www.ubs.com/global/en/careers/early-careers.html"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Global Bank",
    "verified": false
   },
@@ -145,6 +172,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Global Bank",
    "verified": true
   },
@@ -160,6 +190,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Global Bank",
    "verified": true
@@ -185,6 +218,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Global Bank",
    "verified": true
   },
@@ -200,6 +237,10 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Global Bank",
    "verified": true
@@ -221,6 +262,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Global Bank",
    "verified": true
   },
@@ -236,6 +280,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Global Bank",
    "verified": true
@@ -257,6 +304,9 @@
      "url": "https://www.hsbc.com/careers/students-and-graduates"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Global Bank",
    "verified": false
   },
@@ -270,12 +320,15 @@
    "sources": [
     {
      "changed_on": "2026-10-08",
-     "hash": "4c8157959e612fe8",
+     "hash": "94a2f1bdad10c522",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://jobs.bmo.com/us/en"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Global Bank",
    "verified": false
@@ -293,6 +346,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Global Bank",
    "verified": true
   },
@@ -309,6 +365,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Investment Bank",
    "verified": true
   },
@@ -324,6 +384,9 @@
      "kind": "oracle",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Investment Bank",
    "verified": true
@@ -348,6 +411,9 @@
      "url": "https://www.rothschildandco.com/en/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Investment Bank",
    "verified": false
   },
@@ -368,6 +434,9 @@
      "url": "https://www.evercore.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Investment Bank",
    "verified": false
   },
@@ -383,6 +452,9 @@
      "kind": "greenhouse",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Investment Bank",
    "verified": false
@@ -400,6 +472,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Investment Bank",
    "verified": true
   },
@@ -415,6 +490,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Private Bank & Trust",
    "verified": true
@@ -432,6 +510,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Private Bank & Trust",
    "verified": true
   },
@@ -447,6 +528,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Private Bank & Trust",
    "verified": true
@@ -464,6 +548,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Private Bank & Trust",
    "verified": true
   },
@@ -479,6 +566,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Private Bank & Trust",
    "verified": true
@@ -503,6 +593,9 @@
      "url": "https://www.bessemertrust.com/intern-with-us"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Private Bank & Trust",
    "verified": false
   },
@@ -522,6 +615,9 @@
      "ok": true,
      "url": "https://www.glenmede.com/careers/"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Private Bank & Trust",
    "verified": false
@@ -545,6 +641,9 @@
      "url": "https://www.brownadvisory.com/us/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Private Bank & Trust",
    "verified": false
   },
@@ -565,6 +664,9 @@
      "url": "https://jobs.firstcitizens.com/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Regional Bank",
    "verified": false
   },
@@ -574,12 +676,16 @@
    "hq": "Pittsburgh, PA",
    "last_ok": "2026-10-08",
    "name": "PNC (PNC Private Bank)",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Regional Bank",
    "verified": true
@@ -597,6 +703,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Regional Bank",
    "verified": true
   },
@@ -606,12 +716,16 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-08",
    "name": "U.S. Bank (Private Wealth)",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Regional Bank",
    "verified": true
@@ -633,6 +747,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Regional Bank",
    "verified": true
   },
@@ -648,6 +766,10 @@
      "kind": "oracle",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Regional Bank",
    "verified": true
@@ -665,6 +787,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Regional Bank",
    "verified": true
   },
@@ -673,13 +799,17 @@
    "focus": "mixed",
    "hq": "Cleveland, OH",
    "last_ok": "2026-10-08",
-   "name": "KeyBank (Key Private Bank)",
-   "open": 11,
+   "name": "KeyBank",
+   "open": 15,
    "sources": [
     {
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Regional Bank",
    "verified": true
@@ -697,6 +827,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Regional Bank",
    "verified": true
   },
@@ -712,6 +846,10 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Regional Bank",
    "verified": true
@@ -729,6 +867,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Regional Bank",
    "verified": true
   },
@@ -744,6 +885,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Regional Bank",
    "verified": true
@@ -765,6 +909,10 @@
      "url": "https://www.fultonbank.com/About-Fulton-Bank/Careers"
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Regional Bank",
    "verified": false
   },
@@ -784,6 +932,9 @@
      "ok": true,
      "url": "https://www.univest.net/careers"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Regional Bank",
    "verified": false
@@ -807,6 +958,9 @@
      "url": "https://www.wsfsbank.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Regional Bank",
    "verified": false
   },
@@ -827,6 +981,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": true
   },
@@ -842,6 +999,9 @@
      "kind": "icims",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": true
@@ -863,6 +1023,9 @@
      "url": "https://careers.edwardjones.com/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": false
   },
@@ -883,6 +1046,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": true
   },
@@ -898,6 +1064,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": true
@@ -919,6 +1088,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": true
   },
@@ -934,6 +1106,9 @@
      "kind": "icims",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": true
@@ -951,6 +1126,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": true
   },
@@ -966,6 +1144,9 @@
      "kind": "icims",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": true
@@ -987,6 +1168,9 @@
      "url": "https://opco.hrmdirect.com/employment/job-openings.php?search=true"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": true
   },
@@ -1006,6 +1190,9 @@
      "ok": true,
      "url": "https://www.janney.com/careers"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": false
@@ -1027,6 +1214,9 @@
      "url": "https://dadavidson.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": false
   },
@@ -1046,6 +1236,9 @@
      "ok": true,
      "url": "https://www.stephens.com/careers/"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": false
@@ -1067,6 +1260,9 @@
      "url": "https://www.hilltopsecurities.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": false
   },
@@ -1082,6 +1278,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": true
@@ -1099,6 +1298,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": true
   },
@@ -1115,6 +1317,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Brokerage & Platform",
    "verified": true
   },
@@ -1130,6 +1335,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Brokerage & Platform",
    "verified": true
@@ -1154,6 +1362,9 @@
      "url": "https://creativeplanning.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1169,6 +1380,9 @@
      "kind": "icims",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Independent RIA",
    "verified": true
@@ -1186,6 +1400,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": true
   },
@@ -1201,6 +1418,9 @@
      "kind": "greenhouse",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Independent RIA",
    "verified": true
@@ -1222,6 +1442,9 @@
      "url": "https://www.mariner.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1242,6 +1465,9 @@
      "url": "https://cressetcapital.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1259,6 +1485,9 @@
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Independent RIA",
    "verified": false
@@ -1280,6 +1509,9 @@
      "url": "https://www.wealthenhancement.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1297,6 +1529,9 @@
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Independent RIA",
    "verified": false
@@ -1318,6 +1553,9 @@
      "url": "https://www.carsongroup.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1338,6 +1576,9 @@
      "url": "https://www.merceradvisors.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1355,6 +1596,9 @@
      "ok": false,
      "url": "https://www.edelmanfinancialengines.com/careers/"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Independent RIA",
    "verified": false
@@ -1374,6 +1618,9 @@
      "url": "https://www.fisherinvestments.com/en-us/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1391,6 +1638,9 @@
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Independent RIA",
    "verified": false
@@ -1412,6 +1662,9 @@
      "url": "https://www.dynastyfinancial.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Independent RIA",
    "verified": false
   },
@@ -1431,6 +1684,9 @@
      "ok": true,
      "url": "https://www.silvercrestgroup.com/careers/"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Independent RIA",
    "verified": false
@@ -1456,6 +1712,10 @@
      "url": "https://www.northwesternmutual.com/careers/"
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Insurance & Planning",
    "verified": true
   },
@@ -1471,6 +1731,10 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Insurance & Planning",
    "verified": true
@@ -1488,6 +1752,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Insurance & Planning",
    "verified": true
   },
@@ -1503,6 +1770,10 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Insurance & Planning",
    "verified": true
@@ -1520,6 +1791,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Insurance & Planning",
    "verified": true
   },
@@ -1535,6 +1809,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Insurance & Planning",
    "verified": true
@@ -1552,6 +1829,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Insurance & Planning",
    "verified": true
   },
@@ -1567,6 +1847,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Insurance & Planning",
    "verified": true
@@ -1591,6 +1874,9 @@
      "url": "https://www.newyorklife.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Insurance & Planning",
    "verified": false
   },
@@ -1612,6 +1898,10 @@
      "ok": true,
      "url": "https://careers.principal.com/"
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Insurance & Planning",
    "verified": false
@@ -1638,6 +1928,9 @@
      "url": "https://jobs.lincolnfinancial.com/"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Insurance & Planning",
    "verified": false
   },
@@ -1653,6 +1946,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Asset Manager",
    "verified": true
@@ -1674,6 +1970,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Asset Manager",
    "verified": true
   },
@@ -1694,6 +1994,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Asset Manager",
    "verified": true
   },
@@ -1709,6 +2012,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Asset Manager",
    "verified": true
@@ -1726,6 +2032,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Asset Manager",
    "verified": true
   },
@@ -1741,6 +2050,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Asset Manager",
    "verified": true
@@ -1762,6 +2074,10 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth",
+    "real_estate"
+   ],
    "type": "Asset Manager",
    "verified": true
   },
@@ -1777,6 +2093,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Asset Manager",
    "verified": true
@@ -1794,6 +2113,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Asset Manager",
    "verified": true
   },
@@ -1809,6 +2131,9 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Asset Manager",
    "verified": true
@@ -1826,6 +2151,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Asset Manager",
    "verified": true
   },
@@ -1841,6 +2169,10 @@
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Asset Manager",
    "verified": true
@@ -1858,6 +2190,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Asset Manager",
    "verified": true
   },
@@ -1866,13 +2201,17 @@
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
-   "name": "Blackstone (Private Wealth Solutions)",
-   "open": 2,
+   "name": "Blackstone",
+   "open": 0,
    "sources": [
     {
      "kind": "workday",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth",
+    "real_estate"
    ],
    "type": "Asset Manager",
    "verified": true
@@ -1890,6 +2229,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Wealthtech",
    "verified": true
   },
@@ -1906,6 +2248,9 @@
      "ok": true
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Wealthtech",
    "verified": true
   },
@@ -1921,6 +2266,9 @@
      "kind": "ashby",
      "ok": true
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Wealthtech",
    "verified": true
@@ -1942,6 +2290,9 @@
      "url": "https://www.wealthfront.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Wealthtech",
    "verified": false
   },
@@ -1961,6 +2312,9 @@
      "ok": true,
      "url": "https://www.betterment.com/careers"
     }
+   ],
+   "tracks": [
+    "wealth"
    ],
    "type": "Wealthtech",
    "verified": false
@@ -1982,6 +2336,9 @@
      "url": "https://altruist.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Wealthtech",
    "verified": false
   },
@@ -2002,7 +2359,2201 @@
      "url": "https://www.farther.com/careers"
     }
    ],
+   "tracks": [
+    "wealth"
+   ],
    "type": "Wealthtech",
+   "verified": false
+  },
+  {
+   "careers": "https://careers.cbre.com/en_US/careers",
+   "focus": "real_estate",
+   "hq": "Dallas, TX",
+   "last_ok": "2026-10-08",
+   "name": "CBRE",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "20699276eda9f621",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://careers.cbre.com/en_US/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": false
+  },
+  {
+   "careers": "https://www.us.jll.com/en/careers",
+   "focus": "real_estate",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "JLL",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": true
+  },
+  {
+   "careers": "https://www.cushmanwakefield.com/en/united-states/careers",
+   "focus": "real_estate",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "Cushman & Wakefield",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": true
+  },
+  {
+   "careers": "https://www.colliers.com/en/careers",
+   "focus": "real_estate",
+   "hq": "Toronto / Seattle",
+   "last_ok": "2026-10-08",
+   "name": "Colliers",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": true
+  },
+  {
+   "careers": "https://www.nmrk.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Newmark",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": true
+  },
+  {
+   "careers": "https://www.avisonyoung.us/careers",
+   "focus": "real_estate",
+   "hq": "Toronto / Chicago",
+   "last_ok": "2026-10-08",
+   "name": "Avison Young",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "icims",
+     "ok": true
+    },
+    {
+     "changed_on": null,
+     "hash": "f5ee22535a762239",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.avisonyoung.us/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": true
+  },
+  {
+   "careers": "https://www.marcusmillichap.com/careers",
+   "focus": "real_estate",
+   "hq": "Calabasas, CA",
+   "last_ok": "2026-10-08",
+   "name": "Marcus & Millichap",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "f9c8c821c97556d3",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.marcusmillichap.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": false
+  },
+  {
+   "careers": "https://www.eastdilsecured.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Eastdil Secured",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "9976a2b742e99485",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.eastdilsecured.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": false
+  },
+  {
+   "careers": "https://www.savills.us/careers/",
+   "focus": "real_estate",
+   "hq": "London / New York",
+   "last_ok": "2026-10-08",
+   "name": "Savills",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "3636f6c5e8131ee9",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.savills.us/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": false
+  },
+  {
+   "careers": "https://kidder.com/careers/",
+   "focus": "real_estate",
+   "hq": "Seattle, WA",
+   "last_ok": "2026-10-08",
+   "name": "Kidder Mathews",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "77d1d0c74bc26064",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://kidder.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": false
+  },
+  {
+   "careers": "https://www.lee-associates.com/careers/",
+   "focus": "real_estate",
+   "hq": "Los Angeles, CA",
+   "last_ok": "2026-10-08",
+   "name": "Lee & Associates",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "168f2e83705cc6aa",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.lee-associates.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Services & Brokerage",
+   "verified": false
+  },
+  {
+   "careers": "https://www.altusgroup.com/careers/",
+   "focus": "real_estate",
+   "hq": "Toronto / New York",
+   "last_ok": "2026-10-08",
+   "name": "Altus Group (ARGUS)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "165f7ddb152c3e35",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.altusgroup.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Data & Tech",
+   "verified": false
+  },
+  {
+   "careers": "https://www.costargroup.com/careers",
+   "focus": "real_estate",
+   "hq": "Arlington, VA",
+   "last_ok": "2026-10-08",
+   "name": "CoStar Group",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Data & Tech",
+   "verified": true
+  },
+  {
+   "careers": "https://www.trepp.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Trepp",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "1f7276d4addd58b7",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.trepp.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Data & Tech",
+   "verified": false
+  },
+  {
+   "careers": "https://www.walkerdunlop.com/careers/",
+   "focus": "real_estate",
+   "hq": "Bethesda, MD",
+   "last_ok": "2026-10-08",
+   "name": "Walker & Dunlop",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": true
+  },
+  {
+   "careers": "https://www.berkadia.com/careers/",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Berkadia",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "a156db42d0c5c1df",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.berkadia.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": false
+  },
+  {
+   "careers": "https://www.greystone.com/careers/",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Greystone",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "b299c1cc78d2f63a",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.greystone.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": false
+  },
+  {
+   "careers": "https://www.northmarq.com/careers",
+   "focus": "real_estate",
+   "hq": "Minneapolis, MN",
+   "last_ok": "2026-10-08",
+   "name": "Northmarq",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "34efd416b82a6e7e",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.northmarq.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": false
+  },
+  {
+   "careers": "https://www.trimont.com/careers/",
+   "focus": "real_estate",
+   "hq": "Atlanta, GA",
+   "last_ok": "2026-10-08",
+   "name": "Trimont",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "b1a24b6d745f2878",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.trimont.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": false
+  },
+  {
+   "careers": "https://arbor.com/careers/",
+   "focus": "real_estate",
+   "hq": "Uniondale, NY",
+   "last_ok": "2026-10-08",
+   "name": "Arbor Realty Trust",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "2c87616be09a65fe",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://arbor.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": false
+  },
+  {
+   "careers": "https://www.laddercapital.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": null,
+   "name": "Ladder Capital",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.laddercapital.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.laddercapital.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": false
+  },
+  {
+   "careers": "https://www.fanniemae.com/careers",
+   "focus": "mixed",
+   "hq": "Washington, DC",
+   "last_ok": "2026-10-08",
+   "name": "Fannie Mae (Multifamily)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.freddiemac.com/",
+   "focus": "mixed",
+   "hq": "McLean, VA",
+   "last_ok": "2026-10-08",
+   "name": "Freddie Mac (Multifamily)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": true
+  },
+  {
+   "careers": "https://www.capitalonecareers.com/",
+   "focus": "mixed",
+   "hq": "McLean, VA",
+   "last_ok": "2026-10-08",
+   "name": "Capital One (Commercial Real Estate)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.firstam.com/",
+   "focus": "mixed",
+   "hq": "Santa Ana, CA",
+   "last_ok": "2026-10-08",
+   "name": "First American",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "CRE Finance & Lending",
+   "verified": true
+  },
+  {
+   "careers": "https://www.brookfield.com/careers",
+   "focus": "mixed",
+   "hq": "New York / Toronto",
+   "last_ok": "2026-10-08",
+   "name": "Brookfield",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://www.pgim.com/careers",
+   "focus": "mixed",
+   "hq": "Newark, NJ",
+   "last_ok": "2026-10-08",
+   "name": "PGIM Real Estate",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://www.aresmgmt.com/careers",
+   "focus": "mixed",
+   "hq": "Los Angeles / New York",
+   "last_ok": "2026-10-08",
+   "name": "Ares Management (Real Estate)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://www.apollo.com/careers",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Apollo (Real Estate)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://www.kkr.com/careers",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "KKR (Real Estate)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "d271bbeb95fb5d04",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.kkr.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": false
+  },
+  {
+   "careers": "https://www.starwoodcapital.com/careers/",
+   "focus": "real_estate",
+   "hq": "Miami Beach, FL",
+   "last_ok": "2026-10-08",
+   "name": "Starwood Capital Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "93bfd5c9ee7b05c8",
+     "kind": "page",
+     "links": [
+      "Explore career opportunities at Starwood. \n Internships | https://www.starwoodcapital.com/careers/internship-program/",
+      "Internship Program | https://www.starwoodcapital.com/careers/internship-program/"
+     ],
+     "ok": true,
+     "url": "https://www.starwoodcapital.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": false
+  },
+  {
+   "careers": "https://www.clarionpartners.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Clarion Partners",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "4d81bae97ffe53ab",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.clarionpartners.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": false
+  },
+  {
+   "careers": "https://www.heitman.com/careers/",
+   "focus": "real_estate",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "Heitman",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "9286478d7cd806e2",
+     "kind": "page",
+     "links": [
+      "2027 Summer Internship – Acquisitions | https://www.heitman.com/jobs/ofOQAfwd/",
+      "2027 Summer Internship – Financial Operations & Analysis | https://www.heitman.com/jobs/osIQAfwk/",
+      "2027 Summer Internship – Human Resources | https://www.heitman.com/jobs/oJrSAfwm/"
+     ],
+     "ok": true,
+     "url": "https://www.heitman.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": false
+  },
+  {
+   "careers": "https://www.harrisonst.com/careers",
+   "focus": "real_estate",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "Harrison Street",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "76e8150a4f7db041",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.harrisonst.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": false
+  },
+  {
+   "careers": "https://www.bridgeig.com/careers",
+   "focus": "real_estate",
+   "hq": "Salt Lake City, UT",
+   "last_ok": "2026-10-08",
+   "name": "Bridge Investment Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "cc17f72d71bb83bd",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.bridgeig.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": false
+  },
+  {
+   "careers": "https://www.crowholdings.com/careers/",
+   "focus": "real_estate",
+   "hq": "Dallas, TX",
+   "last_ok": "2026-10-08",
+   "name": "Crow Holdings",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "67b4f9471b5fdd64",
+     "kind": "page",
+     "links": [
+      "Investor Relations & Investor Coverage Summer Analyst\n Crow Holdings Capital\n dallas , | https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/"
+     ],
+     "ok": true,
+     "url": "https://www.crowholdings.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": false
+  },
+  {
+   "careers": "https://www.linklogistics.com/careers/",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Link Logistics",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "RE Investment Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://www.hines.com/careers",
+   "focus": "real_estate",
+   "hq": "Houston, TX",
+   "last_ok": null,
+   "name": "Hines",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.hines.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://tishmanspeyer.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": null,
+   "name": "Tishman Speyer",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://tishmanspeyer.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://www.related.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Related Companies",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "13f0a9b74452b4ca",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.related.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://www.trammellcrow.com/careers",
+   "focus": "real_estate",
+   "hq": "Dallas, TX",
+   "last_ok": null,
+   "name": "Trammell Crow Company",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.trammellcrow.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.trammellcrow.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://www.lpc.com/careers/",
+   "focus": "real_estate",
+   "hq": "Dallas, TX",
+   "last_ok": "2026-10-08",
+   "name": "Lincoln Property Company",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "cee548f047beab10",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.lpc.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://www.greystar.com/careers",
+   "focus": "real_estate",
+   "hq": "Charleston, SC",
+   "last_ok": "2026-10-08",
+   "name": "Greystar",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "e9bb6b110ad5b8fa",
+     "kind": "page",
+     "links": [
+      "Internships | https://www.greystar.com/internships",
+      "See Interns and New Graduates Jobs | https://www.greystar.com/campus"
+     ],
+     "ok": true,
+     "url": "https://www.greystar.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://cortland.com/careers/",
+   "focus": "real_estate",
+   "hq": "Atlanta, GA",
+   "last_ok": "2026-10-08",
+   "name": "Cortland",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "greenhouse",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": true
+  },
+  {
+   "careers": "https://gables.wd5.myworkdayjobs.com/Gables_Careers",
+   "focus": "real_estate",
+   "hq": "Atlanta, GA",
+   "last_ok": "2026-10-08",
+   "name": "Gables Residential",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": true
+  },
+  {
+   "careers": "https://www.ryancompanies.com/careers",
+   "focus": "real_estate",
+   "hq": "Minneapolis, MN",
+   "last_ok": "2026-10-08",
+   "name": "Ryan Companies",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": true
+  },
+  {
+   "careers": "https://www.jbgsmith.com/careers",
+   "focus": "real_estate",
+   "hq": "Bethesda, MD",
+   "last_ok": "2026-10-08",
+   "name": "JBG SMITH",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "62b3c311584508bc",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.jbgsmith.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://rxr.com/careers/",
+   "focus": "real_estate",
+   "hq": "Uniondale, NY",
+   "last_ok": null,
+   "name": "RXR",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://rxr.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://rxr.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://silversteinproperties.com/careers/",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": null,
+   "name": "Silverstein Properties",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.silversteinproperties.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://silversteinproperties.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://www.morgan-properties.com/careers",
+   "focus": "real_estate",
+   "hq": "King of Prussia, PA",
+   "last_ok": "2026-10-08",
+   "name": "Morgan Properties",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "b427a84a541ead9e",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.morgan-properties.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://www.coniferllc.com/careers/",
+   "focus": "real_estate",
+   "hq": "Rochester, NY",
+   "last_ok": null,
+   "name": "Conifer Realty",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.coniferllc.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": false
+  },
+  {
+   "careers": "https://www.invh.com/careers",
+   "focus": "real_estate",
+   "hq": "Dallas, TX",
+   "last_ok": "2026-10-08",
+   "name": "Invitation Homes",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Developer & Operator",
+   "verified": true
+  },
+  {
+   "careers": "https://www.tollbrothers.com/careers",
+   "focus": "real_estate",
+   "hq": "Fort Washington, PA",
+   "last_ok": null,
+   "name": "Toll Brothers",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.tollbrothers.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.tollbrothers.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Homebuilder",
+   "verified": false
+  },
+  {
+   "careers": "https://www.lennar.com/careers",
+   "focus": "real_estate",
+   "hq": "Miami, FL",
+   "last_ok": "2026-10-08",
+   "name": "Lennar",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Homebuilder",
+   "verified": true
+  },
+  {
+   "careers": "https://www.pultegroupcareers.com/",
+   "focus": "real_estate",
+   "hq": "Atlanta, GA",
+   "last_ok": "2026-10-08",
+   "name": "PulteGroup",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Homebuilder",
+   "verified": true
+  },
+  {
+   "careers": "https://www.drhorton.com/careers",
+   "focus": "real_estate",
+   "hq": "Arlington, TX",
+   "last_ok": "2026-10-08",
+   "name": "D.R. Horton",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "0665ff51c57d24a1",
+     "kind": "page",
+     "links": [
+      "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
+      "Internship program | https://www.drhorton.com/internships"
+     ],
+     "ok": true,
+     "url": "https://www.drhorton.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "Homebuilder",
+   "verified": false
+  },
+  {
+   "careers": "https://www.prologis.com/careers",
+   "focus": "real_estate",
+   "hq": "San Francisco, CA",
+   "last_ok": "2026-10-08",
+   "name": "Prologis",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "b35b6d920a4ce9de",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.prologis.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://careers.simon.com/",
+   "focus": "real_estate",
+   "hq": "Indianapolis, IN",
+   "last_ok": "2026-10-08",
+   "name": "Simon Property Group",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://www.bxp.com/careers",
+   "focus": "real_estate",
+   "hq": "Boston, MA",
+   "last_ok": "2026-10-08",
+   "name": "BXP (Boston Properties)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://www.realtyincome.com/careers",
+   "focus": "real_estate",
+   "hq": "San Diego, CA",
+   "last_ok": "2026-10-08",
+   "name": "Realty Income",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://www.digitalrealty.com/careers",
+   "focus": "real_estate",
+   "hq": "Austin, TX",
+   "last_ok": "2026-10-08",
+   "name": "Digital Realty",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.extraspace.com/",
+   "focus": "real_estate",
+   "hq": "Salt Lake City, UT",
+   "last_ok": "2026-10-08",
+   "name": "Extra Space Storage",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://www.essexapartmenthomes.com/careers",
+   "focus": "real_estate",
+   "hq": "San Mateo, CA",
+   "last_ok": "2026-10-08",
+   "name": "Essex Property Trust",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://www.rexfordindustrial.com/careers",
+   "focus": "real_estate",
+   "hq": "Los Angeles, CA",
+   "last_ok": "2026-10-08",
+   "name": "Rexford Industrial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "greenhouse",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://www.hudsonpacificproperties.com/careers",
+   "focus": "real_estate",
+   "hq": "Los Angeles, CA",
+   "last_ok": "2026-10-08",
+   "name": "Hudson Pacific Properties",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "ashby",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": true
+  },
+  {
+   "careers": "https://www.equityapartments.com/careers",
+   "focus": "real_estate",
+   "hq": "Chicago, IL",
+   "last_ok": null,
+   "name": "Equity Residential",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.equityapartments.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.avaloncommunities.com/careers",
+   "focus": "real_estate",
+   "hq": "Arlington, VA",
+   "last_ok": null,
+   "name": "AvalonBay",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.avaloncommunities.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.avaloncommunities.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.vno.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Vornado Realty Trust",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "a866d2e502e8b5da",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.vno.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://slgreen.com/careers/",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "SL Green",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "4ed8dcaf2fb4dbea",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://slgreen.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.kimcorealty.com/careers",
+   "focus": "real_estate",
+   "hq": "Jericho, NY",
+   "last_ok": "2026-10-08",
+   "name": "Kimco Realty",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "ce1dad5fa6207afa",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.kimcorealty.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.brixmor.com/careers",
+   "focus": "real_estate",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Brixmor Property Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "4464396dbc99c744",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.brixmor.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.federalrealty.com/careers",
+   "focus": "real_estate",
+   "hq": "North Bethesda, MD",
+   "last_ok": "2026-10-08",
+   "name": "Federal Realty",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "2e3f950686073ccd",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.federalrealty.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.brandywinerealty.com/careers",
+   "focus": "real_estate",
+   "hq": "Philadelphia, PA",
+   "last_ok": "2026-10-08",
+   "name": "Brandywine Realty Trust",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "1f224a8045b1a754",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.brandywinerealty.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://welltower.com/careers/",
+   "focus": "real_estate",
+   "hq": "Toledo, OH",
+   "last_ok": "2026-10-08",
+   "name": "Welltower",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "1a02c0ce4ac71c16",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://welltower.com/careers/"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.ventasreit.com/careers",
+   "focus": "real_estate",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "Ventas",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "ccfdf257f6a1bbaf",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.ventasreit.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://www.publicstorage.com/careers",
+   "focus": "real_estate",
+   "hq": "Glendale, CA",
+   "last_ok": null,
+   "name": "Public Storage",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.publicstorage.com/on/demandware.store/Sites-publicstorage-Site/default/Page-Show?cid=careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.publicstorage.com/careers"
+    }
+   ],
+   "tracks": [
+    "real_estate"
+   ],
+   "type": "REIT",
+   "verified": false
+  },
+  {
+   "careers": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments",
+   "focus": "mixed",
+   "hq": "Kansas City, MO",
+   "last_ok": "2026-10-08",
+   "name": "American Century Investments",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://godirect.wd5.myworkdayjobs.com/voya_jobs",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Voya Financial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial",
+   "focus": "mixed",
+   "hq": "Houston, TX",
+   "last_ok": "2026-10-08",
+   "name": "Corebridge Financial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
+   "focus": "mixed",
+   "hq": "Boston, MA",
+   "last_ok": "2026-10-08",
+   "name": "John Hancock (Manulife)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships",
+   "focus": "mixed",
+   "hq": "Bloomington, IL",
+   "last_ok": "2026-10-08",
+   "name": "COUNTRY Financial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://fei.wd5.myworkdayjobs.com/External",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "First Eagle Investments",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://jobs.ashbyhq.com/wealth-com",
+   "focus": "wealth",
+   "hq": "Los Angeles, CA",
+   "last_ok": "2026-10-08",
+   "name": "Wealth.com",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "ashby",
+     "ok": true
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Wealthtech",
+   "verified": true
+  },
+  {
+   "careers": "https://www.pennmutual.com/careers",
+   "focus": "mixed",
+   "hq": "Malvern, PA",
+   "last_ok": "2026-10-08",
+   "name": "Penn Mutual",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "2884c6b7c9732811",
+     "kind": "page",
+     "links": [
+      "Internships | https://www.pennmutual.com/careers/internships"
+     ],
+     "ok": true,
+     "url": "https://www.pennmutual.com/careers"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Insurance & Planning",
+   "verified": false
+  },
+  {
+   "careers": "https://www.kestrafinancial.com/careers",
+   "focus": "wealth",
+   "hq": "Austin, TX",
+   "last_ok": "2026-10-08",
+   "name": "Kestra Financial",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "6dcdba76d50eb7dd",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.kestrafinancial.com/careers"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Brokerage & Platform",
+   "verified": false
+  },
+  {
+   "careers": "https://aspiriant.com/careers/",
+   "focus": "wealth",
+   "hq": "Los Angeles, CA",
+   "last_ok": "2026-10-08",
+   "name": "Aspiriant",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "f403e409f81dc329",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://aspiriant.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://pathstone.com/careers/",
+   "focus": "wealth",
+   "hq": "Englewood, NJ",
+   "last_ok": "2026-10-08",
+   "name": "Pathstone",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "0a498a546955fa26",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://pathstone.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.wealthspire.com/careers/",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Wealthspire Advisors",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "9f7e4a50df8650ac",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.wealthspire.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://beaconpointe.com/careers/",
+   "focus": "wealth",
+   "hq": "Newport Beach, CA",
+   "last_ok": "2026-10-08",
+   "name": "Beacon Pointe Advisors",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "0ea0defba88f127c",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://beaconpointe.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://buckinghamstrategicwealth.com/careers/",
+   "focus": "wealth",
+   "hq": "St. Louis, MO",
+   "last_ok": "2026-10-08",
+   "name": "Buckingham Strategic Wealth",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "502e6c53612511fa",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://buckinghamstrategicwealth.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://moneta.com/careers/",
+   "focus": "wealth",
+   "hq": "St. Louis, MO",
+   "last_ok": null,
+   "name": "Moneta",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://moneta.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://moneta.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.homrichberg.com/careers/",
+   "focus": "wealth",
+   "hq": "Atlanta, GA",
+   "last_ok": "2026-10-08",
+   "name": "Homrich Berg",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "154f916ec76d415c",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.homrichberg.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.kovitz.com/careers/",
+   "focus": "wealth",
+   "hq": "Chicago, IL",
+   "last_ok": null,
+   "name": "Kovitz",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 522 Server Error: <none> for url: https://www.kovitz.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.kovitz.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.sequoia-financial.com/careers/",
+   "focus": "wealth",
+   "hq": "Akron, OH",
+   "last_ok": "2026-10-08",
+   "name": "Sequoia Financial Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "1963b0ffd37264e8",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.sequoia-financial.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.hefren.com/careers/",
+   "focus": "wealth",
+   "hq": "Pittsburgh, PA",
+   "last_ok": null,
+   "name": "Hefren-Tillotson",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.bairdwealth.com/careers-and-more/client-services-and-online-resources/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.hefren.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://haverfordtrust.com/careers/",
+   "focus": "wealth",
+   "hq": "Radnor, PA",
+   "last_ok": null,
+   "name": "Haverford Trust",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://haverfordquality.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://haverfordtrust.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Private Bank & Trust",
+   "verified": false
+  },
+  {
+   "careers": "https://www.hirtlecallaghan.com/careers",
+   "focus": "wealth",
+   "hq": "Conshohocken, PA",
+   "last_ok": null,
+   "name": "Hirtle Callaghan",
+   "open": 0,
+   "sources": [
+    {
+     "error": "SSLError: HTTPSConnectionPool(host='www.hirtlecallaghan.com', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hirtlecallaghan.com'. (_s",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.hirtlecallaghan.com/careers"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.bleakley.com/careers/",
+   "focus": "wealth",
+   "hq": "Fairfield, NJ",
+   "last_ok": "2026-10-08",
+   "name": "Bleakley Financial Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "26aa90d06623bb79",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.bleakley.com/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.cnbank.com/careers",
+   "focus": "mixed",
+   "hq": "Canandaigua, NY",
+   "last_ok": "2026-10-08",
+   "name": "Canandaigua National Bank (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "bd31b5effb3cdb4c",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.cnbank.com/careers"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Regional Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://www.tompkinsfinancial.com/careers",
+   "focus": "mixed",
+   "hq": "Ithaca, NY",
+   "last_ok": null,
+   "name": "Tompkins Financial (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.tompkinsfinancial.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.tompkinsfinancial.com/careers"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Regional Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://www.comerica.com/about-us/careers.html",
+   "focus": "mixed",
+   "hq": "Dallas, TX",
+   "last_ok": null,
+   "name": "Comerica (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "error": "ConnectionError: HTTPSConnectionPool(host='www.comerica.com', port=443): Max retries exceeded with url: /about-us/careers.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.comerica.com', port=443): Read timed out. (read timeout=25)\"))",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.comerica.com/about-us/careers.html"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Regional Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://www.synovus.com/about-us/careers/",
+   "focus": "mixed",
+   "hq": "Columbus, GA",
+   "last_ok": "2026-10-08",
+   "name": "Synovus (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "92e7c8412846ce95",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.synovus.com/about-us/careers/"
+    }
+   ],
+   "tracks": [
+    "wealth"
+   ],
+   "type": "Regional Bank",
    "verified": false
   }
  ]

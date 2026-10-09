@@ -439,8 +439,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 BNY Summer Internship Program – BNY Wealth (Atlanta, GA)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81955",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -471,8 +474,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 BNY Summer Internship Program – BNY Wealth (Boston, MA)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81320",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -503,8 +509,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 BNY Summer Internship Program – BNY Wealth (Dallas, TX)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81954",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -535,8 +544,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 BNY Summer Internship Program – BNY Wealth (New York, NY)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81316",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -567,8 +579,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 BNY Summer Internship Program – BNY Wealth (Philadelphia, PA)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81956",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -599,8 +614,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 BNY Summer Internship Program – BNY Wealth (Pittsburgh, PA)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81319",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -1651,8 +1669,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Dubai",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000124665",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -1681,8 +1702,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Monaco",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Monaco---Default-Legacy-Site/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Monaco_JR-0000124680",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -1711,8 +1735,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Private Bank and Wealth Management Summer Internship Programme 2027 London",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-London_JR-0000124643",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -1743,8 +1770,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Private Bank and Wealth Management Summer Internship Programme 2027 Singapore",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-Singapore_JR-0000117561",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -1815,66 +1845,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Blackstone (Private Wealth Solutions)",
-   "company_type": "Asset Manager",
-   "deadline": "2026-10-30",
-   "deadline_evidence": "- Applications will close on Friday 30 October 2026",
-   "detail_at": "2026-10-08",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:blackstone:43183",
-   "last_seen": "2026-10-08",
-   "level": "Undergraduate",
-   "location": "Berkeley Square House London",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "International",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "status": "open",
-   "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-   "v": 3,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Blackstone (Private Wealth Solutions)",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-08",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:blackstone:40708",
-   "last_seen": "2026-10-08",
-   "level": "Undergraduate",
-   "location": "Tokyo",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "International",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "status": "open",
-   "title": "2027 Blackstone Private Wealth Summer Analyst, Tokyo",
-   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--Tokyo_40708",
-   "v": 3,
-   "weeks": 8,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "CIBC Private Wealth",
    "company_type": "Global Bank",
    "deadline": null,
@@ -1897,8 +1867,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Investment Strategy Analyst, Wealth Solutions Winter Co-op 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Investment-Strategy-Analyst--Wealth-Solutions-Winter-Co-op-2027_2620494",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -1927,8 +1900,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Investment Strategy Analyst, Wealth Solutions Winter Co-op 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Investment-Strategy-Analyst--Wealth-Solutions-Winter-Co-op-2027_2620494-1",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -1957,8 +1933,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Private Banking Associate Co-op – Winter 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-1",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -1987,8 +1966,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Private Banking Associate Co-op – Winter 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-2",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -2019,8 +2001,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer Intern 2027- Private Wealth Management",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "On-site"
   },
@@ -2051,8 +2036,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer Intern 2027- Private Wealth Management",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397-1",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "On-site"
   },
@@ -2864,8 +2852,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Job Posting Title \n2027 Model Risk Governance & Validation Intern (Southlake Only)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://career-schwab.icims.com/jobs/126262/2027-model-risk-governance-%26-validation-intern-%28southlake-only%29/job",
-   "v": 3,
+   "v": 4,
    "weeks": 2,
    "work_mode": "On-site"
   },
@@ -2894,8 +2885,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Job Posting Title \n2027 SOX Compliance Intern",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://career-schwab.icims.com/jobs/126253/2027-sox-compliance-intern/job",
-   "v": 3,
+   "v": 4,
    "weeks": 2,
    "work_mode": "On-site"
   },
@@ -2926,8 +2920,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2025 Wealth Management Summer Internship, Dubai, UAE (UAE Nationals preferred)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/XMLNAME-2025-Wealth-Management-Summer-Internship--Dubai--UAE--UAE-Nationals-preferred-_25820546",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -2956,8 +2953,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Citi Global Wealth, Summer Analyst, Bertrange - Luxembourg 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -2986,8 +2986,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Citi Global Wealth, Summer Analyst, Geneva - Switzerland, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3016,8 +3019,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Citi Global Wealth, Summer Analyst, London - United Kingdom, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3048,8 +3054,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth - Citigold, Summer Analyst, Hong Kong, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Wealth---Citigold--Summer-Analyst--Hong-Kong--2027_26988474",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3080,8 +3089,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth - Citigold, Summer Analyst, Singapore, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Wealth---Citigold--Summer-Analyst--Singapore--2027_26988476",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3112,8 +3124,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth - LATAM, Summer Analyst, Miami - USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---LATAM--Summer-Analyst--Miami---USA--2027_26994351",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3144,8 +3159,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth - LATAM, Summer Analyst, New York - USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---LATAM--Summer-Analyst--New-York---USA--2027_26994367",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3176,8 +3194,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth - Private Bank, Summer Analyst,  Singapore, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Wealth---Private-Bank--Summer-Analyst---Singapore--2027_26988484",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3208,8 +3229,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth - Private Bank, Summer Analyst, Hong Kong, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Wealth---Private-Bank--Summer-Analyst--Hong-Kong--2027_26988478",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3240,8 +3264,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth – Summer Analyst, Dallas – USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Wealth---Summer-Analyst--Dallas---USA--2027_26994348",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3272,8 +3299,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth – Summer Analyst, Los Angeles– USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Beverly-Hills-California-United-States/Wealth---Summer-Analyst--Los-Angeles--USA--2027_26994337",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3304,8 +3334,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth – Summer Analyst, Miami– USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---Summer-Analyst--Miami--USA--2027_26994091",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3336,8 +3369,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Wealth – Summer Analyst, New York – USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -3366,8 +3402,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Business Analysis Intern - YTP program",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Business-Analysis-Intern---YTP-program_R0453246",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -3396,8 +3435,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern, Client Service - Emerging Europe (f/m/x)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Prime-Tower/Intern--Client-Service---Emerging-Europe--f-m-x-_R0450623",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -3426,8 +3468,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Sales Coverage Support Intern (f/m/x)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Geneva-Place-des-Bergues-3/Sales-Coverage-Support-Intern--f-m-x-_R0450629",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -3492,8 +3537,11 @@
    "sponsorship": "No sponsorship",
    "status": "open",
    "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Wealth-Management-Internship_R0075378",
-   "v": 3,
+   "v": 4,
    "weeks": 8,
    "work_mode": null
   },
@@ -3524,8 +3572,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Asset & Wealth Management International Private Bank (Latin America) MBA Summer Associate Program",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777959",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3556,8 +3607,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Asset & Wealth Management U.S. Private Bank MBA Summer Associate Program",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777867",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3588,8 +3642,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Financial Advisor Development Program - Summer Analyst Opportunity (OH, TX, AZ)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768182",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3620,8 +3677,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Amsterdam",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773761",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3652,8 +3712,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Athens",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773791",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3684,8 +3747,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Brussels",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773802",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3716,8 +3782,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Copenhagen",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773834",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3748,8 +3817,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Frankfurt, Munich, Hamburg",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774271",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3780,8 +3852,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Geneva",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773855",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3812,8 +3887,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Geneva LatAm",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773872",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3844,8 +3922,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - London",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773470",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3876,8 +3957,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Luxembourg",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774194",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3908,8 +3992,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Madrid",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774210",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3940,8 +4027,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Milan",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774212",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -3972,8 +4062,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Paris",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774216",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -4004,8 +4097,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Stockholm",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774227",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -4036,8 +4132,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program - Zurich",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774235",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -4068,8 +4167,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Advisor Summer Internship Program- Dubai",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774239",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -4100,8 +4202,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Global Private Bank - Investment Solutions Summer Internship Program - London",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281",
-   "v": 3,
+   "v": 4,
    "weeks": 9,
    "work_mode": null
   },
@@ -4134,8 +4239,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Trust Management Internship - Emerging Talent Summer Experience Program",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789075",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -4164,8 +4272,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme] (f/m/d)",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---DCFO-P-BS-100-----Fixed-Term-Contract-of-5-6-months---Julius-Baer-s-Intern-Programme---f-m-d-_r-20015-1",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -4194,8 +4305,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Internship at CFO Office 100% [Fixed-Term Contract for 6-12 months until 03.06.2027]",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship-at-CFO-Office-100---Fixed-Term-Contract-for-6-12-months-until-03062027-_r-19514",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -4224,9 +4338,152 @@
    "sponsorship": null,
    "status": "open",
    "title": "Internship: Data Analytics Intern - Product Control 100% (f/m/d) - [6–12-month Internship Programme]",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship--Data-Analytics-Intern---Product-Control-100---f-m-d-----6-12-month-Internship-Programme-_r-19706-2",
-   "v": 3,
+   "v": 4,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:keybank:R-41558",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "Boston, MA",
+   "misses": 0,
+   "pay": "$27/hr",
+   "posted": "2026-10-07",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "2027 Summer Real Estate Capital Internship - Boston IPG",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
+   "v": 4,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:keybank:R-42077",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "Cleveland, OH",
+   "misses": 0,
+   "pay": "$23/hr",
+   "posted": "2026-09-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "2027 Summer Real Estate Capital Internship - Cleveland",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
+   "v": 4,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:keybank:R-42276",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 0,
+   "pay": "$27/hr",
+   "posted": "2026-09-21",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "2027 Summer Real Estate Capital Internship - Dallas",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
+   "v": 4,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:keybank:R-42000",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 0,
+   "pay": "$27/hr",
+   "posted": "2026-09-27",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "2027 Summer Real Estate Capital Internship - Denver CDLI",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
+   "v": 4,
+   "weeks": 5,
    "work_mode": null
   },
   {
@@ -4234,7 +4491,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4256,8 +4513,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Albany, OR",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4266,7 +4526,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4288,8 +4548,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Bellingham, WA",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4298,7 +4561,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4320,8 +4583,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Boise, ID",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4330,7 +4596,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4352,8 +4618,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Cleveland, OH",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chagrin-Falls-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Cleveland--OH_R-41224",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4362,7 +4631,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4384,8 +4653,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Erie, PA",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Erie-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Erie--PA_R-41223",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4394,7 +4666,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4416,8 +4688,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Goshen, IN",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Goshen-IN/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Goshen--IN_R-41215",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4426,7 +4701,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4448,8 +4723,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Pottstown, PA",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Pottstown-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Pottstown--PA_R-41222",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4458,7 +4736,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4480,8 +4758,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Toledo, OH",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4490,7 +4771,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4512,8 +4793,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 KeyBank Wealth Management Internship - Advisory Services",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Advisory-Services_R-41213",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4522,7 +4806,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4544,8 +4828,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 KeyBank Wealth Management Internship - Client Support & Experience",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Client-Support---Experience_R-41211",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4554,7 +4841,7 @@
    "classes": [
     2029
    ],
-   "company": "KeyBank (Key Private Bank)",
+   "company": "KeyBank",
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
@@ -4576,8 +4863,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 KeyBank Wealth Management Internship - Investment Research & Analysis",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Investment-Research---Analysis_R-41214",
-   "v": 3,
+   "v": 4,
    "weeks": 5,
    "work_mode": null
   },
@@ -4608,8 +4898,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern 2027 - Business Development",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Business-Development_R-052926",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -4703,8 +4996,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern 2027 - FAR Program - Service Transformation & Data Analytics",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Service-Transformation---Data-Analytics_R-053219",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -4795,8 +5091,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern 2027 - Strategy and Growth Analyst",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027---Strategy-and-Growth_R-052938",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -4827,8 +5126,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern 2027 - Transition Support Partner",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Transition-Support-Partner_R-053345",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -4859,8 +5161,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern 2027 - Wealth Advisory Group",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027-Wealth-Advisor-Group_R-052554",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -4951,8 +5256,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "January 2027 - Internship Private Capital Advisory (PCA) - Secondaries – Paris",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6533",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -4981,8 +5289,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Lazard: Houston Power Energy & Infrastructure - 2027 Summer Associate",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6691",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -5011,8 +5322,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "March 2027 – Internship offer - Sovereign Advisory Group – Paris",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6481",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -5041,8 +5355,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -5071,8 +5388,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -5103,8 +5423,11 @@
    "sponsorship": "No sponsorship",
    "status": "open",
    "title": "Wealth Management Digital Client and Partner Experience Intern",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -5135,8 +5458,11 @@
    "sponsorship": "No sponsorship",
    "status": "open",
    "title": "Wealth Management Intern - All Other US Locations",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Wealth-Management-Intern---All-Other-US-Locations_R160763-1",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -5167,8 +5493,11 @@
    "sponsorship": "No sponsorship",
    "status": "open",
    "title": "Wealth Management Intern - Chicago",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Intern---Chicago_R160825-1",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -5417,6 +5746,39 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "PNC (PNC Private Bank)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "id": "wd:pnc:R231491-1",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "PA - Pittsburgh (15222)",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "open",
+   "title": "Realty Services Undergraduate Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Realty-Services-Undergraduate-Intern_R231491-1",
+   "v": 4,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "The programme is designed to provide meaningful responsibility from day one, culminating in the presentation of a strategic growth opportunity or market-based research project to senior business leaders.",
    "classes": [
     2027
@@ -5473,8 +5835,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Wealth Management Winter Intern",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management-Winter-Intern_R-0000186770",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -5503,8 +5868,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Private Client Group Intern",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Chevy-Chase-Maryland-United-States-of-America/Private-Client-Group-Intern_R-0000075215",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -5535,8 +5903,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 US Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-   "v": 3,
+   "v": 4,
    "weeks": 10,
    "work_mode": null
   },
@@ -5568,8 +5939,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 US Wealth Management Technology Internship",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -5600,8 +5974,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "Summer 2027 Wealth Management Operations Internship",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": null
   },
@@ -5632,8 +6009,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Summer Internship - PCG Finance - St. Petersburg, FL",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---PCG-Finance---St-Petersburg--FL_R-0013337",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -5664,8 +6044,11 @@
    "sponsorship": null,
    "status": "open",
    "title": "2027 Summer Internship – Wealth Management – Multiple Locations",
+   "tracks": [
+    "wealth"
+   ],
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Wealth-Management---Multiple-Locations_R-0013237",
-   "v": 3,
+   "v": 4,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6062,6 +6445,146 @@
    "v": 3,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree with a target graduation date of December 2027 or May 2028",
+   "classes": [
+    2028
+   ],
+   "company": "U.S. Bank (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "id": "wd:usbank:2026-0025772",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "Los Angeles",
+   "misses": 0,
+   "pay": "$23–$30/hr",
+   "posted": "2026-10-05",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "2027 Commercial Real Estate Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
+   "v": 4,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Penultimate year undergraduate with an expected graduation date of June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Wells Fargo",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:wf:R-570654-1",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "CITY OF LONDON,",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "International",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "EMEA Banking Summer Analyst",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Banking-Summer-Analyst_R-570654-1",
+   "v": 4,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Penultimate year undergraduate with an expected graduation date of June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Wells Fargo",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:wf:R-571086-1",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "CITY OF LONDON,",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "International",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "EMEA Commercial Real Estate Summer Analyst",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Commercial-Real-Estate-Analyst_R-571086-1",
+   "v": 4,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Penultimate year undergraduate with an expected graduation date of June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Wells Fargo",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:wf:R-570663",
+   "last_seen": "2026-10-08",
+   "level": "Undergraduate",
+   "location": "CITY OF LONDON,",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "International",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "open",
+   "title": "EMEA Markets Summer Analyst",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Markets-Summer-Analyst_R-570663",
+   "v": 4,
+   "weeks": 10,
+   "work_mode": null
   }
  ]
 }
