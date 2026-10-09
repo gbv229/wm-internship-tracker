@@ -1,3 +1,2038 @@
 {
- "companies": []
+ "companies": [
+  {
+   "careers": "https://www.morganstanley.com/people-opportunities/students-graduates",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Morgan Stanley",
+   "open": 2,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://higher.gs.com/campus",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Goldman Sachs",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "b2185d4027bab0ae",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://higher.gs.com/campus"
+    }
+   ],
+   "type": "Global Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://careers.jpmorgan.com/us/en/students/programs",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "J.P. Morgan",
+   "open": 24,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://campus.bankofamerica.com/",
+   "focus": "mixed",
+   "hq": "Charlotte, NC",
+   "last_ok": "2026-10-08",
+   "name": "Bank of America / Merrill",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "changed_on": null,
+     "hash": "1035004f51dda000",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://campus.bankofamerica.com/"
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.wellsfargojobs.com/en/early-careers/",
+   "focus": "mixed",
+   "hq": "San Francisco, CA",
+   "last_ok": "2026-10-08",
+   "name": "Wells Fargo",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://jobs.citi.com/students-and-graduates",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Citi (incl. Citi Private Bank)",
+   "open": 14,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.ubs.com/global/en/careers/early-careers.html",
+   "focus": "mixed",
+   "hq": "Zurich / New York",
+   "last_ok": "2026-10-08",
+   "name": "UBS",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "383864306bf66164",
+     "kind": "page",
+     "links": [
+      "Read more about journey of victoria intern graduate | https://www.ubs.com/global/en/careers/about-us/stories/2018/intern-graduate-journey.html",
+      "Read more about the Summer Internship Program | https://www.ubs.com/global/en/careers/early-careers/summer-internship-program.html",
+      "Read more about the UBS Tomorrow's Talent (Spring Insight) Program | https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html"
+     ],
+     "ok": true,
+     "url": "https://www.ubs.com/global/en/careers/early-careers.html"
+    }
+   ],
+   "type": "Global Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://search.jobs.barclays/",
+   "focus": "mixed",
+   "hq": "London / New York",
+   "last_ok": "2026-10-08",
+   "name": "Barclays",
+   "open": 1,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.db.com/students-graduates/",
+   "focus": "mixed",
+   "hq": "Frankfurt / New York",
+   "last_ok": "2026-10-08",
+   "name": "Deutsche Bank",
+   "open": 8,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://jobs.rbc.com/ca/en/students-and-graduates",
+   "focus": "mixed",
+   "hq": "Toronto / Minneapolis",
+   "last_ok": "2026-10-08",
+   "name": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "open": 7,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://jobs.td.com/en-CA/students-and-new-grads/",
+   "focus": "mixed",
+   "hq": "Toronto / Cherry Hill, NJ",
+   "last_ok": "2026-10-08",
+   "name": "TD (incl. TD Wealth)",
+   "open": 3,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://cibc.wd3.myworkdayjobs.com/campus",
+   "focus": "mixed",
+   "hq": "Toronto / Chicago",
+   "last_ok": "2026-10-08",
+   "name": "CIBC Private Wealth",
+   "open": 7,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://santander.wd3.myworkdayjobs.com/SantanderCareers",
+   "focus": "mixed",
+   "hq": "Madrid / Boston",
+   "last_ok": "2026-10-08",
+   "name": "Santander (Private Banking)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.hsbc.com/careers/students-and-graduates",
+   "focus": "mixed",
+   "hq": "London / New York",
+   "last_ok": "2026-10-08",
+   "name": "HSBC",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "6e4b4b475f173782",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.hsbc.com/careers/students-and-graduates"
+    }
+   ],
+   "type": "Global Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://jobs.bmo.com/us/en",
+   "focus": "mixed",
+   "hq": "Toronto / Chicago",
+   "last_ok": "2026-10-08",
+   "name": "BMO (incl. BMO Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "93ab50a2bd5cbe3b",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://jobs.bmo.com/us/en"
+    }
+   ],
+   "type": "Global Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://juliusbaer.wd3.myworkdayjobs.com/External",
+   "focus": "wealth",
+   "hq": "Zurich",
+   "last_ok": "2026-10-08",
+   "name": "Julius Baer",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Global Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.jefferies.com/careers/",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Jefferies (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "type": "Investment Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.lazard.com/careers/",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Lazard (Lazard Wealth Management)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "type": "Investment Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.rothschildandco.com/en/careers/",
+   "focus": "mixed",
+   "hq": "Paris / New York",
+   "last_ok": "2026-10-08",
+   "name": "Rothschild & Co (Wealth Mgmt)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "e0f8cd95121489cf",
+     "kind": "page",
+     "links": [
+      "Early Insights | https://www.rothschildandco.com/en/careers/students-and-graduates/early-insights/",
+      "Internships | https://www.rothschildandco.com/en/careers/students-and-graduates/internships/"
+     ],
+     "ok": true,
+     "url": "https://www.rothschildandco.com/en/careers/"
+    }
+   ],
+   "type": "Investment Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://www.evercore.com/careers/",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Evercore Wealth Management",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "0dea200907df2d4a",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.evercore.com/careers/"
+    }
+   ],
+   "type": "Investment Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://www.williamblair.com/Careers",
+   "focus": "mixed",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "William Blair (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "greenhouse",
+     "ok": true
+    }
+   ],
+   "type": "Investment Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers",
+   "focus": "mixed",
+   "hq": "Minneapolis, MN",
+   "last_ok": "2026-10-08",
+   "name": "Piper Sandler",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Investment Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.northerntrust.com/united-states/about-us/careers/students",
+   "focus": "wealth",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "Northern Trust",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": true
+  },
+  {
+   "careers": "https://www.bny.com/corporate/global/en/careers/students-and-graduates.html",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "BNY (incl. BNY Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": true
+  },
+  {
+   "careers": "https://www.bbh.com/us/en/careers.html",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Brown Brothers Harriman",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": true
+  },
+  {
+   "careers": "https://mtb.wd5.myworkdayjobs.com/wtexternal",
+   "focus": "wealth",
+   "hq": "Wilmington, DE",
+   "last_ok": "2026-10-08",
+   "name": "Wilmington Trust",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": true
+  },
+  {
+   "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Fiduciary Trust International (Franklin)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": true
+  },
+  {
+   "careers": "https://www.bessemertrust.com/careers",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": null,
+   "name": "Bessemer Trust",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.bessemertrust.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.bessemertrust.com/careers"
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": false
+  },
+  {
+   "careers": "https://www.glenmede.com/careers/",
+   "focus": "wealth",
+   "hq": "Philadelphia, PA",
+   "last_ok": "2026-10-08",
+   "name": "Glenmede",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "d7fedc0ef283d068",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.glenmede.com/careers/"
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": false
+  },
+  {
+   "careers": "https://www.brownadvisory.com/us/careers",
+   "focus": "wealth",
+   "hq": "Baltimore, MD",
+   "last_ok": "2026-10-08",
+   "name": "Brown Advisory",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "677b184b931a22d6",
+     "kind": "page",
+     "links": [
+      "View open summer analyst internship opportunities | https://brownadvisory.wd1.myworkdayjobs.com/Brown-Interns/"
+     ],
+     "ok": true,
+     "url": "https://www.brownadvisory.com/us/careers"
+    }
+   ],
+   "type": "Private Bank & Trust",
+   "verified": false
+  },
+  {
+   "careers": "https://jobs.firstcitizens.com/",
+   "focus": "mixed",
+   "hq": "Raleigh, NC",
+   "last_ok": "2026-10-08",
+   "name": "First Citizens (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "754fc4000af35dc3",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://jobs.firstcitizens.com/"
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://careers.pnc.com/global/en/students",
+   "focus": "mixed",
+   "hq": "Pittsburgh, PA",
+   "last_ok": "2026-10-08",
+   "name": "PNC (PNC Private Bank)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.truist.com/",
+   "focus": "mixed",
+   "hq": "Charlotte, NC",
+   "last_ok": "2026-10-08",
+   "name": "Truist (Truist Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.usbank.com/",
+   "focus": "mixed",
+   "hq": "Minneapolis, MN",
+   "last_ok": "2026-10-08",
+   "name": "U.S. Bank (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://mtb.wd5.myworkdayjobs.com/Campus",
+   "focus": "mixed",
+   "hq": "Buffalo, NY",
+   "last_ok": "2026-10-08",
+   "name": "M&T Bank (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://jobs.citizensbank.com/",
+   "focus": "mixed",
+   "hq": "Providence, RI",
+   "last_ok": "2026-10-08",
+   "name": "Citizens (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://fifththird.wd5.myworkdayjobs.com/53careers",
+   "focus": "mixed",
+   "hq": "Cincinnati, OH",
+   "last_ok": "2026-10-08",
+   "name": "Fifth Third (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
+   "focus": "mixed",
+   "hq": "Cleveland, OH",
+   "last_ok": "2026-10-08",
+   "name": "KeyBank (Key Private Bank)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
+   "focus": "mixed",
+   "hq": "Columbus, OH",
+   "last_ok": "2026-10-08",
+   "name": "Huntington (Private Bank)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://regions.wd5.myworkdayjobs.com/regions_careers",
+   "focus": "mixed",
+   "hq": "Birmingham, AL",
+   "last_ok": "2026-10-08",
+   "name": "Regions (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://associatedbank.wd1.myworkdayjobs.com/external_careers",
+   "focus": "mixed",
+   "hq": "Green Bay, WI",
+   "last_ok": "2026-10-08",
+   "name": "Associated Bank (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://frostbank.wd5.myworkdayjobs.com/External",
+   "focus": "mixed",
+   "hq": "San Antonio, TX",
+   "last_ok": "2026-10-08",
+   "name": "Frost (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": true
+  },
+  {
+   "careers": "https://www.fultonbank.com/About-Fulton-Bank/Careers",
+   "focus": "mixed",
+   "hq": "Lancaster, PA",
+   "last_ok": "2026-10-08",
+   "name": "Fulton Bank (Fulton Private Bank)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "669b910e130ae15a",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.fultonbank.com/About-Fulton-Bank/Careers"
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://www.univest.net/careers",
+   "focus": "mixed",
+   "hq": "Souderton, PA",
+   "last_ok": "2026-10-08",
+   "name": "Univest (Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "a1fbebb49ab88887",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.univest.net/careers"
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://www.wsfsbank.com/careers",
+   "focus": "mixed",
+   "hq": "Wilmington, DE",
+   "last_ok": "2026-10-08",
+   "name": "WSFS / Bryn Mawr Trust",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "52d251a18e08d942",
+     "kind": "page",
+     "links": [
+      "A Summer of Storytelling: Sadie Herr’s WSFS Communications Internship | https://www.wsfsbank.com/resources/a-summer-of-storytelling-sadie-herrs-wsfs-communications-internship/"
+     ],
+     "ok": true,
+     "url": "https://www.wsfsbank.com/careers"
+    }
+   ],
+   "type": "Regional Bank",
+   "verified": false
+  },
+  {
+   "careers": "https://jobs.fidelity.com/en/students-and-graduates/",
+   "focus": "mixed",
+   "hq": "Boston, MA",
+   "last_ok": "2026-10-08",
+   "name": "Fidelity Investments",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://www.schwabjobs.com/students",
+   "focus": "wealth",
+   "hq": "Westlake, TX",
+   "last_ok": "2026-10-08",
+   "name": "Charles Schwab",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "icims",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.edwardjones.com/",
+   "focus": "wealth",
+   "hq": "St. Louis, MO",
+   "last_ok": "2026-10-08",
+   "name": "Edward Jones",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "3198201d75e5c1ac",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://careers.edwardjones.com/"
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": false
+  },
+  {
+   "careers": "https://www.raymondjames.com/careers/students",
+   "focus": "wealth",
+   "hq": "St. Petersburg, FL",
+   "last_ok": "2026-10-08",
+   "name": "Raymond James",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://www.ameriprise.com/careers",
+   "focus": "wealth",
+   "hq": "Minneapolis, MN",
+   "last_ok": "2026-10-08",
+   "name": "Ameriprise Financial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://lplfinancial.wd1.myworkdayjobs.com/university",
+   "focus": "wealth",
+   "hq": "San Diego, CA",
+   "last_ok": "2026-10-08",
+   "name": "LPL Financial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://www.stifel.com/careers",
+   "focus": "wealth",
+   "hq": "St. Louis, MO",
+   "last_ok": "2026-10-08",
+   "name": "Stifel",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "icims",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://www.rwbaird.com/careers/",
+   "focus": "wealth",
+   "hq": "Milwaukee, WI",
+   "last_ok": "2026-10-08",
+   "name": "Baird",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://rockco.com/careers/",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Rockefeller Capital Management",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "icims",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://opco.hrmdirect.com/employment/job-openings.php?search=true",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Oppenheimer & Co.",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "1f3b70d9551bc183",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://opco.hrmdirect.com/employment/job-openings.php?search=true"
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://www.janney.com/careers",
+   "focus": "wealth",
+   "hq": "Philadelphia, PA",
+   "last_ok": "2026-10-08",
+   "name": "Janney Montgomery Scott",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "74b556fd70da9d1f",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.janney.com/careers"
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": false
+  },
+  {
+   "careers": "https://dadavidson.com/careers",
+   "focus": "wealth",
+   "hq": "Great Falls, MT",
+   "last_ok": "2026-10-08",
+   "name": "D.A. Davidson",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "2171adddb3d9fdeb",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://dadavidson.com/careers"
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": false
+  },
+  {
+   "careers": "https://www.stephens.com/careers/",
+   "focus": "mixed",
+   "hq": "Little Rock, AR",
+   "last_ok": "2026-10-08",
+   "name": "Stephens",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "e1d7b50179b77e67",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.stephens.com/careers/"
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": false
+  },
+  {
+   "careers": "https://www.hilltopsecurities.com/careers/",
+   "focus": "mixed",
+   "hq": "Dallas, TX",
+   "last_ok": "2026-10-08",
+   "name": "Hilltop Securities",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "141ec77912857372",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.hilltopsecurities.com/careers/"
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": false
+  },
+  {
+   "careers": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site",
+   "focus": "wealth",
+   "hq": "Fairfield, IA",
+   "last_ok": "2026-10-08",
+   "name": "Cambridge Investment Research",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site",
+   "focus": "wealth",
+   "hq": "Phoenix, AZ",
+   "last_ok": "2026-10-08",
+   "name": "Osaic",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://www.cetera.com/careers",
+   "focus": "wealth",
+   "hq": "San Diego, CA",
+   "last_ok": "2026-10-08",
+   "name": "Cetera Financial Group",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "oracle",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services",
+   "focus": "mixed",
+   "hq": "Oaks, PA",
+   "last_ok": "2026-10-08",
+   "name": "SEI",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Brokerage & Platform",
+   "verified": true
+  },
+  {
+   "careers": "https://creativeplanning.com/careers/",
+   "focus": "wealth",
+   "hq": "Overland Park, KS",
+   "last_ok": "2026-10-08",
+   "name": "Creative Planning",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "40f543263d9b4297",
+     "kind": "page",
+     "links": [
+      "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
+      "wmfp.internship@creativeplanning.com | mailto:wmfp.internship@creativeplanning.com"
+     ],
+     "ok": true,
+     "url": "https://creativeplanning.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.captrust.com/careers/",
+   "focus": "wealth",
+   "hq": "Raleigh, NC",
+   "last_ok": "2026-10-08",
+   "name": "CAPTRUST",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "icims",
+     "ok": true
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": true
+  },
+  {
+   "careers": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Cerity Partners",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": true
+  },
+  {
+   "careers": "https://focusfinancialpartners.com/careers/",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Focus Financial Partners",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "greenhouse",
+     "ok": true
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": true
+  },
+  {
+   "careers": "https://www.mariner.com/careers/",
+   "focus": "wealth",
+   "hq": "Overland Park, KS",
+   "last_ok": "2026-10-08",
+   "name": "Mariner",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "2495f69816e2ce35",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.mariner.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://cressetcapital.com/careers/",
+   "focus": "wealth",
+   "hq": "Chicago, IL",
+   "last_ok": "2026-10-08",
+   "name": "Cresset",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "1ee5451ac06c6af1",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://cressetcapital.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://hightoweradvisors.com/careers/",
+   "focus": "wealth",
+   "hq": "Chicago, IL",
+   "last_ok": null,
+   "name": "Hightower Advisors",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://hightoweradvisors.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.wealthenhancement.com/careers",
+   "focus": "wealth",
+   "hq": "Minneapolis, MN",
+   "last_ok": "2026-10-08",
+   "name": "Wealth Enhancement Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "17446685fc0fa2c0",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.wealthenhancement.com/careers"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://sanctuarywealth.com/careers/",
+   "focus": "wealth",
+   "hq": "St. Louis, MO",
+   "last_ok": null,
+   "name": "Sanctuary Wealth",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://sanctuarywealth.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.carsongroup.com/careers/",
+   "focus": "wealth",
+   "hq": "Omaha, NE",
+   "last_ok": "2026-10-08",
+   "name": "Carson Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "e8b25457f8157487",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.carsongroup.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.merceradvisors.com/careers/",
+   "focus": "wealth",
+   "hq": "Denver, CO",
+   "last_ok": "2026-10-08",
+   "name": "Mercer Advisors",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "34eefffaa5c64aab",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.merceradvisors.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.edelmanfinancialengines.com/careers/",
+   "focus": "wealth",
+   "hq": "Boston, MA",
+   "last_ok": null,
+   "name": "Edelman Financial Engines",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.edelmanfinancialengines.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.fisherinvestments.com/en-us/careers",
+   "focus": "wealth",
+   "hq": "Plano, TX",
+   "last_ok": null,
+   "name": "Fisher Investments",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.fisherinvestments.com/en-us/careers"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.savantwealth.com/careers/",
+   "focus": "wealth",
+   "hq": "Rockford, IL",
+   "last_ok": null,
+   "name": "Savant Wealth Management",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.savantwealth.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.dynastyfinancial.com/careers",
+   "focus": "wealth",
+   "hq": "St. Petersburg, FL",
+   "last_ok": "2026-10-08",
+   "name": "Dynasty Financial Partners",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "e3b0c44298fc1c14",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.dynastyfinancial.com/careers"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.silvercrestgroup.com/careers/",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Silvercrest Asset Management",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "94ab81972a29e91e",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.silvercrestgroup.com/careers/"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.manning-napier.com/careers",
+   "focus": "wealth",
+   "hq": "Rochester, NY",
+   "last_ok": null,
+   "name": "Manning & Napier",
+   "open": 0,
+   "sources": [
+    {
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.manning-napier.com/careers",
+     "kind": "page",
+     "ok": false,
+     "url": "https://www.manning-napier.com/careers"
+    }
+   ],
+   "type": "Independent RIA",
+   "verified": false
+  },
+  {
+   "careers": "https://www.northwesternmutual.com/careers/",
+   "focus": "wealth",
+   "hq": "Milwaukee, WI",
+   "last_ok": "2026-10-08",
+   "name": "Northwestern Mutual",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "changed_on": null,
+     "hash": "1edeb0b3d9598673",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.northwesternmutual.com/careers/"
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
+   "focus": "mixed",
+   "hq": "Springfield, MA",
+   "last_ok": "2026-10-08",
+   "name": "MassMutual",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Guardian Life",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://pru.wd5.myworkdayjobs.com/Careers",
+   "focus": "mixed",
+   "hq": "Newark, NJ",
+   "last_ok": "2026-10-08",
+   "name": "Prudential Financial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://thrivent.wd5.myworkdayjobs.com/external",
+   "focus": "mixed",
+   "hq": "Minneapolis, MN",
+   "last_ok": "2026-10-08",
+   "name": "Thrivent",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://hq.wd12.myworkdayjobs.com/Securian_External",
+   "focus": "mixed",
+   "hq": "St. Paul, MN",
+   "last_ok": "2026-10-08",
+   "name": "Securian Financial",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
+   "focus": "mixed",
+   "hq": "Columbus, OH",
+   "last_ok": "2026-10-08",
+   "name": "Nationwide",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
+   "focus": "mixed",
+   "hq": "San Antonio, TX",
+   "last_ok": "2026-10-08",
+   "name": "USAA",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": true
+  },
+  {
+   "careers": "https://www.newyorklife.com/careers",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "New York Life",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "5505ab43499ebc67",
+     "kind": "page",
+     "links": [
+      "Explore internship opportunities | https://www.newyorklife.com/careers/corporate/internships",
+      "Student Opportunities \n Gain valuable, real-world experience and a head start on your future.\n Learn more about internships | https://www.newyorklife.com/careers/corporate/internships"
+     ],
+     "ok": true,
+     "url": "https://www.newyorklife.com/careers"
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": false
+  },
+  {
+   "careers": "https://careers.principal.com/",
+   "focus": "mixed",
+   "hq": "Des Moines, IA",
+   "last_ok": "2026-10-08",
+   "name": "Principal Financial Group",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "b29546a217a017db",
+     "kind": "page",
+     "links": [
+      "Internships | https://careers.principal.com/internships"
+     ],
+     "ok": true,
+     "url": "https://careers.principal.com/"
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": false
+  },
+  {
+   "careers": "https://jobs.lincolnfinancial.com/",
+   "focus": "mixed",
+   "hq": "Radnor, PA",
+   "last_ok": "2026-10-08",
+   "name": "Lincoln Financial",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "abd0324632452781",
+     "kind": "page",
+     "links": [
+      "Actuarial Internship Program Jobs | https://jobs.lincolnfinancial.com/go/Actuarial-Internship-Program/7745300/",
+      "Actuarial Internship Program | https://jobs.lincolnfinancial.com/go/Actuarial-Internship-Program/7745300/",
+      "Internship Development Program | https://jobs.lincolnfinancial.com/go/Internship-Jobs/2254900/",
+      "Internship Jobs | https://jobs.lincolnfinancial.com/go/Internship-Jobs/2254900/"
+     ],
+     "ok": true,
+     "url": "https://jobs.lincolnfinancial.com/"
+    }
+   ],
+   "type": "Insurance & Planning",
+   "verified": false
+  },
+  {
+   "careers": "https://www.vanguardjobs.com/",
+   "focus": "mixed",
+   "hq": "Malvern, PA",
+   "last_ok": "2026-10-08",
+   "name": "Vanguard",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.blackrock.com/early-careers/",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "BlackRock",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers",
+   "focus": "mixed",
+   "hq": "Nashville, TN",
+   "last_ok": "2026-10-08",
+   "name": "AllianceBernstein (Bernstein Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
+   "focus": "mixed",
+   "hq": "Baltimore, MD",
+   "last_ok": "2026-10-08",
+   "name": "T. Rowe Price",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers",
+   "focus": "mixed",
+   "hq": "Los Angeles, CA",
+   "last_ok": "2026-10-08",
+   "name": "Capital Group",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
+   "focus": "mixed",
+   "hq": "San Mateo, CA",
+   "last_ok": "2026-10-08",
+   "name": "Franklin Templeton",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers",
+   "focus": "mixed",
+   "hq": "Atlanta, GA",
+   "last_ok": "2026-10-08",
+   "name": "Invesco",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    },
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://nb.wd1.myworkdayjobs.com/NBCareers",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Neuberger Berman (Private Wealth)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers",
+   "focus": "mixed",
+   "hq": "Austin, TX",
+   "last_ok": "2026-10-08",
+   "name": "Dimensional Fund Advisors",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://wellington.wd5.myworkdayjobs.com/Campus",
+   "focus": "mixed",
+   "hq": "Boston, MA",
+   "last_ok": "2026-10-08",
+   "name": "Wellington Management",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://statestreet.wd1.myworkdayjobs.com/Global",
+   "focus": "mixed",
+   "hq": "Boston, MA",
+   "last_ok": "2026-10-08",
+   "name": "State Street",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://tiaa.wd1.myworkdayjobs.com/Search",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "TIAA / Nuveen",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://pimco.wd1.myworkdayjobs.com/pimco-careers",
+   "focus": "mixed",
+   "hq": "Newport Beach, CA",
+   "last_ok": "2026-10-08",
+   "name": "PIMCO",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
+   "focus": "mixed",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Blackstone (Private Wealth Solutions)",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Asset Manager",
+   "verified": true
+  },
+  {
+   "careers": "https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers",
+   "focus": "wealth",
+   "hq": "Omaha, NE",
+   "last_ok": "2026-10-08",
+   "name": "Orion",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "workday",
+     "ok": true
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": true
+  },
+  {
+   "careers": "https://addepar.com/careers",
+   "focus": "wealth",
+   "hq": "Mountain View, CA",
+   "last_ok": "2026-10-08",
+   "name": "Addepar",
+   "open": 0,
+   "sources": [
+    {
+     "kind": "greenhouse",
+     "ok": true
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": true
+  },
+  {
+   "careers": "https://jobs.ashbyhq.com/range",
+   "focus": "wealth",
+   "hq": "McLean, VA",
+   "last_ok": "2026-10-08",
+   "name": "Range",
+   "open": 1,
+   "sources": [
+    {
+     "kind": "ashby",
+     "ok": true
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": true
+  },
+  {
+   "careers": "https://careers.robinhood.com/",
+   "focus": "mixed",
+   "hq": "Menlo Park, CA",
+   "last_ok": "2026-10-08",
+   "name": "Robinhood",
+   "open": 25,
+   "sources": [
+    {
+     "kind": "greenhouse",
+     "ok": true
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": true
+  },
+  {
+   "careers": "https://www.wealthfront.com/careers",
+   "focus": "wealth",
+   "hq": "Palo Alto, CA",
+   "last_ok": "2026-10-08",
+   "name": "Wealthfront",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "9afc605258751aee",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.wealthfront.com/careers"
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": false
+  },
+  {
+   "careers": "https://www.betterment.com/careers",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Betterment",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "cf83592436ef00a9",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.betterment.com/careers"
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": false
+  },
+  {
+   "careers": "https://altruist.com/careers",
+   "focus": "wealth",
+   "hq": "Los Angeles, CA",
+   "last_ok": "2026-10-08",
+   "name": "Altruist",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "2ff7edf164480c76",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://altruist.com/careers"
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": false
+  },
+  {
+   "careers": "https://www.farther.com/careers",
+   "focus": "wealth",
+   "hq": "New York, NY",
+   "last_ok": "2026-10-08",
+   "name": "Farther",
+   "open": 0,
+   "sources": [
+    {
+     "changed_on": null,
+     "hash": "a13c11ef431197b0",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://www.farther.com/careers"
+    }
+   ],
+   "type": "Wealthtech",
+   "verified": false
+  }
+ ]
 }
