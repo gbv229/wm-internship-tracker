@@ -270,7 +270,7 @@
    "sources": [
     {
      "changed_on": "2026-10-08",
-     "hash": "f71131e5683e5b4f",
+     "hash": "99d295664c271ed2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -318,7 +318,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "Lazard (Lazard Wealth Management)",
-   "open": 21,
+   "open": 3,
    "sources": [
     {
      "kind": "oracle",
@@ -405,11 +405,11 @@
   },
   {
    "careers": "https://www.northerntrust.com/united-states/about-us/careers/students",
-   "focus": "wealth",
+   "focus": "mixed",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-08",
    "name": "Northern Trust",
-   "open": 8,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -674,7 +674,7 @@
    "hq": "Cleveland, OH",
    "last_ok": "2026-10-08",
    "name": "KeyBank (Key Private Bank)",
-   "open": 0,
+   "open": 11,
    "sources": [
     {
      "kind": "workday",
@@ -690,7 +690,7 @@
    "hq": "Columbus, OH",
    "last_ok": "2026-10-08",
    "name": "Huntington (Private Bank)",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -836,7 +836,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-10-08",
    "name": "Charles Schwab",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "icims",
@@ -872,7 +872,7 @@
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-10-08",
    "name": "Raymond James",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -892,7 +892,7 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-08",
    "name": "Ameriprise Financial",
-   "open": 0,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -908,7 +908,7 @@
    "hq": "San Diego, CA",
    "last_ok": "2026-10-08",
    "name": "LPL Financial",
-   "open": 0,
+   "open": 11,
    "sources": [
     {
      "kind": "workday",
@@ -928,7 +928,7 @@
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-08",
    "name": "Stifel",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "icims",
@@ -944,7 +944,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-08",
    "name": "Baird",
-   "open": 0,
+   "open": 32,
    "sources": [
     {
      "kind": "workday",
@@ -960,7 +960,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "Rockefeller Capital Management",
-   "open": 0,
+   "open": 11,
    "sources": [
     {
      "kind": "icims",
@@ -1076,7 +1076,7 @@
    "hq": "Fairfield, IA",
    "last_ok": "2026-10-08",
    "name": "Cambridge Investment Research",
-   "open": 0,
+   "open": 8,
    "sources": [
     {
      "kind": "workday",
@@ -1179,7 +1179,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "Cerity Partners",
-   "open": 0,
+   "open": 18,
    "sources": [
     {
      "kind": "workday",
@@ -1441,7 +1441,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-08",
    "name": "Northwestern Mutual",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -1481,7 +1481,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "Guardian Life",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -1497,7 +1497,7 @@
    "hq": "Newark, NJ",
    "last_ok": "2026-10-08",
    "name": "Prudential Financial",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -1663,7 +1663,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "BlackRock",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -1683,7 +1683,7 @@
    "hq": "Nashville, TN",
    "last_ok": "2026-10-08",
    "name": "AllianceBernstein (Bernstein Private Wealth)",
-   "open": 0,
+   "open": 10,
    "sources": [
     {
      "kind": "workday",
@@ -1851,7 +1851,7 @@
    "hq": "Newport Beach, CA",
    "last_ok": "2026-10-08",
    "name": "PIMCO",
-   "open": 0,
+   "open": 6,
    "sources": [
     {
      "kind": "workday",
@@ -1867,7 +1867,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "Blackstone (Private Wealth Solutions)",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -1995,7 +1995,7 @@
    "sources": [
     {
      "changed_on": "2026-10-08",
-     "hash": "d2383e7de3514a25",
+     "hash": "a13c11ef431197b0",
      "kind": "page",
      "links": [],
      "ok": true,
