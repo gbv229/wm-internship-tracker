@@ -320,7 +320,7 @@
    "sources": [
     {
      "changed_on": "2026-10-08",
-     "hash": "96fcf59fa2602b78",
+     "hash": "3f6f31a309c15a7f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -993,7 +993,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-10-08",
    "name": "Charles Schwab",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "kind": "icims",
@@ -1776,8 +1776,7 @@
     }
    ],
    "tracks": [
-    "wealth",
-    "real_estate"
+    "wealth"
    ],
    "type": "Insurance & Planning",
    "verified": true
@@ -2620,7 +2619,7 @@
    "sources": [
     {
      "changed_on": "2026-10-08",
-     "hash": "2b6f0ef9dee50059",
+     "hash": "c041312869a915f2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3812,10 +3811,11 @@
    "open": 0,
    "sources": [
     {
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7f10a86c3770>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
+     "changed_on": null,
      "hash": "2e3f950686073ccd",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4330,7 +4330,7 @@
    "sources": [
     {
      "changed_on": "2026-10-08",
-     "hash": "727948979b6db243",
+     "hash": "39943714678b9529",
      "kind": "page",
      "links": [],
      "ok": true,
