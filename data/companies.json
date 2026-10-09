@@ -42,7 +42,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "J.P. Morgan",
-   "open": 24,
+   "open": 20,
    "sources": [
     {
      "kind": "oracle",
@@ -138,7 +138,7 @@
    "hq": "London / New York",
    "last_ok": "2026-10-08",
    "name": "Barclays",
-   "open": 1,
+   "open": 4,
    "sources": [
     {
      "kind": "workday",
@@ -154,7 +154,7 @@
    "hq": "Frankfurt / New York",
    "last_ok": "2026-10-08",
    "name": "Deutsche Bank",
-   "open": 8,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -170,7 +170,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-08",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 7,
+   "open": 5,
    "sources": [
     {
      "kind": "workday",
@@ -194,7 +194,7 @@
    "hq": "Toronto / Cherry Hill, NJ",
    "last_ok": "2026-10-08",
    "name": "TD (incl. TD Wealth)",
-   "open": 3,
+   "open": 0,
    "sources": [
     {
      "kind": "workday",
@@ -210,7 +210,7 @@
    "hq": "Toronto / Chicago",
    "last_ok": "2026-10-08",
    "name": "CIBC Private Wealth",
-   "open": 7,
+   "open": 6,
    "sources": [
     {
      "kind": "workday",
@@ -269,8 +269,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "93ab50a2bd5cbe3b",
+     "changed_on": "2026-10-08",
+     "hash": "f71131e5683e5b4f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -286,7 +286,7 @@
    "hq": "Zurich",
    "last_ok": "2026-10-08",
    "name": "Julius Baer",
-   "open": 0,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -318,7 +318,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "Lazard (Lazard Wealth Management)",
-   "open": 0,
+   "open": 21,
    "sources": [
     {
      "kind": "oracle",
@@ -409,7 +409,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-08",
    "name": "Northern Trust",
-   "open": 0,
+   "open": 8,
    "sources": [
     {
      "kind": "workday",
@@ -425,7 +425,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-08",
    "name": "BNY (incl. BNY Wealth)",
-   "open": 0,
+   "open": 6,
    "sources": [
     {
      "kind": "oracle",
@@ -484,18 +484,23 @@
    "verified": true
   },
   {
-   "careers": "https://www.bessemertrust.com/careers",
+   "careers": "https://www.bessemertrust.com/intern-with-us",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": null,
+   "last_ok": "2026-10-08",
    "name": "Bessemer Trust",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.bessemertrust.com/careers",
+     "changed_on": null,
+     "hash": "45e90d1d093bacb2",
      "kind": "page",
-     "ok": false,
-     "url": "https://www.bessemertrust.com/careers"
+     "links": [
+      "Explore available\ninternships | https://myjobs.adp.com/bessemer/cx/job-listing?FIELD3=Internship",
+      "Explore available internships | https://myjobs.adp.com/bessemer/cx/job-listing?FIELD3=Internship"
+     ],
+     "ok": true,
+     "url": "https://www.bessemertrust.com/intern-with-us"
     }
    ],
    "type": "Private Bank & Trust",
@@ -1431,24 +1436,6 @@
    "verified": false
   },
   {
-   "careers": "https://www.manning-napier.com/careers",
-   "focus": "wealth",
-   "hq": "Rochester, NY",
-   "last_ok": null,
-   "name": "Manning & Napier",
-   "open": 0,
-   "sources": [
-    {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.manning-napier.com/careers",
-     "kind": "page",
-     "ok": false,
-     "url": "https://www.manning-napier.com/careers"
-    }
-   ],
-   "type": "Independent RIA",
-   "verified": false
-  },
-  {
    "careers": "https://www.northwesternmutual.com/careers/",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
@@ -1928,26 +1915,10 @@
    "hq": "McLean, VA",
    "last_ok": "2026-10-08",
    "name": "Range",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "kind": "ashby",
-     "ok": true
-    }
-   ],
-   "type": "Wealthtech",
-   "verified": true
-  },
-  {
-   "careers": "https://careers.robinhood.com/",
-   "focus": "mixed",
-   "hq": "Menlo Park, CA",
-   "last_ok": "2026-10-08",
-   "name": "Robinhood",
-   "open": 25,
-   "sources": [
-    {
-     "kind": "greenhouse",
      "ok": true
     }
    ],
@@ -2023,8 +1994,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "a13c11ef431197b0",
+     "changed_on": "2026-10-08",
+     "hash": "d2383e7de3514a25",
      "kind": "page",
      "links": [],
      "ok": true,
