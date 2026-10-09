@@ -226,7 +226,8 @@ def icims(s: requests.Session, cfg: dict, today: date) -> list[Job]:
                 if jid in jobs:
                     continue
                 title = parse.html_to_text(inner)
-                title = re.sub(r"(?i)^\s*title\s*", "", title).strip()
+                title = re.sub(r"(?i)^\s*(job posting title|posting title|job title|title)\s*:?\s*", "", title)
+                title = re.sub(r"\s+", " ", title).strip()
                 if not title:
                     continue
                 jobs[jid] = Job(source="icims", id=f"ic:{host.split('.')[0]}:{jid}", title=title,
@@ -244,6 +245,44 @@ def _ic_detail(s, url):
         r.raise_for_status()
         m = re.search(r'(?is)<div[^>]+class="[^"]*iCIMS_JobContent[^"]*"[^>]*>(.*?)<div[^>]+class="[^"]*iCIMS_(?:JobOptions|Footer)', r.text)
         return parse.html_to_text(m.group(1) if m else r.text)
+    return f
+
+
+# ---------------------------------------------------------- SmartRecruiters
+def smartrecruiters(s: requests.Session, cfg: dict, today: date) -> list[Job]:
+    co = cfg["company"]
+    base = f"https://api.smartrecruiters.com/v1/companies/{co}/postings"
+    out, offset = [], 0
+    while offset < 5000:  # stops early when the results run out
+        r = s.get(base, params={"limit": 100, "offset": offset}, timeout=TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+        items = data.get("content") or []
+        for j in items:
+            loc = j.get("location") or {}
+            where = ", ".join(x for x in (loc.get("city"), loc.get("region"), loc.get("country", "").upper()) if x)
+            if loc.get("remote"):
+                where = (where + " (remote)").strip()
+            out.append(Job(
+                source="smartrecruiters", id=f"sr:{co}:{j['id']}", title=(j.get("name") or "").strip(),
+                url=f"https://jobs.smartrecruiters.com/{co}/{j['id']}", location=where,
+                posted=parse.iso_date(j.get("releasedDate")),
+                remote_hint="Remote" if loc.get("remote") else None,
+                _detail=_sr_detail(s, f"{base}/{j['id']}"),
+            ))
+        offset += 100
+        if len(items) < 100 or offset >= (data.get("totalFound") or 0):
+            break
+    return out
+
+
+def _sr_detail(s, url):
+    def f():
+        r = s.get(url, timeout=TIMEOUT)
+        r.raise_for_status()
+        sec = (r.json().get("jobAd") or {}).get("sections") or {}
+        parts = [(sec.get(k) or {}).get("text") for k in ("jobDescription", "qualifications", "additionalInformation", "companyDescription")]
+        return parse.html_to_text("\n".join(p for p in parts if p))
     return f
 
 
@@ -265,4 +304,4 @@ def page_fingerprint(s: requests.Session, url: str) -> tuple[str, list[str]]:
 
 
 FETCHERS = {"workday": workday, "oracle": oracle, "greenhouse": greenhouse, "lever": lever,
-            "ashby": ashby, "icims": icims}
+            "ashby": ashby, "icims": icims, "smartrecruiters": smartrecruiters}

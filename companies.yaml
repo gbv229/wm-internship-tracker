@@ -16,6 +16,7 @@
 #   greenhouse:  {board}
 #   lever:       {site}
 #   ashby:       {board}
+#   smartrecruiters: {company}
 #   page:        {url}   no job feed; the page is checked for changes and the
 #                        firm is shown with a "check directly" link
 #
@@ -747,6 +748,7 @@ companies:
     sources:
       - workday: {host: northwesternmutual.wd5.myworkdayjobs.com, tenant: northwesternmutual, site: corporate-careers}
       - page: {url: "https://www.northwesternmutual.com/careers/"}
+      - smartrecruiters: {company: NorthwesternMutual}
     verified: true
 
   - name: MassMutual
@@ -1035,7 +1037,7 @@ companies:
       - page: {url: "https://www.farther.com/careers"}
 
   # ================================================== added: real estate + more wealth
-  - name: CBRE
+  - name: CBRE (incl. Trammell Crow Company)
     type: CRE Services & Brokerage
     focus: real_estate
     tracks: [real_estate]
@@ -1224,14 +1226,6 @@ companies:
     sources:
       - page: {url: "https://arbor.com/careers/"}
 
-  - name: Ladder Capital
-    type: CRE Finance & Lending
-    focus: real_estate
-    tracks: [real_estate]
-    hq: New York, NY
-    careers: https://www.laddercapital.com/careers
-    sources:
-      - page: {url: "https://www.laddercapital.com/careers"}
 
   - name: Fannie Mae (Multifamily)
     type: CRE Finance & Lending
@@ -1413,14 +1407,6 @@ companies:
     sources:
       - page: {url: "https://www.related.com/careers"}
 
-  - name: Trammell Crow Company
-    type: Developer & Operator
-    focus: real_estate
-    tracks: [real_estate]
-    hq: Dallas, TX
-    careers: https://www.trammellcrow.com/careers
-    sources:
-      - page: {url: "https://www.trammellcrow.com/careers"}
 
   - name: Lincoln Property Company
     type: Developer & Operator
@@ -1484,18 +1470,10 @@ companies:
     focus: real_estate
     tracks: [real_estate]
     hq: Uniondale, NY
-    careers: https://rxr.com/careers/
+    careers: https://job-boards.greenhouse.io/rxr
     sources:
-      - page: {url: "https://rxr.com/careers/"}
+      - greenhouse: {board: rxr}
 
-  - name: Silverstein Properties
-    type: Developer & Operator
-    focus: real_estate
-    tracks: [real_estate]
-    hq: New York, NY
-    careers: https://silversteinproperties.com/careers/
-    sources:
-      - page: {url: "https://silversteinproperties.com/careers/"}
 
   - name: Morgan Properties
     type: Developer & Operator
@@ -1525,14 +1503,6 @@ companies:
       - workday: {host: invitationhomes.wd503.myworkdayjobs.com, tenant: invitationhomes, site: INVH}
     verified: true
 
-  - name: Toll Brothers
-    type: Homebuilder
-    focus: real_estate
-    tracks: [real_estate]
-    hq: Fort Washington, PA
-    careers: https://www.tollbrothers.com/careers
-    sources:
-      - page: {url: "https://www.tollbrothers.com/careers"}
 
   - name: Lennar
     type: Homebuilder
@@ -1666,9 +1636,9 @@ companies:
     focus: real_estate
     tracks: [real_estate]
     hq: Arlington, VA
-    careers: https://www.avaloncommunities.com/careers
+    careers: https://jobs.avalonbay.com/
     sources:
-      - page: {url: "https://www.avaloncommunities.com/careers"}
+      - page: {url: "https://jobs.avalonbay.com/"}
 
   - name: Vornado Realty Trust
     type: REIT
@@ -1747,9 +1717,9 @@ companies:
     focus: real_estate
     tracks: [real_estate]
     hq: Glendale, CA
-    careers: https://www.publicstorage.com/careers
+    careers: https://careers.smartrecruiters.com/PublicStorage
     sources:
-      - page: {url: "https://www.publicstorage.com/careers"}
+      - smartrecruiters: {company: PublicStorage}
 
   - name: American Century Investments
     type: Asset Manager
@@ -1889,9 +1859,9 @@ companies:
     focus: wealth
     tracks: [wealth]
     hq: St. Louis, MO
-    careers: https://moneta.com/careers/
+    careers: https://monetagroup.com/careers/internship-program
     sources:
-      - page: {url: "https://moneta.com/careers/"}
+      - smartrecruiters: {company: Moneta}
 
   - name: Homrich Berg
     type: Independent RIA
@@ -1902,14 +1872,6 @@ companies:
     sources:
       - page: {url: "https://www.homrichberg.com/careers/"}
 
-  - name: Kovitz
-    type: Independent RIA
-    focus: wealth
-    tracks: [wealth]
-    hq: Chicago, IL
-    careers: https://www.kovitz.com/careers/
-    sources:
-      - page: {url: "https://www.kovitz.com/careers/"}
 
   - name: Sequoia Financial Group
     type: Independent RIA
@@ -1920,32 +1882,8 @@ companies:
     sources:
       - page: {url: "https://www.sequoia-financial.com/careers/"}
 
-  - name: Hefren-Tillotson
-    type: Independent RIA
-    focus: wealth
-    tracks: [wealth]
-    hq: Pittsburgh, PA
-    careers: https://www.hefren.com/careers/
-    sources:
-      - page: {url: "https://www.hefren.com/careers/"}
 
-  - name: Haverford Trust
-    type: Private Bank & Trust
-    focus: wealth
-    tracks: [wealth]
-    hq: Radnor, PA
-    careers: https://haverfordtrust.com/careers/
-    sources:
-      - page: {url: "https://haverfordtrust.com/careers/"}
 
-  - name: Hirtle Callaghan
-    type: Independent RIA
-    focus: wealth
-    tracks: [wealth]
-    hq: Conshohocken, PA
-    careers: https://www.hirtlecallaghan.com/careers
-    sources:
-      - page: {url: "https://www.hirtlecallaghan.com/careers"}
 
   - name: Bleakley Financial Group
     type: Independent RIA
@@ -1965,23 +1903,7 @@ companies:
     sources:
       - page: {url: "https://www.cnbank.com/careers"}
 
-  - name: Tompkins Financial (Wealth)
-    type: Regional Bank
-    focus: mixed
-    tracks: [wealth]
-    hq: Ithaca, NY
-    careers: https://www.tompkinsfinancial.com/careers
-    sources:
-      - page: {url: "https://www.tompkinsfinancial.com/careers"}
 
-  - name: Comerica (Wealth)
-    type: Regional Bank
-    focus: mixed
-    tracks: [wealth]
-    hq: Dallas, TX
-    careers: https://www.comerica.com/about-us/careers.html
-    sources:
-      - page: {url: "https://www.comerica.com/about-us/careers.html"}
 
   - name: Synovus (Wealth)
     type: Regional Bank
