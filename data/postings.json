@@ -367,6 +367,9 @@
    "pay": "$28/hr",
    "posted": "2026-09-24",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -377,7 +380,7 @@
     "wealth"
    ],
    "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Business-Development-Intern_R26_3848",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -402,6 +405,9 @@
    "pay": null,
    "posted": "2026-09-16",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -412,7 +418,7 @@
     "wealth"
    ],
    "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -432,11 +438,16 @@
    "id": "wd:ameriprise:3498",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "3 Locations",
+   "location": "Minneapolis, Minnesota; Las Vegas, Nevada; Charlotte, North Carolina",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-05",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Midwest",
+    "West"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -447,7 +458,7 @@
     "wealth"
    ],
    "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Financial-Advisor-in-Training-Intern_R26_3498",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -460,7 +471,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -472,6 +483,9 @@
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -482,7 +496,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81955",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -495,7 +509,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -507,6 +521,9 @@
    "pay": null,
    "posted": "2026-08-24",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -517,7 +534,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81320",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -530,7 +547,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -542,6 +559,9 @@
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -552,7 +572,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81954",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -565,7 +585,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -577,6 +597,9 @@
    "pay": null,
    "posted": "2026-08-24",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -587,7 +610,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81316",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -600,7 +623,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -612,6 +635,9 @@
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -622,7 +648,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81956",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -635,7 +661,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -647,6 +673,9 @@
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -657,7 +686,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81319",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -1747,7 +1776,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -1757,8 +1786,11 @@
    "location": "Dubai International Financial Centre, Dubai",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1769,7 +1801,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000124665",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1780,7 +1812,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -1790,8 +1822,11 @@
    "location": "Monaco - Default Legacy Site",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1802,7 +1837,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Monaco---Default-Legacy-Site/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Monaco_JR-0000124680",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1813,7 +1848,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -1823,8 +1858,11 @@
    "location": "Canary Wharf, 1 Churchill Place",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1835,7 +1873,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-London_JR-0000124643",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -1848,7 +1886,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": "3.2+",
@@ -1858,8 +1896,11 @@
    "location": "Singapore, Marina Bay Financial Tower 2",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1870,7 +1911,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-Singapore_JR-0000117561",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -2182,7 +2223,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": null,
@@ -2194,6 +2235,9 @@
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
    "posted": "2026-10-05",
    "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
    "season": "Winter 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2204,7 +2248,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Investment-Strategy-Analyst--Wealth-Solutions-Winter-Co-op-2027_2620494",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2215,7 +2259,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": null,
@@ -2227,6 +2271,9 @@
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
    "posted": "2026-10-05",
    "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
    "season": "Winter 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2237,7 +2284,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Investment-Strategy-Analyst--Wealth-Solutions-Winter-Co-op-2027_2620494-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2248,7 +2295,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -2260,6 +2307,9 @@
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
    "posted": "2026-10-02",
    "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
    "season": "Winter 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2270,7 +2320,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -2281,7 +2331,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -2293,6 +2343,9 @@
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
    "posted": "2026-10-02",
    "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
    "season": "Winter 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2303,7 +2356,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -2316,7 +2369,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -2328,6 +2381,9 @@
    "pay": "$25/hr",
    "posted": "2026-09-30",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2338,7 +2394,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "On-site"
   },
@@ -2351,7 +2407,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -2363,6 +2419,9 @@
    "pay": "$25/hr",
    "posted": "2026-09-30",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2373,7 +2432,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "On-site"
   },
@@ -3293,6 +3352,9 @@
    "pay": "$22/hr",
    "posted": "2026-10-09",
    "region": "",
+   "regions": [
+    "Southwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "icims",
@@ -3303,7 +3365,7 @@
     "wealth"
    ],
    "url": "https://career-schwab.icims.com/jobs/126238/2027-financial-service-%26-support-intern---phoenix/job",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -3314,7 +3376,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Risk / Compliance",
    "gpa": null,
@@ -3326,6 +3388,9 @@
    "pay": "$34/hr",
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "West"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "icims",
@@ -3336,8 +3401,8 @@
     "wealth"
    ],
    "url": "https://career-schwab.icims.com/jobs/126253/2027-sox-compliance-intern/job",
-   "v": 5,
-   "weeks": 2,
+   "v": 6,
+   "weeks": 3,
    "work_mode": "On-site"
   },
   {
@@ -3349,7 +3414,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -3359,8 +3424,11 @@
    "location": "Dubai United Arab Emirates",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2025",
    "season_inferred": false,
    "source": "workday",
@@ -3371,7 +3439,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/XMLNAME-2025-Wealth-Management-Summer-Internship--Dubai--UAE--UAE-Nationals-preferred-_25820546",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3382,7 +3450,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -3394,6 +3462,9 @@
    "pay": null,
    "posted": "2026-09-24",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3404,7 +3475,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3415,7 +3486,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -3427,6 +3498,9 @@
    "pay": null,
    "posted": "2026-09-24",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3437,7 +3511,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3448,7 +3522,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -3460,6 +3534,9 @@
    "pay": null,
    "posted": "2026-09-24",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3470,7 +3547,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3483,7 +3560,7 @@
    "company_type": "Global Bank",
    "deadline": "2026-11-30",
    "deadline_evidence": "Application Deadline: Monday, November 30, 2026 at 23:59 local time",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -3493,8 +3570,11 @@
    "location": "Hong Kong  Hong Kong",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3505,7 +3585,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Wealth---Citigold--Summer-Analyst--Hong-Kong--2027_26988474",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3518,7 +3598,7 @@
    "company_type": "Global Bank",
    "deadline": "2026-11-30",
    "deadline_evidence": "Application Deadline: Monday, November 30, 2026 at 23:59 local time",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -3528,8 +3608,11 @@
    "location": "Singapore  Singapore",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3540,7 +3623,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Wealth---Citigold--Summer-Analyst--Singapore--2027_26988476",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3553,7 +3636,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.4+",
@@ -3565,6 +3648,9 @@
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-14",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3575,7 +3661,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---LATAM--Summer-Analyst--Miami---USA--2027_26994351",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3588,7 +3674,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.4+",
@@ -3600,6 +3686,9 @@
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-14",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3610,7 +3699,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---LATAM--Summer-Analyst--New-York---USA--2027_26994367",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3623,7 +3712,7 @@
    "company_type": "Global Bank",
    "deadline": "2026-10-30",
    "deadline_evidence": "Application Deadline: Friday, October 30, 2026 at 23:59 local time",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -3633,8 +3722,11 @@
    "location": "Singapore  Singapore",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3645,7 +3737,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Wealth---Private-Bank--Summer-Analyst---Singapore--2027_26988484",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3658,7 +3750,7 @@
    "company_type": "Global Bank",
    "deadline": "2026-10-30",
    "deadline_evidence": "Application Deadline: Friday, October 30, 2026 at 23:59 local time",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -3668,8 +3760,11 @@
    "location": "Hong Kong  Hong Kong",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3680,7 +3775,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Wealth---Private-Bank--Summer-Analyst--Hong-Kong--2027_26988478",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3693,7 +3788,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.4+",
@@ -3705,6 +3800,9 @@
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-14",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3715,7 +3813,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Wealth---Summer-Analyst--Dallas---USA--2027_26994348",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3728,7 +3826,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.4+",
@@ -3740,6 +3838,9 @@
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-14",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3750,7 +3851,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Beverly-Hills-California-United-States/Wealth---Summer-Analyst--Los-Angeles--USA--2027_26994337",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3763,7 +3864,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.4+",
@@ -3775,6 +3876,9 @@
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-14",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3785,7 +3889,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---Summer-Analyst--Miami--USA--2027_26994091",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -3798,7 +3902,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.4+",
@@ -3810,6 +3914,9 @@
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-14",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3820,7 +3927,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -4574,7 +4681,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -4586,6 +4693,9 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4596,7 +4706,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Business-Analysis-Intern---YTP-program_R0453246",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4607,7 +4717,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -4619,6 +4729,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4629,7 +4742,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Prime-Tower/Intern--Client-Service---Emerging-Europe--f-m-x-_R0450623",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4640,7 +4753,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Sales / Marketing",
    "gpa": null,
@@ -4652,6 +4765,9 @@
    "pay": null,
    "posted": "2026-09-28",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4662,7 +4778,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Geneva-Place-des-Bergues-3/Sales-Coverage-Support-Intern--f-m-x-_R0450629",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4848,18 +4964,22 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
    "id": "wd:huntington:R0075378",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "5 Locations",
+   "location": "Columbus, OH; Grand Rapids, MI; Cincinnati, OH; Detroit, MI; Charlotte, NC",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
-   "region": "",
+   "posted": "2026-09-09",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -4870,7 +4990,7 @@
     "wealth"
    ],
    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Wealth-Management-Internship_R0075378",
-   "v": 5,
+   "v": 6,
    "weeks": 8,
    "work_mode": null
   },
@@ -4949,7 +5069,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -4961,6 +5081,11 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast",
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -4971,7 +5096,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777959",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -4984,7 +5109,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -4996,6 +5121,11 @@
    "pay": null,
    "posted": "2026-08-26",
    "region": "US",
+   "regions": [
+    "Northeast",
+    "Mid-Atlantic",
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5006,7 +5136,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777867",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5019,7 +5149,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": "3.2+",
@@ -5031,6 +5161,10 @@
    "pay": null,
    "posted": "2026-07-09",
    "region": "US",
+   "regions": [
+    "Midwest",
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5041,7 +5175,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768182",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5054,7 +5188,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5066,6 +5200,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5076,7 +5213,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773761",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5089,7 +5226,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5101,6 +5238,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5111,7 +5251,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773791",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5124,7 +5264,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5136,6 +5276,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5146,7 +5289,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773802",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5159,7 +5302,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5171,6 +5314,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5181,7 +5327,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773834",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5194,7 +5340,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5206,6 +5352,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5216,7 +5365,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774271",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5229,7 +5378,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5241,6 +5390,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5251,7 +5403,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773855",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5264,7 +5416,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5276,6 +5428,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5286,7 +5441,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773872",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5299,7 +5454,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5311,6 +5466,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5321,7 +5479,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773470",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5334,7 +5492,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5346,6 +5504,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5356,7 +5517,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774194",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5369,7 +5530,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5381,6 +5542,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5391,7 +5555,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774210",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5404,7 +5568,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5416,6 +5580,9 @@
    "pay": null,
    "posted": "2026-09-03",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5426,7 +5593,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774212",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5439,7 +5606,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5451,6 +5618,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5461,7 +5631,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774216",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5474,7 +5644,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5486,6 +5656,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5496,7 +5669,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774227",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5509,7 +5682,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5521,6 +5694,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5531,7 +5707,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774235",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5544,7 +5720,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5556,6 +5732,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5566,7 +5745,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774239",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5579,7 +5758,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5591,6 +5770,9 @@
    "pay": null,
    "posted": "2026-08-31",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5601,7 +5783,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -5616,7 +5798,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -5628,6 +5810,9 @@
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -5638,7 +5823,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789075",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -6335,270 +6520,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540045",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Denver, CO",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Denver, CO",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Leasing-Summer-2027-Internship---Denver--CO_REQ540045",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540049",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Los Angeles, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Los Angeles, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Leasing-Summer-2027-Internship---Los-Angeles--CA_REQ540049",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540039",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Portland, OR",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Portland, OR",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Leasing-Summer-2027-Internship---Portland--OR_REQ540039",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540042",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Salt Lake City, UT",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Salt Lake City, UT",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Leasing-Summer-2027-Internship---Salt-Lake-City--UT_REQ540042",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540050",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "San Diego, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - San Diego, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Leasing-Summer-2027-Internship---San-Diego--CA_REQ540050",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540027",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "San Francisco, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - San Francisco, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Leasing-Summer-2027-Internship---San-Francisco--CA_REQ540027",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540037",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Seattle, WA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Seattle, WA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Leasing-Summer-2027-Internship---Seattle--WA_REQ540037",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540030",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Walnut Creek, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Walnut Creek, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Walnut-Creek-CA/Leasing-Summer-2027-Internship---Walnut-Creek--CA_REQ540030",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
    "classes": [
     2028
@@ -6970,7 +6891,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -6982,6 +6903,9 @@
    "pay": null,
    "posted": "2026-10-01",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -6992,7 +6916,7 @@
     "wealth"
    ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---DCFO-P-BS-100-----Fixed-Term-Contract-of-5-6-months---Julius-Baer-s-Intern-Programme---f-m-d-_r-20015-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -7003,7 +6927,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -7015,6 +6939,9 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -7025,7 +6952,7 @@
     "wealth"
    ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship-at-CFO-Office-100---Fixed-Term-Contract-for-6-12-months-until-03062027-_r-19514",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -7036,7 +6963,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Technology / Data",
    "gpa": null,
@@ -7048,6 +6975,9 @@
    "pay": null,
    "posted": "2026-10-01",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -7058,7 +6988,7 @@
     "wealth"
    ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship--Data-Analytics-Intern---Product-Control-100---f-m-d-----6-12-month-Internship-Programme-_r-19706-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -7071,7 +7001,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -7083,6 +7013,9 @@
    "pay": "$27/hr",
    "posted": "2026-10-07",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7093,7 +7026,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7106,7 +7039,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -7118,6 +7051,9 @@
    "pay": "$23/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7128,7 +7064,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7141,7 +7077,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -7153,6 +7089,9 @@
    "pay": "$27/hr",
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7163,7 +7102,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7176,7 +7115,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -7188,6 +7127,9 @@
    "pay": "$27/hr",
    "posted": "2026-09-27",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7198,7 +7140,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7211,7 +7153,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7221,8 +7163,11 @@
    "location": "Albany, OR",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7233,7 +7178,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7246,7 +7191,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7256,8 +7201,11 @@
    "location": "Bellingham, WA",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7268,7 +7216,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7281,7 +7229,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7291,8 +7239,11 @@
    "location": "Boise, ID",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7303,7 +7254,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7316,7 +7267,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7326,8 +7277,11 @@
    "location": "Chagrin Falls, OH",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7338,7 +7292,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chagrin-Falls-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Cleveland--OH_R-41224",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7351,7 +7305,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7361,8 +7315,11 @@
    "location": "Erie, PA",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7373,7 +7330,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Erie-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Erie--PA_R-41223",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7386,7 +7343,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7396,8 +7353,11 @@
    "location": "Goshen, IN",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7408,7 +7368,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Goshen-IN/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Goshen--IN_R-41215",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7421,7 +7381,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7431,8 +7391,11 @@
    "location": "Toledo, OH",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7443,7 +7406,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7456,7 +7419,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": "3.0+",
@@ -7466,8 +7429,11 @@
    "location": "Brooklyn, OH",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7478,7 +7444,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Advisory-Services_R-41213",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7491,7 +7457,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -7501,8 +7467,11 @@
    "location": "Brooklyn, OH",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7513,7 +7482,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Client-Support---Experience_R-41211",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7526,7 +7495,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -7536,8 +7505,11 @@
    "location": "Brooklyn, OH",
    "misses": 0,
    "pay": "$23/hr",
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7548,7 +7520,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Investment-Research---Analysis_R-41214",
-   "v": 5,
+   "v": 6,
    "weeks": 5,
    "work_mode": null
   },
@@ -7568,11 +7540,15 @@
    "id": "wd:lplfinancial:R-052926",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Fort Mill/Charlotte; Tempe",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-02",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7583,7 +7559,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Business-Development_R-052926",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -7677,6 +7653,9 @@
    "pay": "$25/hr",
    "posted": "2026-10-05",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -7687,7 +7666,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Service-Transformation---Data-Analytics_R-053219",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -7778,6 +7757,9 @@
    "pay": "$20–$26/hr",
    "posted": "2026-10-05",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -7788,7 +7770,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027---Strategy-and-Growth_R-052938",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -7813,6 +7795,9 @@
    "pay": null,
    "posted": "2026-10-05",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7823,7 +7808,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Transition-Support-Partner_R-053345",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -7848,6 +7833,9 @@
    "pay": null,
    "posted": "2026-10-05",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7858,7 +7846,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027-Wealth-Advisor-Group_R-052554",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -7902,7 +7890,7 @@
    "company_type": "Investment Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -7914,6 +7902,9 @@
    "pay": null,
    "posted": "2026-09-11",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "oracle",
@@ -7924,7 +7915,7 @@
     "wealth"
    ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6533",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -7947,6 +7938,9 @@
    "pay": null,
    "posted": "2026-10-09",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -7957,7 +7951,7 @@
     "wealth"
    ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6720",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -7968,7 +7962,7 @@
    "company_type": "Investment Bank",
    "deadline": "2026-09-20",
    "deadline_evidence": "Interested applicants should apply by submitting their curriculum vitae and cover letter before the 20 th of September 2026.",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -7980,6 +7974,9 @@
    "pay": null,
    "posted": "2026-09-02",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "oracle",
@@ -7990,7 +7987,7 @@
     "wealth"
    ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6481",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -8283,7 +8280,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -8295,6 +8292,9 @@
    "pay": null,
    "posted": "2026-10-05",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -8305,7 +8305,7 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8316,7 +8316,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -8328,6 +8328,9 @@
    "pay": null,
    "posted": "2026-09-24",
    "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -8338,7 +8341,7 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8417,7 +8420,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": "2026-10-09",
    "deadline_evidence": "Posting Close Date: October 9 , 2026, 11:59pm Central, unless the class is filled before that date.",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Technology / Data",
    "gpa": "3.0+",
@@ -8427,8 +8430,11 @@
    "location": "Chicago, IL",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -8439,7 +8445,7 @@
     "wealth"
    ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -8452,18 +8458,24 @@
    "company_type": "Private Bank & Trust",
    "deadline": "2026-10-09",
    "deadline_evidence": "Posting Close Date: October 9 , 202 6, 11:59pm Central, unless the class is filled before that date.",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
    "id": "wd:ntrs:R160763-1",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "5 Locations",
+   "location": "New York, NY; Los Angeles, CA; Miami, FL; Houston, TX; Phoenix, AZ",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
-   "region": "",
+   "posted": "2026-09-09",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast",
+    "Southwest",
+    "West"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -8474,7 +8486,7 @@
     "wealth"
    ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Wealth-Management-Intern---All-Other-US-Locations_R160763-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8487,7 +8499,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": "2026-10-09",
    "deadline_evidence": "Posting Close Date: October 9 , 2026, 11:59pm Central, unless the class is filled before that date.",
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -8497,8 +8509,11 @@
    "location": "Chicago, IL",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -8509,7 +8524,7 @@
     "wealth"
    ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Intern---Chicago_R160825-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -8951,7 +8966,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": "3.0+",
@@ -8961,8 +8976,11 @@
    "location": "PA - Pittsburgh (15222)",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8973,7 +8991,7 @@
     "real_estate"
    ],
    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Realty-Services-Undergraduate-Intern_R231491-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -9067,6 +9085,9 @@
    "pay": "$20/hr",
    "posted": "2026-10-09",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -9077,7 +9098,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Rolling-Hills-Estates-California-United-States-of-America/XMLNAME-2026-PCG-Wealth-Management-Intern_R-0000189939",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9100,6 +9121,9 @@
    "pay": null,
    "posted": "2026-10-09",
    "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -9110,7 +9134,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000186438",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9121,18 +9145,23 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
    "id": "wd:rbc:R-0000075215",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "3 Locations",
+   "location": "Chevy Chase, Maryland, United States of America; San Francisco, California, United States of America; Milwaukee, Wisconsin, United States of America",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
-   "region": "",
+   "posted": "2026-09-09",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic",
+    "Midwest",
+    "West"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -9143,7 +9172,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Chevy-Chase-Maryland-United-States-of-America/Private-Client-Group-Intern_R-0000075215",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9156,7 +9185,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -9168,6 +9197,9 @@
    "pay": "$20–$30/hr",
    "posted": "2026-09-22",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9178,7 +9210,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9192,7 +9224,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Technology / Data",
    "gpa": null,
@@ -9204,6 +9236,9 @@
    "pay": "$20–$30/hr",
    "posted": "2026-09-23",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9214,7 +9249,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9227,7 +9262,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Operations",
    "gpa": null,
@@ -9239,6 +9274,9 @@
    "pay": "$20–$30/hr",
    "posted": "2026-09-22",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9249,7 +9287,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9262,18 +9300,21 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
    "id": "wd:raymondjames:R-0013337",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "depending on company need.",
+   "location": "Saint Petersburg, Florida - United States",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-06",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9284,7 +9325,7 @@
     "wealth"
    ],
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---PCG-Finance---St-Petersburg--FL_R-0013337",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -9297,18 +9338,21 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
    "id": "wd:raymondjames:R-0013237",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "in rank order before submitting their application. Participating locations includ",
+   "location": "Saint Petersburg, Florida - United States",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-06",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9319,7 +9363,7 @@
     "wealth"
    ],
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Wealth-Management---Multiple-Locations_R-0013237",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -9375,6 +9419,9 @@
    "pay": "$38/hr",
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9385,7 +9432,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5575/summer-analyst---core-platforms/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9408,6 +9455,9 @@
    "pay": "$38/hr",
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9418,7 +9468,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5574/summer-analyst---core-platforms/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9441,6 +9491,9 @@
    "pay": "$38/hr",
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9451,7 +9504,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5573/summer-analyst---core-platforms/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9831,7 +9884,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -9843,6 +9896,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "icims",
@@ -9853,7 +9909,7 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/10038/2027-stifel-capital-structure-advisory-mba-summer-associate-%e2%80%93-new-york/job",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -9864,7 +9920,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -9876,6 +9932,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Southeast"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "icims",
@@ -9886,7 +9945,7 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/9734/full-time-branch-intern/job",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -9899,7 +9958,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": "3.0+",
@@ -9911,6 +9970,9 @@
    "pay": "$23–$30/hr",
    "posted": "2026-10-05",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9921,7 +9983,7 @@
     "real_estate"
    ],
    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9934,7 +9996,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -9944,8 +10006,11 @@
    "location": "CITY OF LONDON,",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -9956,7 +10021,7 @@
     "real_estate"
    ],
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Banking-Summer-Analyst_R-570654-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9969,7 +10034,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -9979,8 +10044,11 @@
    "location": "CITY OF LONDON,",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -9991,7 +10059,7 @@
     "real_estate"
    ],
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Commercial-Real-Estate-Analyst_R-571086-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -10004,7 +10072,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-08",
+   "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -10014,8 +10082,11 @@
    "location": "CITY OF LONDON,",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-08",
+   "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -10026,7 +10097,7 @@
     "real_estate"
    ],
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Markets-Summer-Analyst_R-570663",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -10240,6 +10311,278 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Capital-Markets-Summer-2027-Internship---Charlotte--NC_REQ530244",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540045",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Denver, CO",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Leasing-Summer-2027-Internship---Denver--CO_REQ540045",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540049",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Los Angeles, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Los Angeles, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Leasing-Summer-2027-Internship---Los-Angeles--CA_REQ540049",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540039",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Portland, OR",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Portland, OR",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Leasing-Summer-2027-Internship---Portland--OR_REQ540039",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540042",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Salt Lake City, UT",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Salt Lake City, UT",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Leasing-Summer-2027-Internship---Salt-Lake-City--UT_REQ540042",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540050",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "San Diego, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - San Diego, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Leasing-Summer-2027-Internship---San-Diego--CA_REQ540050",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540027",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "San Francisco, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - San Francisco, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Leasing-Summer-2027-Internship---San-Francisco--CA_REQ540027",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540037",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Seattle, WA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Seattle, WA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Leasing-Summer-2027-Internship---Seattle--WA_REQ540037",
+   "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-09",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540030",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Walnut Creek, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Walnut Creek, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Walnut-Creek-CA/Leasing-Summer-2027-Internship---Walnut-Creek--CA_REQ540030",
    "v": 5,
    "weeks": null,
    "work_mode": "On-site"
