@@ -19,6 +19,9 @@
    "pay": null,
    "posted": "2026-09-24",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -29,7 +32,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Business-Analyst-Summer-Intern_R0019767",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -52,6 +55,9 @@
    "pay": null,
    "posted": "2026-09-11",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -62,7 +68,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Portfolio-Implementation-Intern_R0019738",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -87,6 +93,9 @@
    "pay": "$37–$37/hr (≈ $78k–$78k/yr)",
    "posted": "2026-09-11",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -97,7 +106,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/New-York-New-York/Private-Wealth-Summer-Intern_R0019834",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -122,6 +131,9 @@
    "pay": "$31–$31/hr (≈ $66k–$66k/yr)",
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -132,7 +144,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Chicago-IL/Private-Wealth-Summer-Intern_R0019829",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -157,6 +169,9 @@
    "pay": "$34–$34/hr (≈ $72k–$72k/yr)",
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -167,7 +182,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Los-Angeles-California/Private-Wealth-Summer-Intern_R0019826",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -192,6 +207,9 @@
    "pay": "$34–$34/hr (≈ $72k–$72k/yr)",
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -202,7 +220,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Washington-DC/Private-Wealth-Summer-Intern_R0019819",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -227,6 +245,9 @@
    "pay": "$37–$37/hr (≈ $78k–$78k/yr)",
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -237,7 +258,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/San-Francisco-California/Private-Wealth-Summer-Intern_R0019818",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -262,6 +283,9 @@
    "pay": null,
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -272,7 +296,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Houston-Texas/Private-Wealth-Summer-Intern_R0019817",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -297,6 +321,9 @@
    "pay": null,
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -307,7 +334,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Philadelphia-Pennsylvania/Private-Wealth-Summer-Intern_R0019816",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -332,6 +359,9 @@
    "pay": null,
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -342,7 +372,7 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Private-Wealth-Summer-Intern_R0019815",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -709,6 +739,9 @@
    "pay": "$23–$26/hr",
    "posted": "2026-09-15",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "oracle",
@@ -719,7 +752,7 @@
     "real_estate"
    ],
    "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26145",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -742,6 +775,9 @@
    "pay": "$23–$26/hr",
    "posted": "2026-08-31",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "oracle",
@@ -752,7 +788,7 @@
     "real_estate"
    ],
    "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26139",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -775,6 +811,9 @@
    "pay": null,
    "posted": "2026-09-14",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -785,7 +824,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Financial-Services-Operations--Year-Round-_R20261021-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -810,6 +849,9 @@
    "pay": null,
    "posted": "2026-09-14",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -820,7 +862,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Private-Wealth-Management--Milwaukee--WI-Summer-2027-_R20261018-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -845,6 +887,9 @@
    "pay": null,
    "posted": "2026-09-10",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -855,7 +900,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Business-Coordinator--Year-Round-_R20261000-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -880,6 +925,9 @@
    "pay": null,
    "posted": "2026-10-07",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -890,7 +938,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Business-Transformation--Milwaukee--WI-Summer-2027-_R20261133-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -915,6 +963,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -925,7 +976,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -950,6 +1001,9 @@
    "pay": null,
    "posted": "2026-10-09",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -960,7 +1014,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Continuous-Improvement-Analyst--Year-Round-_R20261151-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -985,6 +1039,9 @@
    "pay": null,
    "posted": "2026-09-10",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -995,7 +1052,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1020,6 +1077,9 @@
    "pay": null,
    "posted": "2026-09-14",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1030,7 +1090,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IN-Bloomington/Internship---Private-Wealth-Management--Bloomington--IN-Summer-2027-_R20261025-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -1055,6 +1115,9 @@
    "pay": null,
    "posted": "2026-10-01",
    "region": "",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1065,7 +1128,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Bowling-Green/Internship---Private-Wealth-Management--Bowling-Green--KY-Summer-2027-_R20261103-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1090,6 +1153,9 @@
    "pay": null,
    "posted": "2026-10-07",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1100,7 +1166,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/PA-Butler/Internship---Private-Wealth-Management--Butler--PA-Summer-2027-_R20261132-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1125,6 +1191,9 @@
    "pay": null,
    "posted": "2026-10-01",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1135,7 +1204,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IA-Cedar-Rapids/Internship---Private-Wealth-Management--Cedar-Rapids--IA-Summer-2027-_R20261105-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1160,6 +1229,9 @@
    "pay": null,
    "posted": "2026-10-05",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1170,7 +1242,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IN-Columbus/Internship---Private-Wealth-Management--Columbus--IN-Summer-2027-_R20261116",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -1195,6 +1267,9 @@
    "pay": null,
    "posted": "2026-09-17",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1205,7 +1280,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/OH-Miamisburg/Internship---Private-Wealth-Management--Dayton--OH-Summer-2027-_R20261039",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1230,6 +1305,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1240,7 +1318,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1265,6 +1343,9 @@
    "pay": null,
    "posted": "2026-09-17",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1275,7 +1356,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/MN-Edina/Internship---Private-Wealth-Management--Edina--MN-Summer-2027-_R20261040-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1300,6 +1381,9 @@
    "pay": null,
    "posted": "2026-10-01",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1310,7 +1394,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IN-Evansville/Internship---Private-Wealth-Management--Evansville--IN-Summer-2027-_R20261102-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -1335,6 +1419,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1345,7 +1432,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/PA-Greensburg/Internship---Private-Wealth-Management--Greensburg--PA-Summer-2027-_R20261131-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1370,6 +1457,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1380,7 +1470,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1405,6 +1495,9 @@
    "pay": null,
    "posted": "2026-09-15",
    "region": "",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1415,7 +1508,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Lexington/Internship---Private-Wealth-Management--Lexington--KY-Summer-2027-_R20261032-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1440,6 +1533,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1450,7 +1546,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Private-Wealth-Management--Louisville--KY-Summer-2027-_R2026954-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1475,6 +1571,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1485,7 +1584,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1510,6 +1609,9 @@
    "pay": null,
    "posted": "2026-09-17",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1520,7 +1622,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/MN-Minnetonka/Internship---Private-Wealth-Management--Minnetonka--MN-Summer-2027-_R20261041-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1545,6 +1647,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1555,7 +1660,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1580,6 +1685,9 @@
    "pay": null,
    "posted": "2026-09-28",
    "region": "",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1590,7 +1698,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Paducah/Internship---Private-Wealth-Management--Paducah--KY-Summer-2027-_R20261083-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1610,11 +1718,14 @@
    "id": "wd:baird:R20261107-2",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "4 Locations",
+   "location": "AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-01",
    "region": "",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1625,7 +1736,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1650,6 +1761,9 @@
    "pay": null,
    "posted": "2026-09-14",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1660,7 +1774,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1685,6 +1799,9 @@
    "pay": null,
    "posted": "2026-10-01",
    "region": "",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1695,7 +1812,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -1720,6 +1837,9 @@
    "pay": null,
    "posted": "2026-09-11",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -1730,7 +1850,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Public-Relations--Year-Round-_R20261003-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -1755,6 +1875,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -1765,7 +1888,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -1936,6 +2059,9 @@
    "pay": null,
    "posted": "2026-09-15",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1946,7 +2072,7 @@
     "wealth"
    ],
    "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466",
-   "v": 5,
+   "v": 6,
    "weeks": 9,
    "work_mode": null
   },
@@ -1971,6 +2097,9 @@
    "pay": null,
    "posted": "2026-09-15",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -1981,7 +2110,7 @@
     "wealth"
    ],
    "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2004,6 +2133,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2014,7 +2146,7 @@
     "wealth"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -2037,6 +2169,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2047,7 +2182,7 @@
     "wealth"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--Tokyo_40708",
-   "v": 5,
+   "v": 6,
    "weeks": 8,
    "work_mode": null
   },
@@ -2070,6 +2205,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2080,7 +2218,7 @@
     "real_estate"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -2103,6 +2241,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2113,7 +2254,7 @@
     "real_estate"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Institutional-Client-Solutions-Summer-Analyst--London-_43188",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -2136,6 +2277,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2146,7 +2290,7 @@
     "real_estate"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -2169,6 +2313,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2179,7 +2326,7 @@
     "real_estate"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -2202,6 +2349,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -2212,7 +2362,7 @@
     "real_estate"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Singapore/XMLNAME-2027-Real-Estate-Finance--Off-Cycle-Intern--January-to-June---Singapore_44173",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2457,6 +2607,9 @@
    "pay": null,
    "posted": "2026-09-23",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -2467,7 +2620,7 @@
     "wealth"
    ],
    "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Financial-Planning---Analysis-Intern_R26_0000001057",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2492,6 +2645,9 @@
    "pay": null,
    "posted": "2026-09-23",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Fall 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2502,7 +2658,7 @@
     "wealth"
    ],
    "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Wealth-Management---Financial-Planning-Intern_R26_0000000962",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2527,6 +2683,9 @@
    "pay": null,
    "posted": "2026-09-23",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Fall 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2537,7 +2696,7 @@
     "wealth"
    ],
    "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Wealth-and-Investment-Management-Intern_R26_0000001026",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2560,6 +2719,9 @@
    "pay": "$17–$26/hr",
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -2570,7 +2732,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Advocacy---Supervision-Intern_R-2025-240",
-   "v": 5,
+   "v": 6,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -2593,6 +2755,9 @@
    "pay": "$17–$26/hr",
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -2603,7 +2768,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Business-Operations-Intern_R-2025-224",
-   "v": 5,
+   "v": 6,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -2626,6 +2791,9 @@
    "pay": "$17–$26/hr",
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -2636,7 +2804,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Compliance-Intern_R-2025-230",
-   "v": 5,
+   "v": 6,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -2659,6 +2827,9 @@
    "pay": "$17–$26/hr",
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -2669,7 +2840,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Financial-Operations-Analyst-Intern_R-2025-236",
-   "v": 5,
+   "v": 6,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -2692,6 +2863,9 @@
    "pay": "$17–$26/hr",
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -2702,7 +2876,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Intern_R-2025-238",
-   "v": 5,
+   "v": 6,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -2725,6 +2899,9 @@
    "pay": "$17–$26/hr",
    "posted": "2026-09-28",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -2735,7 +2912,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Videography-Intern_R-2025-229",
-   "v": 5,
+   "v": 6,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -2758,6 +2935,9 @@
    "pay": null,
    "posted": "2026-09-17",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2768,7 +2948,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2791,6 +2971,9 @@
    "pay": null,
    "posted": "2026-09-17",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2801,7 +2984,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Central-Solutions-Strategy-Analyst-Internship_R919",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2819,11 +3002,14 @@
    "id": "wd:ceritypartners:R931",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "New York City, NY; West Conshohocken, PA",
    "misses": 0,
    "pay": null,
    "posted": "2026-09-25",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2834,7 +3020,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Financial-Planning-Analyst-Internship_R931",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2852,11 +3038,15 @@
    "id": "wd:ceritypartners:R944",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Austin, TX; Denver, CO",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-01",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -2867,7 +3057,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R944",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2885,11 +3075,14 @@
    "id": "wd:ceritypartners:R930-1",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "West Conshohocken, PA; New York City, NY",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-07",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2900,7 +3093,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/West-Conshohocken-PA/Investment-Office-Analyst-Internship_R930-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2923,6 +3116,9 @@
    "pay": null,
    "posted": "2026-09-27",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2933,7 +3129,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2956,6 +3152,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2966,7 +3165,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Summer-2027-Wealth-Management-Intern_R927",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -2989,6 +3188,9 @@
    "pay": null,
    "posted": "2026-09-11",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -2999,7 +3201,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Wealth-Management-Intern_R838-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3022,6 +3224,9 @@
    "pay": null,
    "posted": "2026-09-16",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3032,7 +3237,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Wealth-Management-Intern_R882",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3055,6 +3260,9 @@
    "pay": null,
    "posted": "2026-09-11",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3065,7 +3273,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Elizabethtown-KY/Summer-2027-Wealth-Management-Internship_R888",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3088,6 +3296,9 @@
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3098,7 +3309,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R920",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3121,6 +3332,9 @@
    "pay": null,
    "posted": "2026-09-25",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3131,7 +3345,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Houston-TX/Summer-2027-Wealth-Management-Internship_R935",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3154,6 +3368,9 @@
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3164,7 +3381,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R889-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3187,6 +3404,9 @@
    "pay": "$25/hr",
    "posted": "2026-10-07",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3197,7 +3417,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Denver-CO/Summer-2027-Wealth-Management-Internship_R969",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -3220,6 +3440,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3230,7 +3453,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Norfolk-VA/Wealth-Management-Intern_R869",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3253,6 +3476,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "International",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3263,7 +3489,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Indianapolis-Office/Wealth-Management-Intern_R875",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3286,6 +3512,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3296,7 +3525,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-Office/Wealth-Management-Internship_R825-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3319,6 +3548,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3329,7 +3561,7 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Albany-Office/Wealth-Management-Internship_R911",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3952,6 +4184,9 @@
    "pay": "$17–$20/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3962,7 +4197,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/XMLNAME-2027-Summer-Intern--Client-Accounting--Tempe_R333480",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -3988,6 +4223,9 @@
    "pay": "$20–$23/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -3998,7 +4236,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---MA---Boston---125-High-Street/EIC-2027-Summer-Intern--Boston_R335727",
-   "v": 5,
+   "v": 6,
    "weeks": 8,
    "work_mode": null
   },
@@ -4024,6 +4262,9 @@
    "pay": "$21–$25/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -4034,7 +4275,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/EIC-2027-Summer-Intern--New-York_R335216",
-   "v": 5,
+   "v": 6,
    "weeks": 8,
    "work_mode": null
   },
@@ -4060,6 +4301,9 @@
    "pay": "$20–$23/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -4070,7 +4314,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania-USA/EIC-2027-Summer-Intern--Philadelphia_R335729",
-   "v": 5,
+   "v": 6,
    "weeks": 8,
    "work_mode": null
   },
@@ -4093,6 +4337,9 @@
    "pay": null,
    "posted": "2026-10-02",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4103,7 +4350,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IRL---Dublin---2-Cumberland-Place/EIC-Dublin-Building-Surveying-Internship_R337487",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4126,6 +4373,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4136,7 +4386,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IRL---Dublin---2-Cumberland-Place/EIC-Dublin-Commercial-Internship_R337486",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4162,6 +4412,9 @@
    "pay": "$18–$21/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -4172,7 +4425,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -4195,6 +4448,9 @@
    "pay": null,
    "posted": "2026-10-07",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4205,7 +4461,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/EIC-Hospitality-Intern_R337036",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4228,6 +4484,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4238,7 +4497,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Warsaw-Poland/EIC-Hospitality-Valuation---Advisory-Intern_R337071",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4261,6 +4520,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4271,7 +4533,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/EIC-Hospitality-intern---Capital-Markets_R337039",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4294,6 +4556,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4304,7 +4569,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VN---Ba-Dinh-District---Hanoi---5-Dien-Bien-Phu-Street/EIC-Intern---Commercial-Real-Estate--Hanoi_R304840",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4327,6 +4592,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4337,7 +4605,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/EIC-Intern---Data-Centre-Development-Advisory_R337693",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4360,6 +4628,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4370,7 +4641,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/EIC-Intern---Data-Centre-Operations--Singapore-_R337691",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4388,11 +4659,14 @@
    "id": "wd:cw:R328210",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Hyderabad, India",
    "misses": 0,
    "pay": null,
    "posted": "2026-09-09",
-   "region": "",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4403,7 +4677,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Hyderabad-India/EIC-Intern---Hospitality---Facilities-Management--Hyderabad_R328210",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4426,6 +4700,9 @@
    "pay": null,
    "posted": "2026-09-24",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4436,7 +4713,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/EIC-Intern---Pricing---Analytics--SGP_R338020",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4459,6 +4736,9 @@
    "pay": null,
    "posted": "2026-10-05",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4469,7 +4749,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern---Strategic-Consulting_R339208",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4492,6 +4772,9 @@
    "pay": null,
    "posted": "2026-09-22",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4502,7 +4785,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Sustainability--SGP_R337699",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4525,6 +4808,9 @@
    "pay": "$18–$21/hr",
    "posted": "2026-09-25",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4535,7 +4821,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/EIC-Intern--Client-Accounting_R333462-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4558,6 +4844,9 @@
    "pay": "$18–$21/hr",
    "posted": "2026-09-16",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4568,7 +4857,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/EIC-Operations-Intern_R333466",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -4594,6 +4883,9 @@
    "pay": "$20–$23/hr",
    "posted": "2026-10-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -4604,7 +4896,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/East-Rutherford-New-Jersey-USA/EIC-Summer-Intern_R336971",
-   "v": 5,
+   "v": 6,
    "weeks": 8,
    "work_mode": null
   },
@@ -4627,6 +4919,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4637,7 +4932,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---FRA---Neuilly-Sur-Seine---185-189-avenue-Charles-de-Gaulle/EIC-Valuation---Advisory-Hospitality-Intern_R336064-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4660,6 +4955,9 @@
    "pay": null,
    "posted": "2026-09-23",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4670,7 +4968,7 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R336024",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4801,6 +5099,9 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "oracle",
@@ -4811,7 +5112,7 @@
     "real_estate"
    ],
    "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8832",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -4836,6 +5137,9 @@
    "pay": "$26–$39/hr (≈ $54k–$82k/yr)",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -4846,7 +5150,7 @@
     "real_estate"
    ],
    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Intern---Summer-2027_JR17561",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4871,6 +5175,9 @@
    "pay": "$31–$40/hr (≈ $64k–$83k/yr)",
    "posted": "2026-09-22",
    "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -4881,7 +5188,7 @@
     "real_estate"
    ],
    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4904,6 +5211,9 @@
    "pay": null,
    "posted": "2026-09-10",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -4914,7 +5224,7 @@
     "real_estate"
    ],
    "url": "https://gables.wd5.myworkdayjobs.com/Gables_Careers/job/Atlanta-Corporate---Atlanta-GA/Business-Analytics-Intern_2026-11903",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -4934,11 +5244,14 @@
    "id": "wd:guardianlife:R000110301",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "New York; Bethlehem",
    "misses": 0,
    "pay": "$20–$35/hr",
-   "posted": "2026-10-08",
-   "region": "",
+   "posted": "2026-10-09",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -4949,7 +5262,7 @@
     "wealth"
    ],
    "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Client-Solutions-and-Wealth-Management_R000110301",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -5013,6 +5326,9 @@
    "pay": null,
    "posted": "2026-09-15",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -5023,7 +5339,7 @@
     "real_estate"
    ],
    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500",
-   "v": 5,
+   "v": 6,
    "weeks": 12,
    "work_mode": "Hybrid"
   },
@@ -5046,6 +5362,9 @@
    "pay": null,
    "posted": "2026-09-15",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -5056,7 +5375,7 @@
     "real_estate"
    ],
    "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Seoul-Seoul/Intern--Client-Portfolio-Management--Invesco-Real-Estate-Korea--6-months-_R-15500-1",
-   "v": 5,
+   "v": 6,
    "weeks": 12,
    "work_mode": "Hybrid"
   },
@@ -5846,6 +6165,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -5856,7 +6178,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Development-Summer-2027-Internship---Chicago--IL_REQ534216",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -5879,6 +6201,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -5889,7 +6214,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Business-Development-Summer-2027-Internship---Dallas--TX_REQ534213",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -5914,6 +6239,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -5924,7 +6252,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Capital-Markets-Analyst-Summer-2027-Internship---Salt-Lake-City--UT_REQ530571",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -5949,6 +6277,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -5959,7 +6290,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Capital-Markets-Summer-2027-Internship---Century-City--LA_REQ530570",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -5984,6 +6315,9 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -5994,7 +6328,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Capital-Markets-Summer-2027-Internship---Chicago--IL_REQ530231",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6019,6 +6353,9 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6029,7 +6366,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Capital-Markets-Summer-2027-Internship---Jacksonville--FL_REQ532423",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6054,6 +6391,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6064,7 +6404,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Capital-Markets-Summer-2027-Internship---Miami--FL_REQ530237",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6089,6 +6429,9 @@
    "pay": null,
    "posted": "2026-10-01",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6099,7 +6442,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Capital-Markets-Summer-2027-Internship---Minneapolis--MN_REQ530234",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6124,6 +6467,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6134,7 +6480,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Irvine-CA/Capital-Markets-Summer-2027-Internship---Orange-County--CA_REQ529972-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6159,6 +6505,9 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6169,7 +6518,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Orlando-FL/Capital-Markets-Summer-2027-Internship---Orlando--FL_REQ530581",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6195,6 +6544,9 @@
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6205,7 +6557,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Capital-Markets-Summer-2027-Internship---Portland--OR_REQ530226",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6230,6 +6582,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6240,7 +6595,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Capital-Markets-Summer-2027-Internship---San-Diego--CA_REQ530207-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6265,6 +6620,9 @@
    "pay": null,
    "posted": "2026-09-24",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6275,7 +6633,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Capital-Markets-Summer-2027-Internship---San-Francisco--CA_REQ530240",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6300,6 +6658,9 @@
    "pay": null,
    "posted": "2026-09-30",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6310,7 +6671,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Tampa--FL_REQ532419",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6335,6 +6696,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6345,7 +6709,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Capital-Markets-Summer-2027-Internship---Washington--DC_REQ530230",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6371,6 +6735,9 @@
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6381,7 +6748,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Capital-Markets-Summer-Internship-2027---Seattle--WA_REQ530584",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6404,6 +6771,9 @@
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6414,7 +6784,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Hotels-and-Hospitality-Summer-2027-Internship---Chicago--IL_REQ531742",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6437,6 +6807,9 @@
    "pay": null,
    "posted": "2026-09-15",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6447,7 +6820,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Orlando--FL_REQ532428",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6472,6 +6845,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6482,7 +6858,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Houston-Capital-Markets-Summer-2027-Internship----Houston--TX_REQ530228",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6505,6 +6881,9 @@
    "pay": null,
    "posted": "2026-10-06",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6515,7 +6894,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6540,6 +6919,9 @@
    "pay": null,
    "posted": "2026-10-02",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6550,7 +6932,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Capital-Markets-Summer-2027-Internship---Dallas--TX_REQ530555",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6573,6 +6955,9 @@
    "pay": null,
    "posted": "2026-10-06",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6583,7 +6968,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Property-Management-Summer-2027-Internship----Minneapolis--MN_REQ540473",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6606,6 +6991,9 @@
    "pay": null,
    "posted": "2026-10-06",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6616,7 +7004,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Property-Management-Summer-2027-Internship---Dallas--TX_REQ540219",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6639,6 +7027,9 @@
    "pay": null,
    "posted": "2026-10-06",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6649,7 +7040,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Property-Management-Summer-2027-Internship---New-York--NY_REQ540467",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6672,6 +7063,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6682,7 +7076,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Property-Management-Summer-2027-Internship---San-Francisco--CA_REQ540476",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6705,6 +7099,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6715,7 +7112,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Property-Management-Summer-2027-Internship---Washington--DC_REQ540468",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6733,11 +7130,17 @@
    "id": "wd:jll:REQ534204",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "4 Locations",
+   "location": "San Diego, CA; Chicago, IL; Austin, TX; Washington, DC",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-08",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic",
+    "Midwest",
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6748,7 +7151,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Public-Institutions-Advisory-Summer-2027-Internship---San-Diego--CA_REQ534204",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6771,6 +7174,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6781,7 +7187,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Strategic-Program-Support-Summer-2027-Internship---San-Francisco--CA_REQ534203",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6804,6 +7210,9 @@
    "pay": null,
    "posted": "2026-10-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6814,7 +7223,7 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6837,6 +7246,9 @@
    "pay": null,
    "posted": "2026-10-07",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -6847,7 +7259,7 @@
     "wealth"
    ],
    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Manulife-Co-op-Program----Business---Investment-Advisory--General-Accounts-Investment---January-2027-Intake_JR26091510",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -6870,6 +7282,9 @@
    "pay": null,
    "posted": "2026-10-08",
    "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -6880,7 +7295,7 @@
     "wealth"
    ],
    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GWAM-Financial-Planning---Analysis_JR26081175",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -7582,6 +7997,9 @@
    "pay": "$20–$25/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7592,7 +8010,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Finance_R-052052",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -7618,6 +8036,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -7628,7 +8049,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Risk--Operations--and-Compliance_R-052054",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -7684,11 +8105,15 @@
    "id": "wd:lplfinancial:R-052918",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Fort Mill/Charlotte; Austin, TX",
    "misses": 0,
    "pay": "$25–$30/hr",
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -7699,7 +8124,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -7717,11 +8142,15 @@
    "id": "wd:lplfinancial:R-052922",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Fort Mill/Charlotte; Austin, TX",
    "misses": 0,
    "pay": "$25–$30/hr",
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -7732,7 +8161,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Business-Analyst-and-Project-Management_R-052922",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -7864,11 +8293,15 @@
    "id": "wd:lplfinancial:R-052835",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Fort Mill, SC; Austin, TX",
    "misses": 0,
    "pay": "$26–$44/hr",
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -7879,7 +8312,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-Mill-SC/New-Grad---2027---Business-Analyst-and-Project-Management_R-052835",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8007,11 +8440,17 @@
    "id": "wd:linklogistics:JR101862",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "5 Locations",
+   "location": "Dallas, Texas; Sacramento, California; Rosemont, Illinois; CA - Irvine; Atlanta, Georgia",
    "misses": 0,
    "pay": "$30/hr",
    "posted": "2026-10-07",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Midwest",
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8022,7 +8461,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/Dallas-Texas/Asset-Management-Summer-Intern_JR101862",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8048,6 +8487,9 @@
    "pay": "$45/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8058,7 +8500,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Capital-Markets-Summer-Intern_JR101863",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8083,6 +8525,9 @@
    "pay": "$30/hr",
    "posted": "2026-10-05",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8093,7 +8538,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/Chicago-Illinois/Credit-Risk-Summer-Intern_JR101898",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8118,6 +8563,9 @@
    "pay": "$45/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8128,7 +8576,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Debt-Capital-Markets-Summer-Intern_JR101853",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8148,11 +8596,16 @@
    "id": "wd:linklogistics:JR101857",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "3 Locations",
+   "location": "New York, New York; CA - Irvine; Dallas, Texas",
    "misses": 0,
    "pay": "$30/hr",
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8163,7 +8616,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8188,6 +8641,9 @@
    "pay": "$30/hr",
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8198,7 +8654,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Financial-Planning---Analysis-Summer-Intern_JR101856",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8219,11 +8675,18 @@
    "id": "wd:linklogistics:JR101854",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "5 Locations",
+   "location": "New York, New York; CA - Irvine; Chicago, Illinois; Dallas, Texas; Atlanta, Georgia",
    "misses": 0,
    "pay": "$45/hr",
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast",
+    "Midwest",
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8234,7 +8697,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Investments-Analyst-Summer-Intern_JR101854",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8254,11 +8717,15 @@
    "id": "wd:linklogistics:JR101855",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "New York, New York; San Diego, California",
    "misses": 0,
    "pay": "$45/hr",
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8269,7 +8736,7 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Power---Infrastructure-Investments-Summer-Intern_JR101855",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8364,6 +8831,9 @@
    "pay": null,
    "posted": "2026-09-23",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "oracle",
@@ -8374,7 +8844,7 @@
     "real_estate"
    ],
    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250017",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8397,6 +8867,9 @@
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "oracle",
@@ -8407,7 +8880,7 @@
     "real_estate"
    ],
    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8547,6 +9020,9 @@
    "pay": null,
    "posted": "2015-10-05",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "smartrecruiters",
@@ -8557,7 +9033,7 @@
     "wealth"
    ],
    "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751677",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8580,6 +9056,9 @@
    "pay": null,
    "posted": "2015-10-05",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "smartrecruiters",
@@ -8590,7 +9069,7 @@
     "wealth"
    ],
    "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751711",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8613,6 +9092,9 @@
    "pay": null,
    "posted": "2015-10-05",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "smartrecruiters",
@@ -8623,7 +9105,7 @@
     "wealth"
    ],
    "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751519",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8646,6 +9128,9 @@
    "pay": null,
    "posted": "2015-10-05",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "smartrecruiters",
@@ -8656,7 +9141,7 @@
     "wealth"
    ],
    "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751589",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8679,6 +9164,9 @@
    "pay": null,
    "posted": "2026-09-14",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -8689,7 +9177,7 @@
     "real_estate"
    ],
    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8712,6 +9200,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -8722,7 +9213,7 @@
     "real_estate"
    ],
    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Paris-France/PGIM---Real-Estate-Private-Equity-Analyst-Intern--all-genders-_R-124980-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -8747,6 +9238,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -8757,7 +9251,7 @@
     "real_estate"
    ],
    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8780,6 +9274,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -8790,7 +9287,7 @@
     "wealth"
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Growth-Markets-Analyst--US_R106759-1",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8813,6 +9310,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Southwest"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -8823,7 +9323,7 @@
     "wealth"
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Internal-Sales-Analyst--US_R106758",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8846,6 +9346,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -8856,7 +9359,7 @@
     "wealth"
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Alternatives-Analyst--US_R106760",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8874,11 +9377,15 @@
    "id": "wd:pimco:R106770",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "New York, NY USA; Newport Beach, CA USA",
    "misses": 0,
    "pay": null,
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -8889,7 +9396,7 @@
     "wealth"
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8907,11 +9414,16 @@
    "id": "wd:pimco:R106771",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "3 Locations",
+   "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
    "misses": 0,
    "pay": null,
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -8922,7 +9434,7 @@
     "wealth"
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Family-Capital-Analyst--US-_R106771",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -8940,11 +9452,16 @@
    "id": "wd:pimco:R106768",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "3 Locations",
+   "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
    "misses": 0,
    "pay": null,
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -8955,7 +9472,7 @@
     "wealth"
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Client-Group-Analyst--US-_R106768",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9016,6 +9533,9 @@
    "pay": null,
    "posted": "2026-10-07",
    "region": "International",
+   "regions": [
+    "International"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9026,7 +9546,7 @@
     "wealth"
    ],
    "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/London-United-Kingdom/PGIM-Global-Wealth---2027-Summer-Internship_R-125068-1",
-   "v": 5,
+   "v": 6,
    "weeks": 8,
    "work_mode": null
   },
@@ -9052,6 +9572,9 @@
    "pay": "$20–$22/hr",
    "posted": "2026-10-09",
    "region": "US",
+   "regions": [
+    "Southeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
@@ -9062,7 +9585,7 @@
     "real_estate"
    ],
    "url": "https://pultegroup.wd1.myworkdayjobs.com/PGI/job/Alpharetta-GA/Summer-2027-Operations-Intern_JR9432",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9386,6 +9909,9 @@
    "pay": "$35/hr",
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9396,7 +9922,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5404/summer-analyst---business-finance/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9527,6 +10053,9 @@
    "pay": "$38/hr",
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9537,7 +10066,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5354/summer-analyst---core-platforms/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9562,6 +10091,9 @@
    "pay": "$38/hr",
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9572,7 +10104,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5406/summer-analyst---distribution/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9595,6 +10127,9 @@
    "pay": "$38/hr",
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9605,7 +10140,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5355/summer-analyst---information-security/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9628,6 +10163,9 @@
    "pay": "$38/hr",
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9638,7 +10176,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5403/summer-analyst---manager-due-diligence/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9661,6 +10199,9 @@
    "pay": "$35/hr",
    "posted": "2026-10-08",
    "region": "",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9671,7 +10212,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5412/summer-analyst---practice-management/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9694,6 +10235,9 @@
    "pay": "$35/hr",
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9704,7 +10248,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5353/summer-analyst---program-management/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9727,6 +10271,9 @@
    "pay": "$35/hr",
    "posted": "2026-10-08",
    "region": "US",
+   "regions": [
+    "Northeast"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "icims",
@@ -9737,7 +10284,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5405/summer-analyst---wealth-planning/job",
-   "v": 5,
+   "v": 6,
    "weeks": 10,
    "work_mode": null
   },
@@ -9757,11 +10304,14 @@
    "id": "wd:ryancompanies:R-101961",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Minneapolis; Des Moines",
    "misses": 0,
    "pay": "$20–$25/hr",
    "posted": "2026-09-09",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -9772,7 +10322,7 @@
     "real_estate"
    ],
    "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -9790,11 +10340,15 @@
    "id": "wd:ryancompanies:R-102241",
    "last_seen": "2026-10-09",
    "level": "Undergraduate",
-   "location": "2 Locations",
+   "location": "Phoenix; Denver",
    "misses": 0,
    "pay": "$20–$25/hr",
    "posted": "2026-10-06",
-   "region": "",
+   "region": "US",
+   "regions": [
+    "Southwest",
+    "West"
+   ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
@@ -9805,7 +10359,7 @@
     "real_estate"
    ],
    "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Phoenix/Preconstruction-Intern_R-102241",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9828,6 +10382,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -9838,7 +10395,7 @@
     "real_estate"
    ],
    "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Financial-Planning---Analysis--Finance---Accounting-Majors-_R13991",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -9861,6 +10418,9 @@
    "pay": null,
    "posted": "2026-09-09",
    "region": "US",
+   "regions": [
+    "Midwest"
+   ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
@@ -9871,7 +10431,7 @@
     "real_estate"
    ],
    "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Lease-Services--Real-Estate-Finance-Major-_R13945-1",
-   "v": 5,
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
