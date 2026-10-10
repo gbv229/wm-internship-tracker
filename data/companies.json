@@ -4,14 +4,13 @@
    "careers": "https://www.morganstanley.com/people-opportunities/students-graduates",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Morgan Stanley",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -74,9 +73,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
      "changed_on": null,
@@ -98,14 +96,13 @@
    "careers": "https://www.wellsfargojobs.com/en/early-careers/",
    "focus": "mixed",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Wells Fargo",
    "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -119,14 +116,13 @@
    "careers": "https://jobs.citi.com/students-and-graduates",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Citi (incl. Citi Private Bank)",
    "open": 14,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -167,14 +163,13 @@
    "careers": "https://search.jobs.barclays/",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Barclays",
    "open": 4,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -187,14 +182,13 @@
    "careers": "https://careers.db.com/students-graduates/",
    "focus": "mixed",
    "hq": "Frankfurt / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Deutsche Bank",
    "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -207,24 +201,21 @@
    "careers": "https://jobs.rbc.com/ca/en/students-and-graduates",
    "focus": "mixed",
    "hq": "Toronto / Minneapolis",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
    "open": 6,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -238,14 +229,13 @@
    "careers": "https://jobs.td.com/en-CA/students-and-new-grads/",
    "focus": "mixed",
    "hq": "Toronto / Cherry Hill, NJ",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "TD (incl. TD Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -259,19 +249,17 @@
    "careers": "https://cibc.wd3.myworkdayjobs.com/campus",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "CIBC Private Wealth",
    "open": 6,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -284,14 +272,13 @@
    "careers": "https://santander.wd3.myworkdayjobs.com/SantanderCareers",
    "focus": "mixed",
    "hq": "Madrid / Boston",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Santander (Private Banking)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -333,7 +320,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "e167cca81cbb81a3",
+     "hash": "01c57b5e107827cf",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -350,14 +337,13 @@
    "careers": "https://juliusbaer.wd3.myworkdayjobs.com/External",
    "focus": "wealth",
    "hq": "Zurich",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Julius Baer",
    "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -496,14 +482,13 @@
    "careers": "https://www.northerntrust.com/united-states/about-us/careers/students",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Northern Trust",
    "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -535,14 +520,13 @@
    "careers": "https://www.bbh.com/us/en/careers.html",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Brown Brothers Harriman",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -555,14 +539,13 @@
    "careers": "https://mtb.wd5.myworkdayjobs.com/wtexternal",
    "focus": "wealth",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Wilmington Trust",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -575,14 +558,13 @@
    "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Fiduciary Trust International (Franklin)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -692,14 +674,13 @@
    "careers": "https://careers.pnc.com/global/en/students",
    "focus": "mixed",
    "hq": "Pittsburgh, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "PNC (PNC Private Bank)",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -713,14 +694,13 @@
    "careers": "https://careers.truist.com/",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Truist (Truist Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -734,14 +714,13 @@
    "careers": "https://careers.usbank.com/",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "U.S. Bank (Private Wealth)",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -755,19 +734,17 @@
    "careers": "https://mtb.wd5.myworkdayjobs.com/Campus",
    "focus": "mixed",
    "hq": "Buffalo, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "M&T Bank (Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -801,14 +778,13 @@
    "careers": "https://fifththird.wd5.myworkdayjobs.com/53careers",
    "focus": "mixed",
    "hq": "Cincinnati, OH",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Fifth Third (Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -822,14 +798,13 @@
    "careers": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
    "focus": "mixed",
    "hq": "Cleveland, OH",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "KeyBank",
    "open": 14,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -863,14 +838,13 @@
    "careers": "https://regions.wd5.myworkdayjobs.com/regions_careers",
    "focus": "mixed",
    "hq": "Birmingham, AL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Regions (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -884,14 +858,13 @@
    "careers": "https://associatedbank.wd1.myworkdayjobs.com/external_careers",
    "focus": "mixed",
    "hq": "Green Bay, WI",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Associated Bank (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -904,14 +877,13 @@
    "careers": "https://frostbank.wd5.myworkdayjobs.com/External",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Frost (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -996,19 +968,17 @@
    "careers": "https://jobs.fidelity.com/en/students-and-graduates/",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Fidelity Investments",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1063,19 +1033,17 @@
    "careers": "https://www.raymondjames.com/careers/students",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Raymond James",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1088,14 +1056,13 @@
    "careers": "https://www.ameriprise.com/careers",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Ameriprise Financial",
    "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1108,19 +1075,17 @@
    "careers": "https://lplfinancial.wd1.myworkdayjobs.com/university",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "LPL Financial",
    "open": 10,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1152,14 +1117,13 @@
    "careers": "https://www.rwbaird.com/careers/",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Baird",
    "open": 29,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1325,14 +1289,13 @@
    "careers": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site",
    "focus": "wealth",
    "hq": "Phoenix, AZ",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Osaic",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1364,14 +1327,13 @@
    "careers": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services",
    "focus": "mixed",
    "hq": "Oaks, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "SEI",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1738,9 +1700,8 @@
    "open": 4,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
      "changed_on": null,
@@ -1766,14 +1727,13 @@
    "careers": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
    "focus": "mixed",
    "hq": "Springfield, MA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "MassMutual",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1787,14 +1747,13 @@
    "careers": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Guardian Life",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1807,14 +1766,13 @@
    "careers": "https://pru.wd5.myworkdayjobs.com/Careers",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Prudential Financial",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1827,14 +1785,13 @@
    "careers": "https://thrivent.wd5.myworkdayjobs.com/external",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Thrivent",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1866,14 +1823,13 @@
    "careers": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Nationwide",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1886,14 +1842,13 @@
    "careers": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "USAA",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1986,14 +1941,13 @@
    "careers": "https://www.vanguardjobs.com/",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Vanguard",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2006,19 +1960,17 @@
    "careers": "https://careers.blackrock.com/early-careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "BlackRock",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2032,19 +1984,17 @@
    "careers": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers",
    "focus": "mixed",
    "hq": "Nashville, TN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "AllianceBernstein (Bernstein Private Wealth)",
    "open": 10,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2057,14 +2007,13 @@
    "careers": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
    "focus": "mixed",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "T. Rowe Price",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2077,14 +2026,13 @@
    "careers": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers",
    "focus": "mixed",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Capital Group",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2097,14 +2045,13 @@
    "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
    "focus": "mixed",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Franklin Templeton",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2117,19 +2064,17 @@
    "careers": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers",
    "focus": "mixed",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Invesco",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2143,14 +2088,13 @@
    "careers": "https://nb.wd1.myworkdayjobs.com/NBCareers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Neuberger Berman (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2163,14 +2107,13 @@
    "careers": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers",
    "focus": "mixed",
    "hq": "Austin, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Dimensional Fund Advisors",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2183,14 +2126,13 @@
    "careers": "https://wellington.wd5.myworkdayjobs.com/Campus",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Wellington Management",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2203,14 +2145,13 @@
    "careers": "https://statestreet.wd1.myworkdayjobs.com/Global",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "State Street",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2223,14 +2164,13 @@
    "careers": "https://tiaa.wd1.myworkdayjobs.com/Search",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "TIAA / Nuveen",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2244,14 +2184,13 @@
    "careers": "https://pimco.wd1.myworkdayjobs.com/pimco-careers",
    "focus": "mixed",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "PIMCO",
    "open": 6,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2264,14 +2203,13 @@
    "careers": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Blackstone",
    "open": 7,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2285,14 +2223,13 @@
    "careers": "https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Orion",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2458,14 +2395,13 @@
    "careers": "https://www.us.jll.com/en/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "JLL",
    "open": 29,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2478,14 +2414,13 @@
    "careers": "https://www.cushmanwakefield.com/en/united-states/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Cushman & Wakefield",
    "open": 22,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2498,14 +2433,13 @@
    "careers": "https://www.colliers.com/en/careers",
    "focus": "real_estate",
    "hq": "Toronto / Seattle",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Colliers",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2685,7 +2619,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "ca165032fe26c7d7",
+     "hash": "d3524f9d07096a2d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2702,19 +2636,17 @@
    "careers": "https://www.costargroup.com/careers",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "CoStar Group",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2750,14 +2682,13 @@
    "careers": "https://www.walkerdunlop.com/careers/",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Walker & Dunlop",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2776,7 +2707,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "fdbdbeb3d4ecf6a5",
+     "hash": "bd14835b38d45ae5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2799,7 +2730,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "b299c1cc78d2f63a",
+     "hash": "60cd192fc0e4ef71",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2885,14 +2816,13 @@
    "careers": "https://www.fanniemae.com/careers",
    "focus": "mixed",
    "hq": "Washington, DC",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Fannie Mae (Multifamily)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2905,14 +2835,13 @@
    "careers": "https://careers.freddiemac.com/",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Freddie Mac (Multifamily)",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2944,14 +2873,13 @@
    "careers": "https://careers.firstam.com/",
    "focus": "mixed",
    "hq": "Santa Ana, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "First American",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2964,14 +2892,13 @@
    "careers": "https://www.brookfield.com/careers",
    "focus": "mixed",
    "hq": "New York / Toronto",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Brookfield",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2984,14 +2911,13 @@
    "careers": "https://www.pgim.com/careers",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "PGIM Real Estate",
    "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3004,14 +2930,13 @@
    "careers": "https://www.aresmgmt.com/careers",
    "focus": "mixed",
    "hq": "Los Angeles / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Ares Management (Real Estate)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3024,14 +2949,13 @@
    "careers": "https://www.apollo.com/careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Apollo (Real Estate)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3214,14 +3138,13 @@
    "careers": "https://www.linklogistics.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Link Logistics",
    "open": 8,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3367,14 +3290,13 @@
    "careers": "https://gables.wd5.myworkdayjobs.com/Gables_Careers",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Gables Residential",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3387,14 +3309,13 @@
    "careers": "https://www.ryancompanies.com/careers",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Ryan Companies",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3472,14 +3393,16 @@
    "careers": "https://www.coniferllc.com/careers/",
    "focus": "real_estate",
    "hq": "Rochester, NY",
-   "last_ok": null,
+   "last_ok": "2026-10-10",
    "name": "Conifer Realty",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "changed_on": null,
+     "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3512,14 +3435,13 @@
    "careers": "https://www.lennar.com/careers",
    "focus": "real_estate",
    "hq": "Miami, FL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Lennar",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3532,14 +3454,13 @@
    "careers": "https://www.pultegroupcareers.com/",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "PulteGroup",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3601,14 +3522,13 @@
    "careers": "https://careers.simon.com/",
    "focus": "real_estate",
    "hq": "Indianapolis, IN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Simon Property Group",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3678,14 +3598,13 @@
    "careers": "https://careers.extraspace.com/",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Extra Space Storage",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3698,14 +3617,13 @@
    "careers": "https://www.essexapartmenthomes.com/careers",
    "focus": "real_estate",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Essex Property Trust",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3826,8 +3744,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "4ed8dcaf2fb4dbea",
+     "changed_on": "2026-10-10",
+     "hash": "50e8f1ccb0b5d74a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3896,10 +3814,10 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7f51a420bfe0>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "4b7d812410c95d73",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4001,14 +3919,13 @@
    "careers": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments",
    "focus": "mixed",
    "hq": "Kansas City, MO",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "American Century Investments",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4021,14 +3938,13 @@
    "careers": "https://godirect.wd5.myworkdayjobs.com/voya_jobs",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Voya Financial",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4041,14 +3957,13 @@
    "careers": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial",
    "focus": "mixed",
    "hq": "Houston, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Corebridge Financial",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4061,14 +3976,13 @@
    "careers": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "John Hancock (Manulife)",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4081,14 +3995,13 @@
    "careers": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships",
    "focus": "mixed",
    "hq": "Bloomington, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "COUNTRY Financial",
    "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4101,14 +4014,13 @@
    "careers": "https://fei.wd5.myworkdayjobs.com/External",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "First Eagle Investments",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4420,7 +4332,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "0301900d42b1df0e",
+     "hash": "88bd418e3da4d06e",
      "kind": "page",
      "links": [],
      "ok": true,
