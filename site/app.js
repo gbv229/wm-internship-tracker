@@ -46,6 +46,20 @@
     const parts = (loc || "").split(/;\s*/).filter(Boolean);
     return parts.length > 2 ? `${parts[0]}, ${parts[1]} + ${parts.length - 2} more` : parts.join("; ");
   };
+  // firm logo: the firm's site icon over a coloured monogram (shown if the icon can't load)
+  let DOMAINS = {};
+  const STOP = /^(the|of|and|&|inc\.?|group|financial|incl\.?|co\.?)$/i;
+  function initials(name) {
+    const w = name.replace(/\(.*?\)/g, "").split(/[\s/]+/).filter((x) => x && !STOP.test(x));
+    if (w.length === 1) return w[0].replace(/[^A-Za-z0-9]/g, "").slice(0, 2).toUpperCase();
+    return (w[0][0] + w[1][0]).toUpperCase();
+  }
+  function hue(name) { let h = 0; for (const c of name) h = (h * 31 + c.charCodeAt(0)) % 360; return h; }
+  function logoHtml(name) {
+    const d = DOMAINS[name];
+    const img = d ? `<img src="https://icons.duckduckgo.com/ip3/${esc(d)}.ico" alt="" loading="lazy" onerror="this.remove()">` : "";
+    return `<span class="logo" style="--logo-bg:hsl(${hue(name)} 38% 38%)" aria-hidden="true">${esc(initials(name))}${img}</span>`;
+  }
   const inTrack = (p) => (p.tracks || ["wealth"]).includes(state.track);
   const firmInTrack = (f) => (f.tracks || ["wealth"]).includes(state.track);
 
@@ -68,6 +82,7 @@
     const [p, c, r] = await Promise.all([get("postings.json"), get("companies.json"), get("run.json")]);
     state.postings = (p?.postings || []).map(enrich);
     state.firms = c?.companies || [];
+    state.firms.forEach((f) => { if (f.domain) DOMAINS[f.name] = f.domain; });
     state.run = r;
     readHash();
     if (!TRACKS[state.track]) state.track = "wealth";
@@ -83,6 +98,9 @@
 
   function applyTrack() {
     const t = TRACKS[state.track];
+    document.documentElement.dataset.track = state.track;
+    const tc = document.querySelector('meta[name="theme-color"]');
+    if (tc) tc.content = state.track === "real_estate" ? "#172f5c" : "#0d3b30";
     document.querySelectorAll(".track-switch button").forEach((b) => b.setAttribute("aria-checked", b.dataset.track === state.track));
     $("#h1").textContent = t.h1;
     const n = state.firms.filter(firmInTrack).length;
@@ -174,6 +192,10 @@
       });
     });
 
+    $("#region-buttons").addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      pickRegion(b.dataset.v);
+    });
     ["#ff-q", "#ff-type", "#ff-mode"].forEach((id) => $(id).addEventListener(id === "#ff-q" ? "input" : "change", renderFirms));
   }
 
@@ -209,7 +231,7 @@
   function update() { writeHash(); render(); }
 
   // ------------------------------------------------------------ filter
-  function filtered() {
+  function filtered(ignoreRegion = false) {
     const q = state.q.trim().toLowerCase();
     const nowKey = TODAY.getFullYear() * 10 + (TODAY.getMonth() < 2 ? 0 : TODAY.getMonth() < 5 ? 1 : TODAY.getMonth() < 8 ? 2 : 3);
     return state.postings.filter((p) => {
@@ -220,7 +242,7 @@
       if (state.level && p.level !== state.level) return false;
       if (state.type && p.company_type !== state.type) return false;
       if (state.area && p.function !== state.area) return false;
-      if (!inRegion(p, state.region)) return false;
+      if (!ignoreRegion && !inRegion(p, state.region)) return false;
       if (state.season === "upcoming") { if (p.season && seasonKey(p.season) < nowKey) return false; }
       else if (state.season === "unknown") { if (p.season) return false; }
       else if (state.season !== "all" && p.season !== state.season) return false;
@@ -257,8 +279,11 @@
     const list = sorted(filtered());
     const activeTotal = state.postings.filter(inTrack).filter((p) => p._status === "open" || p._status === "soon").length;
     $("#n-postings").textContent = activeTotal;
-    $("#result-count").textContent = `${list.length} ${list.length === 1 ? "role" : "roles"}` +
-      (state.cls !== "any" ? ` for ${CLASS_NAMES[+state.cls]?.toLowerCase() || "class of " + state.cls}` : "");
+    $("#result-count").innerHTML = `<b>${list.length}</b> ${list.length === 1 ? "role" : "roles"}` +
+      (state.cls !== "any" ? ` for ${esc(CLASS_NAMES[+state.cls]?.toLowerCase() || "class of " + state.cls)}` : "") +
+      (state.region && state.region !== "US" ? ` in ${esc(REGION_LABEL[state.region] || state.region)}` : "");
+    renderStats();
+    renderMap();
 
     $("#rows").innerHTML = list.map(rowHtml).join("");
     const empty = $("#empty");
@@ -271,18 +296,101 @@
     }
   }
 
+  // ------------------------------------------------------- hero stats
+  function renderStats() {
+    const act = state.postings.filter((p) => inTrack(p) && (p._status === "open" || p._status === "soon") && p.level === "Undergraduate");
+    const firms = new Set(act.map((p) => p.company)).size;
+    const week = act.filter((p) => p._posted && (TODAY - p._posted) / DAY <= 7).length;
+    const soph = act.filter((p) => (p.classes || []).includes(AY_END + 2)).length;
+    const items = [
+      [act.length, "open roles", "", true], [firms, "firms hiring", "", false],
+      [week, "posted this week", "hot", false], [soph, `open to sophomores ’${String(AY_END + 2).slice(2)}`, "", false],
+    ].filter(([n, , , always]) => always || n > 0);
+    $("#stats").innerHTML = items.map(([n, l, c]) => `<li class="${c}"><b>${n}</b><span>${l}</span></li>`).join("");
+  }
+
+  // --------------------------------------------------------------- map
+  // tile-grid US map: [state, column, row]
+  const TILES = [["AK",0,0],["ME",10,0],["WI",5,1],["VT",9,1],["NH",10,1],
+    ["WA",0,2],["ID",1,2],["MT",2,2],["ND",3,2],["MN",4,2],["IL",5,2],["MI",6,2],["NY",8,2],["MA",9,2],
+    ["OR",0,3],["NV",1,3],["WY",2,3],["SD",3,3],["IA",4,3],["IN",5,3],["OH",6,3],["PA",7,3],["NJ",8,3],["CT",9,3],["RI",10,3],
+    ["CA",0,4],["UT",1,4],["CO",2,4],["NE",3,4],["MO",4,4],["KY",5,4],["WV",6,4],["VA",7,4],["MD",8,4],["DE",9,4],
+    ["AZ",1,5],["NM",2,5],["KS",3,5],["AR",4,5],["TN",5,5],["NC",6,5],["SC",7,5],["DC",8,5],
+    ["OK",3,6],["LA",4,6],["MS",5,6],["AL",6,6],["GA",7,6],["HI",0,7],["TX",3,7],["FL",8,7]];
+  const STATE_REGION = {};
+  Object.entries({ Northeast: "CT ME MA NH RI VT NY NJ PA", "Mid-Atlantic": "DE MD DC VA WV",
+    Southeast: "NC SC GA FL AL MS TN KY AR LA", Midwest: "OH IN IL MI WI MN IA MO KS NE ND SD",
+    Southwest: "TX OK NM AZ", West: "CA OR WA NV UT CO ID MT WY AK HI" })
+    .forEach(([r, codes]) => codes.split(" ").forEach((c) => (STATE_REGION[c] = r)));
+  const REGION_LABEL = { Northeast: "the Northeast", "Mid-Atlantic": "the Mid-Atlantic", Southeast: "the Southeast",
+    Midwest: "the Midwest", Southwest: "the Southwest", West: "the West", Canada: "Canada", International: "outside the US & Canada" };
+  let mapBuilt = false;
+
+  function renderMap() {
+    const svg = $("#map");
+    const S = 38, G = 3;
+    if (!mapBuilt) {
+      svg.innerHTML = TILES.map(([st, c, r], i) =>
+        `<g class="tile" data-st="${st}" style="--i:${c + r}" transform="translate(${c * (S + G) + 1},${r * (S + G) + 1})">
+          <title>${st}</title><rect width="${S}" height="${S}"/><text x="${S / 2}" y="${S / 2 - 6}">${st}</text><text class="n" x="${S / 2}" y="${S / 2 + 8}"></text></g>`).join("");
+      svg.classList.add("intro");
+      setTimeout(() => svg.classList.remove("intro"), 1400);
+      svg.addEventListener("click", (e) => {
+        const g = e.target.closest(".tile"); if (!g) return;
+        pickRegion(STATE_REGION[g.dataset.st]);
+      });
+      mapBuilt = true;
+    }
+    // counts ignore the region filter so the map shows where else you could look
+    const base = filtered(true);
+    const byState = {}, byRegion = {};
+    let us = 0;
+    base.forEach((p) => {
+      const rs = regionsOf(p);
+      if (isUS(p)) us++;
+      rs.forEach((r) => (byRegion[r] = (byRegion[r] || 0) + 1));
+      (p.states || []).forEach((st) => (byState[st] = (byState[st] || 0) + 1));
+    });
+    const max = Math.max(1, ...Object.values(byState));
+    const style = getComputedStyle(document.documentElement);
+    const accent = style.getPropertyValue("--accent").trim(), hero2 = style.getPropertyValue("--hero-2").trim();
+    svg.querySelectorAll(".tile").forEach((g) => {
+      const st = g.dataset.st, n = byState[st] || 0, reg = STATE_REGION[st];
+      const t = n ? 0.28 + 0.72 * Math.sqrt(n / max) : 0;
+      const rect = g.querySelector("rect");
+      rect.style.fill = n ? `color-mix(in srgb, ${accent} ${Math.round(t * 100)}%, ${hero2})` : "rgba(255,255,255,.05)";
+      const dark = t > 0.62;
+      g.querySelectorAll("text").forEach((x) => (x.style.fill = dark ? "var(--accent-ink)" : "var(--on-hero)"));
+      g.querySelector(".n").textContent = n || "";
+      g.querySelector("title").textContent = `${st}: ${n} ${n === 1 ? "role" : "roles"} · ${reg}`;
+      const regionOn = US_REGIONS.includes(state.region) && state.region !== "US";
+      g.classList.toggle("dim", regionOn && reg !== state.region);
+      g.classList.toggle("sel", regionOn && reg === state.region);
+    });
+    $("#map-sub").textContent = `${us} US ${us === 1 ? "role" : "roles"} matching your filters`;
+    const btns = [["US", "All US", us], ...["Northeast", "Mid-Atlantic", "Southeast", "Midwest", "Southwest", "West"].map((r) => [r, r, (byRegion[r] || 0) + (byRegion.Remote || 0)]),
+      ["International", "Outside US", (byRegion.International || 0) + (byRegion.Canada || 0)]];
+    $("#region-buttons").innerHTML = btns.map(([v, l, n]) =>
+      `<button type="button" data-v="${v}" aria-pressed="${state.region === v || (v === "International" && state.region === "Canada")}">${l}<b>${n}</b></button>`).join("");
+  }
+
+  function pickRegion(r) {
+    state.region = state.region === r ? "US" : r;
+    $("#f-region").value = state.region;
+    update();
+  }
+
   function rowHtml(p) {
     const cls = p.classes || [];
-    const match = state.cls !== "any" && cls.includes(+state.cls);
     const elig = cls.length
-      ? `<td class="elig${match ? " match" : ""}"><b>${cls.map(classLabel).join(", ")}</b></td>`
+      ? `<td class="elig">${cls.map((y) => `<span class="pill${state.cls !== "any" && y === +state.cls ? " match" : ""}">${classLabel(y)}</span>`).join("")}</td>`
       : `<td class="elig unstated">Not stated</td>`;
     let dl;
     if (p._dl) {
       const n = daysUntil(p._dl);
       const sub = p._status === "closed" ? "" : n < 0 ? "passed" : n === 0 ? "today" : n === 1 ? "tomorrow" : `in ${n} days`;
       const c = n < 0 ? "past" : n <= 14 ? "soon" : "";
-      dl = `<td class="dl ${c}">${fmtDay(p._dl, p._dl.getFullYear() !== TODAY.getFullYear())}${sub ? `<small>${sub}</small>` : ""}</td>`;
+      dl = `<td class="dl ${c}"><span class="pill">${fmtDay(p._dl, p._dl.getFullYear() !== TODAY.getFullYear())}</span>${sub ? `<small>${sub}</small>` : ""}</td>`;
     } else dl = `<td class="dl none">Rolling / not stated</td>`;
     const posted = p._posted ? fmtDay(p._posted, p._posted.getFullYear() !== TODAY.getFullYear()) : "";
     const meta = [fmtLoc(p.location), p.level === "Graduate/MBA" ? "MBA / graduate" : ""].filter(Boolean).join(" · ");
@@ -291,9 +399,9 @@
       ? `<span class="status-closed">Closed ${p.closed_on ? fmtDay(parseDay(p.closed_on)) : ""}</span>`
       : `<a href="${esc(p.url)}" target="_blank" rel="noopener" aria-label="Apply: ${esc(p.company)}, ${esc(p.title)} (opens employer site)">Apply</a>`;
     return `<tr class="row ${p._status === "closed" ? "closed" : ""}" data-id="${esc(p.id)}" tabindex="0" aria-expanded="${isOpen}">
-      <td class="c-company"><span class="firm">${esc(p.company)}</span><span class="ftype">${esc(p.company_type)}</span></td>
+      <td class="c-company"><div class="firmcell">${logoHtml(p.company)}<div><span class="firm">${esc(p.company)}</span><span class="ftype">${esc(p.company_type)}</span></div></div></td>
       <td class="role">${esc(p.title)}${p._new ? '<span class="new">New</span>' : ""}${meta ? `<span class="role-meta" title="${esc(p.location)}">${esc(meta)}</span>` : ""}</td>
-      <td class="c-season">${p.season ? esc(p.season) + (p.season_inferred ? '<span class="est" title="Year estimated from posting date">est.</span>' : "") : '<span class="est">Not stated</span>'}</td>
+      <td class="c-season">${p.season ? `<span class="pill">${esc(p.season)}</span>` + (p.season_inferred ? '<span class="est" title="Year estimated from posting date">est.</span>' : "") : '<span class="est">Season not stated</span>'}</td>
       ${elig}${dl}
       <td class="posted">${posted}</td>
       <td class="apply">${apply}</td>
@@ -328,7 +436,7 @@
       return `<li><a href="${esc(p.url)}" target="_blank" rel="noopener">
         <span class="c-date">${fmtDay(p._dl)}</span>
         <span class="c-left">${n === 0 ? "Today" : n === 1 ? "Tomorrow" : `${n} days left`}</span>
-        <span class="c-firm">${esc(p.company)}</span>
+        <span class="c-firm">${logoHtml(p.company)}${esc(p.company)}</span>
         <span class="c-role">${esc(p.title)}</span></a></li>`;
     }).join("");
   }
@@ -371,7 +479,7 @@
       const changed = pages.map((s) => s.changed_on).filter(Boolean).sort().pop();
       const links = pages.flatMap((s) => s.links || []).slice(0, 4);
       return `<tr>
-        <td><a class="firm" href="${esc(f.careers)}" target="_blank" rel="noopener">${esc(f.name)}</a>
+        <td><div class="firmcell">${logoHtml(f.name)}<a class="firm" href="${esc(f.careers)}" target="_blank" rel="noopener">${esc(f.name)}</a></div>
           ${links.length ? `<ul class="page-links">${links.map((l) => { const [txt, url] = l.split(" | "); return `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(txt)}</a></li>`; }).join("")}</ul>` : ""}</td>
         <td>${esc(f.type)}</td><td>${esc(f.hq || "")}</td>
         <td class="num">${feeds.length ? openCount[f.name] || 0 : "—"}</td>

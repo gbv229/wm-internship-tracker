@@ -84,7 +84,7 @@ OTHER_DIVISION_RE = re.compile(
     r"private equity|asset servicing|custody|fund services|chief operations|corporate finance|"
     r"social media|communications|conference|hospitality|event|sustainab|model risk|third-party risk|"
     r"operational risk|enterprise risk|facilities|procurement|graphic|creative|design|talent|"
-    r"\bai\b|machine learning)", re.I)
+    r"\bai\b|machine learning|video|photograph|copywrit|content creat)", re.I)
 
 
 def is_wealth(title: str, text: str, focus: str) -> bool:
@@ -280,6 +280,19 @@ def regions(location: str, title: str = "") -> list[str]:
         out.add("US")
     order = REGIONS + ["Remote", "US", "Canada", "International"]
     return [r for r in order if r in out]
+
+
+def states(location: str, title: str = "") -> list[str]:
+    """US state codes named in the location (or, failing that, the title)."""
+    found: set[str] = set()
+    for seg in re.split(r";|\n|\s\|\s", location or ""):
+        if seg.strip() and not re.fullmatch(r"(?i)\s*\d+\s+locations?\s*", seg):
+            found |= _states_in(seg)
+    if not found:
+        t = title or ""
+        found = {m.group(1) for m in re.finditer(r",\s*(" + "|".join(STATE_REGION) + r")\b", t)}
+        found |= {CITY_STATE[m.group(1).lower()] for m in _CITY_RE.finditer(t)}
+    return sorted(found)
 
 
 def region(location: str, title: str = "") -> str:

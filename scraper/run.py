@@ -256,7 +256,7 @@ def main(argv=None):
                 status_out.append(old)
             continue
         st = results[co["name"]][2]
-        rec = {k: co.get(k) for k in ("name", "type", "focus", "hq", "careers")}
+        rec = {k: co.get(k) for k in ("name", "type", "focus", "hq", "careers", "domain")}
         rec["tracks"] = co.get("tracks") or ["wealth"]
         rec["verified"] = bool(co.get("verified"))
         rec["open"] = sum(1 for p in out.values() if p["company"] == co["name"] and p["status"] == "open")
@@ -283,6 +283,9 @@ def main(argv=None):
         rec["last_ok"] = today.isoformat() if any(x["ok"] for x in srcs) else old.get("last_ok")
         status_out.append(rec)
 
+    for p in out.values():               # cheap to recompute: keeps old records current too
+        p["regions"] = parse.regions(p.get("location", ""), p.get("title", ""))
+        p["states"] = parse.states(p.get("location", ""), p.get("title", ""))
     postings = sorted(out.values(), key=lambda p: (p["status"] != "open", p["company"], p["title"]))
     dump(DATA / "postings.json", {"postings": postings})
     dump(DATA / "companies.json", {"companies": status_out})

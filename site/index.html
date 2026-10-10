@@ -8,34 +8,47 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<meta name="theme-color" content="#0d3b30">
 <link rel="stylesheet" href="style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2312352E'/><path d='M7 9l3.5 14L16 12l5.5 11L25 9' fill='none' stroke='%23E6EFEA' stroke-width='3' stroke-linejoin='round'/></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230d3b30'/><path d='M8 21l5-6 4 4 7-9' fill='none' stroke='%23e3b341' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/></svg>">
 </head>
 <body>
 <a class="skip" href="#results">Skip to postings</a>
 
-<div class="trackbar">
+<header class="hero" id="top">
   <div class="wrap">
-    <div class="track-switch" role="radiogroup" aria-label="Field">
-      <button type="button" role="radio" data-track="wealth" aria-checked="true">Wealth management</button>
-      <button type="button" role="radio" data-track="real_estate" aria-checked="false">Real estate</button>
+    <div class="topbar">
+      <a class="brand" href="#top" aria-label="Internship Tracker home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8"/><path d="M8 21l5-6 4 4 7-9"/><circle cx="24" cy="10" r="2.2"/></svg>
+        <span>Internship Tracker</span>
+      </a>
+      <div class="track-switch" role="radiogroup" aria-label="Field">
+        <button type="button" role="radio" data-track="wealth" aria-checked="true">Wealth management</button>
+        <button type="button" role="radio" data-track="real_estate" aria-checked="false">Real estate</button>
+      </div>
     </div>
-  </div>
-</div>
-<header class="masthead">
-  <div class="wrap">
-    <h1 id="h1">Wealth management internships</h1>
-    <p class="lede" id="lede">Internships at <span data-count="companies">100+</span> banks, private banks, brokerages, RIAs and wealthtech firms, pulled straight from their careers sites. Every role links to the employer's own posting.</p>
-    <p class="freshness" id="freshness" aria-live="polite">Loading…</p>
+
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <h1 id="h1">Wealth management internships</h1>
+        <p class="lede" id="lede">Internships at <span data-count="companies">100+</span> banks, private banks, brokerages, RIAs and wealthtech firms, pulled straight from their careers sites. Every role links to the employer's own posting.</p>
+        <ul class="stats" id="stats" aria-live="polite"></ul>
+        <p class="freshness" id="freshness" aria-live="polite">Loading…</p>
+      </div>
+
+      <figure class="usmap" aria-labelledby="map-cap">
+        <figcaption id="map-cap">Where the roles are <span id="map-sub"></span></figcaption>
+        <svg id="map" viewBox="0 0 448 326" role="img" aria-label="Map of open roles by US state"></svg>
+        <div class="regions" id="region-buttons" role="group" aria-label="Filter by region"></div>
+      </figure>
+    </div>
+
+    <section class="closing" aria-labelledby="closing-h">
+      <h2 id="closing-h">Closing next</h2>
+      <ol class="closing-list" id="closing-list"></ol>
+    </section>
   </div>
 </header>
-
-<section class="closing" aria-labelledby="closing-h">
-  <div class="wrap">
-    <h2 id="closing-h">Closing next</h2>
-    <ol class="closing-list" id="closing-list"></ol>
-  </div>
-</section>
 
 <main class="wrap" id="main">
   <nav class="tabs" role="tablist" aria-label="Views">

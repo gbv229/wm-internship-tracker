@@ -20,6 +20,8 @@
 #   page:        {url}   no job feed; the page is checked for changes and the
 #                        firm is shown with a "check directly" link
 #
+# domain: the firm's main website (used for its logo on the site)
+#
 # verified: true means the endpoint was matched against real posting URLs
 # when this list was built. Unverified ones are flagged in the site's
 # "Sources" tab if they fail, so they can be fixed.
@@ -33,6 +35,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://www.morganstanley.com/people-opportunities/students-graduates
+    domain: morganstanley.com
     sources:
       - workday: {host: ms.wd5.myworkdayjobs.com, tenant: ms, site: External}
     verified: true
@@ -43,6 +46,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://higher.gs.com/campus
+    domain: gs.com
     sources:
       - page: {url: "https://higher.gs.com/campus"}
 
@@ -52,6 +56,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://careers.jpmorgan.com/us/en/students/programs
+    domain: jpmorgan.com
     sources:
       - oracle: {host: jpmc.fa.oraclecloud.com, site: CX_1001}
     verified: true
@@ -62,6 +67,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Charlotte, NC
     careers: https://campus.bankofamerica.com/
+    domain: bankofamerica.com
     sources:
       - workday: {host: ghr.wd1.myworkdayjobs.com, tenant: ghr, site: us-emplsv}
       - page: {url: "https://campus.bankofamerica.com/"}
@@ -73,6 +79,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: San Francisco, CA
     careers: https://www.wellsfargojobs.com/en/early-careers/
+    domain: wellsfargo.com
     sources:
       - workday: {host: wd1.myworkdaysite.com, tenant: wf, site: WellsFargoJobs, path_prefix: /recruiting/wf}
     verified: true
@@ -83,6 +90,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://jobs.citi.com/students-and-graduates
+    domain: citi.com
     sources:
       - workday: {host: citi.wd5.myworkdayjobs.com, tenant: citi, site: "2"}
     verified: true
@@ -92,6 +100,7 @@ companies:
     focus: mixed
     hq: Zurich / New York
     careers: https://www.ubs.com/global/en/careers/early-careers.html
+    domain: ubs.com
     sources:
       - page: {url: "https://www.ubs.com/global/en/careers/early-careers.html"}
 
@@ -100,6 +109,7 @@ companies:
     focus: mixed
     hq: London / New York
     careers: https://search.jobs.barclays/
+    domain: barclays.com
     sources:
       - workday: {host: barclays.wd3.myworkdayjobs.com, tenant: barclays, site: External_Career_Site_Barclays}
     verified: true
@@ -109,6 +119,7 @@ companies:
     focus: mixed
     hq: Frankfurt / New York
     careers: https://careers.db.com/students-graduates/
+    domain: db.com
     sources:
       - workday: {host: db.wd3.myworkdayjobs.com, tenant: db, site: DBWebsite}
     verified: true
@@ -119,6 +130,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Toronto / Minneapolis
     careers: https://jobs.rbc.com/ca/en/students-and-graduates
+    domain: rbc.com
     sources:
       - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: RBCEARLYTALENT1}
       - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: ExternalPrivatePostingStudents}
@@ -131,6 +143,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Toronto / Cherry Hill, NJ
     careers: https://jobs.td.com/en-CA/students-and-new-grads/
+    domain: td.com
     sources:
       - workday: {host: td.wd3.myworkdayjobs.com, tenant: td, site: TD_Bank_Careers}
     verified: true
@@ -140,6 +153,7 @@ companies:
     focus: mixed
     hq: Toronto / Chicago
     careers: https://cibc.wd3.myworkdayjobs.com/campus
+    domain: cibc.com
     sources:
       - workday: {host: cibc.wd3.myworkdayjobs.com, tenant: cibc, site: campus}
       - workday: {host: cibc.wd3.myworkdayjobs.com, tenant: cibc, site: search}
@@ -150,6 +164,7 @@ companies:
     focus: mixed
     hq: Madrid / Boston
     careers: https://santander.wd3.myworkdayjobs.com/SantanderCareers
+    domain: santander.com
     sources:
       - workday: {host: santander.wd3.myworkdayjobs.com, tenant: santander, site: SantanderCareers}
     verified: true
@@ -159,6 +174,7 @@ companies:
     focus: mixed
     hq: London / New York
     careers: https://www.hsbc.com/careers/students-and-graduates
+    domain: hsbc.com
     sources:
       - page: {url: "https://www.hsbc.com/careers/students-and-graduates"}
 
@@ -167,6 +183,7 @@ companies:
     focus: mixed
     hq: Toronto / Chicago
     careers: https://jobs.bmo.com/us/en
+    domain: bmo.com
     sources:
       - page: {url: "https://jobs.bmo.com/us/en"}
 
@@ -175,6 +192,7 @@ companies:
     focus: wealth
     hq: Zurich
     careers: https://juliusbaer.wd3.myworkdayjobs.com/External
+    domain: juliusbaer.com
     sources:
       - workday: {host: juliusbaer.wd3.myworkdayjobs.com, tenant: juliusbaer, site: External}
     verified: true
@@ -185,6 +203,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://www.jefferies.com/careers/
+    domain: jefferies.com
     sources:
       - oracle: {host: hdid.fa.us2.oraclecloud.com, site: CX_1}
     verified: true
@@ -194,6 +213,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://www.lazard.com/careers/
+    domain: lazard.com
     sources:
       - oracle: {host: icbpjb.fa.ocs.oraclecloud.com, site: LazardProfessionalCareers}
     verified: true
@@ -203,6 +223,7 @@ companies:
     focus: mixed
     hq: Paris / New York
     careers: https://www.rothschildandco.com/en/careers/
+    domain: rothschildandco.com
     sources:
       - page: {url: "https://www.rothschildandco.com/en/careers/"}
 
@@ -211,6 +232,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://www.evercore.com/careers/
+    domain: evercore.com
     sources:
       - page: {url: "https://www.evercore.com/careers/"}
 
@@ -219,6 +241,7 @@ companies:
     focus: mixed
     hq: Chicago, IL
     careers: https://www.williamblair.com/Careers
+    domain: williamblair.com
     sources:
       - greenhouse: {board: williamblair}
 
@@ -227,6 +250,7 @@ companies:
     focus: mixed
     hq: Minneapolis, MN
     careers: https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers
+    domain: pipersandler.com
     sources:
       - workday: {host: pipersandler.wd501.myworkdayjobs.com, tenant: pipersandler, site: Piper_Sandler_Careers}
     verified: true
@@ -237,6 +261,7 @@ companies:
     focus: mixed
     hq: Chicago, IL
     careers: https://www.northerntrust.com/united-states/about-us/careers/students
+    domain: northerntrust.com
     sources:
       - workday: {host: ntrs.wd1.myworkdayjobs.com, tenant: ntrs, site: northerntrust}
     verified: true
@@ -246,6 +271,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://www.bny.com/corporate/global/en/careers/students-and-graduates.html
+    domain: bny.com
     sources:
       - oracle: {host: eofe.fa.us2.oraclecloud.com, site: CX_1001}
     verified: true
@@ -255,6 +281,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://www.bbh.com/us/en/careers.html
+    domain: bbh.com
     sources:
       - workday: {host: bbh.wd5.myworkdayjobs.com, tenant: bbh, site: BBH}
     verified: true
@@ -264,6 +291,7 @@ companies:
     focus: wealth
     hq: Wilmington, DE
     careers: https://mtb.wd5.myworkdayjobs.com/wtexternal
+    domain: wilmingtontrust.com
     sources:
       - workday: {host: mtb.wd5.myworkdayjobs.com, tenant: mtb, site: wtexternal}
     verified: true
@@ -273,6 +301,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1
+    domain: fiduciarytrust.com
     sources:
       - workday: {host: franklintempleton.wd5.myworkdayjobs.com, tenant: franklintempleton, site: Primary-External-1}
     verified: true
@@ -282,6 +311,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://www.bessemertrust.com/intern-with-us
+    domain: bessemertrust.com
     sources:
       - page: {url: "https://www.bessemertrust.com/intern-with-us"}
 
@@ -290,6 +320,7 @@ companies:
     focus: wealth
     hq: Philadelphia, PA
     careers: https://www.glenmede.com/careers/
+    domain: glenmede.com
     sources:
       - page: {url: "https://www.glenmede.com/careers/"}
 
@@ -298,6 +329,7 @@ companies:
     focus: wealth
     hq: Baltimore, MD
     careers: https://www.brownadvisory.com/us/careers
+    domain: brownadvisory.com
     sources:
       - page: {url: "https://www.brownadvisory.com/us/careers"}
 
@@ -306,6 +338,7 @@ companies:
     focus: mixed
     hq: Raleigh, NC
     careers: https://jobs.firstcitizens.com/
+    domain: firstcitizens.com
     sources:
       - page: {url: "https://jobs.firstcitizens.com/"}
 
@@ -316,6 +349,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Pittsburgh, PA
     careers: https://careers.pnc.com/global/en/students
+    domain: pnc.com
     sources:
       - workday: {host: pnc.wd5.myworkdayjobs.com, tenant: pnc, site: External}
     verified: true
@@ -326,6 +360,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Charlotte, NC
     careers: https://careers.truist.com/
+    domain: truist.com
     sources:
       - workday: {host: truist.wd1.myworkdayjobs.com, tenant: truist, site: Careers}
     verified: true
@@ -336,6 +371,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Minneapolis, MN
     careers: https://careers.usbank.com/
+    domain: usbank.com
     sources:
       - workday: {host: usbank.wd1.myworkdayjobs.com, tenant: usbank, site: US_Bank_Careers}
     verified: true
@@ -346,6 +382,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Buffalo, NY
     careers: https://mtb.wd5.myworkdayjobs.com/Campus
+    domain: mtb.com
     sources:
       - workday: {host: mtb.wd5.myworkdayjobs.com, tenant: mtb, site: Campus}
       - workday: {host: mtb.wd5.myworkdayjobs.com, tenant: mtb, site: MTB}
@@ -357,6 +394,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Providence, RI
     careers: https://jobs.citizensbank.com/
+    domain: citizensbank.com
     sources:
       - oracle: {host: hcgn.fa.us2.oraclecloud.com, site: CX_1}
     verified: true
@@ -367,6 +405,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Cincinnati, OH
     careers: https://fifththird.wd5.myworkdayjobs.com/53careers
+    domain: 53.com
     sources:
       - workday: {host: fifththird.wd5.myworkdayjobs.com, tenant: fifththird, site: 53careers}
     verified: true
@@ -377,6 +416,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Cleveland, OH
     careers: https://keybank.wd5.myworkdayjobs.com/External_Career_Site
+    domain: key.com
     sources:
       - workday: {host: keybank.wd5.myworkdayjobs.com, tenant: keybank, site: External_Career_Site}
     verified: true
@@ -387,6 +427,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Columbus, OH
     careers: https://huntington.wd12.myworkdayjobs.com/HNBcareers
+    domain: huntington.com
     sources:
       - workday: {host: huntington.wd12.myworkdayjobs.com, tenant: huntington, site: HNBcareers}
     verified: true
@@ -397,6 +438,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Birmingham, AL
     careers: https://regions.wd5.myworkdayjobs.com/regions_careers
+    domain: regions.com
     sources:
       - workday: {host: regions.wd5.myworkdayjobs.com, tenant: regions, site: regions_careers}
     verified: true
@@ -406,6 +448,7 @@ companies:
     focus: mixed
     hq: Green Bay, WI
     careers: https://associatedbank.wd1.myworkdayjobs.com/external_careers
+    domain: associatedbank.com
     sources:
       - workday: {host: associatedbank.wd1.myworkdayjobs.com, tenant: associatedbank, site: external_careers}
     verified: true
@@ -415,6 +458,7 @@ companies:
     focus: mixed
     hq: San Antonio, TX
     careers: https://frostbank.wd5.myworkdayjobs.com/External
+    domain: frostbank.com
     sources:
       - workday: {host: frostbank.wd5.myworkdayjobs.com, tenant: frostbank, site: External}
     verified: true
@@ -425,6 +469,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Lancaster, PA
     careers: https://www.fultonbank.com/About-Fulton-Bank/Careers
+    domain: fultonbank.com
     sources:
       - page: {url: "https://www.fultonbank.com/About-Fulton-Bank/Careers"}
 
@@ -433,6 +478,7 @@ companies:
     focus: mixed
     hq: Souderton, PA
     careers: https://www.univest.net/careers
+    domain: univest.net
     sources:
       - page: {url: "https://www.univest.net/careers"}
 
@@ -441,6 +487,7 @@ companies:
     focus: mixed
     hq: Wilmington, DE
     careers: https://www.wsfsbank.com/careers
+    domain: wsfsbank.com
     sources:
       - page: {url: "https://www.wsfsbank.com/careers"}
 
@@ -450,6 +497,7 @@ companies:
     focus: mixed
     hq: Boston, MA
     careers: https://jobs.fidelity.com/en/students-and-graduates/
+    domain: fidelity.com
     sources:
       - workday: {host: fmr.wd1.myworkdayjobs.com, tenant: fmr, site: targeted}
       - workday: {host: fmr.wd1.myworkdayjobs.com, tenant: fmr, site: fidelitycareers}
@@ -460,6 +508,7 @@ companies:
     focus: wealth
     hq: Westlake, TX
     careers: https://www.schwabjobs.com/students
+    domain: schwab.com
     sources:
       - icims: {host: career-schwab.icims.com}
     verified: true
@@ -469,6 +518,7 @@ companies:
     focus: wealth
     hq: St. Louis, MO
     careers: https://careers.edwardjones.com/
+    domain: edwardjones.com
     sources:
       - page: {url: "https://careers.edwardjones.com/"}
 
@@ -477,6 +527,7 @@ companies:
     focus: wealth
     hq: St. Petersburg, FL
     careers: https://www.raymondjames.com/careers/students
+    domain: raymondjames.com
     sources:
       - workday: {host: raymondjames.wd1.myworkdayjobs.com, tenant: raymondjames, site: RaymondJamesEarlyCareers}
       - workday: {host: raymondjames.wd1.myworkdayjobs.com, tenant: raymondjames, site: RaymondJamesCareers}
@@ -487,6 +538,7 @@ companies:
     focus: wealth
     hq: Minneapolis, MN
     careers: https://www.ameriprise.com/careers
+    domain: ameriprise.com
     sources:
       - workday: {host: ameriprise.wd5.myworkdayjobs.com, tenant: ameriprise, site: Ameriprise}
     verified: true
@@ -496,6 +548,7 @@ companies:
     focus: wealth
     hq: San Diego, CA
     careers: https://lplfinancial.wd1.myworkdayjobs.com/university
+    domain: lpl.com
     sources:
       - workday: {host: lplfinancial.wd1.myworkdayjobs.com, tenant: lplfinancial, site: university}
       - workday: {host: lplfinancial.wd1.myworkdayjobs.com, tenant: lplfinancial, site: External}
@@ -506,6 +559,7 @@ companies:
     focus: wealth
     hq: St. Louis, MO
     careers: https://www.stifel.com/careers
+    domain: stifel.com
     sources:
       - icims: {host: careers-stifel.icims.com}
     verified: true
@@ -515,6 +569,7 @@ companies:
     focus: wealth
     hq: Milwaukee, WI
     careers: https://www.rwbaird.com/careers/
+    domain: rwbaird.com
     sources:
       - workday: {host: baird.wd1.myworkdayjobs.com, tenant: baird, site: careers}
     verified: true
@@ -524,6 +579,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://rockco.com/careers/
+    domain: rockco.com
     sources:
       - icims: {host: careers-rcm.icims.com}
     verified: true
@@ -533,6 +589,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://opco.hrmdirect.com/employment/job-openings.php?search=true
+    domain: oppenheimer.com
     sources:
       - page: {url: "https://opco.hrmdirect.com/employment/job-openings.php?search=true"}
     verified: true
@@ -542,6 +599,7 @@ companies:
     focus: wealth
     hq: Philadelphia, PA
     careers: https://www.janney.com/careers
+    domain: janney.com
     sources:
       - page: {url: "https://www.janney.com/careers"}
 
@@ -550,6 +608,7 @@ companies:
     focus: wealth
     hq: Great Falls, MT
     careers: https://dadavidson.com/careers
+    domain: dadavidson.com
     sources:
       - page: {url: "https://dadavidson.com/careers"}
 
@@ -558,6 +617,7 @@ companies:
     focus: mixed
     hq: Little Rock, AR
     careers: https://www.stephens.com/careers/
+    domain: stephens.com
     sources:
       - page: {url: "https://www.stephens.com/careers/"}
 
@@ -566,6 +626,7 @@ companies:
     focus: mixed
     hq: Dallas, TX
     careers: https://www.hilltopsecurities.com/careers/
+    domain: hilltopsecurities.com
     sources:
       - page: {url: "https://www.hilltopsecurities.com/careers/"}
 
@@ -574,6 +635,7 @@ companies:
     focus: wealth
     hq: Fairfield, IA
     careers: https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site
+    domain: joincambridge.com
     sources:
       - workday: {host: cir.wd108.myworkdayjobs.com, tenant: cir, site: CIR_External_Career_Site}
     verified: true
@@ -583,6 +645,7 @@ companies:
     focus: wealth
     hq: Phoenix, AZ
     careers: https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site
+    domain: osaic.com
     sources:
       - workday: {host: advisorgroup.wd1.myworkdayjobs.com, tenant: advisorgroup, site: advisor_career_site}
     verified: true
@@ -592,6 +655,7 @@ companies:
     focus: wealth
     hq: San Diego, CA
     careers: https://www.cetera.com/careers
+    domain: cetera.com
     sources:
       - oracle: {host: ebhu.fa.us2.oraclecloud.com, site: CX}
     verified: true
@@ -601,6 +665,7 @@ companies:
     focus: mixed
     hq: Oaks, PA
     careers: https://seic.wd1.myworkdayjobs.com/SEI_Global_Services
+    domain: seic.com
     sources:
       - workday: {host: seic.wd1.myworkdayjobs.com, tenant: seic, site: SEI_Global_Services}
     verified: true
@@ -611,6 +676,7 @@ companies:
     focus: wealth
     hq: Overland Park, KS
     careers: https://creativeplanning.com/careers/
+    domain: creativeplanning.com
     sources:
       - page: {url: "https://creativeplanning.com/careers/"}
 
@@ -619,6 +685,7 @@ companies:
     focus: wealth
     hq: Raleigh, NC
     careers: https://www.captrust.com/careers/
+    domain: captrust.com
     sources:
       - icims: {host: careers-captrust.icims.com}
     verified: true
@@ -628,6 +695,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers
+    domain: ceritypartners.com
     sources:
       - workday: {host: ceritypartners.wd12.myworkdayjobs.com, tenant: ceritypartners, site: ceritypartnerscareers}
     verified: true
@@ -637,6 +705,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://focusfinancialpartners.com/careers/
+    domain: focusfinancialpartners.com
     sources:
       - greenhouse: {board: focusfinancialpartners}
     verified: true
@@ -646,6 +715,7 @@ companies:
     focus: wealth
     hq: Overland Park, KS
     careers: https://www.mariner.com/careers/
+    domain: mariner.com
     sources:
       - page: {url: "https://www.mariner.com/careers/"}
 
@@ -654,6 +724,7 @@ companies:
     focus: wealth
     hq: Chicago, IL
     careers: https://cressetcapital.com/careers/
+    domain: cressetcapital.com
     sources:
       - page: {url: "https://cressetcapital.com/careers/"}
 
@@ -662,6 +733,7 @@ companies:
     focus: wealth
     hq: Chicago, IL
     careers: https://hightoweradvisors.com/careers/
+    domain: hightoweradvisors.com
     sources:
       - page: {url: "https://hightoweradvisors.com/careers/"}
 
@@ -670,6 +742,7 @@ companies:
     focus: wealth
     hq: Minneapolis, MN
     careers: https://www.wealthenhancement.com/careers
+    domain: wealthenhancement.com
     sources:
       - page: {url: "https://www.wealthenhancement.com/careers"}
 
@@ -678,6 +751,7 @@ companies:
     focus: wealth
     hq: St. Louis, MO
     careers: https://sanctuarywealth.com/careers/
+    domain: sanctuarywealth.com
     sources:
       - page: {url: "https://sanctuarywealth.com/careers/"}
 
@@ -686,6 +760,7 @@ companies:
     focus: wealth
     hq: Omaha, NE
     careers: https://www.carsongroup.com/careers/
+    domain: carsongroup.com
     sources:
       - page: {url: "https://www.carsongroup.com/careers/"}
 
@@ -694,6 +769,7 @@ companies:
     focus: wealth
     hq: Denver, CO
     careers: https://www.merceradvisors.com/careers/
+    domain: merceradvisors.com
     sources:
       - page: {url: "https://www.merceradvisors.com/careers/"}
 
@@ -702,6 +778,7 @@ companies:
     focus: wealth
     hq: Boston, MA
     careers: https://www.edelmanfinancialengines.com/careers/
+    domain: edelmanfinancialengines.com
     sources:
       - page: {url: "https://www.edelmanfinancialengines.com/careers/"}
 
@@ -710,6 +787,7 @@ companies:
     focus: wealth
     hq: Plano, TX
     careers: https://www.fisherinvestments.com/en-us/careers
+    domain: fisherinvestments.com
     sources:
       - page: {url: "https://www.fisherinvestments.com/en-us/careers"}
 
@@ -718,6 +796,7 @@ companies:
     focus: wealth
     hq: Rockford, IL
     careers: https://www.savantwealth.com/careers/
+    domain: savantwealth.com
     sources:
       - page: {url: "https://www.savantwealth.com/careers/"}
 
@@ -726,6 +805,7 @@ companies:
     focus: wealth
     hq: St. Petersburg, FL
     careers: https://www.dynastyfinancial.com/careers
+    domain: dynastyfinancial.com
     sources:
       - page: {url: "https://www.dynastyfinancial.com/careers"}
 
@@ -734,6 +814,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://www.silvercrestgroup.com/careers/
+    domain: silvercrestgroup.com
     sources:
       - page: {url: "https://www.silvercrestgroup.com/careers/"}
 
@@ -745,6 +826,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Milwaukee, WI
     careers: https://www.northwesternmutual.com/careers/
+    domain: northwesternmutual.com
     sources:
       - workday: {host: northwesternmutual.wd5.myworkdayjobs.com, tenant: northwesternmutual, site: corporate-careers}
       - page: {url: "https://www.northwesternmutual.com/careers/"}
@@ -757,6 +839,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Springfield, MA
     careers: https://massmutual.wd1.myworkdayjobs.com/MMCareers
+    domain: massmutual.com
     sources:
       - workday: {host: massmutual.wd1.myworkdayjobs.com, tenant: massmutual, site: MMCareers}
     verified: true
@@ -766,6 +849,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers
+    domain: guardianlife.com
     sources:
       - workday: {host: guardianlife.wd5.myworkdayjobs.com, tenant: guardianlife, site: guardian-life-careers}
     verified: true
@@ -775,6 +859,7 @@ companies:
     focus: mixed
     hq: Newark, NJ
     careers: https://pru.wd5.myworkdayjobs.com/Careers
+    domain: prudential.com
     sources:
       - workday: {host: pru.wd5.myworkdayjobs.com, tenant: pru, site: Careers}
     verified: true
@@ -784,6 +869,7 @@ companies:
     focus: mixed
     hq: Minneapolis, MN
     careers: https://thrivent.wd5.myworkdayjobs.com/external
+    domain: thrivent.com
     sources:
       - workday: {host: thrivent.wd5.myworkdayjobs.com, tenant: thrivent, site: external}
     verified: true
@@ -793,6 +879,7 @@ companies:
     focus: mixed
     hq: St. Paul, MN
     careers: https://hq.wd12.myworkdayjobs.com/Securian_External
+    domain: securian.com
     sources:
       - workday: {host: hq.wd12.myworkdayjobs.com, tenant: hq, site: Securian_External}
     verified: true
@@ -802,6 +889,7 @@ companies:
     focus: mixed
     hq: Columbus, OH
     careers: https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career
+    domain: nationwide.com
     sources:
       - workday: {host: nationwide.wd1.myworkdayjobs.com, tenant: nationwide, site: Nationwide_Career}
     verified: true
@@ -811,6 +899,7 @@ companies:
     focus: mixed
     hq: San Antonio, TX
     careers: https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD
+    domain: usaa.com
     sources:
       - workday: {host: usaa.wd1.myworkdayjobs.com, tenant: usaa, site: USAAJOBSWD}
     verified: true
@@ -820,6 +909,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://www.newyorklife.com/careers
+    domain: newyorklife.com
     sources:
       - page: {url: "https://www.newyorklife.com/careers"}
 
@@ -829,6 +919,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Des Moines, IA
     careers: https://careers.principal.com/
+    domain: principal.com
     sources:
       - page: {url: "https://careers.principal.com/"}
 
@@ -837,6 +928,7 @@ companies:
     focus: mixed
     hq: Radnor, PA
     careers: https://jobs.lincolnfinancial.com/
+    domain: lincolnfinancial.com
     sources:
       - page: {url: "https://jobs.lincolnfinancial.com/"}
 
@@ -846,6 +938,7 @@ companies:
     focus: mixed
     hq: Malvern, PA
     careers: https://www.vanguardjobs.com/
+    domain: vanguard.com
     sources:
       - workday: {host: vanguard.wd5.myworkdayjobs.com, tenant: vanguard, site: vanguard_external}
     verified: true
@@ -856,6 +949,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://careers.blackrock.com/early-careers/
+    domain: blackrock.com
     sources:
       - workday: {host: blackrock.wd1.myworkdayjobs.com, tenant: blackrock, site: BlackRock_Early_Careers_Program}
       - workday: {host: blackrock.wd1.myworkdayjobs.com, tenant: blackrock, site: BlackRock_Professional}
@@ -866,6 +960,7 @@ companies:
     focus: mixed
     hq: Nashville, TN
     careers: https://abglobal.wd1.myworkdayjobs.com/abcampuscareers
+    domain: alliancebernstein.com
     sources:
       - workday: {host: abglobal.wd1.myworkdayjobs.com, tenant: abglobal, site: abcampuscareers}
       - workday: {host: abglobal.wd1.myworkdayjobs.com, tenant: abglobal, site: alliancebernsteincareers}
@@ -876,6 +971,7 @@ companies:
     focus: mixed
     hq: Baltimore, MD
     careers: https://troweprice.wd5.myworkdayjobs.com/TRowePrice
+    domain: troweprice.com
     sources:
       - workday: {host: troweprice.wd5.myworkdayjobs.com, tenant: troweprice, site: TRowePrice}
     verified: true
@@ -885,6 +981,7 @@ companies:
     focus: mixed
     hq: Los Angeles, CA
     careers: https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers
+    domain: capitalgroup.com
     sources:
       - workday: {host: capgroup.wd1.myworkdayjobs.com, tenant: capgroup, site: capitalgroupcareers}
     verified: true
@@ -894,6 +991,7 @@ companies:
     focus: mixed
     hq: San Mateo, CA
     careers: https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1
+    domain: franklintempleton.com
     sources:
       - workday: {host: franklintempleton.wd5.myworkdayjobs.com, tenant: franklintempleton, site: invitation-only}
     verified: true
@@ -904,6 +1002,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: Atlanta, GA
     careers: https://invesco.wd1.myworkdayjobs.com/IVZearlycareers
+    domain: invesco.com
     sources:
       - workday: {host: invesco.wd1.myworkdayjobs.com, tenant: invesco, site: IVZearlycareers}
       - workday: {host: invesco.wd1.myworkdayjobs.com, tenant: invesco, site: IVZ}
@@ -914,6 +1013,7 @@ companies:
     focus: mixed
     hq: New York, NY
     careers: https://nb.wd1.myworkdayjobs.com/NBCareers
+    domain: nb.com
     sources:
       - workday: {host: nb.wd1.myworkdayjobs.com, tenant: nb, site: NBCareers}
     verified: true
@@ -923,6 +1023,7 @@ companies:
     focus: mixed
     hq: Austin, TX
     careers: https://dimensional.wd5.myworkdayjobs.com/dfa_careers
+    domain: dimensional.com
     sources:
       - workday: {host: dimensional.wd5.myworkdayjobs.com, tenant: dimensional, site: dfa_careers}
     verified: true
@@ -932,6 +1033,7 @@ companies:
     focus: mixed
     hq: Boston, MA
     careers: https://wellington.wd5.myworkdayjobs.com/Campus
+    domain: wellington.com
     sources:
       - workday: {host: wellington.wd5.myworkdayjobs.com, tenant: wellington, site: Campus}
     verified: true
@@ -941,6 +1043,7 @@ companies:
     focus: mixed
     hq: Boston, MA
     careers: https://statestreet.wd1.myworkdayjobs.com/Global
+    domain: statestreet.com
     sources:
       - workday: {host: statestreet.wd1.myworkdayjobs.com, tenant: statestreet, site: Global}
     verified: true
@@ -951,6 +1054,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://tiaa.wd1.myworkdayjobs.com/Search
+    domain: tiaa.org
     sources:
       - workday: {host: tiaa.wd1.myworkdayjobs.com, tenant: tiaa, site: Search}
     verified: true
@@ -960,6 +1064,7 @@ companies:
     focus: mixed
     hq: Newport Beach, CA
     careers: https://pimco.wd1.myworkdayjobs.com/pimco-careers
+    domain: pimco.com
     sources:
       - workday: {host: pimco.wd1.myworkdayjobs.com, tenant: pimco, site: pimco-careers}
     verified: true
@@ -970,6 +1075,7 @@ companies:
     tracks: [wealth, real_estate]
     hq: New York, NY
     careers: https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers
+    domain: blackstone.com
     sources:
       - workday: {host: blackstone.wd1.myworkdayjobs.com, tenant: blackstone, site: Blackstone_Campus_Careers}
     verified: true
@@ -980,6 +1086,7 @@ companies:
     focus: wealth
     hq: Omaha, NE
     careers: https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers
+    domain: orion.com
     sources:
       - workday: {host: orionadvisor.wd1.myworkdayjobs.com, tenant: orionadvisor, site: Orion_Careers}
     verified: true
@@ -989,6 +1096,7 @@ companies:
     focus: wealth
     hq: Mountain View, CA
     careers: https://addepar.com/careers
+    domain: addepar.com
     sources:
       - greenhouse: {board: addepar1}
     verified: true
@@ -998,6 +1106,7 @@ companies:
     focus: wealth
     hq: McLean, VA
     careers: https://jobs.ashbyhq.com/range
+    domain: range.com
     sources:
       - ashby: {board: range}
     verified: true
@@ -1008,6 +1117,7 @@ companies:
     focus: wealth
     hq: Palo Alto, CA
     careers: https://www.wealthfront.com/careers
+    domain: wealthfront.com
     sources:
       - page: {url: "https://www.wealthfront.com/careers"}
 
@@ -1016,6 +1126,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://www.betterment.com/careers
+    domain: betterment.com
     sources:
       - page: {url: "https://www.betterment.com/careers"}
 
@@ -1024,6 +1135,7 @@ companies:
     focus: wealth
     hq: Los Angeles, CA
     careers: https://altruist.com/careers
+    domain: altruist.com
     sources:
       - page: {url: "https://altruist.com/careers"}
 
@@ -1032,6 +1144,7 @@ companies:
     focus: wealth
     hq: New York, NY
     careers: https://www.farther.com/careers
+    domain: farther.com
     sources:
       - page: {url: "https://www.farther.com/careers"}
 
@@ -1042,6 +1155,7 @@ companies:
     tracks: [real_estate]
     hq: Dallas, TX
     careers: https://careers.cbre.com/en_US/careers
+    domain: cbre.com
     sources:
       - page: {url: "https://careers.cbre.com/en_US/careers"}
 
@@ -1051,6 +1165,7 @@ companies:
     tracks: [real_estate]
     hq: Chicago, IL
     careers: https://www.us.jll.com/en/careers
+    domain: jll.com
     sources:
       - workday: {host: jll.wd1.myworkdayjobs.com, tenant: jll, site: jllcareers}
     verified: true
@@ -1061,6 +1176,7 @@ companies:
     tracks: [real_estate]
     hq: Chicago, IL
     careers: https://www.cushmanwakefield.com/en/united-states/careers
+    domain: cushmanwakefield.com
     sources:
       - workday: {host: cw.wd1.myworkdayjobs.com, tenant: cw, site: external}
     verified: true
@@ -1071,6 +1187,7 @@ companies:
     tracks: [real_estate]
     hq: Toronto / Seattle
     careers: https://www.colliers.com/en/careers
+    domain: colliers.com
     sources:
       - workday: {host: colliers.wd3.myworkdayjobs.com, tenant: colliers, site: Colliers-External-Career-Site}
     verified: true
@@ -1081,6 +1198,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.nmrk.com/careers
+    domain: nmrk.com
     sources:
       - oracle: {host: hdow.fa.us6.oraclecloud.com, site: CX_1001}
     verified: true
@@ -1091,6 +1209,7 @@ companies:
     tracks: [real_estate]
     hq: Toronto / Chicago
     careers: https://www.avisonyoung.us/careers
+    domain: avisonyoung.com
     sources:
       - icims: {host: canada-english-avisonyoung.icims.com}
       - page: {url: "https://www.avisonyoung.us/careers"}
@@ -1102,6 +1221,7 @@ companies:
     tracks: [real_estate]
     hq: Calabasas, CA
     careers: https://www.marcusmillichap.com/careers
+    domain: marcusmillichap.com
     sources:
       - page: {url: "https://www.marcusmillichap.com/careers"}
 
@@ -1111,6 +1231,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.eastdilsecured.com/careers
+    domain: eastdilsecured.com
     sources:
       - page: {url: "https://www.eastdilsecured.com/careers"}
 
@@ -1120,6 +1241,7 @@ companies:
     tracks: [real_estate]
     hq: London / New York
     careers: https://www.savills.us/careers/
+    domain: savills.com
     sources:
       - page: {url: "https://www.savills.us/careers/"}
 
@@ -1129,6 +1251,7 @@ companies:
     tracks: [real_estate]
     hq: Seattle, WA
     careers: https://kidder.com/careers/
+    domain: kidder.com
     sources:
       - page: {url: "https://kidder.com/careers/"}
 
@@ -1138,6 +1261,7 @@ companies:
     tracks: [real_estate]
     hq: Los Angeles, CA
     careers: https://www.lee-associates.com/careers/
+    domain: lee-associates.com
     sources:
       - page: {url: "https://www.lee-associates.com/careers/"}
 
@@ -1147,6 +1271,7 @@ companies:
     tracks: [real_estate]
     hq: Toronto / New York
     careers: https://www.altusgroup.com/careers/
+    domain: altusgroup.com
     sources:
       - page: {url: "https://www.altusgroup.com/careers/"}
 
@@ -1156,6 +1281,7 @@ companies:
     tracks: [real_estate]
     hq: Arlington, VA
     careers: https://www.costargroup.com/careers
+    domain: costargroup.com
     sources:
       - workday: {host: costar.wd1.myworkdayjobs.com, tenant: costar, site: Costar_Campus}
       - workday: {host: costar.wd1.myworkdayjobs.com, tenant: costar, site: CoStarCareers}
@@ -1167,6 +1293,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.trepp.com/careers
+    domain: trepp.com
     sources:
       - page: {url: "https://www.trepp.com/careers"}
 
@@ -1176,6 +1303,7 @@ companies:
     tracks: [real_estate]
     hq: Bethesda, MD
     careers: https://www.walkerdunlop.com/careers/
+    domain: walkerdunlop.com
     sources:
       - workday: {host: walkerdunlop.wd1.myworkdayjobs.com, tenant: walkerdunlop, site: WD}
     verified: true
@@ -1186,6 +1314,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.berkadia.com/careers/
+    domain: berkadia.com
     sources:
       - page: {url: "https://www.berkadia.com/careers/"}
 
@@ -1195,6 +1324,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.greystone.com/careers/
+    domain: greystone.com
     sources:
       - page: {url: "https://www.greystone.com/careers/"}
 
@@ -1204,6 +1334,7 @@ companies:
     tracks: [real_estate]
     hq: Minneapolis, MN
     careers: https://www.northmarq.com/careers
+    domain: northmarq.com
     sources:
       - page: {url: "https://www.northmarq.com/careers"}
 
@@ -1213,6 +1344,7 @@ companies:
     tracks: [real_estate]
     hq: Atlanta, GA
     careers: https://www.trimont.com/careers/
+    domain: trimont.com
     sources:
       - page: {url: "https://www.trimont.com/careers/"}
 
@@ -1222,6 +1354,7 @@ companies:
     tracks: [real_estate]
     hq: Uniondale, NY
     careers: https://arbor.com/careers/
+    domain: arbor.com
     sources:
       - page: {url: "https://arbor.com/careers/"}
 
@@ -1232,6 +1365,7 @@ companies:
     tracks: [real_estate]
     hq: Washington, DC
     careers: https://www.fanniemae.com/careers
+    domain: fanniemae.com
     sources:
       - workday: {host: fanniemae.wd1.myworkdayjobs.com, tenant: fanniemae, site: FannieMaeCareers}
     verified: true
@@ -1242,6 +1376,7 @@ companies:
     tracks: [real_estate]
     hq: McLean, VA
     careers: https://careers.freddiemac.com/
+    domain: freddiemac.com
     sources:
       - workday: {host: freddiemac.wd5.myworkdayjobs.com, tenant: freddiemac, site: External}
     verified: true
@@ -1252,6 +1387,7 @@ companies:
     tracks: [real_estate]
     hq: McLean, VA
     careers: https://www.capitalonecareers.com/
+    domain: capitalone.com
     sources:
       - workday: {host: capitalone.wd12.myworkdayjobs.com, tenant: capitalone, site: Capital_One}
     verified: true
@@ -1262,6 +1398,7 @@ companies:
     tracks: [real_estate]
     hq: Santa Ana, CA
     careers: https://careers.firstam.com/
+    domain: firstam.com
     sources:
       - workday: {host: firstam.wd1.myworkdayjobs.com, tenant: firstam, site: firstamericancareers}
     verified: true
@@ -1272,6 +1409,7 @@ companies:
     tracks: [real_estate]
     hq: New York / Toronto
     careers: https://www.brookfield.com/careers
+    domain: brookfield.com
     sources:
       - workday: {host: brookfield.wd5.myworkdayjobs.com, tenant: brookfield, site: brookfield}
     verified: true
@@ -1282,6 +1420,7 @@ companies:
     tracks: [real_estate]
     hq: Newark, NJ
     careers: https://www.pgim.com/careers
+    domain: pgim.com
     sources:
       - workday: {host: pru.wd5.myworkdayjobs.com, tenant: pru, site: pgim_careers}
     verified: true
@@ -1292,6 +1431,7 @@ companies:
     tracks: [real_estate]
     hq: Los Angeles / New York
     careers: https://www.aresmgmt.com/careers
+    domain: aresmgmt.com
     sources:
       - workday: {host: aresmgmt.wd1.myworkdayjobs.com, tenant: aresmgmt, site: External}
     verified: true
@@ -1302,6 +1442,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.apollo.com/careers
+    domain: apollo.com
     sources:
       - workday: {host: athene.wd5.myworkdayjobs.com, tenant: athene, site: Apollo_Careers}
     verified: true
@@ -1312,6 +1453,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.kkr.com/careers
+    domain: kkr.com
     sources:
       - page: {url: "https://www.kkr.com/careers"}
 
@@ -1321,6 +1463,7 @@ companies:
     tracks: [real_estate]
     hq: Miami Beach, FL
     careers: https://www.starwoodcapital.com/careers/
+    domain: starwoodcapital.com
     sources:
       - page: {url: "https://www.starwoodcapital.com/careers/"}
 
@@ -1330,6 +1473,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.clarionpartners.com/careers
+    domain: clarionpartners.com
     sources:
       - page: {url: "https://www.clarionpartners.com/careers"}
 
@@ -1339,6 +1483,7 @@ companies:
     tracks: [real_estate]
     hq: Chicago, IL
     careers: https://www.heitman.com/careers/
+    domain: heitman.com
     sources:
       - page: {url: "https://www.heitman.com/careers/"}
 
@@ -1348,6 +1493,7 @@ companies:
     tracks: [real_estate]
     hq: Chicago, IL
     careers: https://www.harrisonst.com/careers
+    domain: harrisonst.com
     sources:
       - page: {url: "https://www.harrisonst.com/careers"}
 
@@ -1357,6 +1503,7 @@ companies:
     tracks: [real_estate]
     hq: Salt Lake City, UT
     careers: https://www.bridgeig.com/careers
+    domain: bridgeig.com
     sources:
       - page: {url: "https://www.bridgeig.com/careers"}
 
@@ -1366,6 +1513,7 @@ companies:
     tracks: [real_estate]
     hq: Dallas, TX
     careers: https://www.crowholdings.com/careers/
+    domain: crowholdings.com
     sources:
       - page: {url: "https://www.crowholdings.com/careers/"}
 
@@ -1375,6 +1523,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.linklogistics.com/careers/
+    domain: linklogistics.com
     sources:
       - workday: {host: linklogistics.wd5.myworkdayjobs.com, tenant: linklogistics, site: Link}
     verified: true
@@ -1385,6 +1534,7 @@ companies:
     tracks: [real_estate]
     hq: Houston, TX
     careers: https://www.hines.com/careers
+    domain: hines.com
     sources:
       - page: {url: "https://www.hines.com/careers"}
 
@@ -1394,6 +1544,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://tishmanspeyer.com/careers
+    domain: tishmanspeyer.com
     sources:
       - page: {url: "https://tishmanspeyer.com/careers"}
 
@@ -1403,6 +1554,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.related.com/careers
+    domain: related.com
     sources:
       - page: {url: "https://www.related.com/careers"}
 
@@ -1413,6 +1565,7 @@ companies:
     tracks: [real_estate]
     hq: Dallas, TX
     careers: https://www.lpc.com/careers/
+    domain: lpc.com
     sources:
       - page: {url: "https://www.lpc.com/careers/"}
 
@@ -1422,6 +1575,7 @@ companies:
     tracks: [real_estate]
     hq: Charleston, SC
     careers: https://www.greystar.com/careers
+    domain: greystar.com
     sources:
       - page: {url: "https://www.greystar.com/careers"}
 
@@ -1431,6 +1585,7 @@ companies:
     tracks: [real_estate]
     hq: Atlanta, GA
     careers: https://cortland.com/careers/
+    domain: cortland.com
     sources:
       - greenhouse: {board: cortland}
     verified: true
@@ -1441,6 +1596,7 @@ companies:
     tracks: [real_estate]
     hq: Atlanta, GA
     careers: https://gables.wd5.myworkdayjobs.com/Gables_Careers
+    domain: gables.com
     sources:
       - workday: {host: gables.wd5.myworkdayjobs.com, tenant: gables, site: Gables_Careers}
     verified: true
@@ -1451,6 +1607,7 @@ companies:
     tracks: [real_estate]
     hq: Minneapolis, MN
     careers: https://www.ryancompanies.com/careers
+    domain: ryancompanies.com
     sources:
       - workday: {host: ryancompanies.wd5.myworkdayjobs.com, tenant: ryancompanies, site: ryancompanies}
     verified: true
@@ -1461,6 +1618,7 @@ companies:
     tracks: [real_estate]
     hq: Bethesda, MD
     careers: https://www.jbgsmith.com/careers
+    domain: jbgsmith.com
     sources:
       - page: {url: "https://www.jbgsmith.com/careers"}
 
@@ -1470,6 +1628,7 @@ companies:
     tracks: [real_estate]
     hq: Uniondale, NY
     careers: https://job-boards.greenhouse.io/rxr
+    domain: rxr.com
     sources:
       - greenhouse: {board: rxr}
 
@@ -1480,6 +1639,7 @@ companies:
     tracks: [real_estate]
     hq: King of Prussia, PA
     careers: https://www.morgan-properties.com/careers
+    domain: morgan-properties.com
     sources:
       - page: {url: "https://www.morgan-properties.com/careers"}
 
@@ -1489,6 +1649,7 @@ companies:
     tracks: [real_estate]
     hq: Rochester, NY
     careers: https://www.coniferllc.com/careers/
+    domain: coniferllc.com
     sources:
       - page: {url: "https://www.coniferllc.com/careers/"}
 
@@ -1498,6 +1659,7 @@ companies:
     tracks: [real_estate]
     hq: Dallas, TX
     careers: https://www.invh.com/careers
+    domain: invh.com
     sources:
       - workday: {host: invitationhomes.wd503.myworkdayjobs.com, tenant: invitationhomes, site: INVH}
     verified: true
@@ -1509,6 +1671,7 @@ companies:
     tracks: [real_estate]
     hq: Miami, FL
     careers: https://www.lennar.com/careers
+    domain: lennar.com
     sources:
       - workday: {host: lennar.wd1.myworkdayjobs.com, tenant: lennar, site: Lennar_Jobs}
     verified: true
@@ -1519,6 +1682,7 @@ companies:
     tracks: [real_estate]
     hq: Atlanta, GA
     careers: https://www.pultegroupcareers.com/
+    domain: pultegroup.com
     sources:
       - workday: {host: pultegroup.wd1.myworkdayjobs.com, tenant: pultegroup, site: PGI}
     verified: true
@@ -1529,6 +1693,7 @@ companies:
     tracks: [real_estate]
     hq: Arlington, TX
     careers: https://www.drhorton.com/careers
+    domain: drhorton.com
     sources:
       - page: {url: "https://www.drhorton.com/careers"}
 
@@ -1538,6 +1703,7 @@ companies:
     tracks: [real_estate]
     hq: San Francisco, CA
     careers: https://www.prologis.com/careers
+    domain: prologis.com
     sources:
       - page: {url: "https://www.prologis.com/careers"}
 
@@ -1547,6 +1713,7 @@ companies:
     tracks: [real_estate]
     hq: Indianapolis, IN
     careers: https://careers.simon.com/
+    domain: simon.com
     sources:
       - workday: {host: simon.wd1.myworkdayjobs.com, tenant: simon, site: Simon}
     verified: true
@@ -1557,6 +1724,7 @@ companies:
     tracks: [real_estate]
     hq: Boston, MA
     careers: https://www.bxp.com/careers
+    domain: bxp.com
     sources:
       - oracle: {host: edxn.fa.us2.oraclecloud.com, site: CX_5001}
     verified: true
@@ -1567,6 +1735,7 @@ companies:
     tracks: [real_estate]
     hq: San Diego, CA
     careers: https://www.realtyincome.com/careers
+    domain: realtyincome.com
     sources:
       - workday: {host: realtyincome.wd108.myworkdayjobs.com, tenant: realtyincome, site: realty_income_careers}
     verified: true
@@ -1577,6 +1746,7 @@ companies:
     tracks: [real_estate]
     hq: Austin, TX
     careers: https://www.digitalrealty.com/careers
+    domain: digitalrealty.com
     sources:
       - oracle: {host: hdep.fa.us2.oraclecloud.com, site: CX}
     verified: true
@@ -1587,6 +1757,7 @@ companies:
     tracks: [real_estate]
     hq: Salt Lake City, UT
     careers: https://careers.extraspace.com/
+    domain: extraspace.com
     sources:
       - workday: {host: extraspace.wd5.myworkdayjobs.com, tenant: extraspace, site: ESS_External}
     verified: true
@@ -1597,6 +1768,7 @@ companies:
     tracks: [real_estate]
     hq: San Mateo, CA
     careers: https://www.essexapartmenthomes.com/careers
+    domain: essex.com
     sources:
       - workday: {host: essex.wd5.myworkdayjobs.com, tenant: essex, site: essexcareers}
     verified: true
@@ -1607,6 +1779,7 @@ companies:
     tracks: [real_estate]
     hq: Los Angeles, CA
     careers: https://www.rexfordindustrial.com/careers
+    domain: rexfordindustrial.com
     sources:
       - greenhouse: {board: rexfordindustrial}
     verified: true
@@ -1617,6 +1790,7 @@ companies:
     tracks: [real_estate]
     hq: Los Angeles, CA
     careers: https://www.hudsonpacificproperties.com/careers
+    domain: hudsonpacificproperties.com
     sources:
       - ashby: {board: hudson-pacific-properties}
     verified: true
@@ -1627,6 +1801,7 @@ companies:
     tracks: [real_estate]
     hq: Chicago, IL
     careers: https://www.equityapartments.com/careers
+    domain: eqr.com
     sources:
       - page: {url: "https://www.equityapartments.com/careers"}
 
@@ -1636,6 +1811,7 @@ companies:
     tracks: [real_estate]
     hq: Arlington, VA
     careers: https://jobs.avalonbay.com/
+    domain: avalonbay.com
     sources:
       - page: {url: "https://jobs.avalonbay.com/"}
 
@@ -1645,6 +1821,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.vno.com/careers
+    domain: vno.com
     sources:
       - page: {url: "https://www.vno.com/careers"}
 
@@ -1654,6 +1831,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://slgreen.com/careers/
+    domain: slgreen.com
     sources:
       - page: {url: "https://slgreen.com/careers/"}
 
@@ -1663,6 +1841,7 @@ companies:
     tracks: [real_estate]
     hq: Jericho, NY
     careers: https://www.kimcorealty.com/careers
+    domain: kimcorealty.com
     sources:
       - page: {url: "https://www.kimcorealty.com/careers"}
 
@@ -1672,6 +1851,7 @@ companies:
     tracks: [real_estate]
     hq: New York, NY
     careers: https://www.brixmor.com/careers
+    domain: brixmor.com
     sources:
       - page: {url: "https://www.brixmor.com/careers"}
 
@@ -1681,6 +1861,7 @@ companies:
     tracks: [real_estate]
     hq: North Bethesda, MD
     careers: https://www.federalrealty.com/careers
+    domain: federalrealty.com
     sources:
       - page: {url: "https://www.federalrealty.com/careers"}
 
@@ -1690,6 +1871,7 @@ companies:
     tracks: [real_estate]
     hq: Philadelphia, PA
     careers: https://www.brandywinerealty.com/careers
+    domain: brandywinerealty.com
     sources:
       - page: {url: "https://www.brandywinerealty.com/careers"}
 
@@ -1699,6 +1881,7 @@ companies:
     tracks: [real_estate]
     hq: Toledo, OH
     careers: https://welltower.com/careers/
+    domain: welltower.com
     sources:
       - page: {url: "https://welltower.com/careers/"}
 
@@ -1708,6 +1891,7 @@ companies:
     tracks: [real_estate]
     hq: Chicago, IL
     careers: https://www.ventasreit.com/careers
+    domain: ventasreit.com
     sources:
       - page: {url: "https://www.ventasreit.com/careers"}
 
@@ -1717,6 +1901,7 @@ companies:
     tracks: [real_estate]
     hq: Glendale, CA
     careers: https://careers.smartrecruiters.com/PublicStorage
+    domain: publicstorage.com
     sources:
       - smartrecruiters: {company: PublicStorage}
 
@@ -1726,6 +1911,7 @@ companies:
     tracks: [wealth]
     hq: Kansas City, MO
     careers: https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments
+    domain: americancentury.com
     sources:
       - workday: {host: americancentury.wd5.myworkdayjobs.com, tenant: americancentury, site: AmericanCenturyInvestments}
     verified: true
@@ -1736,6 +1922,7 @@ companies:
     tracks: [wealth]
     hq: New York, NY
     careers: https://godirect.wd5.myworkdayjobs.com/voya_jobs
+    domain: voya.com
     sources:
       - workday: {host: godirect.wd5.myworkdayjobs.com, tenant: godirect, site: voya_jobs}
     verified: true
@@ -1746,6 +1933,7 @@ companies:
     tracks: [wealth]
     hq: Houston, TX
     careers: https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial
+    domain: corebridgefinancial.com
     sources:
       - workday: {host: corebridgefinancial.wd1.myworkdayjobs.com, tenant: corebridgefinancial, site: CorebridgeFinancial}
     verified: true
@@ -1756,6 +1944,7 @@ companies:
     tracks: [wealth]
     hq: Boston, MA
     careers: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs
+    domain: johnhancock.com
     sources:
       - workday: {host: manulife.wd3.myworkdayjobs.com, tenant: manulife, site: MFCJH_Jobs}
     verified: true
@@ -1766,6 +1955,7 @@ companies:
     tracks: [wealth]
     hq: Bloomington, IL
     careers: https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships
+    domain: countryfinancial.com
     sources:
       - workday: {host: countryfinancial.wd5.myworkdayjobs.com, tenant: countryfinancial, site: COUNTRYCorporateInternships}
     verified: true
@@ -1776,6 +1966,7 @@ companies:
     tracks: [wealth]
     hq: New York, NY
     careers: https://fei.wd5.myworkdayjobs.com/External
+    domain: firsteagle.com
     sources:
       - workday: {host: fei.wd5.myworkdayjobs.com, tenant: fei, site: External}
     verified: true
@@ -1786,6 +1977,7 @@ companies:
     tracks: [wealth]
     hq: Los Angeles, CA
     careers: https://jobs.ashbyhq.com/wealth-com
+    domain: wealth.com
     sources:
       - ashby: {board: wealth-com}
     verified: true
@@ -1796,6 +1988,7 @@ companies:
     tracks: [wealth]
     hq: Malvern, PA
     careers: https://www.pennmutual.com/careers
+    domain: pennmutual.com
     sources:
       - page: {url: "https://www.pennmutual.com/careers"}
 
@@ -1805,6 +1998,7 @@ companies:
     tracks: [wealth]
     hq: Austin, TX
     careers: https://www.kestrafinancial.com/careers
+    domain: kestrafinancial.com
     sources:
       - page: {url: "https://www.kestrafinancial.com/careers"}
 
@@ -1814,6 +2008,7 @@ companies:
     tracks: [wealth]
     hq: Los Angeles, CA
     careers: https://aspiriant.com/careers/
+    domain: aspiriant.com
     sources:
       - page: {url: "https://aspiriant.com/careers/"}
 
@@ -1823,6 +2018,7 @@ companies:
     tracks: [wealth]
     hq: Englewood, NJ
     careers: https://pathstone.com/careers/
+    domain: pathstone.com
     sources:
       - page: {url: "https://pathstone.com/careers/"}
 
@@ -1832,6 +2028,7 @@ companies:
     tracks: [wealth]
     hq: New York, NY
     careers: https://www.wealthspire.com/careers/
+    domain: wealthspire.com
     sources:
       - page: {url: "https://www.wealthspire.com/careers/"}
 
@@ -1841,6 +2038,7 @@ companies:
     tracks: [wealth]
     hq: Newport Beach, CA
     careers: https://beaconpointe.com/careers/
+    domain: beaconpointe.com
     sources:
       - page: {url: "https://beaconpointe.com/careers/"}
 
@@ -1850,6 +2048,7 @@ companies:
     tracks: [wealth]
     hq: St. Louis, MO
     careers: https://buckinghamstrategicwealth.com/careers/
+    domain: buckinghamstrategicwealth.com
     sources:
       - page: {url: "https://buckinghamstrategicwealth.com/careers/"}
 
@@ -1859,6 +2058,7 @@ companies:
     tracks: [wealth]
     hq: St. Louis, MO
     careers: https://monetagroup.com/careers/internship-program
+    domain: monetagroup.com
     sources:
       - smartrecruiters: {company: Moneta}
 
@@ -1868,6 +2068,7 @@ companies:
     tracks: [wealth]
     hq: Atlanta, GA
     careers: https://www.homrichberg.com/careers/
+    domain: homrichberg.com
     sources:
       - page: {url: "https://www.homrichberg.com/careers/"}
 
@@ -1878,6 +2079,7 @@ companies:
     tracks: [wealth]
     hq: Akron, OH
     careers: https://www.sequoia-financial.com/careers/
+    domain: sequoia-financial.com
     sources:
       - page: {url: "https://www.sequoia-financial.com/careers/"}
 
@@ -1890,6 +2092,7 @@ companies:
     tracks: [wealth]
     hq: Fairfield, NJ
     careers: https://www.bleakley.com/careers/
+    domain: bleakley.com
     sources:
       - page: {url: "https://www.bleakley.com/careers/"}
 
@@ -1899,6 +2102,7 @@ companies:
     tracks: [wealth]
     hq: Canandaigua, NY
     careers: https://www.cnbank.com/careers
+    domain: cnbank.com
     sources:
       - page: {url: "https://www.cnbank.com/careers"}
 
@@ -1910,5 +2114,6 @@ companies:
     tracks: [wealth]
     hq: Columbus, GA
     careers: https://www.synovus.com/about-us/careers/
+    domain: synovus.com
     sources:
       - page: {url: "https://www.synovus.com/about-us/careers/"}
