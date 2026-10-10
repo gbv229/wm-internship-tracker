@@ -9,8 +9,9 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -24,7 +25,7 @@
    "careers": "https://higher.gs.com/campus",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Goldman Sachs",
    "open": 0,
    "sources": [
@@ -48,7 +49,7 @@
    "careers": "https://careers.jpmorgan.com/us/en/students/programs",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "J.P. Morgan",
    "open": 20,
    "sources": [
@@ -68,13 +69,14 @@
    "careers": "https://campus.bankofamerica.com/",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Bank of America / Merrill",
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "changed_on": null,
@@ -101,8 +103,9 @@
    "open": 3,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -121,8 +124,9 @@
    "open": 14,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -136,7 +140,7 @@
    "careers": "https://www.ubs.com/global/en/careers/early-careers.html",
    "focus": "mixed",
    "hq": "Zurich / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "UBS",
    "open": 0,
    "sources": [
@@ -168,8 +172,9 @@
    "open": 4,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -187,8 +192,9 @@
    "open": 3,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -206,16 +212,19 @@
    "open": 6,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -234,8 +243,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -254,12 +264,14 @@
    "open": 6,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -277,8 +289,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -291,7 +304,7 @@
    "careers": "https://www.hsbc.com/careers/students-and-graduates",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "HSBC",
    "open": 0,
    "sources": [
@@ -314,13 +327,13 @@
    "careers": "https://jobs.bmo.com/us/en",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "BMO (incl. BMO Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "6517a9149838a8d3",
+     "changed_on": "2026-10-10",
+     "hash": "e167cca81cbb81a3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -342,8 +355,9 @@
    "open": 3,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -356,7 +370,7 @@
    "careers": "https://www.jefferies.com/careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Jefferies (Private Wealth)",
    "open": 0,
    "sources": [
@@ -376,7 +390,7 @@
    "careers": "https://www.lazard.com/careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Lazard (Lazard Wealth Management)",
    "open": 3,
    "sources": [
@@ -395,7 +409,7 @@
    "careers": "https://www.rothschildandco.com/en/careers/",
    "focus": "mixed",
    "hq": "Paris / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Rothschild & Co (Wealth Mgmt)",
    "open": 0,
    "sources": [
@@ -421,7 +435,7 @@
    "careers": "https://www.evercore.com/careers/",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Evercore Wealth Management",
    "open": 0,
    "sources": [
@@ -444,7 +458,7 @@
    "careers": "https://www.williamblair.com/Careers",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "William Blair (Private Wealth)",
    "open": 0,
    "sources": [
@@ -463,7 +477,7 @@
    "careers": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Piper Sandler",
    "open": 0,
    "sources": [
@@ -487,8 +501,9 @@
    "open": 3,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -501,7 +516,7 @@
    "careers": "https://www.bny.com/corporate/global/en/careers/students-and-graduates.html",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "BNY (incl. BNY Wealth)",
    "open": 6,
    "sources": [
@@ -525,8 +540,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -544,8 +560,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -563,8 +580,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -577,7 +595,7 @@
    "careers": "https://www.bessemertrust.com/intern-with-us",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Bessemer Trust",
    "open": 0,
    "sources": [
@@ -603,7 +621,7 @@
    "careers": "https://www.glenmede.com/careers/",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Glenmede",
    "open": 0,
    "sources": [
@@ -626,7 +644,7 @@
    "careers": "https://www.brownadvisory.com/us/careers",
    "focus": "wealth",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Brown Advisory",
    "open": 0,
    "sources": [
@@ -651,7 +669,7 @@
    "careers": "https://jobs.firstcitizens.com/",
    "focus": "mixed",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "First Citizens (Wealth)",
    "open": 0,
    "sources": [
@@ -679,8 +697,9 @@
    "open": 1,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -699,8 +718,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -719,8 +739,9 @@
    "open": 1,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -739,12 +760,14 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -758,7 +781,7 @@
    "careers": "https://jobs.citizensbank.com/",
    "focus": "mixed",
    "hq": "Providence, RI",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Citizens (Private Wealth)",
    "open": 0,
    "sources": [
@@ -783,8 +806,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -803,8 +827,9 @@
    "open": 14,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -818,7 +843,7 @@
    "careers": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Huntington (Private Bank)",
    "open": 1,
    "sources": [
@@ -843,8 +868,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -863,8 +889,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -882,8 +909,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -896,7 +924,7 @@
    "careers": "https://www.fultonbank.com/About-Fulton-Bank/Careers",
    "focus": "mixed",
    "hq": "Lancaster, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Fulton Bank (Fulton Private Bank)",
    "open": 0,
    "sources": [
@@ -920,7 +948,7 @@
    "careers": "https://www.univest.net/careers",
    "focus": "mixed",
    "hq": "Souderton, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Univest (Wealth)",
    "open": 0,
    "sources": [
@@ -943,7 +971,7 @@
    "careers": "https://www.wsfsbank.com/careers",
    "focus": "mixed",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "WSFS / Bryn Mawr Trust",
    "open": 0,
    "sources": [
@@ -973,12 +1001,14 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -991,7 +1021,7 @@
    "careers": "https://www.schwabjobs.com/students",
    "focus": "wealth",
    "hq": "Westlake, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Charles Schwab",
    "open": 2,
    "sources": [
@@ -1010,13 +1040,13 @@
    "careers": "https://careers.edwardjones.com/",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Edward Jones",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "204cfd5ab863cc56",
+     "changed_on": "2026-10-10",
+     "hash": "ec0392a482b0feb4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1038,12 +1068,14 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1061,8 +1093,9 @@
    "open": 3,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1080,12 +1113,14 @@
    "open": 10,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1098,7 +1133,7 @@
    "careers": "https://www.stifel.com/careers",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Stifel",
    "open": 2,
    "sources": [
@@ -1122,8 +1157,9 @@
    "open": 29,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1136,7 +1172,7 @@
    "careers": "https://rockco.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Rockefeller Capital Management",
    "open": 11,
    "sources": [
@@ -1155,7 +1191,7 @@
    "careers": "https://opco.hrmdirect.com/employment/job-openings.php?search=true",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Oppenheimer & Co.",
    "open": 0,
    "sources": [
@@ -1178,7 +1214,7 @@
    "careers": "https://www.janney.com/careers",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Janney Montgomery Scott",
    "open": 0,
    "sources": [
@@ -1201,7 +1237,7 @@
    "careers": "https://dadavidson.com/careers",
    "focus": "wealth",
    "hq": "Great Falls, MT",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "D.A. Davidson",
    "open": 0,
    "sources": [
@@ -1224,7 +1260,7 @@
    "careers": "https://www.stephens.com/careers/",
    "focus": "mixed",
    "hq": "Little Rock, AR",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Stephens",
    "open": 0,
    "sources": [
@@ -1247,7 +1283,7 @@
    "careers": "https://www.hilltopsecurities.com/careers/",
    "focus": "mixed",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Hilltop Securities",
    "open": 0,
    "sources": [
@@ -1270,7 +1306,7 @@
    "careers": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site",
    "focus": "wealth",
    "hq": "Fairfield, IA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Cambridge Investment Research",
    "open": 6,
    "sources": [
@@ -1294,8 +1330,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1308,7 +1345,7 @@
    "careers": "https://www.cetera.com/careers",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Cetera Financial Group",
    "open": 0,
    "sources": [
@@ -1332,8 +1369,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1346,7 +1384,7 @@
    "careers": "https://creativeplanning.com/careers/",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Creative Planning",
    "open": 0,
    "sources": [
@@ -1372,7 +1410,7 @@
    "careers": "https://www.captrust.com/careers/",
    "focus": "wealth",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "CAPTRUST",
    "open": 0,
    "sources": [
@@ -1391,7 +1429,7 @@
    "careers": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Cerity Partners",
    "open": 18,
    "sources": [
@@ -1410,7 +1448,7 @@
    "careers": "https://focusfinancialpartners.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Focus Financial Partners",
    "open": 0,
    "sources": [
@@ -1429,7 +1467,7 @@
    "careers": "https://www.mariner.com/careers/",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Mariner",
    "open": 0,
    "sources": [
@@ -1452,7 +1490,7 @@
    "careers": "https://cressetcapital.com/careers/",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Cresset",
    "open": 0,
    "sources": [
@@ -1496,7 +1534,7 @@
    "careers": "https://www.wealthenhancement.com/careers",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Wealth Enhancement Group",
    "open": 0,
    "sources": [
@@ -1540,13 +1578,13 @@
    "careers": "https://www.carsongroup.com/careers/",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Carson Group",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "1b58e3cce13d7612",
+     "changed_on": "2026-10-10",
+     "hash": "088c858bbd16d39e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1563,7 +1601,7 @@
    "careers": "https://www.merceradvisors.com/careers/",
    "focus": "wealth",
    "hq": "Denver, CO",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Mercer Advisors",
    "open": 0,
    "sources": [
@@ -1649,7 +1687,7 @@
    "careers": "https://www.dynastyfinancial.com/careers",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Dynasty Financial Partners",
    "open": 0,
    "sources": [
@@ -1672,7 +1710,7 @@
    "careers": "https://www.silvercrestgroup.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Silvercrest Asset Management",
    "open": 0,
    "sources": [
@@ -1695,13 +1733,14 @@
    "careers": "https://www.northwesternmutual.com/careers/",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Northwestern Mutual",
    "open": 4,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "changed_on": null,
@@ -1732,8 +1771,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1752,8 +1792,9 @@
    "open": 1,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1771,8 +1812,9 @@
    "open": 1,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1790,8 +1832,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1804,7 +1847,7 @@
    "careers": "https://hq.wd12.myworkdayjobs.com/Securian_External",
    "focus": "mixed",
    "hq": "St. Paul, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Securian Financial",
    "open": 0,
    "sources": [
@@ -1848,8 +1891,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1862,7 +1906,7 @@
    "careers": "https://www.newyorklife.com/careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "New York Life",
    "open": 0,
    "sources": [
@@ -1888,7 +1932,7 @@
    "careers": "https://careers.principal.com/",
    "focus": "mixed",
    "hq": "Des Moines, IA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Principal Financial Group",
    "open": 0,
    "sources": [
@@ -1914,7 +1958,7 @@
    "careers": "https://jobs.lincolnfinancial.com/",
    "focus": "mixed",
    "hq": "Radnor, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Lincoln Financial",
    "open": 0,
    "sources": [
@@ -1947,8 +1991,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1966,12 +2011,14 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1990,12 +2037,14 @@
    "open": 10,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2013,8 +2062,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2032,8 +2082,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2051,8 +2102,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2070,12 +2122,14 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2094,8 +2148,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2113,8 +2168,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2132,8 +2188,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2151,8 +2208,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2170,8 +2228,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2190,8 +2249,9 @@
    "open": 6,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2209,8 +2269,9 @@
    "open": 7,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2229,8 +2290,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2243,7 +2305,7 @@
    "careers": "https://addepar.com/careers",
    "focus": "wealth",
    "hq": "Mountain View, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Addepar",
    "open": 0,
    "sources": [
@@ -2262,7 +2324,7 @@
    "careers": "https://jobs.ashbyhq.com/range",
    "focus": "wealth",
    "hq": "McLean, VA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Range",
    "open": 0,
    "sources": [
@@ -2281,7 +2343,7 @@
    "careers": "https://www.wealthfront.com/careers",
    "focus": "wealth",
    "hq": "Palo Alto, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Wealthfront",
    "open": 0,
    "sources": [
@@ -2304,7 +2366,7 @@
    "careers": "https://www.betterment.com/careers",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Betterment",
    "open": 0,
    "sources": [
@@ -2327,7 +2389,7 @@
    "careers": "https://altruist.com/careers",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Altruist",
    "open": 0,
    "sources": [
@@ -2350,7 +2412,7 @@
    "careers": "https://www.farther.com/careers",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Farther",
    "open": 0,
    "sources": [
@@ -2373,7 +2435,7 @@
    "careers": "https://careers.cbre.com/en_US/careers",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "CBRE (incl. Trammell Crow Company)",
    "open": 0,
    "sources": [
@@ -2401,8 +2463,9 @@
    "open": 29,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2420,8 +2483,9 @@
    "open": 22,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2439,8 +2503,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2453,7 +2518,7 @@
    "careers": "https://www.nmrk.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Newmark",
    "open": 2,
    "sources": [
@@ -2472,7 +2537,7 @@
    "careers": "https://www.avisonyoung.us/careers",
    "focus": "real_estate",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Avison Young",
    "open": 0,
    "sources": [
@@ -2499,7 +2564,7 @@
    "careers": "https://www.marcusmillichap.com/careers",
    "focus": "real_estate",
    "hq": "Calabasas, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Marcus & Millichap",
    "open": 0,
    "sources": [
@@ -2522,7 +2587,7 @@
    "careers": "https://www.eastdilsecured.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Eastdil Secured",
    "open": 0,
    "sources": [
@@ -2545,7 +2610,7 @@
    "careers": "https://www.savills.us/careers/",
    "focus": "real_estate",
    "hq": "London / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Savills",
    "open": 0,
    "sources": [
@@ -2568,7 +2633,7 @@
    "careers": "https://kidder.com/careers/",
    "focus": "real_estate",
    "hq": "Seattle, WA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Kidder Mathews",
    "open": 0,
    "sources": [
@@ -2591,7 +2656,7 @@
    "careers": "https://www.lee-associates.com/careers/",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Lee & Associates",
    "open": 0,
    "sources": [
@@ -2614,13 +2679,13 @@
    "careers": "https://www.altusgroup.com/careers/",
    "focus": "real_estate",
    "hq": "Toronto / New York",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Altus Group (ARGUS)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "5f2d6cbc605c3c2c",
+     "changed_on": "2026-10-10",
+     "hash": "ca165032fe26c7d7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2642,12 +2707,14 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2660,7 +2727,7 @@
    "careers": "https://www.trepp.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Trepp",
    "open": 0,
    "sources": [
@@ -2688,8 +2755,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2702,13 +2770,13 @@
    "careers": "https://www.berkadia.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Berkadia",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "44b36371e6068830",
+     "changed_on": "2026-10-10",
+     "hash": "fdbdbeb3d4ecf6a5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2725,13 +2793,13 @@
    "careers": "https://www.greystone.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Greystone",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "2cd15b52e7be55bb",
+     "changed_on": "2026-10-10",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2748,7 +2816,7 @@
    "careers": "https://www.northmarq.com/careers",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Northmarq",
    "open": 0,
    "sources": [
@@ -2771,7 +2839,7 @@
    "careers": "https://www.trimont.com/careers/",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Trimont",
    "open": 0,
    "sources": [
@@ -2794,7 +2862,7 @@
    "careers": "https://arbor.com/careers/",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Arbor Realty Trust",
    "open": 0,
    "sources": [
@@ -2822,8 +2890,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2841,8 +2910,9 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2855,7 +2925,7 @@
    "careers": "https://www.capitalonecareers.com/",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Capital One (Commercial Real Estate)",
    "open": 0,
    "sources": [
@@ -2879,8 +2949,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2898,8 +2969,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2917,8 +2989,9 @@
    "open": 3,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2936,8 +3009,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2955,8 +3029,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2969,13 +3044,13 @@
    "careers": "https://www.kkr.com/careers",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "KKR (Real Estate)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "d271bbeb95fb5d04",
+     "changed_on": "2026-10-10",
+     "hash": "e223adf8dc8a34b4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2992,7 +3067,7 @@
    "careers": "https://www.starwoodcapital.com/careers/",
    "focus": "real_estate",
    "hq": "Miami Beach, FL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Starwood Capital Group",
    "open": 0,
    "sources": [
@@ -3018,7 +3093,7 @@
    "careers": "https://www.clarionpartners.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Clarion Partners",
    "open": 0,
    "sources": [
@@ -3041,7 +3116,7 @@
    "careers": "https://www.heitman.com/careers/",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Heitman",
    "open": 0,
    "sources": [
@@ -3068,7 +3143,7 @@
    "careers": "https://www.harrisonst.com/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Harrison Street",
    "open": 0,
    "sources": [
@@ -3091,7 +3166,7 @@
    "careers": "https://www.bridgeig.com/careers",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Bridge Investment Group",
    "open": 0,
    "sources": [
@@ -3114,7 +3189,7 @@
    "careers": "https://www.crowholdings.com/careers/",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Crow Holdings",
    "open": 0,
    "sources": [
@@ -3144,8 +3219,9 @@
    "open": 8,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3200,7 +3276,7 @@
    "careers": "https://www.related.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Related Companies",
    "open": 0,
    "sources": [
@@ -3223,7 +3299,7 @@
    "careers": "https://www.lpc.com/careers/",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Lincoln Property Company",
    "open": 0,
    "sources": [
@@ -3246,7 +3322,7 @@
    "careers": "https://www.greystar.com/careers",
    "focus": "real_estate",
    "hq": "Charleston, SC",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Greystar",
    "open": 0,
    "sources": [
@@ -3272,7 +3348,7 @@
    "careers": "https://cortland.com/careers/",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Cortland",
    "open": 0,
    "sources": [
@@ -3296,8 +3372,9 @@
    "open": 1,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3315,8 +3392,9 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3329,7 +3407,7 @@
    "careers": "https://www.jbgsmith.com/careers",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "JBG SMITH",
    "open": 0,
    "sources": [
@@ -3352,7 +3430,7 @@
    "careers": "https://job-boards.greenhouse.io/rxr",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "RXR",
    "open": 0,
    "sources": [
@@ -3371,7 +3449,7 @@
    "careers": "https://www.morgan-properties.com/careers",
    "focus": "real_estate",
    "hq": "King of Prussia, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Morgan Properties",
    "open": 0,
    "sources": [
@@ -3415,7 +3493,7 @@
    "careers": "https://www.invh.com/careers",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Invitation Homes",
    "open": 0,
    "sources": [
@@ -3439,8 +3517,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3458,8 +3537,9 @@
    "open": 1,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3472,7 +3552,7 @@
    "careers": "https://www.drhorton.com/careers",
    "focus": "real_estate",
    "hq": "Arlington, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "D.R. Horton",
    "open": 0,
    "sources": [
@@ -3498,7 +3578,7 @@
    "careers": "https://www.prologis.com/careers",
    "focus": "real_estate",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Prologis",
    "open": 0,
    "sources": [
@@ -3526,8 +3606,9 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3540,7 +3621,7 @@
    "careers": "https://www.bxp.com/careers",
    "focus": "real_estate",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "BXP (Boston Properties)",
    "open": 2,
    "sources": [
@@ -3559,7 +3640,7 @@
    "careers": "https://www.realtyincome.com/careers",
    "focus": "real_estate",
    "hq": "San Diego, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Realty Income",
    "open": 0,
    "sources": [
@@ -3578,7 +3659,7 @@
    "careers": "https://www.digitalrealty.com/careers",
    "focus": "real_estate",
    "hq": "Austin, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Digital Realty",
    "open": 1,
    "sources": [
@@ -3602,8 +3683,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3621,8 +3703,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3635,7 +3718,7 @@
    "careers": "https://www.rexfordindustrial.com/careers",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Rexford Industrial",
    "open": 0,
    "sources": [
@@ -3654,7 +3737,7 @@
    "careers": "https://www.hudsonpacificproperties.com/careers",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Hudson Pacific Properties",
    "open": 0,
    "sources": [
@@ -3715,7 +3798,7 @@
    "careers": "https://www.vno.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Vornado Realty Trust",
    "open": 0,
    "sources": [
@@ -3738,7 +3821,7 @@
    "careers": "https://slgreen.com/careers/",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "SL Green",
    "open": 0,
    "sources": [
@@ -3761,7 +3844,7 @@
    "careers": "https://www.kimcorealty.com/careers",
    "focus": "real_estate",
    "hq": "Jericho, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Kimco Realty",
    "open": 0,
    "sources": [
@@ -3784,7 +3867,7 @@
    "careers": "https://www.brixmor.com/careers",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Brixmor Property Group",
    "open": 0,
    "sources": [
@@ -3807,7 +3890,7 @@
    "careers": "https://www.federalrealty.com/careers",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Federal Realty",
    "open": 0,
    "sources": [
@@ -3830,7 +3913,7 @@
    "careers": "https://www.brandywinerealty.com/careers",
    "focus": "real_estate",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Brandywine Realty Trust",
    "open": 0,
    "sources": [
@@ -3853,7 +3936,7 @@
    "careers": "https://welltower.com/careers/",
    "focus": "real_estate",
    "hq": "Toledo, OH",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Welltower",
    "open": 0,
    "sources": [
@@ -3876,7 +3959,7 @@
    "careers": "https://www.ventasreit.com/careers",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Ventas",
    "open": 0,
    "sources": [
@@ -3899,7 +3982,7 @@
    "careers": "https://careers.smartrecruiters.com/PublicStorage",
    "focus": "real_estate",
    "hq": "Glendale, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Public Storage",
    "open": 0,
    "sources": [
@@ -3923,8 +4006,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3942,8 +4026,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3961,8 +4046,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3980,8 +4066,9 @@
    "open": 2,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3999,8 +4086,9 @@
    "open": 3,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4018,8 +4106,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4032,7 +4121,7 @@
    "careers": "https://jobs.ashbyhq.com/wealth-com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Wealth.com",
    "open": 0,
    "sources": [
@@ -4051,7 +4140,7 @@
    "careers": "https://www.pennmutual.com/careers",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Penn Mutual",
    "open": 0,
    "sources": [
@@ -4076,7 +4165,7 @@
    "careers": "https://www.kestrafinancial.com/careers",
    "focus": "wealth",
    "hq": "Austin, TX",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Kestra Financial",
    "open": 0,
    "sources": [
@@ -4099,7 +4188,7 @@
    "careers": "https://aspiriant.com/careers/",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Aspiriant",
    "open": 0,
    "sources": [
@@ -4122,7 +4211,7 @@
    "careers": "https://pathstone.com/careers/",
    "focus": "wealth",
    "hq": "Englewood, NJ",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Pathstone",
    "open": 0,
    "sources": [
@@ -4145,7 +4234,7 @@
    "careers": "https://www.wealthspire.com/careers/",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Wealthspire Advisors",
    "open": 0,
    "sources": [
@@ -4168,7 +4257,7 @@
    "careers": "https://beaconpointe.com/careers/",
    "focus": "wealth",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Beacon Pointe Advisors",
    "open": 0,
    "sources": [
@@ -4191,7 +4280,7 @@
    "careers": "https://buckinghamstrategicwealth.com/careers/",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Buckingham Strategic Wealth",
    "open": 0,
    "sources": [
@@ -4214,7 +4303,7 @@
    "careers": "https://monetagroup.com/careers/internship-program",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Moneta",
    "open": 0,
    "sources": [
@@ -4233,7 +4322,7 @@
    "careers": "https://www.homrichberg.com/careers/",
    "focus": "wealth",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Homrich Berg",
    "open": 0,
    "sources": [
@@ -4256,7 +4345,7 @@
    "careers": "https://www.sequoia-financial.com/careers/",
    "focus": "wealth",
    "hq": "Akron, OH",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Sequoia Financial Group",
    "open": 0,
    "sources": [
@@ -4279,7 +4368,7 @@
    "careers": "https://www.bleakley.com/careers/",
    "focus": "wealth",
    "hq": "Fairfield, NJ",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Bleakley Financial Group",
    "open": 0,
    "sources": [
@@ -4302,7 +4391,7 @@
    "careers": "https://www.cnbank.com/careers",
    "focus": "mixed",
    "hq": "Canandaigua, NY",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Canandaigua National Bank (Wealth)",
    "open": 0,
    "sources": [
@@ -4325,13 +4414,13 @@
    "careers": "https://www.synovus.com/about-us/careers/",
    "focus": "mixed",
    "hq": "Columbus, GA",
-   "last_ok": "2026-10-09",
+   "last_ok": "2026-10-10",
    "name": "Synovus (Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "bf82bc032ea4c940",
+     "changed_on": "2026-10-10",
+     "hash": "0301900d42b1df0e",
      "kind": "page",
      "links": [],
      "ok": true,
