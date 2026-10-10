@@ -425,44 +425,6 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-09",
    "first_seen": "2026-10-08",
-   "function": "Technology / Data",
-   "gpa": null,
-   "id": "wd:ameriprise:3742",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-16",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "status": "open",
-   "title": "Digital Product Owner Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Ameriprise Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
    "id": "wd:ameriprise:3498",
@@ -8885,123 +8847,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Northern Trust",
-   "company_type": "Private Bank & Trust",
-   "deadline": "2026-10-09",
-   "deadline_evidence": "Posting Close Date: October 9 , 2026, 11:59pm Central, unless the class is filled before that date.",
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
-   "function": "Technology / Data",
-   "gpa": "3.0+",
-   "id": "wd:ntrs:R160768-1",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-09",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Wealth Management Digital Client and Partner Experience Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Northern Trust",
-   "company_type": "Private Bank & Trust",
-   "deadline": "2026-10-09",
-   "deadline_evidence": "Posting Close Date: October 9 , 202 6, 11:59pm Central, unless the class is filled before that date.",
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "id": "wd:ntrs:R160763-1",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "New York, NY; Los Angeles, CA; Miami, FL; Houston, TX; Phoenix, AZ",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-09",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southeast",
-    "Southwest",
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Wealth Management Intern - All Other US Locations",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Wealth-Management-Intern---All-Other-US-Locations_R160763-1",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Northern Trust",
-   "company_type": "Private Bank & Trust",
-   "deadline": "2026-10-09",
-   "deadline_evidence": "Posting Close Date: October 9 , 2026, 11:59pm Central, unless the class is filled before that date.",
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "id": "wd:ntrs:R160825-1",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-09",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "status": "open",
-   "title": "Wealth Management Intern - Chicago",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Intern---Chicago_R160825-1",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Northwestern Mutual",
@@ -10662,6 +10507,45 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-10",
+   "company": "Ameriprise Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-08",
+   "function": "Technology / Data",
+   "gpa": null,
+   "id": "wd:ameriprise:3742",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-16",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "status": "closed",
+   "title": "Digital Product Owner Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
    "classes": [
     2028
@@ -11216,6 +11100,126 @@
    "v": 5,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-10",
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": "2026-10-09",
+   "deadline_evidence": "Posting Close Date: October 9 , 2026, 11:59pm Central, unless the class is filled before that date.",
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-08",
+   "function": "Technology / Data",
+   "gpa": "3.0+",
+   "id": "wd:ntrs:R160768-1",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-09",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Wealth Management Digital Client and Partner Experience Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-10",
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": "2026-10-09",
+   "deadline_evidence": "Posting Close Date: October 9 , 202 6, 11:59pm Central, unless the class is filled before that date.",
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "id": "wd:ntrs:R160763-1",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "New York, NY; Los Angeles, CA; Miami, FL; Houston, TX; Phoenix, AZ",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-09",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast",
+    "Southwest",
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Wealth Management Intern - All Other US Locations",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Wealth-Management-Intern---All-Other-US-Locations_R160763-1",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-10",
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": "2026-10-09",
+   "deadline_evidence": "Posting Close Date: October 9 , 2026, 11:59pm Central, unless the class is filled before that date.",
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "id": "wd:ntrs:R160825-1",
+   "last_seen": "2026-10-09",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-09",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "status": "closed",
+   "title": "Wealth Management Intern - Chicago",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Intern---Chicago_R160825-1",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
