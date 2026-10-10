@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "ecac834b48094d4a",
+     "hash": "804cd47d3699d87e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1416,7 +1416,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "40f543263d9b4297",
+     "hash": "c59089d01089c674",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "dcd1e0d2e6d899c9",
+     "hash": "e516d5f6f2b6a8ea",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "7567e90eeedad0ec",
+     "hash": "0fcd0ba3fa5ef8ff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "60cd192fc0e4ef71",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3557,11 +3557,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3993,10 +3992,10 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7effd4e906e0>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "4b7d812410c95d73",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4535,7 +4534,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "73b1619223d5eb32",
+     "hash": "c597d9bf50f60bb5",
      "kind": "page",
      "links": [],
      "ok": true,
