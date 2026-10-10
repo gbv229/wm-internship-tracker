@@ -2,6 +2,7 @@
  "companies": [
   {
    "careers": "https://www.morganstanley.com/people-opportunities/students-graduates",
+   "domain": "morganstanley.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -22,6 +23,7 @@
   },
   {
    "careers": "https://higher.gs.com/campus",
+   "domain": "gs.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -46,6 +48,7 @@
   },
   {
    "careers": "https://careers.jpmorgan.com/us/en/students/programs",
+   "domain": "jpmorgan.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -66,6 +69,7 @@
   },
   {
    "careers": "https://campus.bankofamerica.com/",
+   "domain": "bankofamerica.com",
    "focus": "mixed",
    "hq": "Charlotte, NC",
    "last_ok": "2026-10-10",
@@ -94,6 +98,7 @@
   },
   {
    "careers": "https://www.wellsfargojobs.com/en/early-careers/",
+   "domain": "wellsfargo.com",
    "focus": "mixed",
    "hq": "San Francisco, CA",
    "last_ok": "2026-10-10",
@@ -114,6 +119,7 @@
   },
   {
    "careers": "https://jobs.citi.com/students-and-graduates",
+   "domain": "citi.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -134,6 +140,7 @@
   },
   {
    "careers": "https://www.ubs.com/global/en/careers/early-careers.html",
+   "domain": "ubs.com",
    "focus": "mixed",
    "hq": "Zurich / New York",
    "last_ok": "2026-10-10",
@@ -161,6 +168,7 @@
   },
   {
    "careers": "https://search.jobs.barclays/",
+   "domain": "barclays.com",
    "focus": "mixed",
    "hq": "London / New York",
    "last_ok": "2026-10-10",
@@ -180,6 +188,7 @@
   },
   {
    "careers": "https://careers.db.com/students-graduates/",
+   "domain": "db.com",
    "focus": "mixed",
    "hq": "Frankfurt / New York",
    "last_ok": "2026-10-10",
@@ -199,6 +208,7 @@
   },
   {
    "careers": "https://jobs.rbc.com/ca/en/students-and-graduates",
+   "domain": "rbc.com",
    "focus": "mixed",
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-10",
@@ -227,6 +237,7 @@
   },
   {
    "careers": "https://jobs.td.com/en-CA/students-and-new-grads/",
+   "domain": "td.com",
    "focus": "mixed",
    "hq": "Toronto / Cherry Hill, NJ",
    "last_ok": "2026-10-10",
@@ -247,6 +258,7 @@
   },
   {
    "careers": "https://cibc.wd3.myworkdayjobs.com/campus",
+   "domain": "cibc.com",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
    "last_ok": "2026-10-10",
@@ -270,6 +282,7 @@
   },
   {
    "careers": "https://santander.wd3.myworkdayjobs.com/SantanderCareers",
+   "domain": "santander.com",
    "focus": "mixed",
    "hq": "Madrid / Boston",
    "last_ok": "2026-10-10",
@@ -289,6 +302,7 @@
   },
   {
    "careers": "https://www.hsbc.com/careers/students-and-graduates",
+   "domain": "hsbc.com",
    "focus": "mixed",
    "hq": "London / New York",
    "last_ok": "2026-10-10",
@@ -312,6 +326,7 @@
   },
   {
    "careers": "https://jobs.bmo.com/us/en",
+   "domain": "bmo.com",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
    "last_ok": "2026-10-10",
@@ -320,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "e15ddf50d89627b4",
+     "hash": "ecac834b48094d4a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -335,6 +350,7 @@
   },
   {
    "careers": "https://juliusbaer.wd3.myworkdayjobs.com/External",
+   "domain": "juliusbaer.com",
    "focus": "wealth",
    "hq": "Zurich",
    "last_ok": "2026-10-10",
@@ -354,6 +370,7 @@
   },
   {
    "careers": "https://www.jefferies.com/careers/",
+   "domain": "jefferies.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -374,6 +391,7 @@
   },
   {
    "careers": "https://www.lazard.com/careers/",
+   "domain": "lazard.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -393,6 +411,7 @@
   },
   {
    "careers": "https://www.rothschildandco.com/en/careers/",
+   "domain": "rothschildandco.com",
    "focus": "mixed",
    "hq": "Paris / New York",
    "last_ok": "2026-10-10",
@@ -419,6 +438,7 @@
   },
   {
    "careers": "https://www.evercore.com/careers/",
+   "domain": "evercore.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -442,6 +462,7 @@
   },
   {
    "careers": "https://www.williamblair.com/Careers",
+   "domain": "williamblair.com",
    "focus": "mixed",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -461,6 +482,7 @@
   },
   {
    "careers": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers",
+   "domain": "pipersandler.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-10",
@@ -480,6 +502,7 @@
   },
   {
    "careers": "https://www.northerntrust.com/united-states/about-us/careers/students",
+   "domain": "northerntrust.com",
    "focus": "mixed",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -499,6 +522,7 @@
   },
   {
    "careers": "https://www.bny.com/corporate/global/en/careers/students-and-graduates.html",
+   "domain": "bny.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -518,6 +542,7 @@
   },
   {
    "careers": "https://www.bbh.com/us/en/careers.html",
+   "domain": "bbh.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -537,6 +562,7 @@
   },
   {
    "careers": "https://mtb.wd5.myworkdayjobs.com/wtexternal",
+   "domain": "wilmingtontrust.com",
    "focus": "wealth",
    "hq": "Wilmington, DE",
    "last_ok": "2026-10-10",
@@ -556,6 +582,7 @@
   },
   {
    "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
+   "domain": "fiduciarytrust.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -575,6 +602,7 @@
   },
   {
    "careers": "https://www.bessemertrust.com/intern-with-us",
+   "domain": "bessemertrust.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -601,6 +629,7 @@
   },
   {
    "careers": "https://www.glenmede.com/careers/",
+   "domain": "glenmede.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
    "last_ok": "2026-10-10",
@@ -624,6 +653,7 @@
   },
   {
    "careers": "https://www.brownadvisory.com/us/careers",
+   "domain": "brownadvisory.com",
    "focus": "wealth",
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-10",
@@ -649,6 +679,7 @@
   },
   {
    "careers": "https://jobs.firstcitizens.com/",
+   "domain": "firstcitizens.com",
    "focus": "mixed",
    "hq": "Raleigh, NC",
    "last_ok": "2026-10-10",
@@ -672,6 +703,7 @@
   },
   {
    "careers": "https://careers.pnc.com/global/en/students",
+   "domain": "pnc.com",
    "focus": "mixed",
    "hq": "Pittsburgh, PA",
    "last_ok": "2026-10-10",
@@ -692,6 +724,7 @@
   },
   {
    "careers": "https://careers.truist.com/",
+   "domain": "truist.com",
    "focus": "mixed",
    "hq": "Charlotte, NC",
    "last_ok": "2026-10-10",
@@ -712,6 +745,7 @@
   },
   {
    "careers": "https://careers.usbank.com/",
+   "domain": "usbank.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-10",
@@ -732,6 +766,7 @@
   },
   {
    "careers": "https://mtb.wd5.myworkdayjobs.com/Campus",
+   "domain": "mtb.com",
    "focus": "mixed",
    "hq": "Buffalo, NY",
    "last_ok": "2026-10-10",
@@ -756,6 +791,7 @@
   },
   {
    "careers": "https://jobs.citizensbank.com/",
+   "domain": "citizensbank.com",
    "focus": "mixed",
    "hq": "Providence, RI",
    "last_ok": "2026-10-10",
@@ -776,6 +812,7 @@
   },
   {
    "careers": "https://fifththird.wd5.myworkdayjobs.com/53careers",
+   "domain": "53.com",
    "focus": "mixed",
    "hq": "Cincinnati, OH",
    "last_ok": "2026-10-10",
@@ -796,6 +833,7 @@
   },
   {
    "careers": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
+   "domain": "key.com",
    "focus": "mixed",
    "hq": "Cleveland, OH",
    "last_ok": "2026-10-10",
@@ -816,6 +854,7 @@
   },
   {
    "careers": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
+   "domain": "huntington.com",
    "focus": "mixed",
    "hq": "Columbus, OH",
    "last_ok": "2026-10-10",
@@ -836,6 +875,7 @@
   },
   {
    "careers": "https://regions.wd5.myworkdayjobs.com/regions_careers",
+   "domain": "regions.com",
    "focus": "mixed",
    "hq": "Birmingham, AL",
    "last_ok": "2026-10-10",
@@ -856,6 +896,7 @@
   },
   {
    "careers": "https://associatedbank.wd1.myworkdayjobs.com/external_careers",
+   "domain": "associatedbank.com",
    "focus": "mixed",
    "hq": "Green Bay, WI",
    "last_ok": "2026-10-10",
@@ -875,6 +916,7 @@
   },
   {
    "careers": "https://frostbank.wd5.myworkdayjobs.com/External",
+   "domain": "frostbank.com",
    "focus": "mixed",
    "hq": "San Antonio, TX",
    "last_ok": "2026-10-10",
@@ -894,6 +936,7 @@
   },
   {
    "careers": "https://www.fultonbank.com/About-Fulton-Bank/Careers",
+   "domain": "fultonbank.com",
    "focus": "mixed",
    "hq": "Lancaster, PA",
    "last_ok": "2026-10-10",
@@ -918,6 +961,7 @@
   },
   {
    "careers": "https://www.univest.net/careers",
+   "domain": "univest.net",
    "focus": "mixed",
    "hq": "Souderton, PA",
    "last_ok": "2026-10-10",
@@ -941,6 +985,7 @@
   },
   {
    "careers": "https://www.wsfsbank.com/careers",
+   "domain": "wsfsbank.com",
    "focus": "mixed",
    "hq": "Wilmington, DE",
    "last_ok": "2026-10-10",
@@ -966,6 +1011,7 @@
   },
   {
    "careers": "https://jobs.fidelity.com/en/students-and-graduates/",
+   "domain": "fidelity.com",
    "focus": "mixed",
    "hq": "Boston, MA",
    "last_ok": "2026-10-10",
@@ -989,6 +1035,7 @@
   },
   {
    "careers": "https://www.schwabjobs.com/students",
+   "domain": "schwab.com",
    "focus": "wealth",
    "hq": "Westlake, TX",
    "last_ok": "2026-10-10",
@@ -1008,6 +1055,7 @@
   },
   {
    "careers": "https://careers.edwardjones.com/",
+   "domain": "edwardjones.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-10",
@@ -1031,6 +1079,7 @@
   },
   {
    "careers": "https://www.raymondjames.com/careers/students",
+   "domain": "raymondjames.com",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-10-10",
@@ -1054,6 +1103,7 @@
   },
   {
    "careers": "https://www.ameriprise.com/careers",
+   "domain": "ameriprise.com",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-10",
@@ -1073,6 +1123,7 @@
   },
   {
    "careers": "https://lplfinancial.wd1.myworkdayjobs.com/university",
+   "domain": "lpl.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
    "last_ok": "2026-10-10",
@@ -1096,6 +1147,7 @@
   },
   {
    "careers": "https://www.stifel.com/careers",
+   "domain": "stifel.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-10",
@@ -1115,6 +1167,7 @@
   },
   {
    "careers": "https://www.rwbaird.com/careers/",
+   "domain": "rwbaird.com",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-10",
@@ -1134,6 +1187,7 @@
   },
   {
    "careers": "https://rockco.com/careers/",
+   "domain": "rockco.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1153,6 +1207,7 @@
   },
   {
    "careers": "https://opco.hrmdirect.com/employment/job-openings.php?search=true",
+   "domain": "oppenheimer.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1176,6 +1231,7 @@
   },
   {
    "careers": "https://www.janney.com/careers",
+   "domain": "janney.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
    "last_ok": "2026-10-10",
@@ -1199,6 +1255,7 @@
   },
   {
    "careers": "https://dadavidson.com/careers",
+   "domain": "dadavidson.com",
    "focus": "wealth",
    "hq": "Great Falls, MT",
    "last_ok": "2026-10-10",
@@ -1222,6 +1279,7 @@
   },
   {
    "careers": "https://www.stephens.com/careers/",
+   "domain": "stephens.com",
    "focus": "mixed",
    "hq": "Little Rock, AR",
    "last_ok": "2026-10-10",
@@ -1245,6 +1303,7 @@
   },
   {
    "careers": "https://www.hilltopsecurities.com/careers/",
+   "domain": "hilltopsecurities.com",
    "focus": "mixed",
    "hq": "Dallas, TX",
    "last_ok": "2026-10-10",
@@ -1252,10 +1311,11 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
+     "changed_on": null,
      "hash": "141ec77912857372",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.hilltopsecurities.com/careers/"
     }
    ],
@@ -1267,6 +1327,7 @@
   },
   {
    "careers": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site",
+   "domain": "joincambridge.com",
    "focus": "wealth",
    "hq": "Fairfield, IA",
    "last_ok": "2026-10-10",
@@ -1286,6 +1347,7 @@
   },
   {
    "careers": "https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site",
+   "domain": "osaic.com",
    "focus": "wealth",
    "hq": "Phoenix, AZ",
    "last_ok": "2026-10-10",
@@ -1305,6 +1367,7 @@
   },
   {
    "careers": "https://www.cetera.com/careers",
+   "domain": "cetera.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
    "last_ok": "2026-10-10",
@@ -1324,6 +1387,7 @@
   },
   {
    "careers": "https://seic.wd1.myworkdayjobs.com/SEI_Global_Services",
+   "domain": "seic.com",
    "focus": "mixed",
    "hq": "Oaks, PA",
    "last_ok": "2026-10-10",
@@ -1343,6 +1407,7 @@
   },
   {
    "careers": "https://creativeplanning.com/careers/",
+   "domain": "creativeplanning.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
    "last_ok": "2026-10-10",
@@ -1350,8 +1415,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "c59089d01089c674",
+     "changed_on": "2026-10-10",
+     "hash": "40f543263d9b4297",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1369,6 +1434,7 @@
   },
   {
    "careers": "https://www.captrust.com/careers/",
+   "domain": "captrust.com",
    "focus": "wealth",
    "hq": "Raleigh, NC",
    "last_ok": "2026-10-10",
@@ -1388,6 +1454,7 @@
   },
   {
    "careers": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers",
+   "domain": "ceritypartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1407,6 +1474,7 @@
   },
   {
    "careers": "https://focusfinancialpartners.com/careers/",
+   "domain": "focusfinancialpartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1426,6 +1494,7 @@
   },
   {
    "careers": "https://www.mariner.com/careers/",
+   "domain": "mariner.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
    "last_ok": "2026-10-10",
@@ -1449,6 +1518,7 @@
   },
   {
    "careers": "https://cressetcapital.com/careers/",
+   "domain": "cressetcapital.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -1472,6 +1542,7 @@
   },
   {
    "careers": "https://hightoweradvisors.com/careers/",
+   "domain": "hightoweradvisors.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
    "last_ok": null,
@@ -1493,6 +1564,7 @@
   },
   {
    "careers": "https://www.wealthenhancement.com/careers",
+   "domain": "wealthenhancement.com",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-10",
@@ -1516,6 +1588,7 @@
   },
   {
    "careers": "https://sanctuarywealth.com/careers/",
+   "domain": "sanctuarywealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
    "last_ok": null,
@@ -1537,6 +1610,7 @@
   },
   {
    "careers": "https://www.carsongroup.com/careers/",
+   "domain": "carsongroup.com",
    "focus": "wealth",
    "hq": "Omaha, NE",
    "last_ok": "2026-10-10",
@@ -1560,6 +1634,7 @@
   },
   {
    "careers": "https://www.merceradvisors.com/careers/",
+   "domain": "merceradvisors.com",
    "focus": "wealth",
    "hq": "Denver, CO",
    "last_ok": "2026-10-10",
@@ -1583,6 +1658,7 @@
   },
   {
    "careers": "https://www.edelmanfinancialengines.com/careers/",
+   "domain": "edelmanfinancialengines.com",
    "focus": "wealth",
    "hq": "Boston, MA",
    "last_ok": null,
@@ -1604,6 +1680,7 @@
   },
   {
    "careers": "https://www.fisherinvestments.com/en-us/careers",
+   "domain": "fisherinvestments.com",
    "focus": "wealth",
    "hq": "Plano, TX",
    "last_ok": null,
@@ -1625,6 +1702,7 @@
   },
   {
    "careers": "https://www.savantwealth.com/careers/",
+   "domain": "savantwealth.com",
    "focus": "wealth",
    "hq": "Rockford, IL",
    "last_ok": null,
@@ -1646,6 +1724,7 @@
   },
   {
    "careers": "https://www.dynastyfinancial.com/careers",
+   "domain": "dynastyfinancial.com",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-10-10",
@@ -1669,6 +1748,7 @@
   },
   {
    "careers": "https://www.silvercrestgroup.com/careers/",
+   "domain": "silvercrestgroup.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1692,6 +1772,7 @@
   },
   {
    "careers": "https://www.northwesternmutual.com/careers/",
+   "domain": "northwesternmutual.com",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-10",
@@ -1724,6 +1805,7 @@
   },
   {
    "careers": "https://massmutual.wd1.myworkdayjobs.com/MMCareers",
+   "domain": "massmutual.com",
    "focus": "mixed",
    "hq": "Springfield, MA",
    "last_ok": "2026-10-10",
@@ -1744,6 +1826,7 @@
   },
   {
    "careers": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers",
+   "domain": "guardianlife.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1763,6 +1846,7 @@
   },
   {
    "careers": "https://pru.wd5.myworkdayjobs.com/Careers",
+   "domain": "prudential.com",
    "focus": "mixed",
    "hq": "Newark, NJ",
    "last_ok": "2026-10-10",
@@ -1782,6 +1866,7 @@
   },
   {
    "careers": "https://thrivent.wd5.myworkdayjobs.com/external",
+   "domain": "thrivent.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-10",
@@ -1801,6 +1886,7 @@
   },
   {
    "careers": "https://hq.wd12.myworkdayjobs.com/Securian_External",
+   "domain": "securian.com",
    "focus": "mixed",
    "hq": "St. Paul, MN",
    "last_ok": "2026-10-10",
@@ -1820,6 +1906,7 @@
   },
   {
    "careers": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
+   "domain": "nationwide.com",
    "focus": "mixed",
    "hq": "Columbus, OH",
    "last_ok": "2026-10-10",
@@ -1839,6 +1926,7 @@
   },
   {
    "careers": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
+   "domain": "usaa.com",
    "focus": "mixed",
    "hq": "San Antonio, TX",
    "last_ok": "2026-10-10",
@@ -1858,6 +1946,7 @@
   },
   {
    "careers": "https://www.newyorklife.com/careers",
+   "domain": "newyorklife.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1884,6 +1973,7 @@
   },
   {
    "careers": "https://careers.principal.com/",
+   "domain": "principal.com",
    "focus": "mixed",
    "hq": "Des Moines, IA",
    "last_ok": "2026-10-10",
@@ -1910,6 +2000,7 @@
   },
   {
    "careers": "https://jobs.lincolnfinancial.com/",
+   "domain": "lincolnfinancial.com",
    "focus": "mixed",
    "hq": "Radnor, PA",
    "last_ok": "2026-10-10",
@@ -1938,6 +2029,7 @@
   },
   {
    "careers": "https://www.vanguardjobs.com/",
+   "domain": "vanguard.com",
    "focus": "mixed",
    "hq": "Malvern, PA",
    "last_ok": "2026-10-10",
@@ -1957,6 +2049,7 @@
   },
   {
    "careers": "https://careers.blackrock.com/early-careers/",
+   "domain": "blackrock.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -1981,6 +2074,7 @@
   },
   {
    "careers": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers",
+   "domain": "alliancebernstein.com",
    "focus": "mixed",
    "hq": "Nashville, TN",
    "last_ok": "2026-10-10",
@@ -2004,6 +2098,7 @@
   },
   {
    "careers": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
+   "domain": "troweprice.com",
    "focus": "mixed",
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-10",
@@ -2023,6 +2118,7 @@
   },
   {
    "careers": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers",
+   "domain": "capitalgroup.com",
    "focus": "mixed",
    "hq": "Los Angeles, CA",
    "last_ok": "2026-10-10",
@@ -2042,6 +2138,7 @@
   },
   {
    "careers": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1",
+   "domain": "franklintempleton.com",
    "focus": "mixed",
    "hq": "San Mateo, CA",
    "last_ok": "2026-10-10",
@@ -2061,6 +2158,7 @@
   },
   {
    "careers": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers",
+   "domain": "invesco.com",
    "focus": "mixed",
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-10",
@@ -2085,6 +2183,7 @@
   },
   {
    "careers": "https://nb.wd1.myworkdayjobs.com/NBCareers",
+   "domain": "nb.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2104,6 +2203,7 @@
   },
   {
    "careers": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers",
+   "domain": "dimensional.com",
    "focus": "mixed",
    "hq": "Austin, TX",
    "last_ok": "2026-10-10",
@@ -2123,6 +2223,7 @@
   },
   {
    "careers": "https://wellington.wd5.myworkdayjobs.com/Campus",
+   "domain": "wellington.com",
    "focus": "mixed",
    "hq": "Boston, MA",
    "last_ok": "2026-10-10",
@@ -2142,6 +2243,7 @@
   },
   {
    "careers": "https://statestreet.wd1.myworkdayjobs.com/Global",
+   "domain": "statestreet.com",
    "focus": "mixed",
    "hq": "Boston, MA",
    "last_ok": "2026-10-10",
@@ -2161,6 +2263,7 @@
   },
   {
    "careers": "https://tiaa.wd1.myworkdayjobs.com/Search",
+   "domain": "tiaa.org",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2181,6 +2284,7 @@
   },
   {
    "careers": "https://pimco.wd1.myworkdayjobs.com/pimco-careers",
+   "domain": "pimco.com",
    "focus": "mixed",
    "hq": "Newport Beach, CA",
    "last_ok": "2026-10-10",
@@ -2200,6 +2304,7 @@
   },
   {
    "careers": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
+   "domain": "blackstone.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2220,6 +2325,7 @@
   },
   {
    "careers": "https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers",
+   "domain": "orion.com",
    "focus": "wealth",
    "hq": "Omaha, NE",
    "last_ok": "2026-10-10",
@@ -2239,6 +2345,7 @@
   },
   {
    "careers": "https://addepar.com/careers",
+   "domain": "addepar.com",
    "focus": "wealth",
    "hq": "Mountain View, CA",
    "last_ok": "2026-10-10",
@@ -2258,6 +2365,7 @@
   },
   {
    "careers": "https://jobs.ashbyhq.com/range",
+   "domain": "range.com",
    "focus": "wealth",
    "hq": "McLean, VA",
    "last_ok": "2026-10-10",
@@ -2277,6 +2385,7 @@
   },
   {
    "careers": "https://www.wealthfront.com/careers",
+   "domain": "wealthfront.com",
    "focus": "wealth",
    "hq": "Palo Alto, CA",
    "last_ok": "2026-10-10",
@@ -2300,6 +2409,7 @@
   },
   {
    "careers": "https://www.betterment.com/careers",
+   "domain": "betterment.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2323,6 +2433,7 @@
   },
   {
    "careers": "https://altruist.com/careers",
+   "domain": "altruist.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
    "last_ok": "2026-10-10",
@@ -2346,6 +2457,7 @@
   },
   {
    "careers": "https://www.farther.com/careers",
+   "domain": "farther.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2354,7 +2466,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "acecc460c23fa8d4",
+     "hash": "a13c11ef431197b0",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2369,6 +2481,7 @@
   },
   {
    "careers": "https://careers.cbre.com/en_US/careers",
+   "domain": "cbre.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
    "last_ok": "2026-10-10",
@@ -2392,6 +2505,7 @@
   },
   {
    "careers": "https://www.us.jll.com/en/careers",
+   "domain": "jll.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -2411,6 +2525,7 @@
   },
   {
    "careers": "https://www.cushmanwakefield.com/en/united-states/careers",
+   "domain": "cushmanwakefield.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -2430,6 +2545,7 @@
   },
   {
    "careers": "https://www.colliers.com/en/careers",
+   "domain": "colliers.com",
    "focus": "real_estate",
    "hq": "Toronto / Seattle",
    "last_ok": "2026-10-10",
@@ -2449,6 +2565,7 @@
   },
   {
    "careers": "https://www.nmrk.com/careers",
+   "domain": "nmrk.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2468,6 +2585,7 @@
   },
   {
    "careers": "https://www.avisonyoung.us/careers",
+   "domain": "avisonyoung.com",
    "focus": "real_estate",
    "hq": "Toronto / Chicago",
    "last_ok": "2026-10-10",
@@ -2495,6 +2613,7 @@
   },
   {
    "careers": "https://www.marcusmillichap.com/careers",
+   "domain": "marcusmillichap.com",
    "focus": "real_estate",
    "hq": "Calabasas, CA",
    "last_ok": "2026-10-10",
@@ -2518,6 +2637,7 @@
   },
   {
    "careers": "https://www.eastdilsecured.com/careers",
+   "domain": "eastdilsecured.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2541,6 +2661,7 @@
   },
   {
    "careers": "https://www.savills.us/careers/",
+   "domain": "savills.com",
    "focus": "real_estate",
    "hq": "London / New York",
    "last_ok": "2026-10-10",
@@ -2564,6 +2685,7 @@
   },
   {
    "careers": "https://kidder.com/careers/",
+   "domain": "kidder.com",
    "focus": "real_estate",
    "hq": "Seattle, WA",
    "last_ok": "2026-10-10",
@@ -2587,6 +2709,7 @@
   },
   {
    "careers": "https://www.lee-associates.com/careers/",
+   "domain": "lee-associates.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
    "last_ok": "2026-10-10",
@@ -2610,6 +2733,7 @@
   },
   {
    "careers": "https://www.altusgroup.com/careers/",
+   "domain": "altusgroup.com",
    "focus": "real_estate",
    "hq": "Toronto / New York",
    "last_ok": "2026-10-10",
@@ -2618,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "3b32a4c425ea8a65",
+     "hash": "dcd1e0d2e6d899c9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2633,6 +2757,7 @@
   },
   {
    "careers": "https://www.costargroup.com/careers",
+   "domain": "costargroup.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
    "last_ok": "2026-10-10",
@@ -2656,6 +2781,7 @@
   },
   {
    "careers": "https://www.trepp.com/careers",
+   "domain": "trepp.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2679,6 +2805,7 @@
   },
   {
    "careers": "https://www.walkerdunlop.com/careers/",
+   "domain": "walkerdunlop.com",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
    "last_ok": "2026-10-10",
@@ -2698,6 +2825,7 @@
   },
   {
    "careers": "https://www.berkadia.com/careers/",
+   "domain": "berkadia.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2721,6 +2849,7 @@
   },
   {
    "careers": "https://www.greystone.com/careers/",
+   "domain": "greystone.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2729,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "60cd192fc0e4ef71",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2744,6 +2873,7 @@
   },
   {
    "careers": "https://www.northmarq.com/careers",
+   "domain": "northmarq.com",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-10",
@@ -2767,6 +2897,7 @@
   },
   {
    "careers": "https://www.trimont.com/careers/",
+   "domain": "trimont.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-10",
@@ -2790,6 +2921,7 @@
   },
   {
    "careers": "https://arbor.com/careers/",
+   "domain": "arbor.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
    "last_ok": "2026-10-10",
@@ -2813,6 +2945,7 @@
   },
   {
    "careers": "https://www.fanniemae.com/careers",
+   "domain": "fanniemae.com",
    "focus": "mixed",
    "hq": "Washington, DC",
    "last_ok": "2026-10-10",
@@ -2832,6 +2965,7 @@
   },
   {
    "careers": "https://careers.freddiemac.com/",
+   "domain": "freddiemac.com",
    "focus": "mixed",
    "hq": "McLean, VA",
    "last_ok": "2026-10-10",
@@ -2851,6 +2985,7 @@
   },
   {
    "careers": "https://www.capitalonecareers.com/",
+   "domain": "capitalone.com",
    "focus": "mixed",
    "hq": "McLean, VA",
    "last_ok": "2026-10-10",
@@ -2870,6 +3005,7 @@
   },
   {
    "careers": "https://careers.firstam.com/",
+   "domain": "firstam.com",
    "focus": "mixed",
    "hq": "Santa Ana, CA",
    "last_ok": "2026-10-10",
@@ -2889,6 +3025,7 @@
   },
   {
    "careers": "https://www.brookfield.com/careers",
+   "domain": "brookfield.com",
    "focus": "mixed",
    "hq": "New York / Toronto",
    "last_ok": "2026-10-10",
@@ -2908,6 +3045,7 @@
   },
   {
    "careers": "https://www.pgim.com/careers",
+   "domain": "pgim.com",
    "focus": "mixed",
    "hq": "Newark, NJ",
    "last_ok": "2026-10-10",
@@ -2927,6 +3065,7 @@
   },
   {
    "careers": "https://www.aresmgmt.com/careers",
+   "domain": "aresmgmt.com",
    "focus": "mixed",
    "hq": "Los Angeles / New York",
    "last_ok": "2026-10-10",
@@ -2946,6 +3085,7 @@
   },
   {
    "careers": "https://www.apollo.com/careers",
+   "domain": "apollo.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2965,6 +3105,7 @@
   },
   {
    "careers": "https://www.kkr.com/careers",
+   "domain": "kkr.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -2973,7 +3114,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "d271bbeb95fb5d04",
+     "hash": "e223adf8dc8a34b4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2988,6 +3129,7 @@
   },
   {
    "careers": "https://www.starwoodcapital.com/careers/",
+   "domain": "starwoodcapital.com",
    "focus": "real_estate",
    "hq": "Miami Beach, FL",
    "last_ok": "2026-10-10",
@@ -3014,6 +3156,7 @@
   },
   {
    "careers": "https://www.clarionpartners.com/careers",
+   "domain": "clarionpartners.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -3037,6 +3180,7 @@
   },
   {
    "careers": "https://www.heitman.com/careers/",
+   "domain": "heitman.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -3064,6 +3208,7 @@
   },
   {
    "careers": "https://www.harrisonst.com/careers",
+   "domain": "harrisonst.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -3087,6 +3232,7 @@
   },
   {
    "careers": "https://www.bridgeig.com/careers",
+   "domain": "bridgeig.com",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
    "last_ok": "2026-10-10",
@@ -3110,6 +3256,7 @@
   },
   {
    "careers": "https://www.crowholdings.com/careers/",
+   "domain": "crowholdings.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
    "last_ok": "2026-10-10",
@@ -3135,6 +3282,7 @@
   },
   {
    "careers": "https://www.linklogistics.com/careers/",
+   "domain": "linklogistics.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -3154,6 +3302,7 @@
   },
   {
    "careers": "https://www.hines.com/careers",
+   "domain": "hines.com",
    "focus": "real_estate",
    "hq": "Houston, TX",
    "last_ok": null,
@@ -3175,6 +3324,7 @@
   },
   {
    "careers": "https://tishmanspeyer.com/careers",
+   "domain": "tishmanspeyer.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": null,
@@ -3196,6 +3346,7 @@
   },
   {
    "careers": "https://www.related.com/careers",
+   "domain": "related.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -3219,6 +3370,7 @@
   },
   {
    "careers": "https://www.lpc.com/careers/",
+   "domain": "lpc.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
    "last_ok": "2026-10-10",
@@ -3242,6 +3394,7 @@
   },
   {
    "careers": "https://www.greystar.com/careers",
+   "domain": "greystar.com",
    "focus": "real_estate",
    "hq": "Charleston, SC",
    "last_ok": "2026-10-10",
@@ -3268,6 +3421,7 @@
   },
   {
    "careers": "https://cortland.com/careers/",
+   "domain": "cortland.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-10",
@@ -3287,6 +3441,7 @@
   },
   {
    "careers": "https://gables.wd5.myworkdayjobs.com/Gables_Careers",
+   "domain": "gables.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-10",
@@ -3306,6 +3461,7 @@
   },
   {
    "careers": "https://www.ryancompanies.com/careers",
+   "domain": "ryancompanies.com",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-10",
@@ -3325,6 +3481,7 @@
   },
   {
    "careers": "https://www.jbgsmith.com/careers",
+   "domain": "jbgsmith.com",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
    "last_ok": "2026-10-10",
@@ -3348,6 +3505,7 @@
   },
   {
    "careers": "https://job-boards.greenhouse.io/rxr",
+   "domain": "rxr.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
    "last_ok": "2026-10-10",
@@ -3367,6 +3525,7 @@
   },
   {
    "careers": "https://www.morgan-properties.com/careers",
+   "domain": "morgan-properties.com",
    "focus": "real_estate",
    "hq": "King of Prussia, PA",
    "last_ok": "2026-10-10",
@@ -3390,6 +3549,7 @@
   },
   {
    "careers": "https://www.coniferllc.com/careers/",
+   "domain": "coniferllc.com",
    "focus": "real_estate",
    "hq": "Rochester, NY",
    "last_ok": "2026-10-10",
@@ -3397,10 +3557,11 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "changed_on": null,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3412,6 +3573,7 @@
   },
   {
    "careers": "https://www.invh.com/careers",
+   "domain": "invh.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
    "last_ok": "2026-10-10",
@@ -3431,6 +3593,7 @@
   },
   {
    "careers": "https://www.lennar.com/careers",
+   "domain": "lennar.com",
    "focus": "real_estate",
    "hq": "Miami, FL",
    "last_ok": "2026-10-10",
@@ -3450,6 +3613,7 @@
   },
   {
    "careers": "https://www.pultegroupcareers.com/",
+   "domain": "pultegroup.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-10",
@@ -3469,6 +3633,7 @@
   },
   {
    "careers": "https://www.drhorton.com/careers",
+   "domain": "drhorton.com",
    "focus": "real_estate",
    "hq": "Arlington, TX",
    "last_ok": "2026-10-10",
@@ -3495,6 +3660,7 @@
   },
   {
    "careers": "https://www.prologis.com/careers",
+   "domain": "prologis.com",
    "focus": "real_estate",
    "hq": "San Francisco, CA",
    "last_ok": "2026-10-10",
@@ -3518,6 +3684,7 @@
   },
   {
    "careers": "https://careers.simon.com/",
+   "domain": "simon.com",
    "focus": "real_estate",
    "hq": "Indianapolis, IN",
    "last_ok": "2026-10-10",
@@ -3537,6 +3704,7 @@
   },
   {
    "careers": "https://www.bxp.com/careers",
+   "domain": "bxp.com",
    "focus": "real_estate",
    "hq": "Boston, MA",
    "last_ok": "2026-10-10",
@@ -3556,6 +3724,7 @@
   },
   {
    "careers": "https://www.realtyincome.com/careers",
+   "domain": "realtyincome.com",
    "focus": "real_estate",
    "hq": "San Diego, CA",
    "last_ok": "2026-10-10",
@@ -3575,6 +3744,7 @@
   },
   {
    "careers": "https://www.digitalrealty.com/careers",
+   "domain": "digitalrealty.com",
    "focus": "real_estate",
    "hq": "Austin, TX",
    "last_ok": "2026-10-10",
@@ -3594,6 +3764,7 @@
   },
   {
    "careers": "https://careers.extraspace.com/",
+   "domain": "extraspace.com",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
    "last_ok": "2026-10-10",
@@ -3613,6 +3784,7 @@
   },
   {
    "careers": "https://www.essexapartmenthomes.com/careers",
+   "domain": "essex.com",
    "focus": "real_estate",
    "hq": "San Mateo, CA",
    "last_ok": "2026-10-10",
@@ -3632,6 +3804,7 @@
   },
   {
    "careers": "https://www.rexfordindustrial.com/careers",
+   "domain": "rexfordindustrial.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
    "last_ok": "2026-10-10",
@@ -3651,6 +3824,7 @@
   },
   {
    "careers": "https://www.hudsonpacificproperties.com/careers",
+   "domain": "hudsonpacificproperties.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
    "last_ok": "2026-10-10",
@@ -3670,6 +3844,7 @@
   },
   {
    "careers": "https://www.equityapartments.com/careers",
+   "domain": "eqr.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
    "last_ok": null,
@@ -3691,6 +3866,7 @@
   },
   {
    "careers": "https://jobs.avalonbay.com/",
+   "domain": "avalonbay.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
    "last_ok": null,
@@ -3712,6 +3888,7 @@
   },
   {
    "careers": "https://www.vno.com/careers",
+   "domain": "vno.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -3735,6 +3912,7 @@
   },
   {
    "careers": "https://slgreen.com/careers/",
+   "domain": "slgreen.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -3758,6 +3936,7 @@
   },
   {
    "careers": "https://www.kimcorealty.com/careers",
+   "domain": "kimcorealty.com",
    "focus": "real_estate",
    "hq": "Jericho, NY",
    "last_ok": "2026-10-10",
@@ -3781,6 +3960,7 @@
   },
   {
    "careers": "https://www.brixmor.com/careers",
+   "domain": "brixmor.com",
    "focus": "real_estate",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -3804,6 +3984,7 @@
   },
   {
    "careers": "https://www.federalrealty.com/careers",
+   "domain": "federalrealty.com",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
    "last_ok": "2026-10-10",
@@ -3812,10 +3993,10 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7faf0e797950>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "4b7d812410c95d73",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -3827,6 +4008,7 @@
   },
   {
    "careers": "https://www.brandywinerealty.com/careers",
+   "domain": "brandywinerealty.com",
    "focus": "real_estate",
    "hq": "Philadelphia, PA",
    "last_ok": "2026-10-10",
@@ -3850,6 +4032,7 @@
   },
   {
    "careers": "https://welltower.com/careers/",
+   "domain": "welltower.com",
    "focus": "real_estate",
    "hq": "Toledo, OH",
    "last_ok": "2026-10-10",
@@ -3873,6 +4056,7 @@
   },
   {
    "careers": "https://www.ventasreit.com/careers",
+   "domain": "ventasreit.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
    "last_ok": "2026-10-10",
@@ -3896,6 +4080,7 @@
   },
   {
    "careers": "https://careers.smartrecruiters.com/PublicStorage",
+   "domain": "publicstorage.com",
    "focus": "real_estate",
    "hq": "Glendale, CA",
    "last_ok": "2026-10-10",
@@ -3915,6 +4100,7 @@
   },
   {
    "careers": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments",
+   "domain": "americancentury.com",
    "focus": "mixed",
    "hq": "Kansas City, MO",
    "last_ok": "2026-10-10",
@@ -3934,6 +4120,7 @@
   },
   {
    "careers": "https://godirect.wd5.myworkdayjobs.com/voya_jobs",
+   "domain": "voya.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -3953,6 +4140,7 @@
   },
   {
    "careers": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial",
+   "domain": "corebridgefinancial.com",
    "focus": "mixed",
    "hq": "Houston, TX",
    "last_ok": "2026-10-10",
@@ -3972,6 +4160,7 @@
   },
   {
    "careers": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
+   "domain": "johnhancock.com",
    "focus": "mixed",
    "hq": "Boston, MA",
    "last_ok": "2026-10-10",
@@ -3991,6 +4180,7 @@
   },
   {
    "careers": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships",
+   "domain": "countryfinancial.com",
    "focus": "mixed",
    "hq": "Bloomington, IL",
    "last_ok": "2026-10-10",
@@ -4010,6 +4200,7 @@
   },
   {
    "careers": "https://fei.wd5.myworkdayjobs.com/External",
+   "domain": "firsteagle.com",
    "focus": "mixed",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -4029,6 +4220,7 @@
   },
   {
    "careers": "https://jobs.ashbyhq.com/wealth-com",
+   "domain": "wealth.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
    "last_ok": "2026-10-10",
@@ -4048,6 +4240,7 @@
   },
   {
    "careers": "https://www.pennmutual.com/careers",
+   "domain": "pennmutual.com",
    "focus": "mixed",
    "hq": "Malvern, PA",
    "last_ok": "2026-10-10",
@@ -4073,6 +4266,7 @@
   },
   {
    "careers": "https://www.kestrafinancial.com/careers",
+   "domain": "kestrafinancial.com",
    "focus": "wealth",
    "hq": "Austin, TX",
    "last_ok": "2026-10-10",
@@ -4096,6 +4290,7 @@
   },
   {
    "careers": "https://aspiriant.com/careers/",
+   "domain": "aspiriant.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
    "last_ok": "2026-10-10",
@@ -4119,6 +4314,7 @@
   },
   {
    "careers": "https://pathstone.com/careers/",
+   "domain": "pathstone.com",
    "focus": "wealth",
    "hq": "Englewood, NJ",
    "last_ok": "2026-10-10",
@@ -4142,6 +4338,7 @@
   },
   {
    "careers": "https://www.wealthspire.com/careers/",
+   "domain": "wealthspire.com",
    "focus": "wealth",
    "hq": "New York, NY",
    "last_ok": "2026-10-10",
@@ -4165,6 +4362,7 @@
   },
   {
    "careers": "https://beaconpointe.com/careers/",
+   "domain": "beaconpointe.com",
    "focus": "wealth",
    "hq": "Newport Beach, CA",
    "last_ok": "2026-10-10",
@@ -4188,6 +4386,7 @@
   },
   {
    "careers": "https://buckinghamstrategicwealth.com/careers/",
+   "domain": "buckinghamstrategicwealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-10",
@@ -4211,6 +4410,7 @@
   },
   {
    "careers": "https://monetagroup.com/careers/internship-program",
+   "domain": "monetagroup.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-10",
@@ -4230,6 +4430,7 @@
   },
   {
    "careers": "https://www.homrichberg.com/careers/",
+   "domain": "homrichberg.com",
    "focus": "wealth",
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-10",
@@ -4253,6 +4454,7 @@
   },
   {
    "careers": "https://www.sequoia-financial.com/careers/",
+   "domain": "sequoia-financial.com",
    "focus": "wealth",
    "hq": "Akron, OH",
    "last_ok": "2026-10-10",
@@ -4276,6 +4478,7 @@
   },
   {
    "careers": "https://www.bleakley.com/careers/",
+   "domain": "bleakley.com",
    "focus": "wealth",
    "hq": "Fairfield, NJ",
    "last_ok": "2026-10-10",
@@ -4299,6 +4502,7 @@
   },
   {
    "careers": "https://www.cnbank.com/careers",
+   "domain": "cnbank.com",
    "focus": "mixed",
    "hq": "Canandaigua, NY",
    "last_ok": "2026-10-10",
@@ -4322,6 +4526,7 @@
   },
   {
    "careers": "https://www.synovus.com/about-us/careers/",
+   "domain": "synovus.com",
    "focus": "mixed",
    "hq": "Columbus, GA",
    "last_ok": "2026-10-10",
@@ -4330,7 +4535,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "c5c9f6f90e96b465",
+     "hash": "73b1619223d5eb32",
      "kind": "page",
      "links": [],
      "ok": true,
