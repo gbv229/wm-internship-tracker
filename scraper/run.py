@@ -29,7 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 5       # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 6       # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -138,7 +138,9 @@ def handle_job(j, co, old, seen, today, budget, rejected):
     loc = j.location
     if not loc and text:
         m = re.search(r"(?i)\blocations?:?\s*([A-Z][^\n]{2,80})", text)
-        loc = m.group(1).strip() if m else ""
+        cand = m.group(1).strip() if m else ""
+        # keep it only if it actually reads as a place, not a sentence from the description
+        loc = cand if cand and parse.regions(cand) and len(cand.split()) <= 8 else ""
 
     return {
         "id": j.id,
@@ -149,6 +151,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         "url": j.url,
         "location": loc,
         "region": parse.region(loc, j.title),
+        "regions": parse.regions(loc, j.title),
         "season": season,
         "season_inferred": inferred,
         "classes": classes,

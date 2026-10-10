@@ -32,6 +32,20 @@
     real_estate: { h1: "Real estate internships",
       lede: (n) => `Internships at ${n} brokerages, REITs, developers, real estate investors and lenders, pulled straight from their careers sites. Every role links to the employer's own posting.` },
   };
+  const US_REGIONS = ["Northeast", "Mid-Atlantic", "Southeast", "Midwest", "Southwest", "West", "Remote", "US"];
+  // older records only have the coarse "region" field
+  const regionsOf = (p) => p.regions || (p.region ? [p.region] : []);
+  const isUS = (p) => { const r = regionsOf(p); return !r.length || r.some((x) => US_REGIONS.includes(x)); };
+  function inRegion(p, want) {
+    if (!want) return true;
+    if (want === "US") return isUS(p);
+    const r = regionsOf(p);
+    return r.includes(want) || (US_REGIONS.includes(want) && r.includes("Remote"));
+  }
+  const fmtLoc = (loc) => {
+    const parts = (loc || "").split(/;\s*/).filter(Boolean);
+    return parts.length > 2 ? `${parts[0]}, ${parts[1]} + ${parts.length - 2} more` : parts.join("; ");
+  };
   const inTrack = (p) => (p.tracks || ["wealth"]).includes(state.track);
   const firmInTrack = (f) => (f.tracks || ["wealth"]).includes(state.track);
 
@@ -206,7 +220,7 @@
       if (state.level && p.level !== state.level) return false;
       if (state.type && p.company_type !== state.type) return false;
       if (state.area && p.function !== state.area) return false;
-      if (state.region === "US" ? !(p.region === "US" || !p.region) : state.region && p.region !== state.region) return false;
+      if (!inRegion(p, state.region)) return false;
       if (state.season === "upcoming") { if (p.season && seasonKey(p.season) < nowKey) return false; }
       else if (state.season === "unknown") { if (p.season) return false; }
       else if (state.season !== "all" && p.season !== state.season) return false;
@@ -271,14 +285,14 @@
       dl = `<td class="dl ${c}">${fmtDay(p._dl, p._dl.getFullYear() !== TODAY.getFullYear())}${sub ? `<small>${sub}</small>` : ""}</td>`;
     } else dl = `<td class="dl none">Rolling / not stated</td>`;
     const posted = p._posted ? fmtDay(p._posted, p._posted.getFullYear() !== TODAY.getFullYear()) : "";
-    const meta = [p.location, p.level === "Graduate/MBA" ? "MBA / graduate" : ""].filter(Boolean).join(" · ");
+    const meta = [fmtLoc(p.location), p.level === "Graduate/MBA" ? "MBA / graduate" : ""].filter(Boolean).join(" · ");
     const isOpen = state.open.has(p.id);
     const apply = p._status === "closed"
       ? `<span class="status-closed">Closed ${p.closed_on ? fmtDay(parseDay(p.closed_on)) : ""}</span>`
       : `<a href="${esc(p.url)}" target="_blank" rel="noopener" aria-label="Apply: ${esc(p.company)}, ${esc(p.title)} (opens employer site)">Apply</a>`;
     return `<tr class="row ${p._status === "closed" ? "closed" : ""}" data-id="${esc(p.id)}" tabindex="0" aria-expanded="${isOpen}">
       <td class="c-company"><span class="firm">${esc(p.company)}</span><span class="ftype">${esc(p.company_type)}</span></td>
-      <td class="role">${esc(p.title)}${p._new ? '<span class="new">New</span>' : ""}${meta ? `<span class="role-meta">${esc(meta)}</span>` : ""}</td>
+      <td class="role">${esc(p.title)}${p._new ? '<span class="new">New</span>' : ""}${meta ? `<span class="role-meta" title="${esc(p.location)}">${esc(meta)}</span>` : ""}</td>
       <td class="c-season">${p.season ? esc(p.season) + (p.season_inferred ? '<span class="est" title="Year estimated from posting date">est.</span>' : "") : '<span class="est">Not stated</span>'}</td>
       ${elig}${dl}
       <td class="posted">${posted}</td>
@@ -291,7 +305,7 @@
     const items = [
       ["Pay", p.pay], ["Minimum GPA", p.gpa], ["Length", p.weeks ? `${p.weeks} weeks` : null],
       ["Work setup", p.work_mode], ["Visa sponsorship", p.sponsorship], ["Area", p.function],
-      ["Location", p.location], ["First seen here", p._first ? fmtDay(p._first, true) : null],
+      ["Location", p.location], ["Region", regionsOf(p).filter((r) => r !== "US").join(", ") || null], ["First seen here", p._first ? fmtDay(p._first, true) : null],
     ].filter(([, v]) => v);
     const ev = [];
     if (p.class_evidence) ev.push(`<div class="evidence"><dt>Eligibility, from the posting</dt><dd><blockquote>${esc(p.class_evidence)}</blockquote></dd></div>`);
@@ -302,7 +316,7 @@
 
   function renderClosing() {
     const soon = state.postings
-      .filter((p) => inTrack(p) && p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && (p.region === "US" || !p.region))
+      .filter((p) => inTrack(p) && p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && isUS(p))
       .sort((a, b) => a._dl - b._dl).slice(0, 5);
     const ol = $("#closing-list");
     if (!soon.length) {
@@ -372,7 +386,7 @@
     const rows = sorted(filtered());
     const cols = [["Firm", "company"], ["Firm type", "company_type"], ["Role", "title"], ["Season", "season"],
       ["Eligible classes", (p) => (p.classes || []).join(" ")], ["Deadline", "deadline"], ["Posted", "posted"],
-      ["Location", "location"], ["Pay", "pay"], ["GPA", "gpa"], ["Weeks", "weeks"], ["Sponsorship", "sponsorship"],
+      ["Location", "location"], ["Region", (p) => regionsOf(p).join(" / ")], ["Pay", "pay"], ["GPA", "gpa"], ["Weeks", "weeks"], ["Sponsorship", "sponsorship"],
       ["Status", (p) => ({ open: "Open", soon: "Closing soon", past: "Deadline passed", closed: "Closed" })[p._status]], ["Link", "url"]];
     const cell = (v) => { const s = String(v ?? ""); return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; };
     const csv = [cols.map((c) => c[0]).join(","), ...rows.map((p) => cols.map(([, k]) => cell(typeof k === "function" ? k(p) : p[k])).join(","))].join("\n");

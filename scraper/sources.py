@@ -81,14 +81,15 @@ def workday(s: requests.Session, cfg: dict, today: date) -> list[Job]:
                 path = p.get("externalPath")
                 if not path or path in jobs:
                     continue
-                jobs[path] = Job(
+                job = Job(
                     source="workday", id=f"wd:{tenant}:{path.rsplit('_', 1)[-1]}",
                     title=p.get("title", "").strip(), url=public + path,
                     location=p.get("locationsText") or "",
                     posted=parse.relative_posted(p.get("postedOn"), today),
                     remote_hint=p.get("remoteType"),
-                    _detail=_wd_detail(s, api + path),
                 )
+                job._detail = _wd_detail(s, api + path, job)
+                jobs[path] = job
             offset += 20
             if len(posts) < 20 or offset >= (data.get("total") or 0):
                 break
@@ -96,11 +97,16 @@ def workday(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     return list(jobs.values())
 
 
-def _wd_detail(s, url):
+def _wd_detail(s, url, job: Job):
     def f():
         r = s.get(url, timeout=TIMEOUT)
         r.raise_for_status()
         info = r.json().get("jobPostingInfo", {})
+        # the listing only says "3 Locations"; the detail page names them
+        locs = [info.get("location")] + list(info.get("additionalLocations") or [])
+        locs = [l for l in dict.fromkeys(locs) if l]
+        if locs:
+            job.location = "; ".join(locs)
         return parse.html_to_text(info.get("jobDescription", ""))
     return f
 

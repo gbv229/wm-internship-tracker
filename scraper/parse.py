@@ -164,6 +164,124 @@ INTL_RE = re.compile(
     r"kuala lumpur|bertrange|glasgow|edinburgh|birmingham, uk)", re.I)
 
 
+# ------------------------------------------------------------- US regions
+REGIONS = ["Northeast", "Mid-Atlantic", "Southeast", "Midwest", "Southwest", "West"]
+STATE_REGION = {}
+for _r, _codes in {
+    "Northeast": "CT ME MA NH RI VT NY NJ PA",
+    "Mid-Atlantic": "DE MD DC VA WV",
+    "Southeast": "NC SC GA FL AL MS TN KY AR LA",
+    "Midwest": "OH IN IL MI WI MN IA MO KS NE ND SD",
+    "Southwest": "TX OK NM AZ",
+    "West": "CA OR WA NV UT CO ID MT WY AK HI",
+}.items():
+    for _c in _codes.split():
+        STATE_REGION[_c] = _r
+STATE_NAMES = {
+    "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR", "california": "CA", "colorado": "CO",
+    "connecticut": "CT", "delaware": "DE", "florida": "FL", "georgia": "GA", "hawaii": "HI", "idaho": "ID",
+    "illinois": "IL", "indiana": "IN", "iowa": "IA", "kansas": "KS", "kentucky": "KY", "louisiana": "LA",
+    "maine": "ME", "maryland": "MD", "massachusetts": "MA", "michigan": "MI", "minnesota": "MN",
+    "mississippi": "MS", "missouri": "MO", "montana": "MT", "nebraska": "NE", "nevada": "NV",
+    "new hampshire": "NH", "new jersey": "NJ", "new mexico": "NM", "new york": "NY", "north carolina": "NC",
+    "north dakota": "ND", "ohio": "OH", "oklahoma": "OK", "oregon": "OR", "pennsylvania": "PA",
+    "rhode island": "RI", "south carolina": "SC", "south dakota": "SD", "tennessee": "TN", "texas": "TX",
+    "utah": "UT", "vermont": "VT", "virginia": "VA", "washington": "WA", "west virginia": "WV",
+    "wisconsin": "WI", "wyoming": "WY",
+}
+# Cities that often appear without a state ("Fort Mill/Charlotte", "Dallas Metro Area", "Miami - USA")
+CITY_STATE = {
+    "new york": "NY", "nyc": "NY", "manhattan": "NY", "brooklyn, ny": "NY", "albany": "NY", "buffalo": "NY",
+    "rochester, ny": "NY", "syracuse": "NY", "white plains": "NY", "uniondale": "NY", "jericho": "NY",
+    "boston": "MA", "cambridge, ma": "MA", "hartford": "CT", "stamford": "CT", "greenwich": "CT",
+    "providence": "RI", "philadelphia": "PA", "pittsburgh": "PA", "king of prussia": "PA", "malvern": "PA",
+    "radnor": "PA", "conshohocken": "PA", "jersey city": "NJ", "newark": "NJ", "princeton": "NJ",
+    "washington, d.c": "DC", "washington d.c": "DC", "washington, dc": "DC", "washington dc": "DC",
+    "baltimore": "MD", "bethesda": "MD", "mclean": "VA", "tysons": "VA", "richmond, va": "VA",
+    "wilmington, de": "DE", "charlotte": "NC", "fort mill": "SC", "raleigh": "NC", "durham": "NC",
+    "atlanta": "GA", "miami": "FL", "tampa": "FL", "orlando": "FL", "jacksonville": "FL",
+    "st. petersburg": "FL", "st petersburg": "FL", "boca raton": "FL", "west palm beach": "FL",
+    "palm beach": "FL", "fort lauderdale": "FL", "nashville": "TN", "memphis": "TN", "louisville": "KY",
+    "birmingham, al": "AL", "new orleans": "LA", "chicago": "IL", "detroit": "MI", "cleveland": "OH",
+    "columbus, oh": "OH", "cincinnati": "OH", "indianapolis": "IN", "milwaukee": "WI", "minneapolis": "MN",
+    "st. paul": "MN", "saint paul": "MN", "st. louis": "MO", "saint louis": "MO", "st louis": "MO",
+    "kansas city": "MO", "overland park": "KS", "omaha": "NE", "des moines": "IA", "dallas": "TX",
+    "houston": "TX", "austin": "TX", "san antonio": "TX", "fort worth": "TX", "plano": "TX",
+    "westlake, tx": "TX", "phoenix": "AZ", "scottsdale": "AZ", "tempe": "AZ", "oklahoma city": "OK",
+    "tulsa": "OK", "denver": "CO", "salt lake city": "UT", "las vegas": "NV", "los angeles": "CA",
+    "century city": "CA", "irvine": "CA", "orange county": "CA", "newport beach": "CA",
+    "san francisco": "CA", "san diego": "CA", "san jose": "CA", "sunnyvale": "CA", "palo alto": "CA",
+    "menlo park": "CA", "seattle": "WA", "bellevue, wa": "WA", "portland, or": "OR", "honolulu": "HI",
+}
+_STATE_CODE_RE = re.compile(r"(?:^|[\s,(/|-])(" + "|".join(STATE_REGION) + r")(?=$|[\s,)/|.-])")
+_STATE_NAME_RE = re.compile(r"\b(" + "|".join(sorted(STATE_NAMES, key=len, reverse=True)) + r")\b", re.I)
+_CITY_RE = re.compile(r"\b(" + "|".join(re.escape(c) for c in sorted(CITY_STATE, key=len, reverse=True)) + r")\b", re.I)
+MORE_INTL_RE = re.compile(
+    r"(?i)\b(greece|athens|denmark|copenhagen|vietnam|hanoi|ho chi minh|belgium|bruxelles|sweden|norway|oslo|"
+    r"finland|helsinki|austria|vienna|portugal|lisbon|israel|tel aviv|south africa|johannesburg|new zealand|"
+    r"auckland|indonesia|jakarta|thailand|bangkok|malaysia|turkey|istanbul|egypt|cairo|nigeria|lagos|kenya|"
+    r"nairobi|peru|lima|argentina|uruguay|panama|cayman|bermuda|bahamas|guernsey|czech|philippines|"
+    r"netherlands|hungary|romania|bucharest|slovakia|croatia|cyprus|malta|morocco|kuwait|oman|pakistan|"
+    r"bangladesh|sri lanka|vietnam|neuilly|gurgaon|gurugram|hyderabad|chennai|pune|telangana)\b")
+_US_RE = re.compile(r"(?i)united states|\busa?\b|\bu\.s\.(a\.)?")
+_REMOTE_RE = re.compile(r"(?i)\bremote\b|work from home|virtual")
+
+
+def _states_in(seg: str) -> set[str]:
+    found = set()
+    # "Washington, DC" must not also count as Washington state
+    rest = re.sub(r"(?i)washington,? d\.?c\.?|district of columbia", " DC ", seg)
+    for m in _STATE_CODE_RE.finditer(rest):
+        found.add(m.group(1))
+    for m in _STATE_NAME_RE.finditer(rest):
+        found.add(STATE_NAMES[m.group(1).lower()])
+    if not found:
+        # only fall back to city names when no state is written ("Albany, OR" is Oregon)
+        for m in _CITY_RE.finditer(seg):
+            found.add(CITY_STATE[m.group(1).lower()])
+    return found
+
+
+def regions(location: str, title: str = "") -> list[str]:
+    """US regions (Northeast, Mid-Atlantic, Southeast, Midwest, Southwest,
+    West), plus "Remote", "US" (US but no state given), "Canada" and
+    "International". A posting with several locations gets several."""
+    out: set[str] = set()
+    us_generic = False
+    for seg in re.split(r";|\n|\s\|\s", location or ""):
+        seg = seg.strip()
+        if not seg or re.fullmatch(r"(?i)\d+\s+locations?", seg):
+            continue
+        states = _states_in(seg)
+        if states:
+            out.update(STATE_REGION[s] for s in states)
+        elif CA_RE.search(seg):
+            out.add("Canada")
+        elif INTL_RE.search(seg) or MORE_INTL_RE.search(seg) or re.search(r"CW Site - (?!USA\b)[A-Z]{2,3}\b", seg):
+            out.add("International")
+        elif _US_RE.search(seg):
+            us_generic = True
+        if _REMOTE_RE.search(seg) and (states or _US_RE.search(seg) or not (CA_RE.search(seg) or INTL_RE.search(seg))):
+            out.add("Remote")
+    if not out - {"Remote"}:
+        # nothing usable in the location: titles often carry it ("Capital Markets Internship - Atlanta, GA")
+        t = title or ""
+        states = {m.group(1) for m in re.finditer(r",\s*(" + "|".join(STATE_REGION) + r")\b", t)}
+        states |= {CITY_STATE[m.group(1).lower()] for m in _CITY_RE.finditer(t)}
+        if states:
+            out.update(STATE_REGION[s] for s in states)
+        elif CA_RE.search(t):
+            out.add("Canada")
+        elif INTL_RE.search(t):
+            out.add("International")
+        elif _US_RE.search(t) or us_generic:
+            us_generic = True
+    if us_generic and not (out & set(REGIONS)):
+        out.add("US")
+    order = REGIONS + ["Remote", "US", "Canada", "International"]
+    return [r for r in order if r in out]
+
+
 def region(location: str, title: str = "") -> str:
     """US / Canada / International / '' (unknown)."""
     loc = location or ""

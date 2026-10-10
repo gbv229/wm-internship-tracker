@@ -65,9 +65,19 @@
       </label>
       <label><span>Where</span>
         <select id="f-region">
-          <option value="US">United States</option>
-          <option value="Canada">Canada</option>
-          <option value="International">Outside US &amp; Canada</option>
+          <option value="US">All of the US</option>
+          <optgroup label="US regions">
+            <option value="Northeast">Northeast (NY, NJ, PA, New England)</option>
+            <option value="Mid-Atlantic">Mid-Atlantic (DC, MD, VA, DE)</option>
+            <option value="Southeast">Southeast (NC, GA, FL, TN, KY…)</option>
+            <option value="Midwest">Midwest (IL, OH, MN, WI, MO…)</option>
+            <option value="Southwest">Southwest (TX, AZ, OK, NM)</option>
+            <option value="West">West (CA, WA, CO, UT…)</option>
+          </optgroup>
+          <optgroup label="Outside the US">
+            <option value="Canada">Canada</option>
+            <option value="International">Outside US &amp; Canada</option>
+          </optgroup>
           <option value="">Anywhere</option>
         </select>
       </label>
@@ -157,6 +167,8 @@
         <dd>Only shown when the posting states one. Most banks review on a rolling basis, so applying early matters even when no deadline is listed.</dd>
         <dt>Season</dt>
         <dd>Read from the title or description. A small <em>est.</em> means the year wasn't stated and was estimated from when the role was posted.</dd>
+        <dt>Where</dt>
+        <dd>Roles are grouped into US regions from the locations on the posting. A role with offices in several regions shows up under each of them, and remote roles show up under every region. Roles that only say "United States" appear under <em>All of the US</em>.</dd>
         <dt>Closed</dt>
         <dd>A role is marked closed once it has disappeared from the firm's careers site on two checks in a row.</dd>
       </dl>

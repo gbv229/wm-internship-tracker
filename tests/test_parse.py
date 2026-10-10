@@ -126,3 +126,30 @@ def test_noise_filters():
     assert tf("Internship – Private Wealth Management (Dayton, OH Summer 2027)", "", "wealth", ["wealth"]) == ["wealth"]
     t = "This externship prepares you for our Summer 2028 internship."
     assert parse.season("PGIM: 2027 Real Estate, Sophomore Externship Program", t, date(2026, 10, 1))[0] != "Summer 2028"
+
+
+def test_us_regions():
+    r = parse.regions
+    assert r("New York, NY") == ["Northeast"]
+    assert r("US-NY-New York") == ["Northeast"]
+    assert r("WI-Milwaukee") == ["Midwest"]
+    assert r("Miami Florida United States") == ["Southeast"]
+    assert r("Fort Mill/Charlotte") == ["Southeast"]
+    assert r("Washington, DC") == ["Mid-Atlantic"]
+    assert r("Seattle, Washington") == ["West"]
+    assert r("Saint Louis, Missouri, USA") == ["Midwest"]
+    assert r("Charlotte, NC; Philadelphia, PA") == ["Northeast", "Southeast"]
+    assert r("Dallas, TX; Remote") == ["Southwest", "Remote"]
+    assert r("Toronto, ON") == ["Canada"]
+    assert r("CITY OF LONDON,") == ["International"]
+    assert r("Geneve, GE, Switzerland") == ["International"]
+    assert r("Prague, Czech Republic") == ["International"]
+    assert r("Brooklyn, OH") == ["Midwest"]
+    assert r("2 Locations") == []
+    assert r("2 Locations", "Capital Markets Summer 2027 Internship - Atlanta, GA") == ["Southeast"]
+    assert r("", "Wealth – Summer Analyst, Dallas – USA, 2027") == ["Southwest"]
+    assert r("United States") == ["US"]
+    assert r("Albany, OR") == ["West"]
+    assert r("Athens, Attica, Greece") == ["International"]
+    assert r("CW Site - VNM - Ho Chi Minh - District 1") == ["International"]
+    assert r("CW Site - USA - MA - Boston - 125 High Street") == ["Northeast"]
