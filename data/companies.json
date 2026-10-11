@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-11",
-     "hash": "613a7d69f828b222",
+     "hash": "2ef8128b32896003",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1416,7 +1416,7 @@
    "sources": [
     {
      "changed_on": "2026-10-11",
-     "hash": "c59089d01089c674",
+     "hash": "40f543263d9b4297",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -2465,8 +2465,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-10",
-     "hash": "a13c11ef431197b0",
+     "changed_on": "2026-10-11",
+     "hash": "d2383e7de3514a25",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2622,7 +2622,7 @@
    "sources": [
     {
      "changed_on": "2026-10-11",
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-11",
-     "hash": "5153ace7d69de385",
+     "hash": "c1562acefe9721cc",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-11",
-     "hash": "0209b25d9461aeb8",
+     "hash": "3ca16632d854d435",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-11",
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "c6aa589384699d14",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3557,11 +3557,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -4535,7 +4534,7 @@
    "sources": [
     {
      "changed_on": "2026-10-11",
-     "hash": "2442a45057d79052",
+     "hash": "b7f58b945877d469",
      "kind": "page",
      "links": [],
      "ok": true,
