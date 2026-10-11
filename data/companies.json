@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "804cd47d3699d87e",
+     "hash": "817eed6fb61028ae",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1064,7 +1064,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "ec0392a482b0feb4",
+     "hash": "dd42b2dd9626e252",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1416,7 +1416,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "c59089d01089c674",
+     "hash": "40f543263d9b4297",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "e516d5f6f2b6a8ea",
+     "hash": "664d9edebb61fed6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "b299c1cc78d2f63a",
+     "hash": "2cd15b52e7be55bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3992,10 +3992,10 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7effd4e906e0>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "4b7d812410c95d73",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4534,7 +4534,7 @@
    "sources": [
     {
      "changed_on": "2026-10-10",
-     "hash": "c597d9bf50f60bb5",
+     "hash": "1363474ab73b3045",
      "kind": "page",
      "links": [],
      "ok": true,
