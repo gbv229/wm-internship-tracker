@@ -8153,47 +8153,6 @@
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
-   "id": "wd:keybank:R-41224",
-   "last_seen": "2026-10-11",
-   "level": "Undergraduate",
-   "location": "Chagrin Falls, OH",
-   "misses": 1,
-   "pay": "$23/hr",
-   "posted": "2026-09-09",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Cleveland, OH",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chagrin-Falls-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Cleveland--OH_R-41224",
-   "v": 6,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
    "id": "wd:keybank:R-41223",
    "last_seen": "2026-10-11",
    "level": "Undergraduate",
@@ -11861,6 +11820,48 @@
    "v": 5,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "closed_on": "2026-10-11",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-09",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "id": "wd:keybank:R-41224",
+   "last_seen": "2026-10-11",
+   "level": "Undergraduate",
+   "location": "Chagrin Falls, OH",
+   "misses": 2,
+   "pay": "$23/hr",
+   "posted": "2026-09-09",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Cleveland, OH",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chagrin-Falls-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Cleveland--OH_R-41224",
+   "v": 6,
+   "weeks": 5,
+   "work_mode": null
   },
   {
    "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
