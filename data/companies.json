@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "5b417e1f98e9ed3c",
+     "hash": "65584f2b96c52824",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -355,7 +355,7 @@
    "hq": "Zurich",
    "last_ok": "2026-10-12",
    "name": "Julius Baer",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -1063,8 +1063,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-11",
-     "hash": "085e37012637527b",
+     "changed_on": "2026-10-12",
+     "hash": "9925d5792c4eb154",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1108,7 +1108,7 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-12",
    "name": "Ameriprise Financial",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -1152,7 +1152,7 @@
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-12",
    "name": "Stifel",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "kind": "icims",
@@ -1172,7 +1172,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-12",
    "name": "Baird",
-   "open": 29,
+   "open": 30,
    "sources": [
     {
      "kind": "workday",
@@ -1619,7 +1619,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "e62cfe72615fc75d",
+     "hash": "6606e16dbc5dae99",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2268,7 +2268,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-12",
    "name": "TIAA / Nuveen",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -2510,7 +2510,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-12",
    "name": "JLL",
-   "open": 29,
+   "open": 53,
    "sources": [
     {
      "kind": "workday",
@@ -2530,7 +2530,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-12",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 25,
    "sources": [
     {
      "kind": "workday",
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "e889d95dd4ed1ad9",
+     "hash": "a51023889fe6c165",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "9f12e841b2be73e6",
+     "hash": "6781e2742b853f02",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "c715a6508fc0d3d6",
+     "hash": "45d748f45dca166f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3114,7 +3114,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3216,8 +3216,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "76e8150a4f7db041",
+     "changed_on": "2026-10-12",
+     "hash": "c629d0d9146e5686",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4437,8 +4437,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "7e8c96776f00b4b8",
+     "changed_on": "2026-10-12",
+     "hash": "394efde065c95e5a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4534,7 +4534,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "3f0a775e43023869",
+     "hash": "2079af4f06124819",
      "kind": "page",
      "links": [],
      "ok": true,

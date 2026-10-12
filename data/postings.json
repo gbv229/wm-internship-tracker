@@ -458,6 +458,47 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
+   "function": "Technology / Data",
+   "gpa": null,
+   "id": "wd:ameriprise:3742",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "open",
+   "title": "Digital Product Owner Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Ameriprise Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
    "id": "wd:ameriprise:3498",
@@ -1920,6 +1961,47 @@
    "v": 6,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of May 2028 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:baird:R20261157-1",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "WI-Milwaukee",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Internship – Private Wealth Management Communications (Year-Round)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Private-Wealth-Management-Communications--Year-Round-_R20261157-1",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": "- Anticipated graduation date of May 2028 or later",
@@ -3954,7 +4036,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "London  United Kingdom",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-24",
    "region": "International",
@@ -4437,7 +4519,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "CW Site - USA - MA - Boston - 125 High Street",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$23/hr",
    "posted": "2026-09-12",
    "region": "US",
@@ -4479,7 +4561,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "New York, New York, USA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$21–$25/hr",
    "posted": "2026-09-12",
    "region": "US",
@@ -4521,7 +4603,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Philadelphia, Pennsylvania, USA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$23/hr",
    "posted": "2026-09-12",
    "region": "US",
@@ -4891,6 +4973,80 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "id": "wd:cw:R335434",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Singapore",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-12",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern - Facilities Management, SGP 2027 Intake",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Facilities-Management--SGP-2027-Intake_R335434",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "id": "wd:cw:R295944-1",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Singapore; Client Site - SGP - Singapore - 1 Gul Circle",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-12",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern - Facilities Management, Singapore (2026 Intake)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Facilities-Management--Singapore--2026-Intake-_R295944-1",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
    "function": "Asset / Property Management",
    "gpa": null,
@@ -5127,7 +5283,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "East Rutherford, New Jersey, USA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$23/hr",
    "posted": "2026-10-09",
    "region": "US",
@@ -5221,6 +5377,43 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R336024",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:cw:R338331",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Mumbai, India",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-28",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Intern - Real Estate Advisory (Strategic Advisory)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/Intern---Real-Estate-Advisory--Strategic-Advisory-_R338331",
    "v": 6,
    "weeks": null,
    "work_mode": null
@@ -5470,7 +5663,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Atlanta Corporate - Atlanta, GA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-12",
    "region": "US",
@@ -7271,6 +7464,903 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ541680",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Houston, TX",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Leasing Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Leasing-Intern_REQ541680",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539614",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Boston, MA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship -",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Leasing-Summer-2027-Internship--_REQ539614",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539936",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Atlanta, GA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "GA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship -  Atlanta, GA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Leasing-Summer-2027-Internship----Atlanta--GA_REQ539936",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539576",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Minneapolis, MN",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MN"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship -  Minneapolis, MN",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Leasing-Summer-2027-Internship----Minneapolis--MN_REQ539576",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539622",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Charlotte, NC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NC"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Charlotte, NC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Leasing-Summer-2027-Internship---Charlotte--NC_REQ539622",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539580",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Dallas, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Leasing-Summer-2027-Internship---Dallas--TX_REQ539580",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540045",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CO"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Denver, CO",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Leasing-Summer-2027-Internship---Denver--CO_REQ540045",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539589",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Fort Worth, TX",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Fort Worth, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Fort-Worth-TX/Leasing-Summer-2027-Internship---Fort-Worth--TX_REQ539589",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540049",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Los Angeles, CA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Los Angeles, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Leasing-Summer-2027-Internship---Los-Angeles--CA_REQ540049",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539931",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "McLean, VA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "VA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - McLean, VA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/McLean-VA/Leasing-Summer-2027-Internship---McLean--VA_REQ539931",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539933",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Miami, FL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Miami, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Leasing-Summer-2027-Internship---Miami--FL_REQ539933",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539935",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Nashville, TN",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TN"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Nashville TN",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Nashville-TN/Leasing-Summer-2027-Internship---Nashville-TN_REQ539935",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539621",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Orlando, FL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Orlando, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Orlando-FL/Leasing-Summer-2027-Internship---Orlando--FL_REQ539621",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540046",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Phoenix, AZ",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "AZ"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Phoenix, AZ",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Phoenix-AZ/Leasing-Summer-2027-Internship---Phoenix--AZ_REQ540046",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540039",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Portland, OR",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "OR"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Portland, OR",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Leasing-Summer-2027-Internship---Portland--OR_REQ540039",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539937",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Raleigh, NC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NC"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Raleigh, NC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Raleigh-NC/Leasing-Summer-2027-Internship---Raleigh--NC_REQ539937",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540042",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Salt Lake City, UT",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "UT"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Salt Lake City, UT",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Leasing-Summer-2027-Internship---Salt-Lake-City--UT_REQ540042",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539568",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "SAN ANTONIO, TX",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - San Antonio, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/SAN-ANTONIO-TX/Leasing-Summer-2027-Internship---San-Antonio--TX_REQ539568",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540050",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "San Diego, CA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - San Diego, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Leasing-Summer-2027-Internship---San-Diego--CA_REQ540050",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540027",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "San Francisco, CA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - San Francisco, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Leasing-Summer-2027-Internship---San-Francisco--CA_REQ540027",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540037",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Seattle, WA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "WA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Seattle, WA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Leasing-Summer-2027-Internship---Seattle--WA_REQ540037",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ540030",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Walnut Creek, CA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Walnut Creek, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Walnut-Creek-CA/Leasing-Summer-2027-Internship---Walnut-Creek--CA_REQ540030",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539928",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Leasing-Summer-2027-Internship---Washington--DC_REQ539928",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
    "classes": [
     2028
@@ -7307,6 +8397,45 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Capital-Markets-Summer-2027-Internship---Dallas--TX_REQ530555",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539563",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Austin, TX",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Office Leasing Summer 2027 Internship – Austin, Texas",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Office-Leasing-Summer-2027-Internship---Austin--Texas_REQ539563",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
@@ -7710,43 +8839,6 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:juliusbaer:r-20015-1",
-   "last_seen": "2026-10-11",
-   "level": "Undergraduate",
-   "location": "Zurich",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-01",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme] (f/m/d)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---DCFO-P-BS-100-----Fixed-Term-Contract-of-5-6-months---Julius-Baer-s-Intern-Programme---f-m-d-_r-20015-1",
-   "v": 6,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Julius Baer",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
@@ -7755,7 +8847,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Zurich",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-30",
    "region": "International",
@@ -8449,7 +9541,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-12",
    "region": "US",
@@ -8775,6 +9867,45 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "or:icbpjb:6720",
+   "last_seen": "2026-10-12",
+   "level": "Graduate/MBA",
+   "location": "Houston, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Houston Power, Energy & Infrastructure - 2027 Summer Associate",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6720",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Lazard (Lazard Wealth Management)",
+   "company_type": "Investment Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -8803,45 +9934,6 @@
    "v": 6,
    "weeks": null,
    "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Lazard (Lazard Wealth Management)",
-   "company_type": "Investment Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-09",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "or:icbpjb:6720",
-   "last_seen": "2026-10-12",
-   "level": "Graduate/MBA",
-   "location": "Houston, United States",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Lazard: Houston Power, Energy & Infrastructure - 2027 Summer Associate",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6720",
-   "v": 6,
-   "weeks": null,
-   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -10985,6 +12077,45 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "ic:careers-stifel:10027",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "US-WI-Mequon",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Branch Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10027/branch-intern/job",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -11015,6 +12146,92 @@
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "TIAA / Nuveen",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "id": "wd:tiaa:R261000135",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "New York, NY, USA; Charlotte, NC, USA",
+   "misses": 0,
+   "pay": "$22/hr",
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "NY"
+   ],
+   "status": "open",
+   "title": "2027 Early Talent Internship: Nuveen Real Estate",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Real-Estate_R261000135",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "TIAA / Nuveen",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "id": "wd:tiaa:R261000119-2",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "3965 Dallas Parkway  Frisco, TX 75034; Charlotte, NC, USA",
+   "misses": 0,
+   "pay": "$22/hr",
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "TX"
+   ],
+   "status": "open",
+   "title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/XMLNAME-2027-Early-Talent-Internship--Wealth-Management---Advice-Solutions_R261000119-2",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
   },
   {
    "class_evidence": "- Pursuing a bachelor’s degree with a target graduation date of December 2027 or May 2028",
@@ -11173,48 +12390,6 @@
    "v": 6,
    "weeks": 10,
    "work_mode": null
-  },
-  {
-   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-10",
-   "company": "Ameriprise Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
-   "function": "Technology / Data",
-   "gpa": null,
-   "id": "wd:ameriprise:3742",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-16",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "closed",
-   "title": "Digital Product Owner Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": "Hybrid"
   },
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
@@ -11465,322 +12640,40 @@
   {
    "class_evidence": null,
    "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
+   "closed_on": "2026-10-12",
+   "company": "Julius Baer",
+   "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
    "gpa": null,
-   "id": "wd:jll:REQ540045",
-   "last_seen": "2026-10-09",
+   "id": "wd:juliusbaer:r-20015-1",
+   "last_seen": "2026-10-11",
    "level": "Undergraduate",
-   "location": "Denver, CO",
+   "location": "Zurich",
    "misses": 2,
    "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
+   "posted": "2026-10-01",
+   "region": "International",
    "regions": [
-    "West"
+    "International"
    ],
-   "season": "Summer 2027",
+   "season": null,
    "season_inferred": false,
    "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CO"
-   ],
+   "sponsorship": null,
+   "states": [],
    "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Denver, CO",
+   "title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme] (f/m/d)",
    "tracks": [
-    "real_estate"
+    "wealth"
    ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Leasing-Summer-2027-Internship---Denver--CO_REQ540045",
-   "v": 5,
+   "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---DCFO-P-BS-100-----Fixed-Term-Contract-of-5-6-months---Julius-Baer-s-Intern-Programme---f-m-d-_r-20015-1",
+   "v": 6,
    "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540049",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Los Angeles, CA",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Los Angeles, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Leasing-Summer-2027-Internship---Los-Angeles--CA_REQ540049",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540039",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Portland, OR",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "OR"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Portland, OR",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Leasing-Summer-2027-Internship---Portland--OR_REQ540039",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540042",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Salt Lake City, UT",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "UT"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Salt Lake City, UT",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Leasing-Summer-2027-Internship---Salt-Lake-City--UT_REQ540042",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540050",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "San Diego, CA",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - San Diego, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Leasing-Summer-2027-Internship---San-Diego--CA_REQ540050",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540027",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "San Francisco, CA",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - San Francisco, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Leasing-Summer-2027-Internship---San-Francisco--CA_REQ540027",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540037",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Seattle, WA",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "WA"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Seattle, WA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Leasing-Summer-2027-Internship---Seattle--WA_REQ540037",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-09",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ540030",
-   "last_seen": "2026-10-09",
-   "level": "Undergraduate",
-   "location": "Walnut Creek, CA",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Walnut Creek, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Walnut-Creek-CA/Leasing-Summer-2027-Internship---Walnut-Creek--CA_REQ540030",
-   "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
+   "work_mode": null
   },
   {
    "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
