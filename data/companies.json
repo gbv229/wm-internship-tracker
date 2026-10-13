@@ -124,7 +124,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-13",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 13,
+   "open": 14,
    "sources": [
     {
      "kind": "workday",
@@ -173,7 +173,7 @@
    "hq": "London / New York",
    "last_ok": "2026-10-13",
    "name": "Barclays",
-   "open": 4,
+   "open": 5,
    "sources": [
     {
      "kind": "workday",
@@ -193,7 +193,7 @@
    "hq": "Frankfurt / New York",
    "last_ok": "2026-10-13",
    "name": "Deutsche Bank",
-   "open": 3,
+   "open": 4,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "5b9aefdc6f238ee0",
+     "hash": "1a672abcaba73021",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1306,15 +1306,16 @@
    "domain": "hilltopsecurities.com",
    "focus": "mixed",
    "hq": "Dallas, TX",
-   "last_ok": "2026-10-12",
+   "last_ok": "2026-10-13",
    "name": "Hilltop Securities",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
+     "changed_on": null,
      "hash": "141ec77912857372",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.hilltopsecurities.com/careers/"
     }
    ],
@@ -1414,8 +1415,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-11",
-     "hash": "c59089d01089c674",
+     "changed_on": "2026-10-13",
+     "hash": "8c6796c7161abebd",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1617,8 +1618,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
-     "hash": "e62cfe72615fc75d",
+     "changed_on": "2026-10-13",
+     "hash": "6606e16dbc5dae99",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1755,8 +1756,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "94ab81972a29e91e",
+     "changed_on": "2026-10-13",
+     "hash": "df20ca72edb04123",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2440,8 +2441,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "2ff7edf164480c76",
+     "changed_on": "2026-10-13",
+     "hash": "0ff000a6212a1a03",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2509,7 +2510,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-13",
    "name": "JLL",
-   "open": 37,
+   "open": 30,
    "sources": [
     {
      "kind": "workday",
@@ -2741,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "f57a602298c80b15",
+     "hash": "1ae87882ffacb5c5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2833,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "004c3cb2f96ee15c",
+     "hash": "d87387cd076a7f66",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2857,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "6d72b30e47d599b5",
+     "hash": "c715a6508fc0d3d6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3112,8 +3113,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
-     "hash": "e223adf8dc8a34b4",
+     "changed_on": "2026-10-13",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3353,8 +3354,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "13f0a9b74452b4ca",
+     "changed_on": "2026-10-13",
+     "hash": "625fb1bd574e8dc2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3556,11 +3557,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3986,16 +3986,16 @@
    "domain": "federalrealty.com",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
-   "last_ok": "2026-10-12",
+   "last_ok": "2026-10-13",
    "name": "Federal Realty",
    "open": 0,
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7f76ecfebf80>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "4b7d812410c95d73",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4393,8 +4393,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
-     "hash": "0ea2165430d7bd04",
+     "changed_on": "2026-10-13",
+     "hash": "a01d028b0b24dcd6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4461,8 +4461,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "1963b0ffd37264e8",
+     "changed_on": "2026-10-13",
+     "hash": "ca14ced4a05a714b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4534,7 +4534,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "bc025d41cf3b41ce",
+     "hash": "10492c1de3260155",
      "kind": "page",
      "links": [],
      "ok": true,
