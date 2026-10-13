@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "1a672abcaba73021",
+     "hash": "51ab399755c60168",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -355,7 +355,7 @@
    "hq": "Zurich",
    "last_ok": "2026-10-13",
    "name": "Julius Baer",
-   "open": 1,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -1063,8 +1063,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
-     "hash": "472678d12f3d93a9",
+     "changed_on": "2026-10-13",
+     "hash": "a961b7f5a88673a3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1416,7 +1416,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "8c6796c7161abebd",
+     "hash": "158a4ed420e5a3f7",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1642,8 +1642,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "34eefffaa5c64aab",
+     "changed_on": "2026-10-13",
+     "hash": "b6b6a4249716ba9e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1851,7 +1851,7 @@
    "hq": "Newark, NJ",
    "last_ok": "2026-10-13",
    "name": "Prudential Financial",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "kind": "workday",
@@ -2393,8 +2393,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "c75d5c80addc3fe8",
+     "changed_on": "2026-10-13",
+     "hash": "de45b30289811c4a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2510,7 +2510,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-13",
    "name": "JLL",
-   "open": 30,
+   "open": 32,
    "sources": [
     {
      "kind": "workday",
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "1ae87882ffacb5c5",
+     "hash": "72987c8cbde9b181",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2762,7 +2762,7 @@
    "hq": "Arlington, VA",
    "last_ok": "2026-10-13",
    "name": "CoStar Group",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "d87387cd076a7f66",
+     "hash": "c2bc1f6543758f8d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "c715a6508fc0d3d6",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3355,7 +3355,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "625fb1bd574e8dc2",
+     "hash": "36d795d5a4fdf64a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3557,10 +3557,11 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "changed_on": null,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3577,7 +3578,7 @@
    "hq": "Dallas, TX",
    "last_ok": "2026-10-13",
    "name": "Invitation Homes",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -4394,7 +4395,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "a01d028b0b24dcd6",
+     "hash": "32dddadd7f5bcc43",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4534,7 +4535,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "10492c1de3260155",
+     "hash": "ada20630fc55e5dc",
      "kind": "page",
      "links": [],
      "ok": true,

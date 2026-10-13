@@ -4539,6 +4539,47 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Must have an expected graduation date of December 2027 - June 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "CoStar Group",
+   "company_type": "RE Data & Tech",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "id": "wd:costar:R39900",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "US-VA Richmond - CoStar Tower",
+   "misses": 0,
+   "pay": "$26–$30/hr",
+   "posted": "2026-10-13",
+   "region": "",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "VA"
+   ],
+   "status": "open",
+   "title": "Product Intern - Richmond, VA (Summer 2027)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": "Remote"
+  },
+  {
    "class_evidence": "- Currently enrolled as a junior pursuing a Bachelor’s degree in Accounting.",
    "classes": [
     2028
@@ -5792,6 +5833,48 @@
    "v": 6,
    "weeks": 12,
    "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Rising senior or grad student pursuing a bachelor’s or master’s degree from an accredited university in Finance, Real Estate, Business, Economics, Statistics, Mathematics, Computer Science, or other related fields with an expected graduation date between…",
+   "classes": [
+    2028,
+    2029
+   ],
+   "company": "Invitation Homes",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Development / Construction",
+   "gpa": null,
+   "id": "wd:invitationhomes:R5958",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "Dallas, TX- HQ",
+   "misses": 0,
+   "pay": "$18–$31/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Intern, Construction Lending",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Construction-Lending_R5958",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
   },
   {
    "class_evidence": "- Expected graduation date of December 2027 through June 2028",
@@ -7417,30 +7500,71 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-13",
    "first_seen": "2026-10-13",
-   "function": "Capital Markets / Investment Sales",
+   "function": "Leasing / Brokerage",
    "gpa": null,
-   "id": "wd:jll:REQ524438",
+   "id": "wd:jll:REQ541497",
    "last_seen": "2026-10-13",
    "level": "Undergraduate",
-   "location": "Kuala Lumpur, Malaysia",
-   "misses": 1,
+   "location": "Chicago, IL",
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-13",
-   "region": "International",
+   "region": "US",
    "regions": [
-    "International"
+    "Midwest"
    ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
-   "sponsorship": null,
-   "states": [],
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
    "status": "open",
-   "title": "Intern, Capital Markets (Commercial)",
+   "title": "Leasing Intern",
    "tracks": [
     "real_estate"
    ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Intern--Capital-Markets--Commercial-_REQ524438",
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Intern_REQ541497",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ539620",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "Parsippany, NJ",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NJ"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Parsippany, NJ",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Parsippany-NJ/Leasing-Summer-2027-Internship---Parsippany--NJ_REQ539620",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
@@ -7733,6 +7857,45 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:jll:REQ541736",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "open",
+   "title": "Real Estate Advisory and Consulting Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Real-Estate-Advisory-and-Consulting-Summer-2027-Internship---Washington--DC_REQ541736",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
@@ -7874,6 +8037,43 @@
     "wealth"
    ],
    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GWAM-Financial-Planning---Analysis_JR26081175",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Julius Baer",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:juliusbaer:r-20087-2",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "Zurich",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Intern - Financial Crime Support 90% (f/m/d), Temporary 6 Months",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---Financial-Crime-Support-90---f-m-d---Temporary-6-Months_r-20087-2",
    "v": 6,
    "weeks": null,
    "work_mode": null
@@ -9997,45 +10197,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "The programme is designed to provide meaningful responsibility from day one, culminating in the presentation of a strategic growth opportunity or market-based research project to senior business leaders.",
-   "classes": [
-    2027
-   ],
-   "company": "Prudential Financial",
-   "company_type": "Insurance & Planning",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:pru:R-125068-1",
-   "last_seen": "2026-10-13",
-   "level": "Undergraduate",
-   "location": "London, United Kingdom",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-07",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "PGIM Global Wealth | 2027 Summer Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/London-United-Kingdom/PGIM-Global-Wealth---2027-Summer-Internship_R-125068-1",
-   "v": 6,
-   "weeks": 8,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Rising juniors, rising seniors, or graduate students preferred.",
    "classes": [
     2028,
@@ -11905,6 +12066,44 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "id": "wd:jll:REQ524438",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "Kuala Lumpur, Malaysia",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Intern, Capital Markets (Commercial)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Intern--Capital-Markets--Commercial-_REQ524438",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-13",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-12",
    "first_seen": "2026-10-12",
    "function": "Leasing / Brokerage",
@@ -13233,6 +13432,46 @@
    "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "The programme is designed to provide meaningful responsibility from day one, culminating in the presentation of a strategic growth opportunity or market-based research project to senior business leaders.",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-13",
+   "company": "Prudential Financial",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:pru:R-125068-1",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "London, United Kingdom",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-07",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "PGIM Global Wealth | 2027 Summer Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/London-United-Kingdom/PGIM-Global-Wealth---2027-Summer-Internship_R-125068-1",
+   "v": 6,
+   "weeks": 8,
+   "work_mode": null
   },
   {
    "class_evidence": null,
