@@ -4022,43 +4022,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:citi:26994841",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "London  United Kingdom",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-24",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Citi Global Wealth, Summer Analyst, London - United Kingdom, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- You are in your penultimate year of university pursuing a degree in any discipline (graduating between Dec 2027 - June 2028),",
    "classes": [
     2028
@@ -4499,132 +4462,6 @@
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/XMLNAME-2027-Summer-Intern--Client-Accounting--Tempe_R333480",
    "v": 6,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:cw:R335727",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "CW Site - USA - MA - Boston - 125 High Street",
-   "misses": 1,
-   "pay": "$20–$23/hr",
-   "posted": "2026-09-12",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "EIC 2027 Summer Intern, Boston",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---MA---Boston---125-High-Street/EIC-2027-Summer-Intern--Boston_R335727",
-   "v": 6,
-   "weeks": 8,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:cw:R335216",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "New York, New York, USA",
-   "misses": 1,
-   "pay": "$21–$25/hr",
-   "posted": "2026-09-12",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "EIC 2027 Summer Intern, New York",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/EIC-2027-Summer-Intern--New-York_R335216",
-   "v": 6,
-   "weeks": 8,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:cw:R335729",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "Philadelphia, Pennsylvania, USA",
-   "misses": 1,
-   "pay": "$20–$23/hr",
-   "posted": "2026-09-12",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "PA"
-   ],
-   "status": "open",
-   "title": "EIC 2027 Summer Intern, Philadelphia",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania-USA/EIC-2027-Summer-Intern--Philadelphia_R335729",
-   "v": 6,
-   "weeks": 8,
    "work_mode": null
   },
   {
@@ -5266,48 +5103,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-09",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:cw:R336971",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "East Rutherford, New Jersey, USA",
-   "misses": 1,
-   "pay": "$20–$23/hr",
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "EIC Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/East-Rutherford-New-Jersey-USA/EIC-Summer-Intern_R336971",
-   "v": 6,
-   "weeks": 8,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Cushman & Wakefield",
@@ -5644,45 +5439,6 @@
     "real_estate"
    ],
    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638",
-   "v": 6,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Gables Residential",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Valuation / Research",
-   "gpa": "3.2+",
-   "id": "wd:gables:2026-11903",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "Atlanta Corporate - Atlanta, GA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-12",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "GA"
-   ],
-   "status": "open",
-   "title": "Business Analytics Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://gables.wd5.myworkdayjobs.com/Gables_Careers/job/Atlanta-Corporate---Atlanta-GA/Business-Analytics-Intern_2026-11903",
    "v": 6,
    "weeks": null,
    "work_mode": null
@@ -7478,7 +7234,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Houston, TX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7517,7 +7273,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Boston, MA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7556,7 +7312,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Atlanta, GA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7595,7 +7351,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Minneapolis, MN",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7634,7 +7390,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Charlotte, NC",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7673,7 +7429,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Dallas, TX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7751,7 +7507,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Fort Worth, TX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7829,7 +7585,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "McLean, VA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7868,7 +7624,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Miami, FL",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7907,7 +7663,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Nashville, TN",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -7946,7 +7702,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Orlando, FL",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -8063,7 +7819,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Raleigh, NC",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -8141,7 +7897,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "SAN ANTONIO, TX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -8219,7 +7975,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "San Francisco, CA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -8297,7 +8053,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Walnut Creek, CA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -8336,7 +8092,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Washington, DC",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -8416,7 +8172,7 @@
    "last_seen": "2026-10-12",
    "level": "Undergraduate",
    "location": "Austin, TX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-12",
    "region": "US",
@@ -8828,43 +8584,6 @@
     "wealth"
    ],
    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GWAM-Financial-Planning---Analysis_JR26081175",
-   "v": 6,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Julius Baer",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:juliusbaer:r-19514",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "Zurich",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-30",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Internship at CFO Office 100% [Fixed-Term Contract for 6-12 months until 03.06.2027]",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship-at-CFO-Office-100---Fixed-Term-Contract-for-6-12-months-until-03062027-_r-19514",
    "v": 6,
    "weeks": null,
    "work_mode": null
@@ -9519,49 +9238,6 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Finance_R-052052",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Currently enrolled as a sophomore or junior pursuing a bachelor’s degree.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "LPL Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Operations",
-   "gpa": "3.3+",
-   "id": "wd:lplfinancial:R-052054",
-   "last_seen": "2026-10-12",
-   "level": "Undergraduate",
-   "location": "Fort Mill/Charlotte",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-12",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NC",
-    "SC"
-   ],
-   "status": "open",
-   "title": "Intern 2027 - FAR Program - Risk, Operations, and Compliance",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Risk--Operations--and-Compliance_R-052054",
    "v": 6,
    "weeks": 10,
    "work_mode": null
@@ -11437,6 +11113,88 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Finance, Accounting, Tax, Business or a related field, with an expected graduation date of December 2027 through June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Realty Income",
+   "company_type": "REIT",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Real Estate (general)",
+   "gpa": "3.5+",
+   "id": "wd:realtyincome:R-100332",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "San Diego, California",
+   "misses": 0,
+   "pay": "$21–$25/hr",
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Accounting & Finance Intern - Multiple Opportunities",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Accounting---Finance-Intern---Multiple-Opportunities_R-100332",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Real Estate, Development, Urban Planning, Finance, or related field with an expected graduation date of December 2027 through June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Realty Income",
+   "company_type": "REIT",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "function": "Real Estate (general)",
+   "gpa": "3.5+",
+   "id": "wd:realtyincome:R-100330",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "San Diego, California",
+   "misses": 0,
+   "pay": "$21–$25/hr",
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Commercial Real Estate Intern - Multiple Opportunities",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "company": "Rockefeller Capital Management",
@@ -12476,6 +12234,173 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-12",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:citi:26994841",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "London  United Kingdom",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-24",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Citi Global Wealth, Summer Analyst, London - United Kingdom, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-10-12",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:cw:R335727",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "CW Site - USA - MA - Boston - 125 High Street",
+   "misses": 2,
+   "pay": "$20–$23/hr",
+   "posted": "2026-09-12",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "EIC 2027 Summer Intern, Boston",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---MA---Boston---125-High-Street/EIC-2027-Summer-Intern--Boston_R335727",
+   "v": 6,
+   "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-10-12",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:cw:R335216",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "New York, New York, USA",
+   "misses": 2,
+   "pay": "$21–$25/hr",
+   "posted": "2026-09-12",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "EIC 2027 Summer Intern, New York",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/EIC-2027-Summer-Intern--New-York_R335216",
+   "v": 6,
+   "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-10-12",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:cw:R335729",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Philadelphia, Pennsylvania, USA",
+   "misses": 2,
+   "pay": "$20–$23/hr",
+   "posted": "2026-09-12",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "PA"
+   ],
+   "status": "closed",
+   "title": "EIC 2027 Summer Intern, Philadelphia",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania-USA/EIC-2027-Summer-Intern--Philadelphia_R335729",
+   "v": 6,
+   "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-09",
    "company": "Cushman & Wakefield",
    "company_type": "CRE Services & Brokerage",
@@ -12508,6 +12433,89 @@
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ho-Chi-Minh---District-1-9-11-Ton-Duc-Thang-Street-Sai-Gon-Ward/EIC-Intern---Retail-Leasing--HCMC_R332443",
    "v": 5,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-10-12",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-09",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:cw:R336971",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "East Rutherford, New Jersey, USA",
+   "misses": 2,
+   "pay": "$20–$23/hr",
+   "posted": "2026-10-09",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "EIC Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/East-Rutherford-New-Jersey-USA/EIC-Summer-Intern_R336971",
+   "v": 6,
+   "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-12",
+   "company": "Gables Residential",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Valuation / Research",
+   "gpa": "3.2+",
+   "id": "wd:gables:2026-11903",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Atlanta Corporate - Atlanta, GA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "closed",
+   "title": "Business Analytics Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://gables.wd5.myworkdayjobs.com/Gables_Careers/job/Atlanta-Corporate---Atlanta-GA/Business-Analytics-Intern_2026-11903",
+   "v": 6,
    "weeks": null,
    "work_mode": null
   },
@@ -12676,6 +12684,44 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-12",
+   "company": "Julius Baer",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:juliusbaer:r-19514",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Zurich",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-30",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Internship at CFO Office 100% [Fixed-Term Contract for 6-12 months until 03.06.2027]",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship-at-CFO-Office-100---Fixed-Term-Contract-for-6-12-months-until-03062027-_r-19514",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
    "classes": [
     2029
@@ -12757,6 +12803,50 @@
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Pottstown-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Pottstown--PA_R-41222",
    "v": 5,
    "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Currently enrolled as a sophomore or junior pursuing a bachelor’s degree.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-10-12",
+   "company": "LPL Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Operations",
+   "gpa": "3.3+",
+   "id": "wd:lplfinancial:R-052054",
+   "last_seen": "2026-10-12",
+   "level": "Undergraduate",
+   "location": "Fort Mill/Charlotte",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-12",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "SC"
+   ],
+   "status": "closed",
+   "title": "Intern 2027 - FAR Program - Risk, Operations, and Compliance",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Risk--Operations--and-Compliance_R-052054",
+   "v": 6,
+   "weeks": 10,
    "work_mode": null
   },
   {

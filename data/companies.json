@@ -124,7 +124,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-12",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 14,
+   "open": 13,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "65584f2b96c52824",
+     "hash": "76c04cc539926fb1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -355,7 +355,7 @@
    "hq": "Zurich",
    "last_ok": "2026-10-12",
    "name": "Julius Baer",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -1064,7 +1064,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "9925d5792c4eb154",
+     "hash": "472678d12f3d93a9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1128,7 +1128,7 @@
    "hq": "San Diego, CA",
    "last_ok": "2026-10-12",
    "name": "LPL Financial",
-   "open": 10,
+   "open": 9,
    "sources": [
     {
      "kind": "workday",
@@ -1572,8 +1572,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-11",
-     "hash": "f3c3959ddf31a3ef",
+     "changed_on": "2026-10-12",
+     "hash": "209ccbdb00205d66",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1619,7 +1619,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "6606e16dbc5dae99",
+     "hash": "e62cfe72615fc75d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2466,7 +2466,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "d2383e7de3514a25",
+     "hash": "a13c11ef431197b0",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2530,7 +2530,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-12",
    "name": "Cushman & Wakefield",
-   "open": 25,
+   "open": 21,
    "sources": [
     {
      "kind": "workday",
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "a51023889fe6c165",
+     "hash": "d84612d198ca2951",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "6781e2742b853f02",
+     "hash": "9236c41937949d93",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "45d748f45dca166f",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3114,7 +3114,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "d271bbeb95fb5d04",
+     "hash": "e223adf8dc8a34b4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3446,7 +3446,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-12",
    "name": "Gables Residential",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "kind": "workday",
@@ -3728,7 +3728,7 @@
    "hq": "San Diego, CA",
    "last_ok": "2026-10-12",
    "name": "Realty Income",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -4394,7 +4394,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "08a2168e9f3b18c1",
+     "hash": "0ea2165430d7bd04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4534,7 +4534,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "hash": "2079af4f06124819",
+     "hash": "fc1c875c402e4e84",
      "kind": "page",
      "links": [],
      "ok": true,
