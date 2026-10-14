@@ -193,7 +193,7 @@
    "hq": "Frankfurt / New York",
    "last_ok": "2026-10-14",
    "name": "Deutsche Bank",
-   "open": 4,
+   "open": 5,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "ef7900a72ed450c1",
+     "hash": "2a6dadce3851f36f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1108,7 +1108,7 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-14",
    "name": "Ameriprise Financial",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -1415,8 +1415,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
-     "hash": "2e6b4332b4e9991f",
+     "changed_on": "2026-10-14",
+     "hash": "158a4ed420e5a3f7",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1618,8 +1618,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
-     "hash": "c2c03e94b71eef16",
+     "changed_on": "2026-10-14",
+     "hash": "49a248b2491cb793",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1756,8 +1756,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
-     "hash": "df20ca72edb04123",
+     "changed_on": "2026-10-14",
+     "hash": "a1c210b1ea99ab9c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2510,7 +2510,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-14",
    "name": "JLL",
-   "open": 31,
+   "open": 32,
    "sources": [
     {
      "kind": "workday",
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "a19b0d103d50b1bc",
+     "hash": "d9984ae3254ddaf2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "6717bcc6c46b0434",
+     "hash": "1ee6ca2bbd378e35",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "45d748f45dca166f",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3552,15 +3552,16 @@
    "domain": "coniferllc.com",
    "focus": "real_estate",
    "hq": "Rochester, NY",
-   "last_ok": "2026-10-13",
+   "last_ok": "2026-10-14",
    "name": "Conifer Realty",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "changed_on": null,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3920,7 +3921,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "50e8f1ccb0b5d74a",
+     "hash": "4ed8dcaf2fb4dbea",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4534,7 +4535,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "935640a098b1b429",
+     "hash": "7fbb8b6e7feae814",
      "kind": "page",
      "links": [],
      "ok": true,

@@ -458,47 +458,6 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
-   "function": "Technology / Data",
-   "gpa": null,
-   "id": "wd:ameriprise:3742",
-   "last_seen": "2026-10-13",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-12",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Digital Product Owner Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Ameriprise Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
    "id": "wd:ameriprise:3498",
@@ -4196,7 +4155,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "London  United Kingdom",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-24",
    "region": "International",
@@ -5569,6 +5528,43 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "wd:db:R0454925",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Luxembourg 2 Blvd K. Adenauer",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-14",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Internship Private Bank – Client Lifecyle Management Team",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/Internship-Private-Bank---Client-Lifecyle-Management-Team_R0454925",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Deutsche Bank",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-13",
    "first_seen": "2026-10-13",
    "function": "Wealth Management",
@@ -5590,7 +5586,7 @@
    "sponsorship": null,
    "states": [],
    "status": "open",
-   "title": "Intern, Luxembourg",
+   "title": "Internship Private Bank – Client Lifecyle Management Team",
    "tracks": [
     "wealth"
    ],
@@ -7422,6 +7418,43 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:jll:REQ535877",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Singapore",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-14",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Expression of Interest: 2027 Summer Internship Program",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Expression-of-Interest--2027-Summer-Internship-Program_REQ535877",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
@@ -7588,7 +7621,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-13",
    "region": "US",
@@ -11679,6 +11712,48 @@
    "v": 6,
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-14",
+   "company": "Ameriprise Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Technology / Data",
+   "gpa": null,
+   "id": "wd:ameriprise:3742",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Digital Product Owner Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Digital-Product-Owner-Intern_R26_3742",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
