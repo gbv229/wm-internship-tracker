@@ -2706,7 +2706,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Toronto, ON",
-   "misses": 0,
+   "misses": 1,
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
    "posted": "2026-10-05",
    "region": "Canada",
@@ -2780,7 +2780,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Toronto, ON",
-   "misses": 0,
+   "misses": 1,
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
    "posted": "2026-10-02",
    "region": "Canada",
@@ -3911,6 +3911,45 @@
   {
    "class_evidence": null,
    "classes": [],
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "id": "wd:ceritypartners:R985",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Santa Barbara, CA",
+   "misses": 0,
+   "pay": "$25/hr",
+   "posted": "2026-10-14",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Santa-Barbara-CA/Wealth-Management-Internship_R985",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "company": "Charles Schwab",
    "company_type": "Brokerage & Platform",
    "deadline": null,
@@ -4136,43 +4175,6 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
-   "v": 6,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:citi:26994841",
-   "last_seen": "2026-10-14",
-   "level": "Undergraduate",
-   "location": "London  United Kingdom",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-24",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Citi Global Wealth, Summer Analyst, London - United Kingdom, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841",
    "v": 6,
    "weeks": 10,
    "work_mode": null
@@ -5051,7 +5053,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Singapore",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-12",
    "region": "International",
@@ -5853,7 +5855,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Seoul, Seoul",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-15",
    "region": "International",
@@ -5890,7 +5892,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Seoul, Seoul",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-15",
    "region": "International",
@@ -7426,7 +7428,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Singapore",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-14",
    "region": "International",
@@ -7602,45 +7604,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471",
-   "v": 6,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-13",
-   "first_seen": "2026-10-13",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "id": "wd:jll:REQ541497",
-   "last_seen": "2026-10-14",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Leasing Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Intern_REQ541497",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
@@ -8039,6 +8002,43 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "function": "Development / Construction",
+   "gpa": null,
+   "id": "wd:jll:REQ460223",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Brussels, BEL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-14",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Tétris Intern Project Manager Brussels",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Brussels-BEL/Ttris-Intern-Project-Manager-Brussels_REQ460223",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
@@ -9575,11 +9575,50 @@
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
+   "id": "wd:ms:JR042973-2",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Baltimore, Maryland, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-24",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MD"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
    "id": "wd:ms:JR042272-1",
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "San Antonio, Texas, United States of America",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-05",
    "region": "US",
@@ -9610,34 +9649,34 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-12",
-   "first_seen": "2026-10-08",
+   "detail_at": "2026-10-14",
+   "first_seen": "2026-10-14",
    "function": "Wealth Management",
    "gpa": null,
-   "id": "wd:ms:JR042973-2",
+   "id": "wd:ms:JR045320",
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
-   "location": "Baltimore, Maryland, United States of America",
+   "location": "Beverly Hills, California, United States of America",
    "misses": 0,
-   "pay": null,
-   "posted": "2026-09-24",
+   "pay": "$20/hr",
+   "posted": "2026-10-14",
    "region": "US",
    "regions": [
-    "Mid-Atlantic"
+    "West"
    ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
    "sponsorship": null,
    "states": [
-    "MD"
+    "CA"
    ],
    "status": "open",
-   "title": "Intern",
+   "title": "Intern - Bilingual English/Mandarin",
    "tracks": [
     "wealth"
    ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320",
    "v": 6,
    "weeks": null,
    "work_mode": null
@@ -10290,7 +10329,7 @@
    "last_seen": "2026-10-14",
    "level": "Undergraduate",
    "location": "Alpharetta, GA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$22/hr",
    "posted": "2026-10-09",
    "region": "US",
@@ -11838,6 +11877,44 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-14",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-12",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:citi:26994841",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "London  United Kingdom",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-24",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Citi Global Wealth, Summer Analyst, London - United Kingdom, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
    "classes": [
     2027,
@@ -12247,6 +12324,46 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Intern--Capital-Markets--Commercial-_REQ524438",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-14",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "id": "wd:jll:REQ541497",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Leasing Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Intern_REQ541497",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"

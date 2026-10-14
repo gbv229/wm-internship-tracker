@@ -7,7 +7,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-14",
    "name": "Morgan Stanley",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -124,7 +124,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-14",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 14,
+   "open": 13,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "2a6dadce3851f36f",
+     "hash": "b34dad4ce50cc5bf",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1416,7 +1416,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "158a4ed420e5a3f7",
+     "hash": "820df5848f5fc973",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1459,7 +1459,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-14",
    "name": "Cerity Partners",
-   "open": 18,
+   "open": 19,
    "sources": [
     {
      "kind": "workday",
@@ -1526,8 +1526,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "d4faeab245eb73d0",
+     "changed_on": "2026-10-14",
+     "hash": "9630ad8d990dc21b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1573,7 +1573,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "209ccbdb00205d66",
+     "hash": "f3c3959ddf31a3ef",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "d9984ae3254ddaf2",
+     "hash": "9628cb7a3867ed5c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "1ee6ca2bbd378e35",
+     "hash": "a5b889d0c3610eb9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "cede8d21716ead37",
+     "hash": "45d748f45dca166f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4535,7 +4535,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "7fbb8b6e7feae814",
+     "hash": "e252e0c604ce28fc",
      "kind": "page",
      "links": [],
      "ok": true,
