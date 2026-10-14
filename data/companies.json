@@ -7,7 +7,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-14",
    "name": "Morgan Stanley",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -263,7 +263,7 @@
    "hq": "Toronto / Chicago",
    "last_ok": "2026-10-14",
    "name": "CIBC Private Wealth",
-   "open": 6,
+   "open": 4,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "b34dad4ce50cc5bf",
+     "hash": "89e6b2085257bc42",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1064,9 +1064,12 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "ebd8f2db851052ad",
+     "hash": "b0e5200b83d097d6",
      "kind": "page",
-     "links": [],
+     "links": [
+      "Financial Advisor Branch Intern | https://careers.edwardjones.com/job/24008636/financial-advisor-branch-intern-ashland-va/",
+      "Financial Advisor Branch Intern | https://careers.edwardjones.com/job/24008646/financial-advisor-branch-intern-ashland-va/"
+     ],
      "ok": true,
      "url": "https://careers.edwardjones.com/"
     }
@@ -1215,8 +1218,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-09",
-     "hash": "76ac7df822f316ca",
+     "changed_on": "2026-10-14",
+     "hash": "3ad39f491e7bfc64",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1416,7 +1419,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "820df5848f5fc973",
+     "hash": "b54bac035ffafcad",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -2163,7 +2166,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-14",
    "name": "Invesco",
-   "open": 2,
+   "open": 0,
    "sources": [
     {
      "kind": "workday",
@@ -2510,7 +2513,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-14",
    "name": "JLL",
-   "open": 32,
+   "open": 31,
    "sources": [
     {
      "kind": "workday",
@@ -2530,7 +2533,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-14",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 21,
    "sources": [
     {
      "kind": "workday",
@@ -2742,7 +2745,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "9628cb7a3867ed5c",
+     "hash": "53cfee60d262735d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2837,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "a5b889d0c3610eb9",
+     "hash": "a70f4e49fe7664c3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2861,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "45d748f45dca166f",
+     "hash": "2cd15b52e7be55bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3114,7 +3117,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3557,11 +3560,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3618,7 +3620,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-14",
    "name": "PulteGroup",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "kind": "workday",
@@ -4438,8 +4440,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
-     "hash": "394efde065c95e5a",
+     "changed_on": "2026-10-14",
+     "hash": "393306ec21c7f3af",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4535,7 +4537,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
-     "hash": "e252e0c604ce28fc",
+     "hash": "b3fd0581f5f27cb8",
      "kind": "page",
      "links": [],
      "ok": true,
