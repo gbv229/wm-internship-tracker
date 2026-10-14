@@ -946,6 +946,47 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:baird:R20261159-1",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "WI-Waukesha",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Internship - Private Wealth Management (Waukesha, WI Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Waukesha/Internship---Private-Wealth-Management--Waukesha--WI-Summer-2027-_R20261159-1",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of May 2028 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-12",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
@@ -1712,6 +1753,47 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:baird:R20261160-1",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "WI-Mequon",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Internship – Private Wealth Management (Mequon, WI Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Mequon/Internship---Private-Wealth-Management--Mequon--WI-Summer-2027-_R20261160-1",
    "v": 6,
    "weeks": null,
    "work_mode": null
@@ -7545,7 +7627,7 @@
    "last_seen": "2026-10-13",
    "level": "Undergraduate",
    "location": "Parsippany, NJ",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-13",
    "region": "US",
@@ -10310,6 +10392,43 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000186438",
+   "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "wd:rbc:R-0000190230-1",
+   "last_seen": "2026-10-13",
+   "level": "Undergraduate",
+   "location": "OSHAWA, Ontario, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OSHAWA-Ontario-Canada/Financial-Advisor-Intern_R-0000190230-1",
    "v": 6,
    "weeks": null,
    "work_mode": null

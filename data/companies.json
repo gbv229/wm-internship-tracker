@@ -213,7 +213,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-13",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 6,
+   "open": 7,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "51ab399755c60168",
+     "hash": "3ba3e87c18a5cf7f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1172,7 +1172,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-13",
    "name": "Baird",
-   "open": 30,
+   "open": 32,
    "sources": [
     {
      "kind": "workday",
@@ -1416,7 +1416,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "158a4ed420e5a3f7",
+     "hash": "2e6b4332b4e9991f",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1619,7 +1619,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "6606e16dbc5dae99",
+     "hash": "c2c03e94b71eef16",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2442,7 +2442,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "0ff000a6212a1a03",
+     "hash": "40120a04e0ec99b2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2465,8 +2465,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
-     "hash": "a13c11ef431197b0",
+     "changed_on": "2026-10-13",
+     "hash": "f254765fb6184dcd",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2742,7 +2742,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "72987c8cbde9b181",
+     "hash": "4872b96724bde2d0",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2834,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "c2bc1f6543758f8d",
+     "hash": "c3a16a676cf4ed07",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2858,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "cede8d21716ead37",
+     "hash": "2cd15b52e7be55bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3557,11 +3557,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -4535,7 +4534,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
-     "hash": "ada20630fc55e5dc",
+     "hash": "4bd0095e061ab821",
      "kind": "page",
      "links": [],
      "ok": true,
