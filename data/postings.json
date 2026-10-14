@@ -5739,6 +5739,48 @@
    "company_type": "Developer & Operator",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:invitationhomes:R5938",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Dallas, TX- HQ",
+   "misses": 0,
+   "pay": "$18–$31/hr",
+   "posted": "2026-10-14",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Intern, Acquistions",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Acquistions_R5938",
+   "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Rising senior or grad student pursuing a bachelor’s or master’s degree from an accredited university in Finance, Real Estate, Business, Economics, Statistics, Mathematics, Computer Science, or other related fields with an expected graduation date between…",
+   "classes": [
+    2028,
+    2029
+   ],
+   "company": "Invitation Homes",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-13",
    "first_seen": "2026-10-13",
    "function": "Development / Construction",
@@ -7780,43 +7822,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054",
-   "v": 6,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-14",
-   "first_seen": "2026-10-14",
-   "function": "Development / Construction",
-   "gpa": null,
-   "id": "wd:jll:REQ460223",
-   "last_seen": "2026-10-14",
-   "level": "Undergraduate",
-   "location": "Brussels, BEL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-14",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Tétris Intern Project Manager Brussels",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Brussels-BEL/Ttris-Intern-Project-Manager-Brussels_REQ460223",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
@@ -13289,6 +13294,44 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Office-Leasing-Summer-2027-Internship---Austin--Texas_REQ539563",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-14",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "function": "Development / Construction",
+   "gpa": null,
+   "id": "wd:jll:REQ460223",
+   "last_seen": "2026-10-14",
+   "level": "Undergraduate",
+   "location": "Brussels, BEL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-14",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Tétris Intern Project Manager Brussels",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Brussels-BEL/Ttris-Intern-Project-Manager-Brussels_REQ460223",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
