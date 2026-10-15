@@ -53,7 +53,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-15",
    "name": "J.P. Morgan",
-   "open": 20,
+   "open": 21,
    "sources": [
     {
      "kind": "oracle",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "4e0bbbcf6c7325bb",
+     "hash": "d7a5f47dff64affa",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1086,7 +1086,7 @@
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-10-15",
    "name": "Raymond James",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -1110,7 +1110,7 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-15",
    "name": "Ameriprise Financial",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -1174,7 +1174,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-15",
    "name": "Baird",
-   "open": 32,
+   "open": 33,
    "sources": [
     {
      "kind": "workday",
@@ -1292,7 +1292,9 @@
      "changed_on": null,
      "hash": "e1d7b50179b77e67",
      "kind": "page",
-     "links": [],
+     "links": [
+      "Our Brand Ambassadors Right Arrow | https://www.stephens.com/our-brand-ambassadors"
+     ],
      "ok": true,
      "url": "https://www.stephens.com/careers/"
     }
@@ -1528,8 +1530,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-14",
-     "hash": "9630ad8d990dc21b",
+     "changed_on": "2026-10-15",
+     "hash": "60e414096248818e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2468,7 +2470,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "97a3953fe297d1d5",
+     "hash": "0c9666e2f1d008ff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2512,7 +2514,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-15",
    "name": "JLL",
-   "open": 31,
+   "open": 30,
    "sources": [
     {
      "kind": "workday",
@@ -2722,7 +2724,9 @@
      "changed_on": null,
      "hash": "168f2e83705cc6aa",
      "kind": "page",
-     "links": [],
+     "links": [
+      "Lee Summit | https://www.lee-associates.com/summit/"
+     ],
      "ok": true,
      "url": "https://www.lee-associates.com/careers/"
     }
@@ -2744,7 +2748,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "b0399c8f37c3a9be",
+     "hash": "aa37336cd3a86c22",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2860,7 +2864,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "60cd192fc0e4ef71",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3116,7 +3120,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "d271bbeb95fb5d04",
+     "hash": "e223adf8dc8a34b4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4536,7 +4540,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "895d21cda6e15998",
+     "hash": "470c44118cf990d3",
      "kind": "page",
      "links": [],
      "ok": true,

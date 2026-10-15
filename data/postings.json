@@ -425,7 +425,7 @@
    "location": "Minneapolis, Minnesota",
    "misses": 0,
    "pay": "$28/hr",
-   "posted": "2026-09-25",
+   "posted": "2026-09-24",
    "region": "US",
    "regions": [
     "Midwest"
@@ -443,54 +443,9 @@
     "wealth"
    ],
    "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Business-Development-Intern_R26_3848",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Ameriprise Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "id": "wd:ameriprise:3498",
-   "last_seen": "2026-10-15",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota; Las Vegas, Nevada; Charlotte, North Carolina",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-06",
-   "region": "US",
-   "regions": [
-    "Southeast",
-    "Midwest",
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN",
-    "NC",
-    "NV"
-   ],
-   "status": "open",
-   "title": "Financial Advisor in Training Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Financial-Advisor-in-Training-Intern_R26_3498",
-   "v": 6,
-   "weeks": null,
-   "work_mode": "On-site"
   },
   {
    "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
@@ -529,7 +484,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81955",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -570,7 +525,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81320",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -611,7 +566,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81954",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -652,7 +607,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81316",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -693,7 +648,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81956",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -734,7 +689,7 @@
     "wealth"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81319",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -1038,7 +993,7 @@
    "location": "WI-Milwaukee",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-23",
+   "posted": "2026-09-22",
    "region": "",
    "regions": [
     "Midwest"
@@ -1056,7 +1011,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -1102,6 +1057,47 @@
    "work_mode": "Hybrid"
   },
   {
+   "class_evidence": "- Anticipated graduation date of May 2028 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Technology / Data",
+   "gpa": null,
+   "id": "wd:baird:R2026962-2",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "WI-Milwaukee",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Internship – Data & Analytics (Year-Round)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2",
+   "v": 7,
+   "weeks": null,
+   "work_mode": "Hybrid"
+  },
+  {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
    "classes": [
     2028
@@ -1138,7 +1134,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -1425,7 +1421,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -1589,7 +1585,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -1671,7 +1667,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Private-Wealth-Management--Louisville--KY-Summer-2027-_R2026954-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -1899,7 +1895,7 @@
    "location": "AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-02",
+   "posted": "2026-10-01",
    "region": "",
    "regions": [
     "Southwest"
@@ -1917,7 +1913,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -1958,7 +1954,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -2104,7 +2100,7 @@
    "location": "WI-Milwaukee",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-23",
+   "posted": "2026-09-22",
    "region": "",
    "regions": [
     "Midwest"
@@ -2122,7 +2118,7 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2159,7 +2155,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000124665",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -2170,7 +2166,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-13",
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-13",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -2196,7 +2192,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Geneva-18-20-Chemin-de-Grange-Canal/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Geneva_JR-0000124673",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -2233,7 +2229,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Monaco---Default-Legacy-Site/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Monaco_JR-0000124680",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -2270,7 +2266,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-London_JR-0000124643",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -2309,7 +2305,7 @@
     "wealth"
    ],
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-Singapore_JR-0000117561",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -2671,7 +2667,7 @@
    "location": "Toronto, ON",
    "misses": 0,
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
-   "posted": "2026-10-15",
+   "posted": "2026-10-14",
    "region": "Canada",
    "regions": [
     "Canada"
@@ -2687,7 +2683,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Investment-Strategy-Analyst--Wealth-Solutions-Winter-Co-op-2027_2620494",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2708,7 +2704,7 @@
    "location": "Toronto, ON",
    "misses": 0,
    "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
-   "posted": "2026-10-15",
+   "posted": "2026-10-14",
    "region": "Canada",
    "regions": [
     "Canada"
@@ -2724,7 +2720,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -2747,7 +2743,7 @@
    "location": "Chicago, IL",
    "misses": 0,
    "pay": "$25/hr",
-   "posted": "2026-10-01",
+   "posted": "2026-09-30",
    "region": "US",
    "regions": [
     "Midwest"
@@ -2765,7 +2761,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "On-site"
   },
@@ -2788,7 +2784,7 @@
    "location": "Chicago, IL",
    "misses": 0,
    "pay": "$25/hr",
-   "posted": "2026-10-01",
+   "posted": "2026-09-30",
    "region": "US",
    "regions": [
     "Midwest"
@@ -2806,7 +2802,7 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397-1",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "On-site"
   },
@@ -2950,7 +2946,7 @@
    "location": "Fairfield, IA",
    "misses": 0,
    "pay": "$17–$26/hr",
-   "posted": "2026-09-22",
+   "posted": "2026-09-21",
    "region": "US",
    "regions": [
     "Midwest"
@@ -2968,7 +2964,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Advocacy---Supervision-Intern_R-2025-240",
-   "v": 6,
+   "v": 7,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -2989,7 +2985,7 @@
    "location": "Fairfield, IA",
    "misses": 0,
    "pay": "$17–$26/hr",
-   "posted": "2026-09-22",
+   "posted": "2026-09-21",
    "region": "US",
    "regions": [
     "Midwest"
@@ -3007,7 +3003,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Business-Operations-Intern_R-2025-224",
-   "v": 6,
+   "v": 7,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -3028,7 +3024,7 @@
    "location": "Fairfield, IA",
    "misses": 0,
    "pay": "$17–$26/hr",
-   "posted": "2026-09-22",
+   "posted": "2026-09-21",
    "region": "US",
    "regions": [
     "Midwest"
@@ -3046,7 +3042,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Compliance-Intern_R-2025-230",
-   "v": 6,
+   "v": 7,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -3067,7 +3063,7 @@
    "location": "Fairfield, IA",
    "misses": 0,
    "pay": "$17–$26/hr",
-   "posted": "2026-09-22",
+   "posted": "2026-09-21",
    "region": "US",
    "regions": [
     "Midwest"
@@ -3085,7 +3081,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Financial-Operations-Analyst-Intern_R-2025-236",
-   "v": 6,
+   "v": 7,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -3106,7 +3102,7 @@
    "location": "Phoenix, AZ",
    "misses": 0,
    "pay": "$17–$26/hr",
-   "posted": "2026-09-22",
+   "posted": "2026-09-21",
    "region": "US",
    "regions": [
     "Southwest"
@@ -3124,7 +3120,7 @@
     "wealth"
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Intern_R-2025-238",
-   "v": 6,
+   "v": 7,
    "weeks": 11,
    "work_mode": "On-site"
   },
@@ -3908,7 +3904,7 @@
     "wealth"
    ],
    "url": "https://career-schwab.icims.com/jobs/126238/2027-financial-service-%26-support-intern---phoenix/job",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -3921,7 +3917,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-13",
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-13",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -3949,7 +3945,7 @@
     "wealth"
    ],
    "url": "https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---westlake-only/job",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": "On-site"
   },
@@ -3988,7 +3984,7 @@
     "wealth"
    ],
    "url": "https://career-schwab.icims.com/jobs/126253/2027-sox-compliance-intern/job",
-   "v": 6,
+   "v": 7,
    "weeks": 3,
    "work_mode": "On-site"
   },
@@ -4027,7 +4023,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/XMLNAME-2025-Wealth-Management-Summer-Internship--Dubai--UAE--UAE-Nationals-preferred-_25820546",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4048,7 +4044,7 @@
    "location": "Bertrange  Luxembourg",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-25",
+   "posted": "2026-09-24",
    "region": "International",
    "regions": [
     "International"
@@ -4064,7 +4060,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4085,7 +4081,7 @@
    "location": "Geneva  Switzerland",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-25",
+   "posted": "2026-09-24",
    "region": "International",
    "regions": [
     "International"
@@ -4101,7 +4097,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4140,7 +4136,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Wealth---Citigold--Summer-Analyst--Hong-Kong--2027_26988474",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4179,7 +4175,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Wealth---Citigold--Summer-Analyst--Singapore--2027_26988476",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4220,7 +4216,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---LATAM--Summer-Analyst--Miami---USA--2027_26994351",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4261,7 +4257,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---LATAM--Summer-Analyst--New-York---USA--2027_26994367",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4300,7 +4296,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Wealth---Private-Bank--Summer-Analyst---Singapore--2027_26988484",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4339,7 +4335,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Wealth---Private-Bank--Summer-Analyst--Hong-Kong--2027_26988478",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4380,7 +4376,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Wealth---Summer-Analyst--Dallas---USA--2027_26994348",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4421,7 +4417,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Beverly-Hills-California-United-States/Wealth---Summer-Analyst--Los-Angeles--USA--2027_26994337",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4462,7 +4458,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---Summer-Analyst--Miami--USA--2027_26994091",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -4503,7 +4499,7 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -5355,7 +5351,7 @@
    "location": "Singapore, One Raffles Quay",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-01",
+   "posted": "2026-09-30",
    "region": "International",
    "regions": [
     "International"
@@ -5371,7 +5367,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/Business-Analysis-Intern---YTP-program_R0453246",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -5392,7 +5388,7 @@
    "location": "Zürich Prime Tower",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-23",
+   "posted": "2026-09-22",
    "region": "International",
    "regions": [
     "International"
@@ -5408,7 +5404,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Prime-Tower/Intern--Client-Service---Emerging-Europe--f-m-x-_R0450623",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -5419,7 +5415,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-14",
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-14",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -5445,7 +5441,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/Internship-Private-Bank---Client-Lifecyle-Management-Team_R0454925",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -5456,9 +5452,9 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-13",
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-13",
-   "function": "Wealth Management",
+   "function": "Advisory / Client Service",
    "gpa": null,
    "id": "wd:db:R0454927",
    "last_seen": "2026-10-15",
@@ -5466,7 +5462,7 @@
    "location": "Luxembourg 2 Blvd K. Adenauer",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-13",
+   "posted": "2026-10-14",
    "region": "International",
    "regions": [
     "International"
@@ -5482,7 +5478,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/Intern--Luxembourg_R0454927",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -5503,7 +5499,7 @@
    "location": "Geneva Place des Bergues 3",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-29",
+   "posted": "2026-09-28",
    "region": "International",
    "regions": [
     "International"
@@ -5519,7 +5515,7 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Geneva-Place-des-Bergues-3/Sales-Coverage-Support-Intern--f-m-x-_R0450629",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -5725,7 +5721,7 @@
     "wealth"
    ],
    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Wealth-Management-Internship_R0075378",
-   "v": 6,
+   "v": 7,
    "weeks": 8,
    "work_mode": null
   },
@@ -5854,7 +5850,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777959",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -5901,7 +5897,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777867",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -5945,7 +5941,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768182",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -5984,7 +5980,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773761",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6023,7 +6019,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773791",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6062,7 +6058,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773802",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6101,7 +6097,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773834",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6140,7 +6136,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774271",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6179,7 +6175,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773855",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6218,7 +6214,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773872",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6257,7 +6253,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773470",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6296,7 +6292,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774194",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6335,7 +6331,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774210",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6374,7 +6370,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774212",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6413,7 +6409,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774216",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6452,7 +6448,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774227",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6491,7 +6487,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774235",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6530,7 +6526,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774239",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6569,7 +6565,7 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281",
-   "v": 6,
+   "v": 7,
    "weeks": 9,
    "work_mode": null
   },
@@ -6612,9 +6608,48 @@
     "wealth"
    ],
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789075",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "J.P. Morgan",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "or:jpmc:210796405",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Fayetteville, GA, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-07",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "open",
+   "title": "Relationship Banker - Georgia South - Summit Point  - Fayetteville, Georgia",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796405",
+   "v": 7,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -7278,43 +7313,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-15",
-   "first_seen": "2026-10-15",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:jll:REQ539234-1",
-   "last_seen": "2026-10-15",
-   "level": "Undergraduate",
-   "location": "Warsaw, POL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-15",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Controllership Intern, EMEA REMS",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Controllership-Intern--EMEA-REMS_REQ539234-1",
-   "v": 6,
-   "weeks": null,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -7944,7 +7942,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-13",
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-13",
    "function": "Wealth Management",
    "gpa": null,
@@ -7970,7 +7968,7 @@
     "wealth"
    ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---Financial-Crime-Support-90---f-m-d---Temporary-6-Months_r-20087-2",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -7991,7 +7989,7 @@
    "location": "Zurich",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-02",
+   "posted": "2026-10-01",
    "region": "International",
    "regions": [
     "International"
@@ -8007,7 +8005,7 @@
     "wealth"
    ],
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship--Data-Analytics-Intern---Product-Control-100---f-m-d-----6-12-month-Internship-Programme-_r-19706-2",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -8030,7 +8028,7 @@
    "location": "Boston, MA",
    "misses": 0,
    "pay": "$27/hr",
-   "posted": "2026-10-08",
+   "posted": "2026-10-07",
    "region": "US",
    "regions": [
     "Northeast"
@@ -8048,7 +8046,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8089,7 +8087,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8112,7 +8110,7 @@
    "location": "Dallas, TX",
    "misses": 0,
    "pay": "$27/hr",
-   "posted": "2026-09-22",
+   "posted": "2026-09-21",
    "region": "US",
    "regions": [
     "Southwest"
@@ -8130,7 +8128,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8153,7 +8151,7 @@
    "location": "Denver, CO",
    "misses": 0,
    "pay": "$27/hr",
-   "posted": "2026-09-28",
+   "posted": "2026-09-27",
    "region": "US",
    "regions": [
     "West"
@@ -8171,7 +8169,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8212,7 +8210,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8253,7 +8251,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8294,7 +8292,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8335,7 +8333,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Erie-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Erie--PA_R-41223",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8376,7 +8374,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Goshen-IN/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Goshen--IN_R-41215",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8417,7 +8415,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8458,7 +8456,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Advisory-Services_R-41213",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8499,7 +8497,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Client-Support---Experience_R-41211",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8540,7 +8538,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Wealth-Management-Internship---Investment-Research---Analysis_R-41214",
-   "v": 6,
+   "v": 7,
    "weeks": 5,
    "work_mode": null
   },
@@ -8563,7 +8561,7 @@
    "location": "Fort Mill/Charlotte; Tempe",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-03",
+   "posted": "2026-10-02",
    "region": "US",
    "regions": [
     "Southeast",
@@ -8584,7 +8582,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Business-Development_R-052926",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -8624,7 +8622,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Finance_R-052052",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -8647,7 +8645,7 @@
    "location": "Fort Mill/Charlotte",
    "misses": 0,
    "pay": "$25/hr",
-   "posted": "2026-10-06",
+   "posted": "2026-10-05",
    "region": "US",
    "regions": [
     "Southeast"
@@ -8666,7 +8664,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Service-Transformation---Data-Analytics_R-053219",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -8708,7 +8706,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -8750,7 +8748,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Business-Analyst-and-Project-Management_R-052922",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -8773,7 +8771,7 @@
    "location": "Fort Mill/Charlotte",
    "misses": 0,
    "pay": "$20–$26/hr",
-   "posted": "2026-10-06",
+   "posted": "2026-10-05",
    "region": "US",
    "regions": [
     "Southeast"
@@ -8792,7 +8790,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027---Strategy-and-Growth_R-052938",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -8815,7 +8813,7 @@
    "location": "Fort Mill/Charlotte",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-06",
+   "posted": "2026-10-05",
    "region": "US",
    "regions": [
     "Southeast"
@@ -8834,7 +8832,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---Transition-Support-Partner_R-053345",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -8857,7 +8855,7 @@
    "location": "Fort Mill/Charlotte",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-06",
+   "posted": "2026-10-05",
    "region": "US",
    "regions": [
     "Southeast"
@@ -8876,7 +8874,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027-Wealth-Advisor-Group_R-052554",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": "Hybrid"
   },
@@ -8917,7 +8915,7 @@
     "wealth"
    ],
    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-Mill-SC/New-Grad---2027---Business-Analyst-and-Project-Management_R-052835",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -8956,7 +8954,7 @@
     "wealth"
    ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6720",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -8993,7 +8991,7 @@
     "wealth"
    ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6481",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -9382,7 +9380,7 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Long-Beach-California-United-States-of-America/Intern_JR045559",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -9403,7 +9401,7 @@
    "location": "Baltimore, Maryland, United States of America",
    "misses": 0,
    "pay": null,
-   "posted": "2026-09-25",
+   "posted": "2026-09-24",
    "region": "US",
    "regions": [
     "Mid-Atlantic"
@@ -9421,7 +9419,7 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -9432,7 +9430,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-14",
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-14",
    "function": "Wealth Management",
    "gpa": null,
@@ -9460,7 +9458,7 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -10090,7 +10088,7 @@
     "real_estate"
    ],
    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Realty-Services-Undergraduate-Intern_R231491-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -10111,7 +10109,7 @@
    "location": "Rolling Hills Estates, California, United States of America",
    "misses": 0,
    "pay": "$20/hr",
-   "posted": "2026-10-10",
+   "posted": "2026-10-09",
    "region": "US",
    "regions": [
     "West"
@@ -10129,7 +10127,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Rolling-Hills-Estates-California-United-States-of-America/XMLNAME-2026-PCG-Wealth-Management-Intern_R-0000189939",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -10140,7 +10138,44 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-13",
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:rbc:R-0000187364",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "MONTRÉAL, Quebec, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Financing-Specialist-Commercial-Financial-Services-Real-Estate-Student-Intern_R-0000187364",
+   "v": 7,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-13",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -10166,7 +10201,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OSHAWA-Ontario-Canada/Financial-Advisor-Intern_R-0000190230-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -10203,44 +10238,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALTON-HILLS-Ontario-Canada/Financial-Advisor-Intern_R-0000190234",
-   "v": 6,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-09",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "id": "wd:rbc:R-0000186438",
-   "last_seen": "2026-10-15",
-   "level": "Undergraduate",
-   "location": "RICHMOND, British Columbia, Canada",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-10",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000186438",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -10283,7 +10281,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Chevy-Chase-Maryland-United-States-of-America/Private-Client-Group-Intern_R-0000075215",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -10306,7 +10304,7 @@
    "location": "Minneapolis, Minnesota, United States of America",
    "misses": 0,
    "pay": "$20–$30/hr",
-   "posted": "2026-10-14",
+   "posted": "2026-10-13",
    "region": "US",
    "regions": [
     "Midwest"
@@ -10324,7 +10322,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10348,7 +10346,7 @@
    "location": "Minneapolis, Minnesota, United States of America",
    "misses": 0,
    "pay": "$20–$30/hr",
-   "posted": "2026-10-14",
+   "posted": "2026-10-13",
    "region": "US",
    "regions": [
     "Midwest"
@@ -10366,7 +10364,7 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -10389,7 +10387,7 @@
    "location": "Minneapolis, Minnesota, United States of America",
    "misses": 0,
    "pay": "$20–$30/hr",
-   "posted": "2026-10-14",
+   "posted": "2026-10-13",
    "region": "US",
    "regions": [
     "Midwest"
@@ -10407,7 +10405,62 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1",
-   "v": 6,
+   "v": 7,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Currently enrolled in an accredited U.S. university with an anticipated graduation date between December 2028 and June 2029.",
+   "classes": [
+    2029
+   ],
+   "company": "Raymond James",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Investments",
+   "gpa": "3.5+",
+   "id": "wd:raymondjames:R-0013018",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Saint Petersburg, Florida - United States; Houston, Texas - United States; New York, New York - United States; San Francisco, California - United States; Mc Lean, Virginia - United States; Raleigh, North Carolina - United States; Chicago, Illinois - United States; Atlanta, Georgia - United States; Nashville, Tennessee - United States; Memphis, Tennessee - United States; NC - Charlotte - 650 S Tryon St Ste 1525; MA - Boston - 225 Franklin St Ste 3000",
+   "misses": 0,
+   "pay": "$17–$50/hr (≈ $36k–$105k/yr)",
+   "posted": "2026-10-05",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Mid-Atlantic",
+    "Southeast",
+    "Midwest",
+    "Southwest",
+    "West"
+   ],
+   "season": "Fall 2026",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA",
+    "FL",
+    "GA",
+    "IL",
+    "MA",
+    "NC",
+    "NY",
+    "TN",
+    "TX",
+    "VA"
+   ],
+   "status": "open",
+   "title": "2026 Fall Virtual Sophomore Program: Investment Banking Bootcamp for 2028 Summer Analyst Opportunities",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2026-Fall-Virtual-Sophomore-Program--Investment-Banking-Bootcamp-for-2028-Summer-Analyst-Opportunities_R-0013018",
+   "v": 7,
    "weeks": null,
    "work_mode": null
   },
@@ -10428,7 +10481,7 @@
    "last_seen": "2026-10-15",
    "level": "Undergraduate",
    "location": "Saint Petersburg, Florida - United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-07",
    "region": "US",
@@ -10471,7 +10524,7 @@
    "location": "Saint Petersburg, Florida - United States",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-07",
+   "posted": "2026-10-06",
    "region": "US",
    "regions": [
     "Southeast"
@@ -10489,7 +10542,7 @@
     "wealth"
    ],
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Wealth-Management---Multiple-Locations_R-0013237",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -10610,7 +10663,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5404/summer-analyst---business-finance/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10649,7 +10702,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5575/summer-analyst---core-platforms/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10688,7 +10741,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5574/summer-analyst---core-platforms/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10727,7 +10780,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5573/summer-analyst---core-platforms/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10766,7 +10819,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5354/summer-analyst---core-platforms/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10807,7 +10860,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5406/summer-analyst---distribution/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10846,7 +10899,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5355/summer-analyst---information-security/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10885,7 +10938,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5403/summer-analyst---manager-due-diligence/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10924,7 +10977,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5412/summer-analyst---practice-management/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -10963,7 +11016,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5353/summer-analyst---program-management/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -11002,7 +11055,7 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5405/summer-analyst---wealth-planning/job",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -11204,7 +11257,7 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/10038/2027-stifel-capital-structure-advisory-mba-summer-associate-%e2%80%93-new-york/job",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -11243,7 +11296,7 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/10027/branch-intern/job",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -11282,7 +11335,7 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/9734/full-time-branch-intern/job",
-   "v": 6,
+   "v": 7,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -11391,7 +11444,7 @@
    "location": "Los Angeles",
    "misses": 0,
    "pay": "$23–$30/hr",
-   "posted": "2026-10-06",
+   "posted": "2026-10-05",
    "region": "US",
    "regions": [
     "West"
@@ -11409,7 +11462,7 @@
     "real_estate"
    ],
    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -11448,7 +11501,7 @@
     "real_estate"
    ],
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Banking-Summer-Analyst_R-570654-1",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -11487,7 +11540,7 @@
     "real_estate"
    ],
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Commercial-Real-Estate-Analyst_R-571086-1",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -11526,7 +11579,7 @@
     "real_estate"
    ],
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Markets-Summer-Analyst_R-570663",
-   "v": 6,
+   "v": 7,
    "weeks": 10,
    "work_mode": null
   },
@@ -11571,6 +11624,52 @@
    "v": 6,
    "weeks": 10,
    "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-15",
+   "company": "Ameriprise Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "wd:ameriprise:3498",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota; Las Vegas, Nevada; Charlotte, North Carolina",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-06",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Midwest",
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN",
+    "NC",
+    "NV"
+   ],
+   "status": "closed",
+   "title": "Financial Advisor in Training Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Financial-Advisor-in-Training-Intern_R26_3498",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
@@ -12257,6 +12356,44 @@
    "v": 5,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-15",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:jll:REQ539234-1",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Warsaw, POL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Controllership Intern, EMEA REMS",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Controllership-Intern--EMEA-REMS_REQ539234-1",
+   "v": 6,
+   "weeks": null,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
@@ -13985,6 +14122,44 @@
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management-Winter-Intern_R-0000186770",
    "v": 5,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-15",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-09",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "wd:rbc:R-0000186438",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "RICHMOND, British Columbia, Canada",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-10",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000186438",
+   "v": 6,
    "weeks": null,
    "work_mode": null
   }
