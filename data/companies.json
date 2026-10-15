@@ -7,7 +7,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-15",
    "name": "Morgan Stanley",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -213,7 +213,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-15",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 7,
+   "open": 8,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "0aad3406cded508e",
+     "hash": "4e0bbbcf6c7325bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -396,7 +396,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-15",
    "name": "Lazard (Lazard Wealth Management)",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "kind": "oracle",
@@ -1418,7 +1418,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "7cddc78812ece1bc",
+     "hash": "3fcbf344ff2c81e7",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1504,8 +1504,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "2495f69816e2ce35",
+     "changed_on": "2026-10-15",
+     "hash": "bcfdd4cddcda4fa1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1575,7 +1575,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "209ccbdb00205d66",
+     "hash": "f3c3959ddf31a3ef",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2467,8 +2467,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-14",
-     "hash": "f254765fb6184dcd",
+     "changed_on": "2026-10-15",
+     "hash": "97a3953fe297d1d5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2532,7 +2532,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-15",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 21,
    "sources": [
     {
      "kind": "workday",
@@ -2744,7 +2744,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "704f7b0a9280054d",
+     "hash": "b0399c8f37c3a9be",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2836,7 +2836,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "2307655c4071350c",
+     "hash": "57dcc4fc37d8b3ce",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2860,7 +2860,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "c6aa589384699d14",
+     "hash": "60cd192fc0e4ef71",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3116,7 +3116,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3266,8 +3266,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-14",
-     "hash": "ae0e51d164812b3a",
+     "changed_on": "2026-10-15",
+     "hash": "9e1481aaeadc7b9f",
      "kind": "page",
      "links": [
       "Investor Relations & Investor Coverage Summer Analyst\n Crow Holdings Capital\n dallas , | https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/"
@@ -3356,8 +3356,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
-     "hash": "36d795d5a4fdf64a",
+     "changed_on": "2026-10-15",
+     "hash": "a2d3a2393c7ca7cf",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4299,8 +4299,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
-     "hash": "f403e409f81dc329",
+     "changed_on": "2026-10-15",
+     "hash": "64402fb7bd10ce39",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4324,7 +4324,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "1d9ee06b6eeeffe7",
+     "hash": "0a498a546955fa26",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4395,8 +4395,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
-     "hash": "32dddadd7f5bcc43",
+     "changed_on": "2026-10-15",
+     "hash": "6e2576be4aa59c4e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4536,7 +4536,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "aa47a4f0d66d0c87",
+     "hash": "895d21cda6e15998",
      "kind": "page",
      "links": [],
      "ok": true,
