@@ -48,7 +48,8 @@ INTERN_RE = re.compile(
     r"\b(intern(ship)?s?|summer analysts?|summer associates?|co-?ops?|externships?|"
     r"sophomores?|freshm[ae]n|first[- ]year students?|early insights?|insight (day|week|program|series)|"
     r"spring (week|insight)|discovery (day|program)|explore program|launch program|"
-    r"pre-?internship|winter analysts?|fall analysts?|off-?cycle|fellowships?|summits?|ambassadors?|"
+    r"pre-?internship|winter analysts?|fall analysts?|off-?cycle|fellowships?|"
+    r"(sophomore|insight|possibilities|leadership|opportunity) summits?|campus ambassadors?|"
     r"future leaders|early id(entification)?|jumpstart|insights? (forum|program|programme))\b", re.I)
 NOT_INTERN_RE = re.compile(
     r"\b(internal|international|senior (vice president|associate|manager)|director|"
@@ -140,7 +141,8 @@ def is_real_estate(title: str, text: str, focus: str) -> bool:
 EARLY_RE = re.compile(
     r"(?i)\b(sophomores?|freshm[ae]n|first[- ]years?|early insights?|insights? (day|days|program|programme|series|week|forum)|"
     r"spring insights?|discovery (day|program|programme|fellowship|series)|externships?|early id(entification)?|"
-    r"fellowships?|summits?|campus ambassadors?|future (women )?leaders|pre-?internships?|explore (day|program)|"
+    r"fellowships?|(sophomore|insight|possibilities|leadership|opportunity) summits?|campus ambassadors?|"
+    r"future (women )?leaders|pre-?internships?|explore (day|program)|"
     r"jumpstart|launch program|bootcamp|class of 2029|class of 2030)\b")
 EARLY_EXCLUDE_RE = re.compile(r"(?i)software|engineer|developer|data scien|cyber|technolog|\bit\b|"
                               r"\bmba\b|graduate fellow|phd|post-?doc|medical|clinical")

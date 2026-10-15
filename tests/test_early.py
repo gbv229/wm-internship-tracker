@@ -42,3 +42,6 @@ def test_early_detection():
     assert parse.is_early("JPMorganChase Fellowship Program")
     assert not parse.is_early("2027 Software Engineer Sophomore Intern")
     assert not parse.is_early("2027 Summer Analyst")
+    assert not parse.is_early("Relationship Banker - Georgia South - Summit Point - Fayetteville")
+    assert not parse.is_internship("Relationship Banker - Georgia South - Summit Point")
+    assert parse.is_early("BNY Sophomore Summit")
