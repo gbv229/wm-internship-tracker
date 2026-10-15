@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "ab434249b9325a67",
+     "hash": "f1735c7e15d0a6ac",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -880,7 +880,7 @@
    "hq": "Birmingham, AL",
    "last_ok": "2026-10-15",
    "name": "Regions (Private Wealth)",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -1064,9 +1064,11 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "640b9ddc79a40e9b",
+     "hash": "251b4160ebd6c638",
      "kind": "page",
-     "links": [],
+     "links": [
+      "Financial Advisor Intern | https://careers.edwardjones.com/job/24015773/financial-advisor-intern-durham-nc/"
+     ],
      "ok": true,
      "url": "https://careers.edwardjones.com/"
     }
@@ -1416,7 +1418,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "46498506ca38bbae",
+     "hash": "1971270dd523a7ae",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1573,7 +1575,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "f3c3959ddf31a3ef",
+     "hash": "cef33e00d1491fb1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1619,7 +1621,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "daa0d985ec884476",
+     "hash": "1b58e3cce13d7612",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1661,14 +1663,16 @@
    "domain": "edelmanfinancialengines.com",
    "focus": "wealth",
    "hq": "Boston, MA",
-   "last_ok": null,
+   "last_ok": "2026-10-15",
    "name": "Edelman Financial Engines",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
+     "changed_on": null,
+     "hash": "2de559024e793a16",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.edelmanfinancialengines.com/careers/"
     }
    ],
@@ -2510,7 +2514,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-15",
    "name": "JLL",
-   "open": 31,
+   "open": 32,
    "sources": [
     {
      "kind": "workday",
@@ -2742,7 +2746,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "7d934e5c2f280135",
+     "hash": "53653df2447b2489",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2834,7 +2838,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "6f728fbdc27dd143",
+     "hash": "e33be9813db716a2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2858,7 +2862,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "45d748f45dca166f",
+     "hash": "a0edecf16e1073b2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3771,8 +3775,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "HTTPError: 520 Server Error: <none> for url: https://extraspace.wd5.myworkdayjobs.com/wday/cxs/extraspace/ESS_External/jobs",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4534,7 +4539,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "41b69138b82df916",
+     "hash": "e2b0ebf8fbf30486",
      "kind": "page",
      "links": [],
      "ok": true,

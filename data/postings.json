@@ -7393,6 +7393,45 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:jll:REQ542763",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Miami, FL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Hotels and Hospitality Summer 2027 Internship - Miami, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Hotels-and-Hospitality-Summer-2027-Internship---Miami--FL_REQ542763",
+   "v": 8,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -10354,7 +10393,7 @@
    "last_seen": "2026-10-15",
    "level": "Undergraduate",
    "location": "TORONTO, Ontario, Canada",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-15",
    "region": "Canada",
@@ -10828,6 +10867,47 @@
     "real_estate"
    ],
    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330",
+   "v": 8,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduation date of December 2027 or May 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Regions (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:regions:R106935",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Dallas, TX - 17 Seventeen Building Branch",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "2027 ETP Intern - Real Estate Banking, Dallas TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Dallas-TX---17-Seventeen-Building-Branch/XMLNAME-2027-ETP-Intern---Real-Estate-Banking--Dallas-TX_R106935",
    "v": 8,
    "weeks": 10,
    "work_mode": null
