@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 _site/
 data/*.ics
+data/early_programs.json
