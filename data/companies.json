@@ -53,7 +53,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-15",
    "name": "J.P. Morgan",
-   "open": 21,
+   "open": 20,
    "sources": [
     {
      "kind": "oracle",
@@ -176,8 +176,9 @@
    "open": 5,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -335,7 +336,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "d7a5f47dff64affa",
+     "hash": "e78f243d793365a4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1086,7 +1087,7 @@
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-10-15",
    "name": "Raymond James",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -1292,9 +1293,7 @@
      "changed_on": null,
      "hash": "e1d7b50179b77e67",
      "kind": "page",
-     "links": [
-      "Our Brand Ambassadors Right Arrow | https://www.stephens.com/our-brand-ambassadors"
-     ],
+     "links": [],
      "ok": true,
      "url": "https://www.stephens.com/careers/"
     }
@@ -1855,7 +1854,7 @@
    "hq": "Newark, NJ",
    "last_ok": "2026-10-15",
    "name": "Prudential Financial",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -2470,7 +2469,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "0c9666e2f1d008ff",
+     "hash": "97a3953fe297d1d5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2724,9 +2723,7 @@
      "changed_on": null,
      "hash": "168f2e83705cc6aa",
      "kind": "page",
-     "links": [
-      "Lee Summit | https://www.lee-associates.com/summit/"
-     ],
+     "links": [],
      "ok": true,
      "url": "https://www.lee-associates.com/careers/"
     }
@@ -2748,7 +2745,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "aa37336cd3a86c22",
+     "hash": "9f7cba1af1f1a9ad",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2864,7 +2861,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "b299c1cc78d2f63a",
+     "hash": "45d748f45dca166f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3120,7 +3117,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4304,7 +4301,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "64402fb7bd10ce39",
+     "hash": "e68bf9cf46f6a574",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4540,7 +4537,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "470c44118cf990d3",
+     "hash": "c63449c4a160b773",
      "kind": "page",
      "links": [],
      "ok": true,
