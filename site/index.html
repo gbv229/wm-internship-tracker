@@ -53,6 +53,7 @@
 <main class="wrap" id="main">
   <nav class="tabs" role="tablist" aria-label="Views">
     <button role="tab" aria-selected="true" aria-controls="panel-postings" id="tab-postings" data-tab="postings">Postings <span class="tab-n" id="n-postings"></span></button>
+    <button role="tab" aria-selected="false" aria-controls="panel-early" id="tab-early" data-tab="early" tabindex="-1">Early programs &amp; Summer 2028 <span class="tab-n" id="n-early"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-firms" id="tab-firms" data-tab="firms" tabindex="-1">Firms <span class="tab-n" id="n-firms"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-about" id="tab-about" data-tab="about" tabindex="-1">How it works</button>
   </nav>
@@ -141,6 +142,48 @@
   </section>
 
   <!-- ============================== FIRMS -->
+  <!-- ============================== EARLY PROGRAMS -->
+  <section role="tabpanel" id="panel-early" aria-labelledby="tab-early" hidden>
+    <div class="early-head">
+      <div class="early-intro">
+        <h2>Early programs &amp; Summer 2028</h2>
+        <p>Sophomore programs, insight days, fellowships and Summer 2028 internships, across banks, wealth and asset managers, and real estate firms. Dates marked <span class="est-tag">est.</span> are projected from last year's cycle. Firms rarely announce them in advance, so check the page when the reminder fires.</p>
+      </div>
+      <div class="cal-box">
+        <p class="cal-title">Get every date as a calendar reminder</p>
+        <p class="cal-sub">Alerts 7, 2 and 1 days before each deadline, and the day before something opens. Subscribing keeps it updated as dates change.</p>
+        <div class="cal-actions">
+          <a class="btn-cal" id="cal-google" href="#" target="_blank" rel="noopener">Subscribe in Google Calendar</a>
+          <a class="btn-quiet" id="cal-webcal" href="#">Apple or Outlook</a>
+          <a class="btn-quiet" id="cal-file" href="data/early-programs.ics" download="early-programs.ics">Download .ics</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="seg type-seg" id="early-type" role="radiogroup" aria-label="Program type"></div>
+    <form class="filters" onsubmit="return false">
+      <label class="f-search"><span class="sr">Search programs</span><input type="search" id="e-q" placeholder="Search firm or program" autocomplete="off"></label>
+      <label><span>Field</span>
+        <select id="e-field">
+          <option value="">All fields</option>
+          <option value="wealth">Wealth &amp; asset management</option>
+          <option value="real_estate">Real estate</option>
+          <option value="banking">Banking &amp; markets</option>
+        </select>
+      </label>
+      <label><span>Show</span>
+        <select id="e-status">
+          <option value="active">Open or coming up</option>
+          <option value="open">Open now</option>
+          <option value="all">Everything</option>
+          <option value="closed">Closed</option>
+        </select>
+      </label>
+    </form>
+    <p class="early-note" id="early-note"></p>
+    <div id="early-list" class="early-list"></div>
+  </section>
+
   <section role="tabpanel" id="panel-firms" aria-labelledby="tab-firms" hidden>
     <p class="panel-intro">Every firm on the list and how it's tracked. <strong>Live feed</strong> firms are read directly from their job system and parsed into the postings table. <strong>Page watch</strong> firms don't publish a feed, so the site checks their careers page for changes — open their link when it changes.</p>
     <form class="filters" onsubmit="return false">

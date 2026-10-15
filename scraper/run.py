@@ -21,7 +21,7 @@ from pathlib import Path
 
 import yaml
 
-from . import parse, sources
+from . import early, parse, sources
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -29,7 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 6       # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 7       # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -98,7 +98,8 @@ def handle_job(j, co, old, seen, today, budget, rejected):
     if not title_intern and not maybe:
         rejected[j.id] = "not internship"
         return None
-    if focus == "mixed" and not parse.tracks_for(j.title, "", focus, tracks) and not j.text and not j._detail:
+    if focus == "mixed" and not parse.tracks_for(j.title, "", focus, tracks) and not parse.is_early(j.title) \
+            and not j.text and not j._detail:
         rejected[j.id] = "not relevant"
         return None
 
@@ -125,6 +126,8 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         rejected[j.id] = "not internship"
         return None
     matched = parse.tracks_for(j.title, text, focus, tracks)
+    if parse.is_early(j.title):
+        matched.append("early")       # shown on the Early programs tab, whatever the division
     if not matched:
         rejected[j.id] = "not relevant"
         return None
@@ -168,7 +171,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         "sponsorship": parse.sponsorship(text),
         "work_mode": parse.work_mode(text, j.remote_hint),
         "weeks": parse.weeks(text),
-        "function": parse.function(j.title, matched[0]),
+        "function": parse.function(j.title, matched[0] if matched[0] != "early" else "wealth"),
         "level": parse.level(j.title, text),
         "source": j.source,
         "detail_at": today.isoformat() if text else None,
@@ -290,6 +293,10 @@ def main(argv=None):
     dump(DATA / "postings.json", {"postings": postings})
     dump(DATA / "companies.json", {"companies": status_out})
     dump(DATA / "seen.json", {"_v": PARSER_VERSION, **seen})
+    try:
+        early.build(ROOT, DATA, postings, status_out, today)
+    except Exception:  # noqa: BLE001 - a bad edit to early_programs.yaml shouldn't stop the postings update
+        traceback.print_exc()
     # volatile run info: deployed with the site but not committed
     dump(DATA / "run.json", {
         "updated_at": now.isoformat(timespec="seconds"),

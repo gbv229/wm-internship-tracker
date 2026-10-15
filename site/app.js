@@ -20,7 +20,7 @@
   const seasonKey = (s) => { if (!s) return 99999; const [n, y] = s.split(" "); return +y * 10 + (SEASON_ORDER[n] ?? 5); };
 
   const state = {
-    postings: [], firms: [], run: null, track: "wealth",
+    postings: [], firms: [], run: null, track: "wealth", tab: "postings",
     cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", region: "US", area: "",
     sort: "deadline", dir: 1, open: new Set(),
   };
@@ -63,7 +63,7 @@
   const inTrack = (p) => (p.tracks || ["wealth"]).includes(state.track);
   const firmInTrack = (f) => (f.tracks || ["wealth"]).includes(state.track);
 
-  const KEYS = ["track", "cls", "q", "season", "type", "status", "level", "region", "area", "sort", "dir"];
+  const KEYS = ["tab", "track", "cls", "q", "season", "type", "status", "level", "region", "area", "sort", "dir"];
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     KEYS.forEach((k) => { if (p.has(k)) state[k] = k === "dir" ? +p.get(k) : p.get(k); });
@@ -79,7 +79,8 @@
   // -------------------------------------------------------------- load
   async function load() {
     const get = (f) => fetch(`data/${f}?t=${Date.now()}`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
-    const [p, c, r] = await Promise.all([get("postings.json"), get("companies.json"), get("run.json")]);
+    const [p, c, r, e] = await Promise.all([get("postings.json"), get("companies.json"), get("run.json"), get("early_programs.json")]);
+    EARLY.list = e?.programs || [];
     state.postings = (p?.postings || []).map(enrich);
     state.firms = c?.companies || [];
     state.firms.forEach((f) => { if (f.domain) DOMAINS[f.name] = f.domain; });
@@ -92,6 +93,8 @@
     renderClosing();
     render();
     renderFirms();
+    setupEarly();
+    if (state.tab && state.tab !== "postings") { const t = $(`[role="tab"][data-tab="${state.tab}"]`); if (t) t.click(); }
     const repo = r?.repo && r.repo.includes("/") && !r.repo.startsWith("local") ? `https://github.com/${r.repo}` : null;
     ["repo-link", "repo-link-2"].forEach((id) => { const a = $("#" + id); if (repo) a.href = repo; else a.removeAttribute("href"); });
   }
@@ -183,6 +186,7 @@
     const tabs = [...document.querySelectorAll('[role="tab"]')];
     const show = (t) => {
       tabs.forEach((x) => { const on = x === t; x.setAttribute("aria-selected", on); x.tabIndex = on ? 0 : -1; $("#" + x.getAttribute("aria-controls")).hidden = !on; });
+      state.tab = t.dataset.tab; writeHash();
     };
     tabs.forEach((t, i) => {
       t.addEventListener("click", () => show(t));
@@ -294,6 +298,154 @@
         : `<strong>No roles match these filters</strong>Try "Any class year", "Any season", or including roles that don't state a class year.`;
       empty.innerHTML = reason;
     }
+  }
+
+  // ===================================================== early programs
+  const EARLY = { list: [], type: "", field: "", status: "active", q: "" };
+  const TYPE_LABEL = { sophomore: "Sophomore program", insight: "Insight program", fellowship: "Fellowship",
+    first_year: "First-year program", summer_2028: "Summer 2028 internship", training: "Training", ambassador: "Campus ambassadors" };
+  const TYPE_FILTERS = [["", "All"], ["sophomore", "Sophomore programs"], ["insight", "Insight days & fellowships"],
+    ["summer_2028", "Summer 2028 internships"], ["first_year", "First-year"], ["training", "Training"], ["ambassador", "Ambassadors"]];
+  const fmtFull = (d) => fmtDay(d, d.getFullYear() !== TODAY.getFullYear());
+  const ymd = (d) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
+
+  function earlyState(p) {
+    const op = parseDay(p.opens), dl = parseDay(p.deadline);
+    const est = (flag) => (flag ? " (est.)" : "");
+    if (p.status === "invite") return { k: "invite", label: "By invitation" };
+    if (p.status === "closed" || (dl && dl < TODAY))
+      return { k: "closed", label: dl ? `${p.deadline_est ? "Likely closed" : "Closed"} ${fmtFull(dl)}` : "Closed" };
+    if (op && op > TODAY) return { k: "upcoming", label: `Opens ${fmtFull(op)}${est(p.opens_est)}`, date: op };
+    if (p.status === "open" || (op && !p.opens_est))
+      return { k: "open", label: dl ? `Open · due ${fmtFull(dl)}${est(p.deadline_est)}` : "Open now", date: dl };
+    if (op && p.opens_est) return { k: "check", label: "Expected to be open – check", date: dl };
+    if (dl) return { k: "check", label: `Due ${fmtFull(dl)}${est(p.deadline_est)} – check if open`, date: dl };
+    return { k: "watch", label: "No date yet" };
+  }
+
+  // calendar events for one program (mirrors scraper/early.py)
+  function earlyEvents(p) {
+    if (p.status === "closed" || p.status === "invite") return [];
+    const name = `${p.firm} – ${p.program}`;
+    const desc = [p.eligibility, p.when, p.opens_note, p.deadline_note, p.notes, p.link].filter(Boolean).join("\n");
+    const out = [];
+    const op = parseDay(p.opens), dl = parseDay(p.deadline);
+    if (op && op >= TODAY) out.push({ uid: `${p.id}-opens`, d: op, kind: "opens",
+      summary: `${p.opens_est ? "Expected to open" : "Opens"}: ${name}`, desc, alarms: ["-PT15H", "PT9H"] });
+    if (dl && dl >= TODAY) out.push({ uid: `${p.id}-deadline`, d: dl, kind: "deadline",
+      summary: `${p.deadline_est ? "Likely deadline" : "Deadline"}: ${name}`, desc, alarms: ["-P6DT15H", "-P1DT15H", "-PT15H"] });
+    return out;
+  }
+  const icsEsc = (t) => String(t || "").replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\n/g, "\\n");
+  function icsFor(events) {
+    const stamp = new Date().toISOString().replace(/[-:]/g, "").replace(/\.\d+/, "");
+    const L = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//WM Internship Tracker//Early programs//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH"];
+    events.forEach((e) => {
+      const next = new Date(e.d); next.setDate(next.getDate() + 1);
+      L.push("BEGIN:VEVENT", `UID:${e.uid}@wm-internship-tracker`, `DTSTAMP:${stamp}`, `DTSTART;VALUE=DATE:${ymd(e.d)}`,
+        `DTEND;VALUE=DATE:${ymd(next)}`, `SUMMARY:${icsEsc(e.summary)}`, `DESCRIPTION:${icsEsc(e.desc)}`, "TRANSP:TRANSPARENT");
+      e.alarms.forEach((a) => L.push("BEGIN:VALARM", "ACTION:DISPLAY", `DESCRIPTION:${icsEsc(e.summary)}`, `TRIGGER:${a}`, "END:VALARM"));
+      L.push("END:VEVENT");
+    });
+    L.push("END:VCALENDAR");
+    return L.join("\r\n") + "\r\n";
+  }
+  function gcalLink(e) {
+    const next = new Date(e.d); next.setDate(next.getDate() + 1);
+    const q = new URLSearchParams({ action: "TEMPLATE", text: e.summary, dates: `${ymd(e.d)}/${ymd(next)}`, details: e.desc });
+    return `https://calendar.google.com/calendar/render?${q}`;
+  }
+
+  function setupEarly() {
+    const feed = new URL("data/early-programs.ics", location.href.split("#")[0]);
+    const webcal = feed.href.replace(/^https?:/, "webcal:");
+    $("#cal-google").href = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcal)}`;
+    $("#cal-webcal").href = webcal;
+
+    const seg = $("#early-type");
+    seg.innerHTML = TYPE_FILTERS.map(([v, l]) => `<button type="button" role="radio" data-v="${v}" aria-checked="${EARLY.type === v}">${l}</button>`).join("");
+    seg.addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      EARLY.type = b.dataset.v;
+      seg.querySelectorAll("button").forEach((x) => x.setAttribute("aria-checked", x === b));
+      renderEarly();
+    });
+    $("#e-q").addEventListener("input", (e) => { EARLY.q = e.target.value; renderEarly(); });
+    $("#e-field").addEventListener("change", (e) => { EARLY.field = e.target.value; renderEarly(); });
+    $("#e-status").addEventListener("change", (e) => { EARLY.status = e.target.value; renderEarly(); });
+    $("#early-list").addEventListener("click", (e) => {
+      const b = e.target.closest(".btn-remind"); if (!b) return;
+      const p = EARLY.list.find((x) => x.id === b.dataset.id); if (!p) return;
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([icsFor(earlyEvents(p))], { type: "text/calendar" }));
+      a.download = `${p.id}.ics`; a.click();
+      setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+      b.textContent = "Added – open the file";
+    });
+    $("#early-note").innerHTML = `Campus ambassadors at J.P. Morgan and Goldman Sachs are picked from past interns, so there's no public application. They're listed so you know to ask during your internship. Programs researched Oct 15, 2026; rows marked <span class="pill live">Live posting</span> come straight from firm job boards and update every 30 minutes.`;
+    renderEarly();
+  }
+
+  function renderEarly() {
+    const q = EARLY.q.trim().toLowerCase();
+    const items = EARLY.list.map((p) => ({ p, st: earlyState(p) })).filter(({ p, st }) => {
+      if (EARLY.type && !(p.type === EARLY.type || (EARLY.type === "insight" && p.type === "fellowship"))) return false;
+      if (EARLY.field === "wealth" && !["wealth", "asset_mgmt", "multi"].includes(p.field)) return false;
+      if (EARLY.field === "real_estate" && p.field !== "real_estate") return false;
+      if (EARLY.field === "banking" && !["banking", "multi"].includes(p.field)) return false;
+      if (EARLY.status === "active" && st.k === "closed") return false;
+      if (EARLY.status === "open" && !["open", "check"].includes(st.k)) return false;
+      if (EARLY.status === "closed" && st.k !== "closed") return false;
+      if (q && !`${p.firm} ${p.program} ${p.eligibility || ""}`.toLowerCase().includes(q)) return false;
+      return true;
+    });
+    $("#n-early").textContent = EARLY.list.filter((p) => earlyState(p).k !== "closed").length;
+
+    const groups = new Map();
+    const add = (key, label, order, it) => { if (!groups.has(key)) groups.set(key, { label, order, items: [] }); groups.get(key).items.push(it); };
+    items.forEach((it) => {
+      const { k, date } = it.st;
+      if (k === "open" || k === "check") add("open", "Open now – apply", 0, it);
+      else if (k === "upcoming") {
+        const m = date.toLocaleDateString("en-US", { month: "long", year: "numeric" });
+        add("m" + date.getFullYear() * 100 + date.getMonth(), `Opening ${m}`, 1 + date.getFullYear() * 100 + date.getMonth(), it);
+      } else if (k === "watch") add("watch", "No date announced yet – watch these", 900000, it);
+      else if (k === "invite") add("invite", "By invitation", 900001, it);
+      else add("closed", "Closed this cycle", 900002, it);
+    });
+    const byDate = (a, b) => ((a.st.date || 9e15) - (b.st.date || 9e15)) || a.p.firm.localeCompare(b.p.firm);
+    const html = [...groups.values()].sort((a, b) => a.order - b.order).map((g) =>
+      `<section class="egroup"><h3 class="egroup-h">${esc(g.label)} <span>${g.items.length}</span></h3>
+        ${g.items.sort(byDate).map(progHtml).join("")}</section>`).join("");
+    $("#early-list").innerHTML = html || `<div class="empty"><strong>Nothing matches</strong>Try "Everything" or a different program type.</div>`;
+  }
+
+  function progHtml({ p, st }) {
+    const op = parseDay(p.opens), dl = parseDay(p.deadline);
+    const dateCell = (lbl, d, est, note) => `<div><dt>${lbl}</dt><dd>${d ? `${fmtFull(d)}${est ? ' <span class="est-tag">est.</span>' : ""}` : '<span class="muted">Not announced</span>'}</dd></div>`;
+    const evs = earlyEvents(p);
+    const next = evs[0];
+    const openish = st.k === "open" || st.k === "check";
+    return `<article class="prog st-${st.k}">
+      ${logoHtml(p.firm)}
+      <div class="prog-main">
+        <div class="prog-top"><span class="prog-firm">${esc(p.firm)}</span><span class="pill">${esc(TYPE_LABEL[p.type] || p.type)}</span>${p.origin === "live" ? '<span class="pill live">Live posting</span>' : ""}</div>
+        <h4>${esc(p.program)}</h4>
+        ${p.eligibility ? `<p class="prog-elig">${esc(p.eligibility)}</p>` : ""}
+        ${p.when || p.notes ? `<p class="prog-when">${esc([p.when, p.notes].filter(Boolean).join(" · "))}</p>` : ""}
+        ${p.opens_note || p.deadline_note ? `<p class="prog-why">${esc([p.opens_note, p.deadline_note].filter(Boolean).join(" "))}</p>` : ""}
+      </div>
+      <div class="prog-side">
+        <span class="state">${esc(st.label)}</span>
+        <dl class="prog-dates">${dateCell("Opens", op, p.opens_est)}${dateCell("Deadline", dl, p.deadline_est)}</dl>
+        <div class="prog-actions">
+          <a class="btn-go" href="${esc(p.link)}" target="_blank" rel="noopener">${openish && p.status !== "invite" ? "Apply" : "Program page"}</a>
+          ${evs.length ? `<button type="button" class="btn-remind" data-id="${esc(p.id)}">Remind me</button>` : ""}
+          ${next ? `<a class="gcal" href="${esc(gcalLink(next))}" target="_blank" rel="noopener" title="Add the ${next.kind === "opens" ? "opening date" : "deadline"} to Google Calendar">Google Calendar</a>` : ""}
+          ${p.source && p.source !== p.link ? `<a class="src" href="${esc(p.source)}" target="_blank" rel="noopener">Date source</a>` : ""}
+        </div>
+      </div>
+    </article>`;
   }
 
   // ------------------------------------------------------- hero stats

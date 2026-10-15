@@ -9,10 +9,21 @@ Every 30 minutes GitHub Actions reads each firm's careers system, keeps internsh
 
 **What each posting shows:** firm and firm type, role, season (Summer 2027, Fall 2026, Summer 2028…), which class years are eligible, application deadline, posted date, location, and — when the posting says — pay, minimum GPA, program length, work setup and visa sponsorship. Open a row to see the exact sentence the eligibility and deadline were read from.
 
+## Early programs & Summer 2028
+
+A separate tab lists sophomore programs, insight days, fellowships, campus ambassador programs and Summer 2028 internships, with opening dates and deadlines. It combines:
+
+- `early_programs.yaml`: a hand-researched list (sources linked on each entry). Dates marked `*_est: true` are projected from last year's cycle.
+- Live postings: any posting at a tracked firm whose title looks like a sophomore / insight / externship / fellowship program.
+
+Every run also writes `data/early-programs.ics`, a calendar feed with reminders 7, 2 and 1 days before each deadline and the day before each opening date. Subscribe from the tab (Google Calendar, Apple or Outlook) and it stays up to date.
+
 ## How it's built
 
 ```
 companies.yaml            the firm list, which field(s) each belongs to, and how to read its careers site
+early_programs.yaml       researched sophomore / insight / Summer 2028 programs and their dates
+scraper/early.py          builds the Early programs data and the calendar feed
 scraper/sources.py        readers for Workday, Oracle, iCIMS, Greenhouse, Lever, Ashby, and page watching
 scraper/parse.py          pulls season, class year, deadline, pay, GPA, etc. out of posting text
 scraper/run.py            runs everything, merges with previous results, marks vanished roles closed

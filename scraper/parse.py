@@ -48,7 +48,8 @@ INTERN_RE = re.compile(
     r"\b(intern(ship)?s?|summer analysts?|summer associates?|co-?ops?|externships?|"
     r"sophomores?|freshm[ae]n|first[- ]year students?|early insights?|insight (day|week|program|series)|"
     r"spring (week|insight)|discovery (day|program)|explore program|launch program|"
-    r"pre-?internship|winter analysts?|fall analysts?|off-?cycle)\b", re.I)
+    r"pre-?internship|winter analysts?|fall analysts?|off-?cycle|fellowships?|summits?|ambassadors?|"
+    r"future leaders|early id(entification)?|jumpstart|insights? (forum|program|programme))\b", re.I)
 NOT_INTERN_RE = re.compile(
     r"\b(internal|international|senior (vice president|associate|manager)|director|"
     r"intern(al)? audit|internally)\b", re.I)
@@ -134,6 +135,21 @@ def is_real_estate(title: str, text: str, focus: str) -> bool:
     head = (text or "")[:1200]
     return bool(re.search(r"(?i)\b(summer analyst|intern|internship)\b", t)) and len(RE_STRONG_RE.findall(head)) >= 2 \
         and not re.search(r"(?i)investment banking|sales (and|&) trading|global markets", t)
+
+
+EARLY_RE = re.compile(
+    r"(?i)\b(sophomores?|freshm[ae]n|first[- ]years?|early insights?|insights? (day|days|program|programme|series|week|forum)|"
+    r"spring insights?|discovery (day|program|programme|fellowship|series)|externships?|early id(entification)?|"
+    r"fellowships?|summits?|campus ambassadors?|future (women )?leaders|pre-?internships?|explore (day|program)|"
+    r"jumpstart|launch program|bootcamp|class of 2029|class of 2030)\b")
+EARLY_EXCLUDE_RE = re.compile(r"(?i)software|engineer|developer|data scien|cyber|technolog|\bit\b|"
+                              r"\bmba\b|graduate fellow|phd|post-?doc|medical|clinical")
+
+
+def is_early(title: str) -> bool:
+    """Programs for first-years and sophomores (any division at a tracked firm)."""
+    t = title or ""
+    return bool(EARLY_RE.search(t)) and not EARLY_EXCLUDE_RE.search(t)
 
 
 def tracks_for(title: str, text: str, focus: str, tracks: list[str]) -> list[str]:

@@ -58,6 +58,7 @@ jobs:
           mkdir -p _site/data
           cp site/* _site/
           cp data/*.json _site/data/
+          cp data/*.ics _site/data/ 2>/dev/null || true
 
       - uses: actions/configure-pages@v5
         with:
