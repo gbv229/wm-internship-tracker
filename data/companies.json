@@ -101,7 +101,7 @@
     },
     {
      "kind": "browser",
-     "listed": 0,
+     "listed": 8,
      "matched": 0,
      "ok": true
     }
@@ -164,7 +164,7 @@
    "hq": "Zurich / New York",
    "last_ok": "2026-10-16",
    "name": "UBS",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -181,7 +181,7 @@
     },
     {
      "kind": "browser",
-     "listed": 5,
+     "listed": 4,
      "matched": 1,
      "ok": true
     }
@@ -355,7 +355,7 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
+     "listed": 10,
      "matched": 0,
      "ok": true
     }
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "db94f45160477ea8",
+     "hash": "c6afc060a14e23db",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -468,7 +468,7 @@
    "hq": "Paris / New York",
    "last_ok": "2026-10-16",
    "name": "Rothschild & Co (Wealth Mgmt)",
-   "open": 6,
+   "open": 7,
    "sources": [
     {
      "changed_on": null,
@@ -485,7 +485,7 @@
     {
      "kind": "browser",
      "listed": 30,
-     "matched": 6,
+     "matched": 7,
      "ok": true
     }
    ],
@@ -696,8 +696,8 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -745,7 +745,7 @@
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-16",
    "name": "Brown Advisory",
-   "open": 0,
+   "open": 4,
    "sources": [
     {
      "changed_on": null,
@@ -760,8 +760,8 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 7,
+     "matched": 4,
      "ok": true
     }
    ],
@@ -791,7 +791,7 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
+     "listed": 0,
      "matched": 0,
      "ok": true
     }
@@ -906,7 +906,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='hcgn.fa.us2.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Ckeyword%3D%22intern%22%2Climit%3D25%2Coffset%3D0 (Caused by ResponseError('too ma",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "oracle",
      "ok": false
     }
@@ -1211,8 +1211,8 @@
     },
     {
      "kind": "browser",
-     "listed": 3,
-     "matched": 3,
+     "listed": 1,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -1767,15 +1767,15 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
     },
     {
      "kind": "browser",
-     "listed": 2,
-     "matched": 2,
+     "listed": 1,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -1827,7 +1827,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1918,7 +1918,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1948,7 +1948,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1977,7 +1977,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3169,7 +3169,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "da64c3e3180a8b38",
+     "hash": "e97b28985ef94404",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3309,7 +3309,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "c6aa589384699d14",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3601,7 +3601,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3643,8 +3643,8 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -3847,7 +3847,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3876,7 +3876,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3979,8 +3979,8 @@
     },
     {
      "kind": "browser",
-     "listed": 2,
-     "matched": 2,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -4146,17 +4146,19 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 4,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4235,7 +4237,7 @@
    "hq": "Arlington, TX",
    "last_ok": "2026-10-16",
    "name": "D.R. Horton",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": "2026-10-16",
@@ -4251,8 +4253,8 @@
     },
     {
      "kind": "browser",
-     "listed": 2,
-     "matched": 2,
+     "listed": 1,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -4472,7 +4474,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4501,7 +4503,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5311,7 +5313,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "a12625d666d6073a",
+     "hash": "2b746765542eb7a6",
      "kind": "page",
      "links": [],
      "ok": true,
