@@ -164,7 +164,7 @@
    "hq": "Zurich / New York",
    "last_ok": "2026-10-16",
    "name": "UBS",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "changed_on": null,
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "41a6bdf31ca542e1",
+     "hash": "db94f45160477ea8",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -680,7 +680,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-16",
    "name": "Bessemer Trust",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "changed_on": null,
@@ -745,7 +745,7 @@
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-16",
    "name": "Brown Advisory",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "changed_on": null,
@@ -905,8 +905,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "RetryError: HTTPSConnectionPool(host='hcgn.fa.us2.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs%3BsiteNumber%3DCX_1%2Ckeyword%3D%22intern%22%2Climit%3D50%2Co",
-     "fail_streak": 3,
+     "error": "RetryError: HTTPSConnectionPool(host='hcgn.fa.us2.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Ckeyword%3D%22intern%22%2Climit%3D25%2Coffset%3D0 (Caused by ResponseError('too ma",
+     "fail_streak": 4,
      "kind": "oracle",
      "ok": false
     }
@@ -1198,7 +1198,7 @@
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-16",
    "name": "Edward Jones",
-   "open": 3,
+   "open": 1,
    "sources": [
     {
      "changed_on": "2026-10-16",
@@ -1763,11 +1763,11 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-16",
    "name": "Hightower Advisors",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1827,7 +1827,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1918,7 +1918,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1948,7 +1948,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1977,7 +1977,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3014,7 +3014,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3169,7 +3169,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "3893f970d92ff62a",
+     "hash": "da64c3e3180a8b38",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3627,7 +3627,7 @@
    "hq": "Miami Beach, FL",
    "last_ok": "2026-10-16",
    "name": "Starwood Capital Group",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "changed_on": null,
@@ -3847,7 +3847,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3876,7 +3876,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3963,7 +3963,7 @@
    "hq": "Charleston, SC",
    "last_ok": "2026-10-16",
    "name": "Greystar",
-   "open": 2,
+   "open": 0,
    "sources": [
     {
      "changed_on": null,
@@ -4147,7 +4147,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4235,7 +4235,7 @@
    "hq": "Arlington, TX",
    "last_ok": "2026-10-16",
    "name": "D.R. Horton",
-   "open": 2,
+   "open": 0,
    "sources": [
     {
      "changed_on": "2026-10-16",
@@ -4472,7 +4472,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4501,7 +4501,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5311,7 +5311,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "1eac4a46e535b574",
+     "hash": "a12625d666d6073a",
      "kind": "page",
      "links": [],
      "ok": true,
