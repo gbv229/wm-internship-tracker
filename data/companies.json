@@ -213,7 +213,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-15",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 9,
+   "open": 8,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "f1735c7e15d0a6ac",
+     "hash": "f72cedfee40f26b7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1418,7 +1418,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "1971270dd523a7ae",
+     "hash": "b33f08c119191e33",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1668,11 +1668,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
      "hash": "2de559024e793a16",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.edelmanfinancialengines.com/careers/"
     }
    ],
@@ -2397,8 +2396,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
-     "hash": "de45b30289811c4a",
+     "changed_on": "2026-10-15",
+     "hash": "ce1dfe8bce86799b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2470,7 +2469,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "97a3953fe297d1d5",
+     "hash": "41708282538d8044",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2746,7 +2745,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "53653df2447b2489",
+     "hash": "9619e02cb678c95b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2862,7 +2861,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "a0edecf16e1073b2",
+     "hash": "aa71ad5fb869e7c1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3556,15 +3555,16 @@
    "domain": "coniferllc.com",
    "focus": "real_estate",
    "hq": "Rochester, NY",
-   "last_ok": "2026-10-14",
+   "last_ok": "2026-10-15",
    "name": "Conifer Realty",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "changed_on": null,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3775,9 +3775,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 520 Server Error: <none> for url: https://extraspace.wd5.myworkdayjobs.com/wday/cxs/extraspace/ESS_External/jobs",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4539,7 +4538,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
-     "hash": "e2b0ebf8fbf30486",
+     "hash": "b9e36240a978cac4",
      "kind": "page",
      "links": [],
      "ok": true,

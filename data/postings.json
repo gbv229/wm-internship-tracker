@@ -10377,45 +10377,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- If you are not returning back to school (i.e. are graduating in April 2027), you must require the full 4-months work term as a mandatory component to in order to graduate successfully.",
-   "classes": [
-    2027
-   ],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": "2026-09-20",
-   "deadline_evidence": "We encourage you to apply as soon as possible as we accept applications on a rolling basis, but please note that the formal application deadline is September 20, 2026.",
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-15",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "id": "wd:rbc:R-0000187541-3",
-   "last_seen": "2026-10-15",
-   "level": "Undergraduate",
-   "location": "TORONTO, Ontario, Canada",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-15",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 Winter - CRE, Operations Intern (4 Months)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CRE--Operations-Intern--4-Months-_R-0000187541-3",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "RBC (incl. RBC Wealth Mgmt & City National)",
@@ -14406,6 +14367,46 @@
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management-Winter-Intern_R-0000186770",
    "v": 5,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- If you are not returning back to school (i.e. are graduating in April 2027), you must require the full 4-months work term as a mandatory component to in order to graduate successfully.",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-15",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": "2026-09-20",
+   "deadline_evidence": "We encourage you to apply as soon as possible as we accept applications on a rolling basis, but please note that the formal application deadline is September 20, 2026.",
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "id": "wd:rbc:R-0000187541-3",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "TORONTO, Ontario, Canada",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 Winter - CRE, Operations Intern (4 Months)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CRE--Operations-Intern--4-Months-_R-0000187541-3",
+   "v": 8,
    "weeks": null,
    "work_mode": null
   },
