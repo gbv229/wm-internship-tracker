@@ -173,7 +173,7 @@
    "hq": "London / New York",
    "last_ok": "2026-10-16",
    "name": "Barclays",
-   "open": 4,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "22dd376de6b8b296",
+     "hash": "6ba9145c28f7dc9d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1040,7 +1040,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-10-16",
    "name": "Charles Schwab",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "kind": "icims",
@@ -1063,12 +1063,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
-     "hash": "251b4160ebd6c638",
+     "changed_on": "2026-10-16",
+     "hash": "c7c658b3b252a4f4",
      "kind": "page",
-     "links": [
-      "Financial Advisor Intern | https://careers.edwardjones.com/job/24015773/financial-advisor-intern-durham-nc/"
-     ],
+     "links": [],
      "ok": true,
      "url": "https://careers.edwardjones.com/"
     }
@@ -1575,7 +1573,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "74d5584ff3aece4d",
+     "hash": "03a7fbf937b462e5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2396,8 +2394,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
-     "hash": "ce1dfe8bce86799b",
+     "changed_on": "2026-10-16",
+     "hash": "d2b0a452bff7f9ea",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2513,7 +2511,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-16",
    "name": "JLL",
-   "open": 32,
+   "open": 31,
    "sources": [
     {
      "kind": "workday",
@@ -2533,7 +2531,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-16",
    "name": "Cushman & Wakefield",
-   "open": 20,
+   "open": 22,
    "sources": [
     {
      "kind": "workday",
@@ -2696,8 +2694,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "77d1d0c74bc26064",
+     "changed_on": "2026-10-16",
+     "hash": "01d77f51ed74dd4e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2745,7 +2743,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "5cbfa1f8053c5ca3",
+     "hash": "25e273129d258885",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2861,7 +2859,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3117,7 +3115,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "d271bbeb95fb5d04",
+     "hash": "e223adf8dc8a34b4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4538,7 +4536,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "44241b74c7d39bfe",
+     "hash": "21f963db619fd474",
      "kind": "page",
      "links": [],
      "ok": true,

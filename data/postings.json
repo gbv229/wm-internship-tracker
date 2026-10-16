@@ -943,6 +943,47 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Technology / Data",
+   "gpa": null,
+   "id": "wd:baird:R2026962-2",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "WI-Milwaukee",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Internship – Business Data & Analytics (Year-Round)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2",
+   "v": 8,
+   "weeks": null,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of May 2028 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -1052,47 +1093,6 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Continuous-Improvement-Analyst--Year-Round-_R20261151-1",
-   "v": 8,
-   "weeks": null,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of May 2028 or later",
-   "classes": [
-    2028
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-15",
-   "function": "Technology / Data",
-   "gpa": null,
-   "id": "wd:baird:R2026962-2",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "WI-Milwaukee",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-13",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "WI"
-   ],
-   "status": "open",
-   "title": "Internship – Data & Analytics (Year-Round)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2",
    "v": 8,
    "weeks": null,
    "work_mode": "Hybrid"
@@ -2080,43 +2080,6 @@
    "v": 8,
    "weeks": null,
    "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Barclays",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-13",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "id": "wd:barclays:JR-0000124673",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Geneva, 18-20 Chemin de Grange-Canal",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-13",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Geneva",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Geneva-18-20-Chemin-de-Grange-Canal/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Geneva_JR-0000124673",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
   },
   {
    "class_evidence": null,
@@ -3835,45 +3798,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-09",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "ic:career-schwab:126238",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "US-AZ-Phoenix",
-   "misses": 1,
-   "pay": "$22/hr",
-   "posted": "2026-10-09",
-   "region": "",
-   "regions": [
-    "Southwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "AZ"
-   ],
-   "status": "open",
-   "title": "2027 Financial Service & Support Intern - Phoenix",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126238/2027-financial-service-%26-support-intern---phoenix/job",
-   "v": 8,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Currently pursuing a bachelor’s degree and expected to graduate after August 2027.",
    "classes": [
     2027
@@ -4829,7 +4753,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "Gurgaon, India",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -4958,6 +4882,80 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/EIC-Intern---Data-Centre-Operations--Singapore-_R337691",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-12",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "id": "wd:cw:R335434",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Singapore",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-15",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern - Facilities Management, SGP 2027 Intake",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Facilities-Management--SGP-2027-Intake_R335434",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-12",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "id": "wd:cw:R295944-1",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Singapore; Client Site - SGP - Singapore - 1 Gul Circle",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-15",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern - Facilities Management, Singapore (2026 Intake)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Facilities-Management--Singapore--2026-Intake-_R295944-1",
    "v": 8,
    "weeks": null,
    "work_mode": null
@@ -5501,7 +5499,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "McLean, VA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$26–$39/hr (≈ $54k–$82k/yr)",
    "posted": "2026-09-15",
    "region": "US",
@@ -5542,7 +5540,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "McLean, VA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$31–$40/hr (≈ $64k–$83k/yr)",
    "posted": "2026-09-22",
    "region": "US",
@@ -7312,47 +7310,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "id": "wd:jll:REQ530228",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Houston, TX",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Houston Capital Markets Summer 2027 Internship -  Houston, TX",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Houston-Capital-Markets-Summer-2027-Internship----Houston--TX_REQ530228",
-   "v": 8,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "JLL",
@@ -8529,7 +8486,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$25/hr",
    "posted": "2026-09-15",
    "region": "US",
@@ -9281,45 +9238,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-15",
-   "first_seen": "2026-10-15",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:ms:JR045559",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Long Beach, California, United States of America",
-   "misses": 0,
-   "pay": "$16/hr",
-   "posted": "2026-10-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Long-Beach-California-United-States-of-America/Intern_JR045559",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -9347,6 +9265,45 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:ms:JR045559",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Long Beach, California, United States of America",
+   "misses": 1,
+   "pay": "$16/hr",
+   "posted": "2026-10-15",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Long-Beach-California-United-States-of-America/Intern_JR045559",
    "v": 8,
    "weeks": null,
    "work_mode": null
@@ -11846,6 +11803,44 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-16",
+   "company": "Barclays",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-13",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "wd:barclays:JR-0000124673",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Geneva, 18-20 Chemin de Grange-Canal",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Geneva",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Geneva-18-20-Chemin-de-Grange-Canal/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Geneva_JR-0000124673",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Anticipated graduation date: September 2027 – June 2028",
    "classes": [
     2028
@@ -11996,6 +11991,46 @@
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-2",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-16",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-09",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "ic:career-schwab:126238",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "US-AZ-Phoenix",
+   "misses": 2,
+   "pay": "$22/hr",
+   "posted": "2026-10-09",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "closed",
+   "title": "2027 Financial Service & Support Intern - Phoenix",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126238/2027-financial-service-%26-support-intern---phoenix/job",
+   "v": 8,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -12164,82 +12199,6 @@
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania-USA/EIC-2027-Summer-Intern--Philadelphia_R335729",
    "v": 6,
    "weeks": 8,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-16",
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-12",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "id": "wd:cw:R335434",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Singapore",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-15",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "EIC Intern - Facilities Management, SGP 2027 Intake",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Facilities-Management--SGP-2027-Intake_R335434",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-16",
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-12",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "id": "wd:cw:R295944-1",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Singapore; Client Site - SGP - Singapore - 1 Gul Circle",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-15",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "EIC Intern - Facilities Management, Singapore (2026 Intake)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Facilities-Management--Singapore--2026-Intake-_R295944-1",
-   "v": 8,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -12676,6 +12635,48 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Expression-of-Interest--2027-Summer-Internship-Program_REQ535877",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-16",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "id": "wd:jll:REQ530228",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Houston, TX",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-15",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Houston Capital Markets Summer 2027 Internship -  Houston, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Houston-Capital-Markets-Summer-2027-Internship----Houston--TX_REQ530228",
+   "v": 8,
    "weeks": null,
    "work_mode": "On-site"
   },
