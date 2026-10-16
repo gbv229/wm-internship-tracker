@@ -33,6 +33,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main            # latest data, even if this run waited behind another one
 
       - uses: actions/setup-python@v5
         with:
@@ -60,7 +62,8 @@ jobs:
             echo "No changes in postings."
           else
             git commit -m "Update postings $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git pull --rebase --autostash origin main
+            # if another run saved data meanwhile, keep this run's newer scrape
+            git pull --rebase --autostash -X theirs origin main || { git rebase --abort; git pull --no-rebase -X ours origin main; }
             git push
           fi
 
@@ -71,14 +74,17 @@ jobs:
         run: |
           gh label create tracker-health --color D93F0B --description "Opened by the update job" --force >/dev/null 2>&1 || true
           num=$(gh issue list --label tracker-health --state open --json number --jq '.[0].number')
-          if python -m scraper.health data health.md; then
+          rc=0; python -m scraper.health data health.md || rc=$?
+          if [ "$rc" -eq 2 ]; then
+            echo "Health report couldn't be built; skipping."
+          elif [ "$rc" -eq 0 ]; then
             if [ -n "$num" ]; then
               gh issue comment "$num" --body "Everything is working again as of $(date -u +'%Y-%m-%d %H:%M') UTC. Closing."
               gh issue close "$num"
             fi
           else
             if [ -n "$num" ]; then
-              gh issue edit "$num" --body-file health.md
+              gh issue edit "$num" --title "Tracker health: something needs attention" --body-file health.md
             else
               gh issue create --title "Tracker health: something needs attention" --label tracker-health --body-file health.md
             fi

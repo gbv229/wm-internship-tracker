@@ -68,7 +68,11 @@ def report(data: Path) -> tuple[bool, str]:
 
 if __name__ == "__main__":
     data, out = Path(sys.argv[1]), Path(sys.argv[2])
-    bad, md = report(data)
+    try:
+        bad, md = report(data)
+    except Exception as e:  # noqa: BLE001 - never let the report itself break the job
+        print(f"health report failed: {e}")
+        sys.exit(2)
     out.write_text(md)
     print(md)
     sys.exit(1 if bad else 0)
