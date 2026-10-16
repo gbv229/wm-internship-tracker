@@ -39,6 +39,12 @@
      "links": [],
      "ok": true,
      "url": "https://higher.gs.com/campus"
+    },
+    {
+     "kind": "browser",
+     "listed": 10,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -92,6 +98,12 @@
      "links": [],
      "ok": true,
      "url": "https://campus.bankofamerica.com/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -152,7 +164,7 @@
    "hq": "Zurich / New York",
    "last_ok": "2026-10-16",
    "name": "UBS",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -166,6 +178,12 @@
      ],
      "ok": true,
      "url": "https://www.ubs.com/global/en/careers/early-careers.html"
+    },
+    {
+     "kind": "browser",
+     "listed": 5,
+     "matched": 1,
+     "ok": true
     }
    ],
    "tracks": [
@@ -334,6 +352,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.hsbc.com/careers/students-and-graduates"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -354,11 +378,17 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "fae0089a74200845",
+     "hash": "41a6bdf31ca542e1",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://jobs.bmo.com/us/en"
+    },
+    {
+     "kind": "browser",
+     "listed": 2,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -438,7 +468,7 @@
    "hq": "Paris / New York",
    "last_ok": "2026-10-16",
    "name": "Rothschild & Co (Wealth Mgmt)",
-   "open": 0,
+   "open": 6,
    "sources": [
     {
      "changed_on": null,
@@ -451,6 +481,12 @@
      ],
      "ok": true,
      "url": "https://www.rothschildandco.com/en/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 30,
+     "matched": 6,
+     "ok": true
     }
    ],
    "tracks": [
@@ -476,6 +512,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.evercore.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -638,7 +680,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-16",
    "name": "Bessemer Trust",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -651,6 +693,12 @@
      ],
      "ok": true,
      "url": "https://www.bessemertrust.com/intern-with-us"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 1,
+     "ok": true
     }
    ],
    "tracks": [
@@ -676,6 +724,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.glenmede.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -691,7 +745,7 @@
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-16",
    "name": "Brown Advisory",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -703,6 +757,12 @@
      ],
      "ok": true,
      "url": "https://www.brownadvisory.com/us/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 1,
+     "ok": true
     }
    ],
    "tracks": [
@@ -728,6 +788,12 @@
      "links": [],
      "ok": true,
      "url": "https://jobs.firstcitizens.com/"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -840,7 +906,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='hcgn.fa.us2.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs%3BsiteNumber%3DCX_1%2Ckeyword%3D%22intern%22%2Climit%3D50%2Co",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "oracle",
      "ok": false
     }
@@ -999,6 +1065,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.fultonbank.com/About-Fulton-Bank/Careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1025,6 +1097,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.univest.net/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1052,6 +1130,12 @@
      ],
      "ok": true,
      "url": "https://www.wsfsbank.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1114,7 +1198,7 @@
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-16",
    "name": "Edward Jones",
-   "open": 0,
+   "open": 3,
    "sources": [
     {
      "changed_on": "2026-10-16",
@@ -1124,6 +1208,12 @@
      "links": [],
      "ok": true,
      "url": "https://careers.edwardjones.com/"
+    },
+    {
+     "kind": "browser",
+     "listed": 3,
+     "matched": 3,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1285,6 +1375,12 @@
      "links": [],
      "ok": true,
      "url": "https://opco.hrmdirect.com/employment/job-openings.php?search=true"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1310,6 +1406,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.janney.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1335,6 +1437,12 @@
      "links": [],
      "ok": true,
      "url": "https://dadavidson.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1350,7 +1458,7 @@
    "hq": "Little Rock, AR",
    "last_ok": "2026-10-16",
    "name": "Stephens",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -1360,6 +1468,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.stephens.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 4,
+     "matched": 1,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1385,6 +1499,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.hilltopsecurities.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1497,6 +1617,12 @@
      ],
      "ok": true,
      "url": "https://creativeplanning.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1585,6 +1711,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.mariner.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1610,6 +1742,12 @@
      "links": [],
      "ok": true,
      "url": "https://cressetcapital.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1623,16 +1761,22 @@
    "domain": "hightoweradvisors.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "Hightower Advisors",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 2,
+     "matched": 2,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1658,6 +1802,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.wealthenhancement.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1671,16 +1821,22 @@
    "domain": "sanctuarywealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "Sanctuary Wealth",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1706,6 +1862,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.carsongroup.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1731,6 +1893,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.merceradvisors.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1744,17 +1912,23 @@
    "domain": "edelmanfinancialengines.com",
    "focus": "wealth",
    "hq": "Boston, MA",
-   "last_ok": "2026-10-15",
+   "last_ok": "2026-10-16",
    "name": "Edelman Financial Engines",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
      "url": "https://www.edelmanfinancialengines.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1768,16 +1942,22 @@
    "domain": "fisherinvestments.com",
    "focus": "wealth",
    "hq": "Plano, TX",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "Fisher Investments",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1791,16 +1971,22 @@
    "domain": "savantwealth.com",
    "focus": "wealth",
    "hq": "Rockford, IL",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "Savant Wealth Management",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1826,6 +2012,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.dynastyfinancial.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1841,7 +2033,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-16",
    "name": "Silvercrest Asset Management",
-   "open": 0,
+   "open": 3,
    "sources": [
     {
      "changed_on": "2026-10-14",
@@ -1851,6 +2043,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.silvercrestgroup.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 4,
+     "matched": 3,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1866,7 +2064,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-16",
    "name": "Northwestern Mutual",
-   "open": 4,
+   "open": 5,
    "sources": [
     {
      "fail_streak": 0,
@@ -1885,6 +2083,12 @@
     {
      "fail_streak": 0,
      "kind": "smartrecruiters",
+     "ok": true
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -2063,6 +2267,12 @@
      ],
      "ok": true,
      "url": "https://www.newyorklife.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2090,6 +2300,12 @@
      ],
      "ok": true,
      "url": "https://careers.principal.com/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2121,6 +2337,12 @@
      ],
      "ok": true,
      "url": "https://jobs.lincolnfinancial.com/"
+    },
+    {
+     "kind": "browser",
+     "listed": 2,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2522,6 +2744,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.wealthfront.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2547,6 +2775,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.betterment.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2572,6 +2806,12 @@
      "links": [],
      "ok": true,
      "url": "https://altruist.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2597,6 +2837,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.farther.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2622,6 +2868,12 @@
      "links": [],
      "ok": true,
      "url": "https://careers.cbre.com/en_US/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2736,6 +2988,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.avisonyoung.us/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2754,13 +3012,19 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
+     "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "f9c8c821c97556d3",
+     "hash": "f47da16d5aa76f43",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://www.marcusmillichap.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2776,7 +3040,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-16",
    "name": "Eastdil Secured",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -2786,6 +3050,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.eastdilsecured.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 1,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2811,6 +3081,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.savills.us/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2836,6 +3112,12 @@
      "links": [],
      "ok": true,
      "url": "https://kidder.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2861,6 +3143,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.lee-associates.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2881,11 +3169,17 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "60f96158e942b63e",
+     "hash": "3893f970d92ff62a",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://www.altusgroup.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2937,6 +3231,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.trepp.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2973,7 +3273,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-16",
    "name": "Berkadia",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "changed_on": "2026-10-16",
@@ -2983,6 +3283,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.berkadia.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 2,
+     "matched": 2,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3003,11 +3309,17 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "c6aa589384699d14",
+     "hash": "aa71ad5fb869e7c1",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://www.greystone.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3033,6 +3345,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.northmarq.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3058,6 +3376,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.trimont.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3083,6 +3407,12 @@
      "links": [],
      "ok": true,
      "url": "https://arbor.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3276,6 +3606,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.kkr.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3291,7 +3627,7 @@
    "hq": "Miami Beach, FL",
    "last_ok": "2026-10-16",
    "name": "Starwood Capital Group",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -3304,6 +3640,12 @@
      ],
      "ok": true,
      "url": "https://www.starwoodcapital.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 1,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3329,6 +3671,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.clarionpartners.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3344,7 +3692,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-16",
    "name": "Heitman",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "changed_on": "2026-10-14",
@@ -3358,6 +3706,12 @@
      ],
      "ok": true,
      "url": "https://www.heitman.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 3,
+     "matched": 2,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3383,6 +3737,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.harrisonst.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3408,6 +3768,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.bridgeig.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3423,7 +3789,7 @@
    "hq": "Dallas, TX",
    "last_ok": "2026-10-16",
    "name": "Crow Holdings",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": "2026-10-15",
@@ -3435,6 +3801,12 @@
      ],
      "ok": true,
      "url": "https://www.crowholdings.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 1,
+     "matched": 1,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3469,16 +3841,22 @@
    "domain": "hines.com",
    "focus": "real_estate",
    "hq": "Houston, TX",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "Hines",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3492,16 +3870,22 @@
    "domain": "tishmanspeyer.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "Tishman Speyer",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3527,6 +3911,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.related.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3552,6 +3942,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.lpc.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3567,7 +3963,7 @@
    "hq": "Charleston, SC",
    "last_ok": "2026-10-16",
    "name": "Greystar",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "changed_on": null,
@@ -3580,6 +3976,12 @@
      ],
      "ok": true,
      "url": "https://www.greystar.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 2,
+     "matched": 2,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3668,6 +4070,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.jbgsmith.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3714,6 +4122,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.morgan-properties.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3733,11 +4147,16 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
      "url": "https://www.coniferllc.com/careers/"
+    },
+    {
+     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
+     "kind": "browser",
+     "ok": false
     }
    ],
    "tracks": [
@@ -3816,7 +4235,7 @@
    "hq": "Arlington, TX",
    "last_ok": "2026-10-16",
    "name": "D.R. Horton",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "changed_on": "2026-10-16",
@@ -3829,6 +4248,12 @@
      ],
      "ok": true,
      "url": "https://www.drhorton.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 2,
+     "matched": 2,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3854,6 +4279,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.prologis.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4035,16 +4466,22 @@
    "domain": "eqr.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "Equity Residential",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4058,16 +4495,22 @@
    "domain": "avalonbay.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": null,
+   "last_ok": "2026-10-16",
    "name": "AvalonBay",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4093,6 +4536,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.vno.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4118,6 +4567,12 @@
      "links": [],
      "ok": true,
      "url": "https://slgreen.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4143,6 +4598,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.kimcorealty.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4168,6 +4629,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.brixmor.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4193,6 +4660,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.federalrealty.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4218,6 +4691,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.brandywinerealty.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4243,6 +4722,12 @@
      "links": [],
      "ok": true,
      "url": "https://welltower.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4268,6 +4753,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.ventasreit.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4463,6 +4954,12 @@
      ],
      "ok": true,
      "url": "https://www.pennmutual.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4488,6 +4985,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.kestrafinancial.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4513,6 +5016,12 @@
      "links": [],
      "ok": true,
      "url": "https://aspiriant.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4538,6 +5047,12 @@
      "links": [],
      "ok": true,
      "url": "https://pathstone.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4563,6 +5078,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.wealthspire.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4588,6 +5109,12 @@
      "links": [],
      "ok": true,
      "url": "https://beaconpointe.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4613,6 +5140,12 @@
      "links": [],
      "ok": true,
      "url": "https://buckinghamstrategicwealth.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4649,7 +5182,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-16",
    "name": "Homrich Berg",
-   "open": 0,
+   "open": 8,
    "sources": [
     {
      "changed_on": "2026-10-16",
@@ -4659,6 +5192,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.homrichberg.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 10,
+     "matched": 8,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4684,6 +5223,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.sequoia-financial.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4709,6 +5254,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.bleakley.com/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4734,6 +5285,12 @@
      "links": [],
      "ok": true,
      "url": "https://www.cnbank.com/careers"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4754,11 +5311,17 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "bc0db8cd9fece99c",
+     "hash": "1eac4a46e535b574",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://www.synovus.com/about-us/careers/"
+    },
+    {
+     "kind": "browser",
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
