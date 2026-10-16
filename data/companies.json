@@ -10,6 +10,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -32,6 +33,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "b2185d4027bab0ae",
      "kind": "page",
      "links": [],
@@ -56,6 +58,7 @@
    "open": 20,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -77,11 +80,13 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "1035004f51dda000",
      "kind": "page",
      "links": [],
@@ -106,6 +111,7 @@
    "open": 3,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -127,6 +133,7 @@
    "open": 13,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -149,6 +156,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "383864306bf66164",
      "kind": "page",
      "links": [
@@ -176,6 +184,7 @@
    "open": 3,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -196,6 +205,7 @@
    "open": 5,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -216,14 +226,17 @@
    "open": 8,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -245,6 +258,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -266,10 +280,12 @@
    "open": 3,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -290,6 +306,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -311,6 +328,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
+     "fail_streak": 0,
      "hash": "0cfcf78436af8029",
      "kind": "page",
      "links": [],
@@ -335,7 +353,8 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "04d6b124e31f669a",
+     "fail_streak": 0,
+     "hash": "1975733252f45376",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -358,6 +377,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -378,6 +398,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -399,6 +420,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -420,6 +442,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "e0f8cd95121489cf",
      "kind": "page",
      "links": [
@@ -447,6 +470,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "0dea200907df2d4a",
      "kind": "page",
      "links": [],
@@ -470,6 +494,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
     }
@@ -490,6 +515,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -510,6 +536,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -530,6 +557,7 @@
    "open": 6,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -550,6 +578,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -570,6 +599,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -590,6 +620,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -611,6 +642,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "45e90d1d093bacb2",
      "kind": "page",
      "links": [
@@ -638,6 +670,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "d7fedc0ef283d068",
      "kind": "page",
      "links": [],
@@ -662,6 +695,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "677b184b931a22d6",
      "kind": "page",
      "links": [
@@ -688,6 +722,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
+     "fail_streak": 0,
      "hash": "06049d97cc4f6eab",
      "kind": "page",
      "links": [],
@@ -711,6 +746,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -732,6 +768,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -753,6 +790,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -774,10 +812,12 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -800,6 +840,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='hcgn.fa.us2.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs%3BsiteNumber%3DCX_1%2Ckeyword%3D%22intern%22%2Climit%3D50%2Co",
+     "fail_streak": 1,
      "kind": "oracle",
      "ok": false
     }
@@ -821,6 +862,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -842,6 +884,7 @@
    "open": 12,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -863,6 +906,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -884,6 +928,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -905,6 +950,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -925,6 +971,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -946,6 +993,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "669b910e130ae15a",
      "kind": "page",
      "links": [],
@@ -971,6 +1019,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "a1fbebb49ab88887",
      "kind": "page",
      "links": [],
@@ -995,6 +1044,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
+     "fail_streak": 0,
      "hash": "aacb95ca8ded1154",
      "kind": "page",
      "links": [
@@ -1020,10 +1070,12 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1044,6 +1096,7 @@
    "open": 3,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "icims",
      "ok": true
     }
@@ -1065,6 +1118,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "0a7937fbbe4468ab",
      "kind": "page",
      "links": [],
@@ -1085,13 +1139,15 @@
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-10-16",
    "name": "Raymond James",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1112,6 +1168,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1132,10 +1189,12 @@
    "open": 8,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1156,6 +1215,7 @@
    "open": 3,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "icims",
      "ok": true
     }
@@ -1176,6 +1236,7 @@
    "open": 32,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1196,6 +1257,7 @@
    "open": 11,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "icims",
      "ok": true
     }
@@ -1217,6 +1279,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "3e47c5e2e9d4ff39",
      "kind": "page",
      "links": [],
@@ -1241,6 +1304,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "f8c2437e4d8af23a",
      "kind": "page",
      "links": [],
@@ -1265,6 +1329,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "7f4c1ca8fe4067bb",
      "kind": "page",
      "links": [],
@@ -1289,6 +1354,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "e1d7b50179b77e67",
      "kind": "page",
      "links": [],
@@ -1313,6 +1379,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "141ec77912857372",
      "kind": "page",
      "links": [],
@@ -1336,6 +1403,7 @@
    "open": 5,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1356,6 +1424,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1376,6 +1445,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -1396,6 +1466,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1417,6 +1488,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "cf1eb0649b074407",
      "kind": "page",
      "links": [
@@ -1443,6 +1515,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "icims",
      "ok": true
     }
@@ -1463,6 +1536,7 @@
    "open": 19,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1483,6 +1557,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
     }
@@ -1504,6 +1579,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "57f8fe06b1d2af38",
      "kind": "page",
      "links": [],
@@ -1528,6 +1604,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "60e414096248818e",
      "kind": "page",
      "links": [],
@@ -1552,6 +1629,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1574,6 +1652,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "03a7fbf937b462e5",
      "kind": "page",
      "links": [],
@@ -1598,6 +1677,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1620,6 +1700,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "e723ebd23b582a73",
      "kind": "page",
      "links": [],
@@ -1644,6 +1725,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "32e476253a94b4d3",
      "kind": "page",
      "links": [],
@@ -1668,6 +1750,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
+     "fail_streak": 1,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1691,6 +1774,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1713,6 +1797,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -1735,6 +1820,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "e3b0c44298fc1c14",
      "kind": "page",
      "links": [],
@@ -1759,6 +1845,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
+     "fail_streak": 0,
      "hash": "94ab81972a29e91e",
      "kind": "page",
      "links": [],
@@ -1782,11 +1869,13 @@
    "open": 4,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "1edeb0b3d9598673",
      "kind": "page",
      "links": [],
@@ -1794,6 +1883,7 @@
      "url": "https://www.northwesternmutual.com/careers/"
     },
     {
+     "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
     }
@@ -1815,6 +1905,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1836,6 +1927,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1856,6 +1948,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1876,6 +1969,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1896,6 +1990,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1916,6 +2011,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1936,6 +2032,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -1957,6 +2054,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "97eea1c8787c19f8",
      "kind": "page",
      "links": [
@@ -1984,6 +2082,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
+     "fail_streak": 0,
      "hash": "acdc7df4c9f7f729",
      "kind": "page",
      "links": [
@@ -2011,6 +2110,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "abd0324632452781",
      "kind": "page",
      "links": [
@@ -2039,6 +2139,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2059,10 +2160,12 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2084,10 +2187,12 @@
    "open": 10,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2108,6 +2213,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2128,6 +2234,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2148,6 +2255,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2168,10 +2276,12 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2193,6 +2303,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2213,6 +2324,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2233,6 +2345,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2253,6 +2366,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2273,6 +2387,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2294,6 +2409,7 @@
    "open": 6,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2314,6 +2430,7 @@
    "open": 9,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2335,6 +2452,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2355,6 +2473,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
     }
@@ -2375,6 +2494,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "ashby",
      "ok": true
     }
@@ -2396,6 +2516,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "d2b0a452bff7f9ea",
      "kind": "page",
      "links": [],
@@ -2420,6 +2541,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "cf83592436ef00a9",
      "kind": "page",
      "links": [],
@@ -2444,6 +2566,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
+     "fail_streak": 0,
      "hash": "40120a04e0ec99b2",
      "kind": "page",
      "links": [],
@@ -2468,6 +2591,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "41708282538d8044",
      "kind": "page",
      "links": [],
@@ -2492,6 +2616,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "20699276eda9f621",
      "kind": "page",
      "links": [],
@@ -2515,6 +2640,7 @@
    "open": 31,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2535,6 +2661,7 @@
    "open": 21,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2555,6 +2682,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2575,6 +2703,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -2595,11 +2724,13 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "icims",
      "ok": true
     },
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "f5ee22535a762239",
      "kind": "page",
      "links": [],
@@ -2624,6 +2755,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
@@ -2648,6 +2780,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "9976a2b742e99485",
      "kind": "page",
      "links": [],
@@ -2672,6 +2805,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "3636f6c5e8131ee9",
      "kind": "page",
      "links": [],
@@ -2696,6 +2830,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "01d77f51ed74dd4e",
      "kind": "page",
      "links": [],
@@ -2720,6 +2855,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "168f2e83705cc6aa",
      "kind": "page",
      "links": [],
@@ -2744,7 +2880,8 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "91de63375237a588",
+     "fail_streak": 0,
+     "hash": "18e89adf1265a857",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2767,10 +2904,12 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     },
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2792,6 +2931,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "1f7276d4addd58b7",
      "kind": "page",
      "links": [],
@@ -2815,6 +2955,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2836,6 +2977,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "bd523fb629082563",
      "kind": "page",
      "links": [],
@@ -2860,7 +3002,8 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "cede8d21716ead37",
+     "fail_streak": 0,
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2884,6 +3027,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "34efd416b82a6e7e",
      "kind": "page",
      "links": [],
@@ -2908,6 +3052,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "b1a24b6d745f2878",
      "kind": "page",
      "links": [],
@@ -2932,6 +3077,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "fb26b1e45e53ac46",
      "kind": "page",
      "links": [],
@@ -2955,6 +3101,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2975,6 +3122,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -2995,6 +3143,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3015,6 +3164,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3035,6 +3185,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3055,6 +3206,7 @@
    "open": 4,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3075,6 +3227,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3095,6 +3248,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3116,6 +3270,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "e223adf8dc8a34b4",
      "kind": "page",
      "links": [],
@@ -3140,6 +3295,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "93bfd5c9ee7b05c8",
      "kind": "page",
      "links": [
@@ -3167,6 +3323,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "4d81bae97ffe53ab",
      "kind": "page",
      "links": [],
@@ -3191,6 +3348,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
+     "fail_streak": 0,
      "hash": "30034742f8ece3e9",
      "kind": "page",
      "links": [
@@ -3219,6 +3377,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
+     "fail_streak": 0,
      "hash": "c629d0d9146e5686",
      "kind": "page",
      "links": [],
@@ -3243,6 +3402,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "cc17f72d71bb83bd",
      "kind": "page",
      "links": [],
@@ -3267,6 +3427,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "9e1481aaeadc7b9f",
      "kind": "page",
      "links": [
@@ -3292,6 +3453,7 @@
    "open": 8,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3313,6 +3475,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3335,6 +3498,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3357,6 +3521,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "a2d3a2393c7ca7cf",
      "kind": "page",
      "links": [],
@@ -3381,6 +3546,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "cee548f047beab10",
      "kind": "page",
      "links": [],
@@ -3405,6 +3571,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "e9bb6b110ad5b8fa",
      "kind": "page",
      "links": [
@@ -3431,6 +3598,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
     }
@@ -3451,6 +3619,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3471,6 +3640,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3492,6 +3662,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "62b3c311584508bc",
      "kind": "page",
      "links": [],
@@ -3515,6 +3686,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
     }
@@ -3536,6 +3708,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "b427a84a541ead9e",
      "kind": "page",
      "links": [],
@@ -3560,6 +3733,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "fail_streak": 1,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -3582,6 +3756,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3602,6 +3777,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3622,6 +3798,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3643,6 +3820,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "0d050978f333162a",
      "kind": "page",
      "links": [
@@ -3670,6 +3848,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "b35b6d920a4ce9de",
      "kind": "page",
      "links": [],
@@ -3693,6 +3872,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3713,6 +3893,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -3733,6 +3914,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3753,6 +3935,7 @@
    "open": 1,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "oracle",
      "ok": true
     }
@@ -3773,6 +3956,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3793,6 +3977,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -3813,6 +3998,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
     }
@@ -3833,6 +4019,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "ashby",
      "ok": true
     }
@@ -3854,6 +4041,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -3876,6 +4064,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
+     "fail_streak": 1,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -3898,6 +4087,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "a866d2e502e8b5da",
      "kind": "page",
      "links": [],
@@ -3922,6 +4112,7 @@
    "sources": [
     {
      "changed_on": "2026-10-14",
+     "fail_streak": 0,
      "hash": "4ed8dcaf2fb4dbea",
      "kind": "page",
      "links": [],
@@ -3946,6 +4137,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "ce1dad5fa6207afa",
      "kind": "page",
      "links": [],
@@ -3970,6 +4162,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "links": [],
@@ -3994,6 +4187,7 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
+     "fail_streak": 0,
      "hash": "4b7d812410c95d73",
      "kind": "page",
      "links": [],
@@ -4018,6 +4212,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "1f224a8045b1a754",
      "kind": "page",
      "links": [],
@@ -4042,6 +4237,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "1a02c0ce4ac71c16",
      "kind": "page",
      "links": [],
@@ -4066,6 +4262,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "ccfdf257f6a1bbaf",
      "kind": "page",
      "links": [],
@@ -4089,6 +4286,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
     }
@@ -4109,6 +4307,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -4129,6 +4328,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -4149,6 +4349,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -4169,6 +4370,7 @@
    "open": 2,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -4189,6 +4391,7 @@
    "open": 3,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -4209,6 +4412,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "workday",
      "ok": true
     }
@@ -4229,6 +4433,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "ashby",
      "ok": true
     }
@@ -4250,6 +4455,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "2884c6b7c9732811",
      "kind": "page",
      "links": [
@@ -4276,6 +4482,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "6dcdba76d50eb7dd",
      "kind": "page",
      "links": [],
@@ -4300,6 +4507,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "e68bf9cf46f6a574",
      "kind": "page",
      "links": [],
@@ -4324,6 +4532,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "1d9ee06b6eeeffe7",
      "kind": "page",
      "links": [],
@@ -4348,6 +4557,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "9f7e4a50df8650ac",
      "kind": "page",
      "links": [],
@@ -4372,6 +4582,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "0ea0defba88f127c",
      "kind": "page",
      "links": [],
@@ -4396,6 +4607,7 @@
    "sources": [
     {
      "changed_on": "2026-10-15",
+     "fail_streak": 0,
      "hash": "6e2576be4aa59c4e",
      "kind": "page",
      "links": [],
@@ -4419,6 +4631,7 @@
    "open": 0,
    "sources": [
     {
+     "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
     }
@@ -4440,6 +4653,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "a1c3a264a311942a",
      "kind": "page",
      "links": [],
@@ -4464,6 +4678,7 @@
    "sources": [
     {
      "changed_on": "2026-10-13",
+     "fail_streak": 0,
      "hash": "ca14ced4a05a714b",
      "kind": "page",
      "links": [],
@@ -4488,6 +4703,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "fail_streak": 0,
      "hash": "be4bccbdb8382eb7",
      "kind": "page",
      "links": [],
@@ -4512,6 +4728,7 @@
    "sources": [
     {
      "changed_on": null,
+     "fail_streak": 0,
      "hash": "bd31b5effb3cdb4c",
      "kind": "page",
      "links": [],
@@ -4536,7 +4753,8 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "70e8634ee592011e",
+     "fail_streak": 0,
+     "hash": "37b4092e4d8ff7a4",
      "kind": "page",
      "links": [],
      "ok": true,

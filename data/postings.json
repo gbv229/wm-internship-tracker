@@ -3892,7 +3892,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "US-CO-Lone Tree",
-   "misses": 0,
+   "misses": 1,
    "pay": "$34/hr",
    "posted": "2026-10-08",
    "region": "",
@@ -10356,47 +10356,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "To be eligible for the summer 2027 internship program, you must be a junior standing candidate pursuing a bachelor's or master's degree with a graduate date of December 2027 or May 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "Raymond James",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:raymondjames:R-0013237",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Saint Petersburg, Florida - United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-06",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "2027 Summer Internship – Wealth Management – Multiple Locations",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Wealth-Management---Multiple-Locations_R-0013237",
-   "v": 8,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Finance, Accounting, Tax, Business or a related field, with an expected graduation date of December 2027 through June 2028",
    "classes": [
     2028
@@ -14574,6 +14533,48 @@
    ],
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---PCG-Finance---St-Petersburg--FL_R-0013337",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "To be eligible for the summer 2027 internship program, you must be a junior standing candidate pursuing a bachelor's or master's degree with a graduate date of December 2027 or May 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-16",
+   "company": "Raymond James",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:raymondjames:R-0013237",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Saint Petersburg, Florida - United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-06",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Internship – Wealth Management – Multiple Locations",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Wealth-Management---Multiple-Locations_R-0013237",
+   "v": 8,
    "weeks": null,
    "work_mode": "On-site"
   }
