@@ -4,12 +4,19 @@ on:
   schedule:
     - cron: "*/30 * * * *"      # every 30 minutes (GitHub may start runs a few minutes late)
   workflow_dispatch:             # "Run workflow" button on the Actions tab
+    inputs:
+      browser:
+        description: "Read page-only firms in a headless browser (auto = every 3 hours)"
+        default: auto
+        type: choice
+        options: [auto, "on", "off"]
   push:
     branches: [main]
     paths: ["companies.yaml", "scraper/**", "site/**", ".github/workflows/**"]
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -20,7 +27,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 45
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -34,11 +41,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Install headless browser
+        run: python -m playwright install --with-deps chromium
+
       - name: Tests
         run: python -m pytest -q tests
 
       - name: Scrape careers sites
-        run: python -m scraper.run
+        id: scrape
+        run: python -m scraper.run --browser "${{ github.event.inputs.browser || 'auto' }}"
 
       - name: Save changes
         run: |
@@ -53,12 +64,43 @@ jobs:
             git push
           fi
 
+      - name: Health check (opens or closes the "Tracker health" issue)
+        if: always() && steps.scrape.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create tracker-health --color D93F0B --description "Opened by the update job" --force >/dev/null 2>&1 || true
+          num=$(gh issue list --label tracker-health --state open --json number --jq '.[0].number')
+          if python -m scraper.health data health.md; then
+            if [ -n "$num" ]; then
+              gh issue comment "$num" --body "Everything is working again as of $(date -u +'%Y-%m-%d %H:%M') UTC. Closing."
+              gh issue close "$num"
+            fi
+          else
+            if [ -n "$num" ]; then
+              gh issue edit "$num" --body-file health.md
+            else
+              gh issue create --title "Tracker health: something needs attention" --label tracker-health --body-file health.md
+            fi
+          fi
+
+      - name: Report a failed run
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create tracker-health --color D93F0B --force >/dev/null 2>&1 || true
+          url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          num=$(gh issue list --label tracker-health --state open --json number --jq '.[0].number')
+          msg="The update run failed at $(date -u +'%Y-%m-%d %H:%M') UTC, so the site wasn't refreshed. Log: $url"
+          if [ -n "$num" ]; then gh issue comment "$num" --body "$msg"; else gh issue create --title "Tracker health: update run failed" --label tracker-health --body "$msg"; fi
+
       - name: Build site
         run: |
           mkdir -p _site/data
           cp site/* _site/
           cp data/*.json _site/data/
-          cp data/*.ics _site/data/ 2>/dev/null || true
+          cp data/*.ics data/*.xml _site/data/ 2>/dev/null || true
 
       - uses: actions/configure-pages@v5
         with:

@@ -21,7 +21,7 @@ from pathlib import Path
 
 import yaml
 
-from . import early, parse, sources
+from . import browser, early, feeds, parse, sources
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -99,7 +99,7 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         rejected[j.id] = "not internship"
         return None
     if focus == "mixed" and not parse.tracks_for(j.title, "", focus, tracks) and not parse.is_early(j.title) \
-            and not j.text and not j._detail:
+            and not j.text and not j._detail and not old:
         rejected[j.id] = "not relevant"
         return None
 
@@ -179,10 +179,51 @@ def handle_job(j, co, old, seen, today, budget, rejected):
     }
 
 
+def apply_overrides(postings: dict, path: Path) -> int:
+    """Hand corrections from overrides.yaml. Returns how many postings changed."""
+    try:
+        rules = (yaml.safe_load(path.read_text()) or {}).get("overrides") or []
+    except FileNotFoundError:
+        return 0
+    n = 0
+    for p in postings.values():
+        for r in rules:
+            m = r.get("match") or {}
+            if not m:
+                continue
+            if "id" in m and m["id"] != p["id"]:
+                continue
+            if "url_contains" in m and str(m["url_contains"]) not in p["url"]:
+                continue
+            if "company" in m and str(m["company"]).lower() != p["company"].lower():
+                continue
+            if "title_contains" in m and str(m["title_contains"]).lower() not in p["title"].lower():
+                continue
+            for k, v in (r.get("set") or {}).items():
+                if k == "deadline":
+                    p["deadline"] = str(v)
+                    p["deadline_evidence"] = "Confirmed by hand" + (f" ({r['source']})" if r.get("source") else "") + "."
+                elif k == "classes":
+                    p["classes"] = sorted(int(x) for x in v)
+                    p["class_evidence"] = "Confirmed by hand" + (f" ({r['source']})" if r.get("source") else "") + "."
+                elif k == "season":
+                    p["season"], p["season_inferred"] = str(v), False
+                elif k == "note":
+                    p["note"] = str(v)
+            if r.get("verified"):
+                p["verified"] = str(r["verified"])
+            if r.get("source"):
+                p["verified_source"] = str(r["source"])
+            n += 1
+    return n
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="comma-separated company names to run")
     ap.add_argument("--workers", type=int, default=6)
+    ap.add_argument("--browser", choices=["auto", "on", "off"], default="auto",
+                    help="read page-only firms in a headless browser (auto = every 3 hours)")
     args = ap.parse_args(argv)
 
     started = time.time()
@@ -219,6 +260,36 @@ def main(argv=None):
             got = results[co["name"]]
             print(f"{co['name']}: {len(got[0])} matched "
                   + " ".join(f"[{x['kind']}:{'ok' if x['ok'] else 'ERR'}]" for x in got[2]["sources"]))
+
+    # ---- browser pass for firms whose careers page has no readable feed
+    use_browser = args.browser == "on" or (args.browser == "auto" and now.hour % 3 == 0 and now.minute < 30)
+    if use_browser and browser.available():
+        targets = [(co["name"], next(iter(src.values()))["url"]) for co in companies
+                   for src in co["sources"] if "page" in src and co["name"] in results]
+        # postings already read recently (or already ruled out) don't need re-rendering
+        skip = {pid for pid, p in prev.items() if p.get("v") == PARSER_VERSION and p.get("detail_at")
+                and (today - date.fromisoformat(p["detail_at"])).days < REFRESH_DAYS} | set(seen)
+        t0 = time.time()
+        crawled = browser.crawl(targets, skip)
+        print(f"\nBrowser pass: {len(targets)} pages in {time.time() - t0:.0f}s")
+        for co in companies:
+            if co["name"] not in crawled:
+                continue
+            jobs, err = crawled[co["name"]]
+            found, rejected, st = results[co["name"]]
+            bst = {"kind": "browser", "ok": err is None}
+            if err:
+                bst["error"] = err
+            else:
+                bst["listed"] = len(jobs)
+                old = {k: v for k, v in prev.items() if v["company"] == co["name"]}
+                for j in jobs:
+                    rec = handle_job(j, co, old.get(j.id), seen, today, budget, rejected)
+                    if rec:
+                        found[j.id] = rec
+                bst["matched"] = sum(1 for p in found.values() if p["source"] == "browser")
+            st["sources"].append(bst)
+            print(f"  {co['name']}: browser {'ERR ' + err[:80] if err else str(bst['listed']) + ' links, ' + str(bst['matched']) + ' matched'}")
 
     # ---- merge
     out: dict[str, dict] = {}
@@ -264,9 +335,12 @@ def main(argv=None):
         rec["verified"] = bool(co.get("verified"))
         rec["open"] = sum(1 for p in out.values() if p["company"] == co["name"] and p["status"] == "open")
         srcs = []
-        for x, src in zip(st["sources"], co["sources"]):
+        old_srcs = old.get("sources", [])
+        for i, (x, src) in enumerate(zip(st["sources"], co["sources"])):
             kind, cfg = next(iter(src.items()))
             d = {"kind": kind, "ok": x["ok"]}
+            prev_src = old_srcs[i] if i < len(old_srcs) and old_srcs[i].get("kind") == kind else {}
+            d["fail_streak"] = 0 if x["ok"] else prev_src.get("fail_streak", 0) + 1
             if not x["ok"]:
                 d["error"] = x.get("error")
             if kind == "page":
@@ -282,10 +356,17 @@ def main(argv=None):
                         if old_src.get(k):
                             d[k] = old_src[k]
             srcs.append(d)
+        for x in st["sources"][len(co["sources"]):]:
+            srcs.append({k: x.get(k) for k in ("kind", "ok", "error", "listed", "matched") if x.get(k) is not None})
+        if not any(x["kind"] == "browser" for x in srcs):     # keep last browser result between passes
+            srcs += [x for x in old.get("sources", []) if x.get("kind") == "browser"]
         rec["sources"] = srcs
         rec["last_ok"] = today.isoformat() if any(x["ok"] for x in srcs) else old.get("last_ok")
         status_out.append(rec)
 
+    n_fixed = apply_overrides(out, ROOT / "overrides.yaml")
+    if n_fixed:
+        print(f"Applied hand corrections to {n_fixed} postings")
     for p in out.values():               # cheap to recompute: keeps old records current too
         p["regions"] = parse.regions(p.get("location", ""), p.get("title", ""))
         p["states"] = parse.states(p.get("location", ""), p.get("title", ""))
@@ -293,6 +374,10 @@ def main(argv=None):
     dump(DATA / "postings.json", {"postings": postings})
     dump(DATA / "companies.json", {"companies": status_out})
     dump(DATA / "seen.json", {"_v": PARSER_VERSION, **seen})
+    try:
+        feeds.write_feeds(postings, DATA, today)
+    except Exception:  # noqa: BLE001
+        traceback.print_exc()
     try:
         early.build(ROOT, DATA, postings, status_out, today)
     except Exception:  # noqa: BLE001 - a bad edit to early_programs.yaml shouldn't stop the postings update

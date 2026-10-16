@@ -1,0 +1,146 @@
+# How each firm recruits: timing, program names and where to look.
+# Shown in a role's details and on the Firms tab. Keep it factual and note
+# which cycle a date comes from; dates shift a little every year.
+# name must match companies.yaml (aliases cover other spellings).
+#
+# Last researched: 2026-10-15
+
+firms:
+  - name: Morgan Stanley
+    timeline: Summer analyst recruiting runs about 18 months ahead. For Summer 2027, investment banking took applications Jan 1 – Feb 15, 2026, and Wealth Management closed Mar 13, 2026. Expect the 2028 programs on a similar schedule in early 2027.
+    programs: [Early Insights Program (sophomores, fall), Wealth Management Summer Analyst, Investment Management Summer Analyst]
+    tips: Last cycle's minimum GPA was 3.4 for banking and 3.5 for Wealth Management. Wealth Management needs US work authorization without sponsorship.
+    links:
+      - {label: Students & graduates, url: "https://www.morganstanley.com/people-opportunities/students-graduates"}
+      - {label: Campus job board, url: "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/jobboard/vacancy/1/adv/"}
+
+  - name: Goldman Sachs
+    timeline: Goldman now recruits summer analysts in the fall of junior year. The 2027 Americas Summer Analyst program (including Asset & Wealth Management) opened Aug 15, 2026, with rolling review. Sophomores get the Emerging Leaders Series (fall – spring) and first-years the Possibilities Series.
+    programs: [Emerging Leaders Series (sophomores), Possibilities Series (first-years), Undergraduate Virtual Insight Series, Summer Analyst]
+    tips: Apply as soon as a program opens; review is rolling.
+    links:
+      - {label: Students, url: "https://www.goldmansachs.com/careers/students"}
+      - {label: Emerging Leaders Series, url: "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/emerging-leaders-series"}
+
+  - name: J.P. Morgan
+    short: J.P. Morgan
+    timeline: The JPMorganChase Fellowship (all sophomores, five-week paid summer) last opened Nov 11 and closed Jan 13. Spring Insights usually opens in winter. For Summer 2028, banking is expected to open Dec 2026 – Mar 2027 and Markets / Private Bank / Asset & Wealth Management in spring 2027. The 2027 Markets posting closed Sep 30, 2026.
+    programs: [JPMorganChase Fellowship, Spring Insights, Emerging Talent Experience, Summer Analyst]
+    tips: JPM doesn't post dates in advance, so join its student talent network to get an email when programs open.
+    links:
+      - {label: Programs, url: "https://www.jpmorganchase.com/careers/explore-opportunities/programs"}
+      - {label: Talent network sign-up, url: "https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg"}
+
+  - name: Bank of America / Merrill
+    short: Bank of America
+    timeline: Merrill's 2027 Wealth Management summer programs (Client Associate and Advisor Development) closed Mar 30, 2026. Front-office programs for Summer 2028 are expected to open in spring – summer 2027 and close as seats fill.
+    programs: [Merrill Wealth Management Summer Analyst, Campus Insight Forum (sophomores), Summer Analyst]
+    tips: Last cycle preferred a 3.5 GPA for banking and markets roles. BofA can't sponsor visas now or in the future.
+    links:
+      - {label: Campus recruiting, url: "https://campus.bankofamerica.com/"}
+
+  - name: Citi (incl. Citi Private Bank)
+    aliases: [Citi]
+    short: Citi
+    timeline: Early ID (sophomores, three-week virtual mentorship) takes applications in November and February; the fall 2026 round was due Oct 23. Freshman Discovery opens in late March or early April. Summer 2028 analyst roles are expected around December 2026.
+    programs: [Early ID Program, Freshman Discovery, Summer Analyst]
+    links:
+      - {label: Pre-internship programs, url: "https://jobs.citi.com/earlycareers-programs-preinternships"}
+
+  - name: Wells Fargo
+    timeline: Wealth & Investment Management summer internships are for rising seniors and are expected to open around January. The Sophomore Discovery Fellowship (paid, Charlotte) usually opens in the fall.
+    programs: [Wealth & Investment Management Summer Internship, Sophomore Discovery Fellowship]
+    links:
+      - {label: Early careers, url: "https://www.wellsfargojobs.com/en/early-careers/"}
+
+  - name: BNY (incl. BNY Wealth)
+    aliases: [BNY]
+    short: BNY
+    timeline: Sophomore Summit (virtual, May – June) and Freshman Jumpstart (virtual, July) both open Jan 11, 2027. Summer internships are posted on BNY's job board.
+    programs: [Sophomore Summit, Freshman Jumpstart, Summer Internship Program]
+    links:
+      - {label: Pre-internship programs, url: "https://www.bny.com/corporate/global/en/about-us/careers/students/pre-internship.html"}
+
+  - name: Evercore
+    aliases: [Evercore Wealth Management]
+    timeline: Evercore recruits sophomores for the junior-year summer. The 2028 Summer Analyst program opened Sep 9, 2026 and closes Nov 15, 2026.
+    programs: [Summer Analyst (sophomore recruiting), Discovery Nights, Sophomore Open House]
+    tips: You can apply to at most two groups.
+    links:
+      - {label: US students, url: "https://www.evercore.com/careers/students-graduates/students-graduates-u-s/"}
+
+  - name: Blackstone
+    timeline: Summer analyst roles (including Real Estate) are for juniors and are expected to open January – March 2027, with rolling review. Sophomores can apply to Blackstone Real Estate Leaders (BREL), a week in New York in early January (last deadline Oct 3), and Future Women Leaders / Diverse Leaders in the fall.
+    programs: [Blackstone Real Estate Leaders (sophomores), US Future Leaders, Future Women Leaders, Diverse Leaders, Summer Analyst]
+    tips: Late applications aren't accepted once a program closes.
+    links:
+      - {label: Students, url: "https://www.blackstone.com/careers/students/"}
+      - {label: Campus job board, url: "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers"}
+
+  - name: Raymond James
+    timeline: Sophomore programs run from fall through spring - a virtual banking bootcamp in October, the Sophomore Showcase / Career Fast Track over winter and spring, and a Diversity Fast Track at headquarters in St. Petersburg.
+    programs: [Sophomore Showcase, Career Fast Track, Fall Virtual Sophomore Program, Summer Internship]
+    tips: Sophomore programs need a 3.0 GPA, and you can attend only one in-person program.
+    links:
+      - {label: Sophomore opportunities, url: "https://www.raymondjames.com/careers/students-and-recent-grads/sophomore-opportunities"}
+
+  - name: Vanguard
+    timeline: North Star, a two-day virtual program for sophomores, ran May 12–13, 2026 with applications due Mar 23. Summer internships are posted in the fall; the 2027 College to Corporate programs were open until Oct 19, 2026.
+    programs: [North Star Sophomore Experiential Learning Program, College to Corporate internships]
+    links:
+      - {label: Students, url: "https://www.vanguardjobs.com/students/"}
+
+  - name: PGIM Real Estate
+    aliases: [Prudential Financial]
+    short: PGIM
+    timeline: The Real Estate Sophomore Externship is three days in Newark in early January (Jan 5–7, 2027). Externs may interview for a paid Summer 2028 internship. PGIM also runs a Fixed Income Sophomore Externship.
+    programs: [Real Estate Sophomore Externship, Fixed Income Sophomore Externship, Summer Internship]
+    tips: Needs a 3.0 GPA and US work authorization.
+    links:
+      - {label: PGIM careers, url: "https://jobs.pgim.com/"}
+
+  - name: CBRE (incl. Trammell Crow Company)
+    aliases: [CBRE]
+    short: CBRE
+    timeline: Summer internships are posted in late September and early October, and applications close in November. Offers go out by about the end of March. Most postings require juniors or above.
+    programs: [Summer internships (capital markets, brokerage, valuation), Capital Markets Academy (online)]
+    links:
+      - {label: Students & graduates, url: "https://www.cbre.com/careers/students-and-graduates"}
+
+  - name: Walker & Dunlop
+    timeline: Summer 2027 internship roles post in late fall. The Training Academy (with Project Destined) runs free CRE modeling courses from October to December.
+    programs: [10-week Summer Internship, Training Academy]
+    links:
+      - {label: Early talent, url: "https://www.walkerdunlop.com/about/careers/early-talent"}
+
+  - name: Apollo (Real Estate)
+    aliases: [Apollo]
+    short: Apollo
+    timeline: Apollo runs a Sophomore Summer Analyst program for the Class of 2029 (10 weeks, summer 2027), open now with no deadline posted.
+    programs: [Sophomore Summer Analyst, Summer Analyst]
+    links:
+      - {label: Careers, url: "https://www.apollo.com/careers"}
+
+  - name: KeyBank
+    timeline: KeyBank posts its summer Wealth Management and Key Investment Services internships in the fall, and several 2027 postings list the Class of 2029, which is unusual for wealth roles.
+    programs: [Wealth Management Internship, Key Investment Services Internship]
+    links:
+      - {label: Job board, url: "https://keybank.wd5.myworkdayjobs.com/External_Career_Site"}
+
+  - name: Barclays
+    timeline: The Discovery Program (sophomores, 3.2+ GPA) was posted Oct 14 last cycle, with a Nov 7 deadline. Summer 2028 analyst roles are expected in late November 2026.
+    programs: [Discovery Program, Summer Analyst]
+    links:
+      - {label: Discovery Program, url: "https://search.jobs.barclays/discovery"}
+
+  - name: UBS
+    timeline: Tomorrow's Talent (sophomores) usually opens in winter – spring. Summer 2028 internships, including Wealth Management, are expected around January 2027.
+    programs: [Tomorrow's Talent Program, Summer Internship]
+    links:
+      - {label: Early careers, url: "https://www.ubs.com/global/en/careers/early-careers.html"}
+
+  - name: Moelis
+    timeline: Moelis recruits sophomores for the junior summer. Houston opened Oct 5, 2026 (due Dec 14), and the other US offices are expected in late December.
+    programs: [Summer Analyst, Leadership Development Program]
+    links:
+      - {label: Careers, url: "https://www.moelis.com/about/careers"}

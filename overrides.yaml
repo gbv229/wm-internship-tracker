@@ -1,0 +1,23 @@
+# Hand corrections for postings. Use this when a posting doesn't state a
+# deadline or class year (or the site read it wrong) and you've confirmed
+# the right answer — from the firm's page, a recruiter, or your career center.
+#
+# Each entry needs a "match" and a "set":
+#   match:  id: <posting id>            exact posting (shown in "Report a problem" issues)
+#           url_contains: <text>        any posting whose link contains this text
+#           company: <firm name>        combine with title_contains to match by name
+#           title_contains: <text>
+#   set:    deadline: YYYY-MM-DD
+#           classes: [2029]              eligible graduating classes
+#           season: Summer 2027
+#           note: "Short note shown on the posting"
+#   verified: YYYY-MM-DD                 when you checked; shows a "Verified" mark
+#   source: <link or who told you>       optional, shown with the note
+#
+# Example:
+#   - match: {company: "Morgan Stanley", title_contains: "Wealth Management Summer Analyst"}
+#     set: {deadline: 2027-03-12, classes: [2029]}
+#     verified: 2027-01-05
+#     source: https://www.morganstanley.com/people-opportunities/students-graduates
+
+overrides: []

@@ -5,3 +5,5 @@ __pycache__/
 _site/
 data/*.ics
 data/early_programs.json
+data/*.xml
+data/firm_notes.json

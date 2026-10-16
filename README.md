@@ -18,12 +18,32 @@ A separate tab lists sophomore programs, insight days, fellowships, campus ambas
 
 Every run also writes `data/early-programs.ics`, a calendar feed with reminders 7, 2 and 1 days before each deadline and the day before each opening date. Subscribe from the tab (Google Calendar, Apple or Outlook) and it stays up to date.
 
+## For visitors
+
+- **My list** — Save roles and programs and track them as Applied / Interviewing / Offer / Rejected / Not for me. Stored in the visitor's browser only (no accounts); CSV backup and restore.
+- **New since last visit** — roles that appeared since you last opened the site are marked and can be filtered.
+- **Alerts** — Atom feeds per field (`data/feed-wealth.xml`, `data/feed-real-estate.xml`, `data/feed-early.xml`) for feed readers, Slack/Discord or RSS-to-email services; plus the calendar feed on the Early programs tab.
+- **Report a problem** — every role links to a prefilled GitHub issue.
+
+## Maintaining it
+
+- **Hand corrections:** add an entry to `overrides.yaml` (deadline, class year, season or a note). The role shows a *Verified* mark.
+- **Firm recruiting notes:** `firm_notes.yaml` (timeline, program names, tips, links), shown in role details and on the Firms tab.
+- **Health alerts:** the update job keeps one GitHub issue labelled `tracker-health` open while any job feed has failed 3 runs in a row or a careers link has moved, and closes it when things recover. GitHub emails you about new issues.
+- **Visitor counts:** sign up free at goatcounter.com and put your code in `window.GOATCOUNTER_CODE` in `site/index.html`.
+- **Custom domain:** buy a domain, then Settings → Pages → Custom domain, and add the DNS records GitHub shows. Update the `og:` URLs in `site/index.html` to the new domain.
+
 ## How it's built
 
 ```
 companies.yaml            the firm list, which field(s) each belongs to, and how to read its careers site
 early_programs.yaml       researched sophomore / insight / Summer 2028 programs and their dates
-scraper/early.py          builds the Early programs data and the calendar feed
+scraper/early.py          builds the Early programs data, the calendar feed and firm notes
+scraper/browser.py        headless-browser reader for careers pages without a job feed
+scraper/feeds.py          Atom feeds of new roles
+scraper/health.py         health report used for the tracker-health issue
+overrides.yaml            hand corrections to postings
+firm_notes.yaml           how each major firm recruits
 scraper/sources.py        readers for Workday, Oracle, iCIMS, Greenhouse, Lever, Ashby, and page watching
 scraper/parse.py          pulls season, class year, deadline, pay, GPA, etc. out of posting text
 scraper/run.py            runs everything, merges with previous results, marks vanished roles closed
@@ -36,7 +56,8 @@ tests/                    parser and end-to-end tests (run before every update)
 ### Tracking methods
 
 - **Live feed** — the firm's job system (Workday, Oracle, iCIMS, Greenhouse, Lever, Ashby) is read directly and every matching role appears in the table.
-- **Page watch** — firms with no readable feed (e.g. Goldman Sachs, UBS, Edward Jones). The careers page is checked for changes and listed on the *Firms* tab with a direct link.
+- **Read via browser** — firms with no readable feed (e.g. Goldman Sachs, UBS, Edward Jones) are opened in headless Chromium every 3 hours (`scraper/browser.py`). Internship and program links on the careers page, and one level into "Students / Internships" pages, are read and run through the same filters.
+- **Page watch** — sites that block automated visits are still checked for changes and listed on the *Firms* tab with a direct link.
 
 ## Common tasks
 

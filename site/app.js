@@ -20,7 +20,7 @@
   const seasonKey = (s) => { if (!s) return 99999; const [n, y] = s.split(" "); return +y * 10 + (SEASON_ORDER[n] ?? 5); };
 
   const state = {
-    postings: [], firms: [], run: null, track: "wealth", tab: "postings",
+    postings: [], firms: [], run: null, track: "wealth", tab: "postings", hidePass: true, newOnly: false,
     cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", region: "US", area: "",
     sort: "deadline", dir: 1, open: new Set(),
   };
@@ -79,8 +79,9 @@
   // -------------------------------------------------------------- load
   async function load() {
     const get = (f) => fetch(`data/${f}?t=${Date.now()}`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
-    const [p, c, r, e] = await Promise.all([get("postings.json"), get("companies.json"), get("run.json"), get("early_programs.json")]);
+    const [p, c, r, e, fn] = await Promise.all([get("postings.json"), get("companies.json"), get("run.json"), get("early_programs.json"), get("firm_notes.json")]);
     EARLY.list = e?.programs || [];
+    FIRM_NOTES = fn || {};
     state.postings = (p?.postings || []).map(enrich);
     state.firms = c?.companies || [];
     state.firms.forEach((f) => { if (f.domain) DOMAINS[f.name] = f.domain; });
@@ -94,6 +95,7 @@
     render();
     renderFirms();
     setupEarly();
+    rememberSeen();
     if (state.tab && state.tab !== "postings") { const t = $(`[role="tab"][data-tab="${state.tab}"]`); if (t) t.click(); }
     const repo = r?.repo && r.repo.includes("/") && !r.repo.startsWith("local") ? `https://github.com/${r.repo}` : null;
     ["repo-link", "repo-link-2"].forEach((id) => { const a = $("#" + id); if (repo) a.href = repo; else a.removeAttribute("href"); });
@@ -101,6 +103,8 @@
 
   function applyTrack() {
     const t = TRACKS[state.track];
+    const fl = $("#feed-link");
+    if (fl) { fl.href = state.track === "real_estate" ? "data/feed-real-estate.xml" : "data/feed-wealth.xml"; fl.textContent = `${state.track === "real_estate" ? "Real estate" : "Wealth management"} RSS feed`; }
     document.documentElement.dataset.track = state.track;
     const tc = document.querySelector('meta[name="theme-color"]');
     if (tc) tc.content = state.track === "real_estate" ? "#172f5c" : "#0d3b30";
@@ -111,11 +115,150 @@
     document.title = `${t.h1} · Internship Tracker`;
   }
 
+  // ===================================================== local storage
+  // Everything personal stays in this browser. Storage can be unavailable
+  // (private mode, blocked cookies), so every access is guarded and the page
+  // still works without it.
+  const mem = {};
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v == null ? (k in mem ? mem[k] : d) : JSON.parse(v); } catch { return k in mem ? mem[k] : d; } },
+    set(k, v) { mem[k] = v; try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* in-memory only */ } },
+  };
+
+  // ------------------------------------------------- new since last visit
+  const PREV_SEEN = new Set(store.get("it.seenIds", []));
+  const FIRST_VISIT = PREV_SEEN.size === 0;
+  function rememberSeen() { store.set("it.seenIds", state.postings.filter((p) => p.status === "open").map((p) => p.id)); }
+
+  // ----------------------------------------------------- tracker
+  const STATUSES = [["saved", "Saved"], ["applied", "Applied"], ["interviewing", "Interviewing"], ["offer", "Offer"],
+    ["rejected", "Rejected"], ["pass", "Not for me"]];
+  const STATUS_LABEL = Object.fromEntries(STATUSES);
+  let TRACK = store.get("it.tracker.v1", {});
+  function setStatus(id, status, info) {
+    if (!status || (TRACK[id] && TRACK[id].s === status)) delete TRACK[id];
+    else TRACK[id] = { ...(TRACK[id] || {}), ...info, s: status, t: new Date().toISOString().slice(0, 10) };
+    store.set("it.tracker.v1", TRACK);
+  }
+  function infoFor(id, kind) {
+    if (kind === "program") {
+      const p = EARLY.list.find((x) => x.id === id);
+      return p ? { kind, company: p.firm, title: p.program, url: p.link, deadline: p.deadline } : { kind };
+    }
+    const p = state.postings.find((x) => x.id === id);
+    return p ? { kind, company: p.company, title: p.title, url: p.url, deadline: p.deadline, location: p.location } : { kind };
+  }
+  function trackerControls(id, kind) {
+    const cur = TRACK[id]?.s;
+    return `<div class="tracker" data-id="${esc(id)}" data-kind="${kind}" role="group" aria-label="My status">
+      <span class="tracker-label">My status</span>
+      ${STATUSES.map(([v, l]) => `<button type="button" data-s="${v}" aria-pressed="${cur === v}">${l}</button>`).join("")}
+    </div>`;
+  }
+  function onTrackerClick(e) {
+    const b = e.target.closest(".tracker button, .star"); if (!b) return false;
+    e.stopPropagation();
+    const box = b.closest("[data-id]"), id = box.dataset.id, kind = box.dataset.kind || "posting";
+    setStatus(id, b.dataset.s, infoFor(id, kind));
+    refreshTracked();
+    return true;
+  }
+  function refreshTracked() {
+    document.querySelectorAll(".tracker").forEach((t) => {
+      const cur = TRACK[t.dataset.id]?.s;
+      t.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.s === cur));
+    });
+    document.querySelectorAll(".star").forEach((b) => {
+      const cur = TRACK[b.closest("[data-id]").dataset.id]?.s;
+      b.setAttribute("aria-pressed", !!cur);
+      b.textContent = cur ? STATUS_LABEL[cur] : "Save";
+      b.dataset.s = cur || "saved";
+      b.className = `star${cur ? " on st-" + cur : ""}`;
+    });
+    $("#n-mine").textContent = Object.keys(TRACK).length || "";
+    renderMine();
+  }
+
+  function renderMine() {
+    const ids = Object.keys(TRACK);
+    const box = $("#mine-list");
+    if (!box) return;
+    if (!ids.length) {
+      $("#mine-summary").innerHTML = "";
+      box.innerHTML = `<div class="empty"><strong>Nothing saved yet</strong>Click "Save" on any role, or open a role or program and set its status, and it'll show up here.</div>`;
+      return;
+    }
+    const counts = {};
+    ids.forEach((id) => (counts[TRACK[id].s] = (counts[TRACK[id].s] || 0) + 1));
+    $("#mine-summary").innerHTML = STATUSES.filter(([v]) => counts[v]).map(([v, l]) => `<span class="mine-chip st-${v}"><b>${counts[v]}</b> ${l}</span>`).join("");
+    const live = new Map(state.postings.map((p) => [p.id, p]));
+    const prog = new Map(EARLY.list.map((p) => [p.id, p]));
+    box.innerHTML = STATUSES.filter(([v]) => counts[v]).map(([v, l]) => {
+      const rows = ids.filter((id) => TRACK[id].s === v).map((id) => {
+        const t = TRACK[id], lp = live.get(id), pp = prog.get(id);
+        const closed = lp ? lp._status === "closed" : (!pp && t.kind === "posting");
+        const dl = parseDay((lp && lp.deadline) || (pp && pp.deadline) || t.deadline);
+        return `<article class="mine-row" data-id="${esc(id)}" data-kind="${esc(t.kind || "posting")}">
+          ${logoHtml(t.company || "?")}
+          <div class="mine-main"><span class="prog-firm">${esc(t.company || "")}</span>
+            <h4><a href="${esc(t.url || "#")}" target="_blank" rel="noopener">${esc(t.title || id)}</a></h4>
+            <p class="prog-when">${esc([t.kind === "program" ? "Early program" : t.location, dl ? `Deadline ${fmtFull(dl)}` : "", closed ? "No longer listed" : "", `Updated ${t.t}`].filter(Boolean).join(" · "))}</p>
+          </div>
+          ${trackerControls(id, t.kind || "posting")}
+        </article>`;
+      }).join("");
+      return `<section class="egroup"><h3 class="egroup-h">${l} <span>${counts[v]}</span></h3>${rows}</section>`;
+    }).join("");
+  }
+
+  function mineCsv() {
+    const cols = ["status", "company", "title", "deadline", "updated", "kind", "url", "id"];
+    const cell = (v) => { const x = String(v ?? ""); return /[",\n]/.test(x) ? `"${x.replace(/"/g, '""')}"` : x; };
+    const rows = Object.entries(TRACK).map(([id, t]) => [STATUS_LABEL[t.s], t.company, t.title, t.deadline, t.t, t.kind, t.url, id].map(cell).join(","));
+    download([cols.join(","), ...rows].join("\n"), `my-internship-list-${TODAY.toISOString().slice(0, 10)}.csv`, "text/csv");
+  }
+  function parseCsv(text) {
+    const out = []; let row = [], cur = "", q = false;
+    for (let i = 0; i < text.length; i++) {
+      const c = text[i];
+      if (q) { if (c === '"' && text[i + 1] === '"') { cur += '"'; i++; } else if (c === '"') q = false; else cur += c; }
+      else if (c === '"') q = true; else if (c === ",") { row.push(cur); cur = ""; }
+      else if (c === "\n" || c === "\r") { if (c === "\r" && text[i + 1] === "\n") i++; row.push(cur); out.push(row); row = []; cur = ""; }
+      else cur += c;
+    }
+    if (cur || row.length) { row.push(cur); out.push(row); }
+    return out;
+  }
+  function mineImport(file) {
+    const r = new FileReader();
+    r.onload = () => {
+      const rows = parseCsv(String(r.result)); const head = rows.shift() || [];
+      const ix = (k) => head.indexOf(k);
+      const byLabel = Object.fromEntries(STATUSES.map(([v, l]) => [l, v]));
+      let n = 0;
+      rows.forEach((c) => {
+        const id = c[ix("id")], s = byLabel[c[ix("status")]];
+        if (!id || !s) return;
+        TRACK[id] = { s, company: c[ix("company")], title: c[ix("title")], deadline: c[ix("deadline")] || null,
+          t: c[ix("updated")] || TODAY.toISOString().slice(0, 10), kind: c[ix("kind")] || "posting", url: c[ix("url")] };
+        n++;
+      });
+      store.set("it.tracker.v1", TRACK); refreshTracked();
+      alert(`Restored ${n} saved ${n === 1 ? "item" : "items"}.`);
+    };
+    r.readAsText(file);
+  }
+  function download(text, name, type) {
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([text], { type })); a.download = name; a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  }
+
   function enrich(p) {
     const dl = parseDay(p.deadline);
     const status = p.status === "closed" ? "closed" : dl && dl < TODAY ? "past" : dl && daysUntil(dl) <= 14 ? "soon" : "open";
     return { ...p, _dl: dl, _posted: parseDay(p.posted), _first: parseDay(p.first_seen), _status: status,
-      _new: p.first_seen && (TODAY - parseDay(p.first_seen)) / DAY <= 3,
+      _new: FIRST_VISIT ? p.first_seen && (TODAY - parseDay(p.first_seen)) / DAY <= 3 : !PREV_SEEN.has(p.id) && p.status === "open",
       _hay: `${p.company} ${p.title} ${p.location} ${p.company_type} ${p.function}`.toLowerCase() };
   }
 
@@ -171,8 +314,15 @@
       update();
     });
     $("#csv").addEventListener("click", downloadCsv);
+    $("#hide-pass").addEventListener("change", (e) => { state.hidePass = e.target.checked; render(); });
+    $("#new-only").addEventListener("change", (e) => { state.newOnly = e.target.checked; render(); });
+    $("#mine-list").addEventListener("click", onTrackerClick);
+    $("#early-list").addEventListener("click", onTrackerClick, true);
+    $("#mine-csv").addEventListener("click", mineCsv);
+    $("#mine-import").addEventListener("change", (e) => { if (e.target.files[0]) mineImport(e.target.files[0]); e.target.value = ""; });
 
     $("#rows").addEventListener("click", (e) => {
+      if (onTrackerClick(e)) return;
       if (e.target.closest("a")) return;
       const tr = e.target.closest("tr.row"); if (!tr) return;
       toggleRow(tr);
@@ -255,6 +405,8 @@
         if (c.length ? !c.includes(+state.cls) : !state.unstated) return false;
       }
       if (q && !q.split(/\s+/).every((w) => p._hay.includes(w))) return false;
+      if (state.hidePass && TRACK[p.id]?.s === "pass") return false;
+      if (state.newOnly && !p._new) return false;
       return true;
     });
   }
@@ -290,6 +442,10 @@
     renderMap();
 
     $("#rows").innerHTML = list.map(rowHtml).join("");
+    refreshTracked();
+    const nNew = state.postings.filter((p) => inTrack(p) && p._new && p.status === "open").length;
+    $("#new-only-wrap").hidden = FIRST_VISIT || (!nNew && !state.newOnly);
+    $("#new-only-label").textContent = `Only new since my last visit (${nNew})`;
     const empty = $("#empty");
     empty.hidden = list.length > 0;
     if (!list.length) {
@@ -438,6 +594,7 @@
       <div class="prog-side">
         <span class="state">${esc(st.label)}</span>
         <dl class="prog-dates">${dateCell("Opens", op, p.opens_est)}${dateCell("Deadline", dl, p.deadline_est)}</dl>
+        ${trackerControls(p.id, "program")}
         <div class="prog-actions">
           <a class="btn-go" href="${esc(p.link)}" target="_blank" rel="noopener">${openish && p.status !== "invite" ? "Apply" : "Program page"}</a>
           ${evs.length ? `<button type="button" class="btn-remind" data-id="${esc(p.id)}">Remind me</button>` : ""}
@@ -456,9 +613,18 @@
     const soph = act.filter((p) => (p.classes || []).includes(AY_END + 2)).length;
     const items = [
       [act.length, "open roles", "", true], [firms, "firms hiring", "", false],
-      [week, "posted this week", "hot", false], [soph, `open to sophomores ’${String(AY_END + 2).slice(2)}`, "", false],
+      ...(FIRST_VISIT ? [[week, "posted this week", "hot", false]]
+        : [[act.filter((p) => p._new).length, "new since your last visit", "hot newstat", false]]), [soph, `open to sophomores ’${String(AY_END + 2).slice(2)}`, "", false],
     ].filter(([n, , , always]) => always || n > 0);
-    $("#stats").innerHTML = items.map(([n, l, c]) => `<li class="${c}"><b>${n}</b><span>${l}</span></li>`).join("");
+    $("#stats").innerHTML = items.map(([n, l, c]) => c.includes("newstat")
+      ? `<li class="${c}"><button type="button" id="new-stat" aria-pressed="${state.newOnly}"><b>${n}</b><span>${l}</span></button></li>`
+      : `<li class="${c}"><b>${n}</b><span>${l}</span></li>`).join("");
+    const ns = $("#new-stat");
+    if (ns) ns.onclick = () => {
+      state.newOnly = !state.newOnly; $("#new-only").checked = state.newOnly;
+      $("#tab-postings").click(); render();
+      $("#results").scrollIntoView({ behavior: "smooth", block: "start" });
+    };
   }
 
   // --------------------------------------------------------------- map
@@ -543,7 +709,11 @@
       const sub = p._status === "closed" ? "" : n < 0 ? "passed" : n === 0 ? "today" : n === 1 ? "tomorrow" : `in ${n} days`;
       const c = n < 0 ? "past" : n <= 14 ? "soon" : "";
       dl = `<td class="dl ${c}"><span class="pill">${fmtDay(p._dl, p._dl.getFullYear() !== TODAY.getFullYear())}</span>${sub ? `<small>${sub}</small>` : ""}</td>`;
-    } else dl = `<td class="dl none">Rolling / not stated</td>`;
+    } else {
+      const age = p._posted ? Math.round((TODAY - p._posted) / DAY) : null;
+      const ageTxt = age == null ? "" : age <= 0 ? "posted today" : age === 1 ? "posted yesterday" : `posted ${age} days ago`;
+      dl = `<td class="dl none" title="No deadline stated. Most firms review on a rolling basis, so earlier is better."><span class="pill rolling">Rolling</span>${ageTxt ? `<small>${ageTxt}${age > 45 ? " – may fill soon" : ""}</small>` : ""}</td>`;
+    }
     const posted = p._posted ? fmtDay(p._posted, p._posted.getFullYear() !== TODAY.getFullYear()) : "";
     const meta = [fmtLoc(p.location), p.level === "Graduate/MBA" ? "MBA / graduate" : ""].filter(Boolean).join(" · ");
     const isOpen = state.open.has(p.id);
@@ -552,13 +722,33 @@
       : `<a href="${esc(p.url)}" target="_blank" rel="noopener" aria-label="Apply: ${esc(p.company)}, ${esc(p.title)} (opens employer site)">Apply</a>`;
     return `<tr class="row ${p._status === "closed" ? "closed" : ""}" data-id="${esc(p.id)}" tabindex="0" aria-expanded="${isOpen}">
       <td class="c-company"><div class="firmcell">${logoHtml(p.company)}<div><span class="firm">${esc(p.company)}</span><span class="ftype">${esc(p.company_type)}</span></div></div></td>
-      <td class="role">${esc(p.title)}${p._new ? '<span class="new">New</span>' : ""}${meta ? `<span class="role-meta" title="${esc(p.location)}">${esc(meta)}</span>` : ""}</td>
+      <td class="role">${esc(p.title)}${p._new ? '<span class="new">New</span>' : ""}${p.verified ? `<span class="verified" title="Details confirmed by hand on ${esc(p.verified)}">Verified</span>` : ""}${meta ? `<span class="role-meta" title="${esc(p.location)}">${esc(meta)}</span>` : ""}</td>
       <td class="c-season">${p.season ? `<span class="pill">${esc(p.season)}</span>` + (p.season_inferred ? '<span class="est" title="Year estimated from posting date">est.</span>' : "") : '<span class="est">Season not stated</span>'}</td>
       ${elig}${dl}
       <td class="posted">${posted}</td>
-      <td class="apply">${apply}</td>
+      <td class="apply"><div class="apply-box" data-id="${esc(p.id)}" data-kind="posting">${apply}<button type="button" class="star" data-s="saved" aria-pressed="false">Save</button></div></td>
     </tr>
     <tr class="detail" ${isOpen ? "" : "hidden"}><td colspan="7">${detailHtml(p)}</td></tr>`;
+  }
+
+  let FIRM_NOTES = {};
+  function firmNoteHtml(name) {
+    const n = FIRM_NOTES[name];
+    if (!n) return "";
+    return `<div class="firm-note"><h5>How ${esc(n.short || name)} recruits</h5>
+      ${n.timeline ? `<p>${esc(n.timeline)}</p>` : ""}
+      ${n.programs?.length ? `<p><b>Programs:</b> ${esc(n.programs.join(" · "))}</p>` : ""}
+      ${n.tips ? `<p><b>Tip:</b> ${esc(n.tips)}</p>` : ""}
+      ${n.links?.length ? `<p class="firm-links">${n.links.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join(" · ")}</p>` : ""}
+    </div>`;
+  }
+
+  function reportUrl(p) {
+    const repo = state.run?.repo && !state.run.repo.startsWith("local") ? state.run.repo : "gbv229/wm-internship-tracker";
+    const body = [`**Posting:** ${p.company} – ${p.title}`, `**Link:** ${p.url}`, `**Posting id:** \`${p.id}\``,
+      `**Shown as:** season ${p.season || "not stated"}; eligible ${(p.classes || []).join(", ") || "not stated"}; deadline ${p.deadline || "rolling"}; location ${p.location || "not stated"}`,
+      "", "**What's wrong / correct info:**", "", "**Where you confirmed it (link or source):**", ""].join("\n");
+    return `https://github.com/${repo}/issues/new?${new URLSearchParams({ title: `Fix: ${p.company} – ${p.title}`.slice(0, 120), body, labels: "data fix" })}`;
   }
 
   function detailHtml(p) {
@@ -568,10 +758,17 @@
       ["Location", p.location], ["Region", regionsOf(p).filter((r) => r !== "US").join(", ") || null], ["First seen here", p._first ? fmtDay(p._first, true) : null],
     ].filter(([, v]) => v);
     const ev = [];
-    if (p.class_evidence) ev.push(`<div class="evidence"><dt>Eligibility, from the posting</dt><dd><blockquote>${esc(p.class_evidence)}</blockquote></dd></div>`);
-    if (p.deadline_evidence) ev.push(`<div class="evidence"><dt>Deadline, from the posting</dt><dd><blockquote>${esc(p.deadline_evidence)}</blockquote></dd></div>`);
-    return `<dl class="detail-inner">${items.map(([k, v]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join("")}${ev.join("")}
-      ${!items.length && !ev.length ? `<div><dd>No extra details were listed. Open the posting for the full description.</dd></div>` : ""}</dl>`;
+    const from = (v) => (/^Confirmed by hand/.test(v || "") ? "confirmed by hand" : "from the posting");
+    if (p.note) ev.push(`<div class="evidence"><dt>Note${p.verified ? ` (verified ${esc(p.verified)})` : ""}</dt><dd><blockquote>${esc(p.note)}</blockquote></dd></div>`);
+    if (p.class_evidence) ev.push(`<div class="evidence"><dt>Eligibility, ${from(p.class_evidence)}</dt><dd><blockquote>${esc(p.class_evidence)}</blockquote></dd></div>`);
+    if (p.deadline_evidence) ev.push(`<div class="evidence"><dt>Deadline, ${from(p.deadline_evidence)}</dt><dd><blockquote>${esc(p.deadline_evidence)}</blockquote></dd></div>`);
+    return `<div class="detail-wrap">
+      <div class="detail-track">${trackerControls(p.id, "posting")}</div>
+      <dl class="detail-inner">${items.map(([k, v]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join("")}${ev.join("")}
+        ${!items.length && !ev.length ? `<div><dd>No extra details were listed. Open the posting for the full description.</dd></div>` : ""}</dl>
+      ${firmNoteHtml(p.company)}
+      <p class="detail-foot"><a href="${esc(reportUrl(p))}" target="_blank" rel="noopener">Report a problem with this role</a> · opens a prefilled GitHub issue</p>
+    </div>`;
   }
 
   function renderClosing() {
@@ -625,13 +822,17 @@
       const feeds = srcs.filter((s) => s.kind !== "page"), pages = srcs.filter((s) => s.kind === "page");
       const errs = srcs.filter((s) => !s.ok && !blocked(s));
       const isBlocked = srcs.some(blocked);
-      let mode = feeds.length ? `<span class="mode${errs.length ? " err" : ""}"><i></i>Live feed</span>` : `<span class="mode page${errs.length ? " err" : ""}"><i></i>Page watch</span>`;
+      const realFeeds = feeds.filter((x) => x.kind !== "browser"), br = srcs.find((x) => x.kind === "browser" && x.ok);
+      let mode = realFeeds.length ? `<span class="mode${errs.length ? " err" : ""}"><i></i>Live feed</span>`
+        : br ? `<span class="mode${errs.length ? " err" : ""}"><i></i>Read via browser</span>`
+        : `<span class="mode page${errs.length ? " err" : ""}"><i></i>Page watch</span>`;
       if (isBlocked && !errs.length) mode += `<span class="role-meta">Site blocks automated checks — open the link</span>`;
       if (errs.length) mode += `<span class="err-msg">Couldn't reach ${errs.map((e) => e.kind).join(", ")}: ${esc((errs[0].error || "").slice(0, 120))}</span>`;
       const changed = pages.map((s) => s.changed_on).filter(Boolean).sort().pop();
       const links = pages.flatMap((s) => s.links || []).slice(0, 4);
       return `<tr>
         <td><div class="firmcell">${logoHtml(f.name)}<a class="firm" href="${esc(f.careers)}" target="_blank" rel="noopener">${esc(f.name)}</a></div>
+          ${FIRM_NOTES[f.name] ? `<details class="firm-details"><summary>How they recruit</summary>${firmNoteHtml(f.name)}</details>` : ""}
           ${links.length ? `<ul class="page-links">${links.map((l) => { const [txt, url] = l.split(" | "); return `<li><a href="${esc(url)}" target="_blank" rel="noopener">${esc(txt)}</a></li>`; }).join("")}</ul>` : ""}</td>
         <td>${esc(f.type)}</td><td>${esc(f.hq || "")}</td>
         <td class="num">${feeds.length ? openCount[f.name] || 0 : "—"}</td>
@@ -656,6 +857,17 @@
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
   }
+
+  // visitor counts: only when a GoatCounter code is set in index.html
+  if (window.GOATCOUNTER_CODE) {
+    const sc = document.createElement("script");
+    sc.async = true; sc.src = "https://gc.zgo.at/count.js";
+    sc.dataset.goatcounter = `https://${window.GOATCOUNTER_CODE}.goatcounter.com/count`;
+    document.head.appendChild(sc);
+  }
+  document.addEventListener("click", (e) => {
+    if (e.target.id === "alerts-how") { e.preventDefault(); $("#tab-about").click(); $("#alerts").scrollIntoView({ behavior: "smooth" }); }
+  });
 
   setInterval(renderFreshness, 60000);
   load();

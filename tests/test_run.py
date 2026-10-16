@@ -94,3 +94,22 @@ def test_failed_source_does_not_close(tmp_path, monkeypatch):
     cos = {c["name"]: c for c in read(tmp_path, "companies.json")["companies"]}
     assert cos["Big Bank"]["sources"][0]["ok"] is False
     assert "site down" in cos["Big Bank"]["sources"][0]["error"]
+
+
+def test_overrides(tmp_path):
+    (tmp_path / "o.yaml").write_text("""
+overrides:
+  - match: {company: "Big Bank", title_contains: "private wealth"}
+    set: {deadline: 2026-12-01, classes: [2029], note: "Confirmed with recruiter"}
+    verified: 2026-10-16
+    source: recruiter email
+""")
+    posts = {"a": {"id": "a", "company": "Big Bank", "title": "2027 Private Wealth Summer Analyst", "url": "u",
+                   "deadline": None, "classes": []},
+             "b": {"id": "b", "company": "Other", "title": "2027 Private Wealth Summer Analyst", "url": "u",
+                   "deadline": None, "classes": []}}
+    assert run.apply_overrides(posts, tmp_path / "o.yaml") == 1
+    a = posts["a"]
+    assert a["deadline"] == "2026-12-01" and a["classes"] == [2029] and a["verified"] == "2026-10-16"
+    assert "recruiter email" in a["deadline_evidence"] and a["note"] == "Confirmed with recruiter"
+    assert posts["b"]["deadline"] is None

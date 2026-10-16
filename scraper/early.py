@@ -146,7 +146,25 @@ def write_ics(programs: list[dict], path: Path, today: date):
     path.write_text("\r\n".join(_fold(l) for l in lines) + "\r\n")
 
 
+def write_firm_notes(root: Path, data: Path, companies: list[dict]):
+    """firm_notes.yaml -> data/firm_notes.json keyed by every name a firm appears under."""
+    try:
+        firms = (yaml.safe_load((root / "firm_notes.yaml").read_text()) or {}).get("firms") or []
+    except FileNotFoundError:
+        firms = []
+    known = {c["name"] for c in companies}
+    out = {}
+    for f in firms:
+        note = {k: f.get(k) for k in ("short", "timeline", "programs", "tips", "links") if f.get(k)}
+        for name in [f["name"], *(f.get("aliases") or [])]:
+            out[name] = note
+        if f["name"] not in known:
+            print(f"  note: firm_notes.yaml name '{f['name']}' isn't in companies.yaml (used for aliases only)")
+    (data / "firm_notes.json").write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n")
+
+
 def build(root: Path, data: Path, postings: list[dict], companies: list[dict], today: date):
+    write_firm_notes(root, data, companies)
     curated = load_curated(root / "early_programs.yaml", companies)
     live = live_programs(postings, companies)
     # don't list a live posting twice if the curated entry links to it

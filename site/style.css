@@ -325,6 +325,79 @@ tr.detail[hidden] { display: none; }
   .prog-side { grid-column: 1 / -1; }
 }
 
+/* ========================================================== TRACKER */
+.apply-box { display: inline-flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+.star {
+  appearance: none; font: inherit; font-size: 12.5px; font-weight: 650; cursor: pointer; white-space: nowrap;
+  color: var(--muted); background: transparent; border: 1px dashed var(--rule); border-radius: 999px; padding: 2px 10px;
+}
+.star:hover { color: var(--ink); border-color: var(--ink); }
+.star.on { border-style: solid; color: var(--ink); background: var(--tint); border-color: transparent; }
+.star.st-applied, .tracker button[data-s="applied"][aria-pressed="true"] { background: #e3edfb; color: #1d4f91; }
+.star.st-interviewing, .tracker button[data-s="interviewing"][aria-pressed="true"] { background: var(--soon-bg); color: var(--soon); }
+.star.st-offer, .tracker button[data-s="offer"][aria-pressed="true"] { background: var(--good-bg); color: var(--good); }
+.star.st-rejected, .tracker button[data-s="rejected"][aria-pressed="true"],
+.star.st-pass, .tracker button[data-s="pass"][aria-pressed="true"] { background: var(--tint); color: var(--muted); }
+.tracker { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; }
+.tracker-label { font-size: 12px; color: var(--muted); margin-right: 4px; }
+.tracker button {
+  appearance: none; font: inherit; font-size: 12.5px; cursor: pointer; color: var(--text);
+  background: var(--surface); border: 1px solid var(--rule); border-radius: 999px; padding: 2px 9px;
+}
+.tracker button:hover { border-color: var(--ink); }
+.tracker button[aria-pressed="true"] { background: var(--ink); color: var(--page); border-color: transparent; font-weight: 650; }
+.detail-wrap { padding: 6px 16px 14px 54px; }
+.detail-track { margin: 4px 0 10px; }
+.detail-wrap .detail-inner { padding: 0; }
+.detail-foot { margin: 12px 0 0; font-size: 12.5px; color: var(--muted); }
+.detail-foot a { color: var(--muted); }
+.verified { display: inline-block; font-size: 11px; font-weight: 750; color: #1d4f91; background: #e3edfb; border-radius: 999px; padding: 1px 7px; margin-left: 7px; vertical-align: 1px; }
+.verified::before { content: "✓ "; }
+.pill.rolling { background: var(--tint); color: var(--muted); font-weight: 600; }
+.alerts-line { font-size: 13px; color: var(--muted); margin: -2px 0 10px; }
+
+.firm-note { margin-top: 12px; padding: 10px 14px; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; max-width: 90ch; }
+.firm-note h5 { margin: 0 0 4px; font-size: 13.5px; color: var(--ink); }
+.firm-note p { margin: 4px 0 0; font-size: 13.5px; }
+.firm-links a { font-size: 13px; }
+.firm-details { margin-top: 6px; }
+.firm-details summary { cursor: pointer; font-size: 12.5px; color: var(--ink); }
+.firm-details .firm-note { background: var(--tint); border: 0; }
+
+.stats li.newstat { padding: 0; }
+.stats li.newstat button {
+  appearance: none; font: inherit; color: inherit; text-align: left; cursor: pointer; width: 100%; height: 100%;
+  background: none; border: 0; padding: 10px 14px 9px; border-radius: 12px;
+}
+.stats li.newstat button[aria-pressed="true"] { box-shadow: inset 0 0 0 2px var(--accent); }
+
+/* ============================================================ MY LIST */
+.mine-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; margin: 24px 0 14px; }
+.mine-head h2 { margin: 0 0 6px; color: var(--ink); font-size: 26px; font-variation-settings: "wdth" 115; }
+.mine-head p { margin: 0; color: var(--muted); max-width: 70ch; }
+.mine-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.file-btn { cursor: pointer; display: inline-flex; align-items: center; }
+.mine-summary { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+.mine-chip { background: var(--tint); border-radius: 999px; padding: 4px 12px; font-size: 13.5px; }
+.mine-chip.st-applied { background: #e3edfb; color: #1d4f91; }
+.mine-chip.st-interviewing { background: var(--soon-bg); color: var(--soon); }
+.mine-chip.st-offer { background: var(--good-bg); color: var(--good); }
+.mine-row {
+  display: grid; grid-template-columns: 36px minmax(0, 1fr) auto; gap: 12px; align-items: center;
+  background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); padding: 12px 14px; margin-bottom: 8px;
+}
+.mine-row .logo { width: 36px; height: 36px; }
+.mine-row h4 { margin: 2px 0; font-size: 15.5px; }
+.mine-row h4 a { color: var(--text); text-decoration: none; }
+.mine-row h4 a:hover { text-decoration: underline; }
+.prog-side .tracker { margin-top: 2px; }
+@media (max-width: 820px) {
+  .mine-row { grid-template-columns: 36px minmax(0, 1fr); }
+  .mine-row .tracker { grid-column: 1 / -1; }
+  .detail-wrap { padding-left: 16px; }
+  .apply-box { flex-direction: row; }
+}
+
 /* ============================================================= FIRMS */
 .panel-intro { max-width: 78ch; margin: 22px 0 14px; }
 .firms td { font-size: 14.5px; vertical-align: middle; }

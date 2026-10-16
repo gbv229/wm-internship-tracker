@@ -9,6 +9,17 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
 <meta name="theme-color" content="#0d3b30">
+<!-- link previews (GroupMe, iMessage, LinkedIn, Slack). If you add a custom domain, update these URLs. -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Internship Tracker">
+<meta property="og:title" content="Wealth management & real estate internships">
+<meta property="og:description" content="200+ firms checked every 30 minutes, with deadlines, class-year eligibility, sophomore programs and calendar reminders.">
+<meta property="og:url" content="https://gbv229.github.io/wm-internship-tracker/">
+<meta property="og:image" content="https://gbv229.github.io/wm-internship-tracker/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Internship Tracker: wealth management and real estate internships, with a map of open roles by state">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230d3b30'/><path d='M8 21l5-6 4 4 7-9' fill='none' stroke='%23e3b341' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/></svg>">
 </head>
@@ -55,6 +66,7 @@
     <button role="tab" aria-selected="true" aria-controls="panel-postings" id="tab-postings" data-tab="postings">Postings <span class="tab-n" id="n-postings"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-early" id="tab-early" data-tab="early" tabindex="-1">Early programs &amp; Summer 2028 <span class="tab-n" id="n-early"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-firms" id="tab-firms" data-tab="firms" tabindex="-1">Firms <span class="tab-n" id="n-firms"></span></button>
+    <button role="tab" aria-selected="false" aria-controls="panel-mine" id="tab-mine" data-tab="mine" tabindex="-1">My list <span class="tab-n" id="n-mine"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-about" id="tab-about" data-tab="about" tabindex="-1">How it works</button>
   </nav>
 
@@ -117,11 +129,14 @@
     <div class="resultbar">
       <p id="result-count" aria-live="polite"></p>
       <div class="resultbar-actions">
+        <label class="check" id="new-only-wrap" hidden><input type="checkbox" id="new-only"> <span id="new-only-label">Only new since my last visit</span></label>
+        <label class="check"><input type="checkbox" id="hide-pass" checked> Hide roles I passed on</label>
         <button type="button" class="link" id="reset">Reset filters</button>
         <button type="button" class="btn-quiet" id="csv">Download CSV</button>
       </div>
     </div>
 
+    <p class="alerts-line">Get new roles as they're found: <a id="feed-link" href="data/feed-wealth.xml">RSS feed</a> · <a href="#" id="alerts-how">by email, Slack or GroupMe</a></p>
     <div class="table-wrap" id="results">
       <table class="postings">
         <thead>
@@ -210,6 +225,22 @@
   </section>
 
   <!-- ============================== ABOUT -->
+  <!-- ============================== MY LIST -->
+  <section role="tabpanel" id="panel-mine" aria-labelledby="tab-mine" hidden>
+    <div class="mine-head">
+      <div>
+        <h2>My list</h2>
+        <p>Roles and programs you've saved or applied to. This list is kept in this browser only. Nobody else can see it, and it won't follow you to another device, so use "Download CSV" to back it up.</p>
+      </div>
+      <div class="mine-actions">
+        <button type="button" class="btn-quiet" id="mine-csv">Download CSV</button>
+        <label class="btn-quiet file-btn">Restore from CSV<input type="file" id="mine-import" accept=".csv,text/csv" hidden></label>
+      </div>
+    </div>
+    <div class="mine-summary" id="mine-summary"></div>
+    <div id="mine-list"></div>
+  </section>
+
   <section role="tabpanel" id="panel-about" aria-labelledby="tab-about" hidden>
     <div class="prose">
       <h2>How it works</h2>
@@ -228,8 +259,22 @@
         <dt>Closed</dt>
         <dd>A role is marked closed once it has disappeared from the firm's careers site on two checks in a row.</dd>
       </dl>
+      <h3 id="alerts">Get alerts</h3>
+      <p>Each field has a feed of newly found roles, updated every 30 minutes:</p>
+      <ul>
+        <li><a href="data/feed-wealth.xml">Wealth management feed</a></li>
+        <li><a href="data/feed-real-estate.xml">Real estate feed</a></li>
+        <li><a href="data/feed-early.xml">Sophomore &amp; early programs feed</a></li>
+      </ul>
+      <p><b>By email:</b> paste a feed link into a free RSS-to-email service such as Blogtrottr or Feedrabbit and pick daily or instant emails. <b>In Slack or Discord:</b> use the built-in RSS app and paste the link. <b>In a feed reader</b> (Feedly, Inoreader, NetNewsWire): add the link as a new feed.</p>
+      <p>For dates rather than new roles, use the calendar subscription on the Early programs tab.</p>
+      <h3>Your list</h3>
+      <p>"Save" and the status buttons (Applied, Interviewing, Offer…) are stored in your browser only, so they're private and need no account. They won't follow you to another device or a cleared browser, so use "Download CSV" on the My list tab to back up, and "Restore from CSV" to bring the list back.</p>
+      <p>"New" marks roles that weren't on the site the last time you opened it in this browser.</p>
+      <h3>Fixing mistakes</h3>
+      <p>Every role has a "Report a problem" link that opens a prefilled GitHub issue. Confirmed fixes go into <code>overrides.yaml</code> and show a <span class="verified">Verified</span> mark.</p>
       <h3>What it can't see</h3>
-      <p>Some firms run careers sites that don't offer a feed, or block automated checks. They're listed under <em>Firms</em> as <em>Page watch</em> with a direct link. Programs posted only on Handshake or a school's career portal won't appear here.</p>
+      <p>Firms without a readable job feed are opened in a headless browser every few hours, the way you'd see the page, and any internship or program links are read from there (<em>Read via browser</em> on the Firms tab). A few sites block automated visits; those stay as <em>Page watch</em> with a direct link. Programs posted only on Handshake or a school's career portal won't appear here.</p>
       <p>This is an independent student project and isn't affiliated with any firm listed. Always confirm details on the employer's posting before applying.</p>
       <h3>Suggest a firm</h3>
       <p>Open an issue or pull request on the <a id="repo-link" href="#">GitHub repository</a> with the firm's careers link.</p>
@@ -243,6 +288,11 @@
   </div>
 </footer>
 
+<script>
+  // Visitor counts (privacy-friendly, no cookies). Off until you set a code:
+  // sign up free at https://www.goatcounter.com, then put your code here, e.g. "gage-tracker".
+  window.GOATCOUNTER_CODE = "";
+</script>
 <script src="app.js"></script>
 </body>
 </html>
