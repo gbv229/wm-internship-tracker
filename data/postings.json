@@ -1631,47 +1631,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:baird:R2026954-1",
-   "last_seen": "2026-10-15",
-   "level": "Undergraduate",
-   "location": "KY-Louisville",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-15",
-   "region": "",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "KY"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Louisville, KY Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Private-Wealth-Management--Louisville--KY-Summer-2027-_R2026954-1",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Anticipated graduation date of December 2026 or later",
    "classes": [
     2027
@@ -2137,7 +2096,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "Dubai International Financial Centre, Dubai",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-15",
    "region": "International",
@@ -2768,43 +2727,6 @@
    "work_mode": "Hybrid"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "id": "wd:cibc:2620375-1",
-   "last_seen": "2026-10-15",
-   "level": "Undergraduate",
-   "location": "Toronto, ON",
-   "misses": 1,
-   "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
-   "posted": "2026-10-14",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Private Banking Associate Co-op – Winter 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-1",
-   "v": 8,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2026 and June 2027",
    "classes": [
     2027
@@ -2862,7 +2784,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 0,
+   "misses": 1,
    "pay": "$25/hr",
    "posted": "2026-09-30",
    "region": "US",
@@ -4936,6 +4858,43 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:cw:R328639",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Gurgaon, India",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R328639",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-15",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
@@ -5055,7 +5014,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "Singapore",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-15",
    "region": "International",
@@ -5092,7 +5051,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "Singapore; Client Site - SGP - Singapore - 1 Gul Circle",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-15",
    "region": "International",
@@ -8128,47 +8087,6 @@
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship--Data-Analytics-Intern---Product-Control-100---f-m-d-----6-12-month-Internship-Programme-_r-19706-2",
    "v": 8,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:keybank:R-41558",
-   "last_seen": "2026-10-15",
-   "level": "Undergraduate",
-   "location": "Boston, MA",
-   "misses": 1,
-   "pay": "$27/hr",
-   "posted": "2026-10-07",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "2027 Summer Real Estate Capital Internship - Boston IPG",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
-   "v": 8,
-   "weeks": 5,
    "work_mode": null
   },
   {
@@ -11959,6 +11877,48 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-16",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:baird:R2026954-1",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "KY-Louisville",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-15",
+   "region": "",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "KY"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Louisville, KY Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Private-Wealth-Management--Louisville--KY-Summer-2027-_R2026954-1",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Anticipated graduation date: September 2027 – June 2028",
    "classes": [
     2028
@@ -12035,6 +11995,44 @@
    "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-16",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "wd:cibc:2620375-1",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Toronto, ON",
+   "misses": 2,
+   "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
+   "posted": "2026-10-14",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Private Banking Associate Co-op – Winter 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Private-Banking-Associate-Co-op---Winter-2027_2620375-1",
+   "v": 8,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -13868,6 +13866,48 @@
    "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship-at-CFO-Office-100---Fixed-Term-Contract-for-6-12-months-until-03062027-_r-19514",
    "v": 6,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-16",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:keybank:R-41558",
+   "last_seen": "2026-10-15",
+   "level": "Undergraduate",
+   "location": "Boston, MA",
+   "misses": 2,
+   "pay": "$27/hr",
+   "posted": "2026-10-07",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Real Estate Capital Internship - Boston IPG",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
+   "v": 8,
+   "weeks": 5,
    "work_mode": null
   },
   {

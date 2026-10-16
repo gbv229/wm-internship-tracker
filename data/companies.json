@@ -77,8 +77,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "changed_on": null,
@@ -263,15 +264,16 @@
    "hq": "Toronto / Chicago",
    "last_ok": "2026-10-16",
    "name": "CIBC Private Wealth",
-   "open": 4,
+   "open": 3,
    "sources": [
     {
      "kind": "workday",
      "ok": true
     },
     {
+     "error": "HTTPError: 520 Server Error: <none> for url: https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs",
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -335,7 +337,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "f853eded46a1d2d7",
+     "hash": "fd493dfc9b1f0833",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -838,7 +840,7 @@
    "hq": "Cleveland, OH",
    "last_ok": "2026-10-16",
    "name": "KeyBank",
-   "open": 13,
+   "open": 12,
    "sources": [
     {
      "kind": "workday",
@@ -1174,7 +1176,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-16",
    "name": "Baird",
-   "open": 33,
+   "open": 32,
    "sources": [
     {
      "kind": "workday",
@@ -1313,11 +1315,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
      "hash": "141ec77912857372",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.hilltopsecurities.com/careers/"
     }
    ],
@@ -1418,7 +1419,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "46498506ca38bbae",
+     "hash": "cf1eb0649b074407",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1620,8 +1621,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
-     "hash": "1b58e3cce13d7612",
+     "changed_on": "2026-10-16",
+     "hash": "e723ebd23b582a73",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2533,7 +2534,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-16",
    "name": "Cushman & Wakefield",
-   "open": 21,
+   "open": 22,
    "sources": [
     {
      "kind": "workday",
@@ -2745,7 +2746,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "44849238fc966abc",
+     "hash": "f57d76834eac2c9e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2837,7 +2838,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "d0b468a421ef3221",
+     "hash": "ada99d67b3713ebe",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2861,7 +2862,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "c6aa589384699d14",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2932,8 +2933,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
-     "hash": "9cb65ee9be015d24",
+     "changed_on": "2026-10-16",
+     "hash": "fb26b1e45e53ac46",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3644,7 +3645,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "8b162169e6867544",
+     "hash": "0d050978f333162a",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -3995,10 +3996,10 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7f96f8fc2d20>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "4b7d812410c95d73",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4301,7 +4302,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "e5a8f630f0ba2d71",
+     "hash": "e68bf9cf46f6a574",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4537,7 +4538,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "f1aa36b61265d60e",
+     "hash": "1214228138ed9338",
      "kind": "page",
      "links": [],
      "ok": true,
