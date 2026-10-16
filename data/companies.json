@@ -7,7 +7,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-16",
    "name": "Morgan Stanley",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "kind": "workday",
@@ -335,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "6ba9145c28f7dc9d",
+     "hash": "04d6b124e31f669a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -799,8 +799,9 @@
    "open": 0,
    "sources": [
     {
+     "error": "RetryError: HTTPSConnectionPool(host='hcgn.fa.us2.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs%3BsiteNumber%3DCX_1%2Ckeyword%3D%22intern%22%2Climit%3D50%2Co",
      "kind": "oracle",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1040,7 +1041,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-10-16",
    "name": "Charles Schwab",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "kind": "icims",
@@ -1064,7 +1065,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "c7c658b3b252a4f4",
+     "hash": "0a7937fbbe4468ab",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1128,7 +1129,7 @@
    "hq": "San Diego, CA",
    "last_ok": "2026-10-16",
    "name": "LPL Financial",
-   "open": 9,
+   "open": 8,
    "sources": [
     {
      "kind": "workday",
@@ -1263,8 +1264,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "2171adddb3d9fdeb",
+     "changed_on": "2026-10-16",
+     "hash": "7f4c1ca8fe4067bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1955,8 +1956,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "5505ab43499ebc67",
+     "changed_on": "2026-10-16",
+     "hash": "97eea1c8787c19f8",
      "kind": "page",
      "links": [
       "Explore internship opportunities | https://www.newyorklife.com/careers/corporate/internships",
@@ -2531,7 +2532,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-16",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 21,
    "sources": [
     {
      "kind": "workday",
@@ -2743,7 +2744,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "25e273129d258885",
+     "hash": "91de63375237a588",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2835,7 +2836,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "482893513d7bfb40",
+     "hash": "bd523fb629082563",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2859,7 +2860,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "b299c1cc78d2f63a",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2971,7 +2972,7 @@
    "hq": "McLean, VA",
    "last_ok": "2026-10-16",
    "name": "Freddie Mac (Multifamily)",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "kind": "workday",
@@ -3558,11 +3559,10 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -4487,8 +4487,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "hash": "26aa90d06623bb79",
+     "changed_on": "2026-10-16",
+     "hash": "be4bccbdb8382eb7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4536,7 +4536,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "21f963db619fd474",
+     "hash": "70e8634ee592011e",
      "kind": "page",
      "links": [],
      "ok": true,

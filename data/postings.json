@@ -3798,6 +3798,45 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "ic:career-schwab:126232",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "US-TX-Austin",
+   "misses": 0,
+   "pay": "$24/hr",
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "2027 Financial Service & Support Intern - Austin",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126232/2027-financial-service-%26-support-intern---austin/job",
+   "v": 8,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- Currently pursuing a bachelor’s degree and expected to graduate after August 2027.",
    "classes": [
     2027
@@ -4745,43 +4784,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-16",
-   "first_seen": "2026-10-16",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:cw:R328639",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Gurgaon, India",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "EIC Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R328639",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-15",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
@@ -5499,7 +5501,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "McLean, VA",
-   "misses": 1,
+   "misses": 0,
    "pay": "$26–$39/hr (≈ $54k–$82k/yr)",
    "posted": "2026-09-15",
    "region": "US",
@@ -5519,47 +5521,6 @@
     "real_estate"
    ],
    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Intern---Summer-2027_JR17561",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Graduation date between December 2027 – May 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Freddie Mac (Multifamily)",
-   "company_type": "CRE Finance & Lending",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "id": "wd:freddiemac:JR17638",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "McLean, VA",
-   "misses": 1,
-   "pay": "$31–$40/hr (≈ $64k–$83k/yr)",
-   "posted": "2026-09-22",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "VA"
-   ],
-   "status": "open",
-   "title": "Multifamily Graduate Intern - Quantitative - Summer 2027",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638",
    "v": 8,
    "weeks": null,
    "work_mode": null
@@ -8472,46 +8433,6 @@
    "work_mode": "Hybrid"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "LPL Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.3+",
-   "id": "wd:lplfinancial:R-052052",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Fort Mill/Charlotte",
-   "misses": 1,
-   "pay": "$20–$25/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NC",
-    "SC"
-   ],
-   "status": "open",
-   "title": "Intern 2027 - FAR Program - Finance",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Finance_R-052052",
-   "v": 8,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Currently enrolled in an Undergraduate degree program with an expected graduation date of December 2027 or May 2028.",
    "classes": [
     2028
@@ -9265,45 +9186,6 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-15",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:ms:JR045559",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Long Beach, California, United States of America",
-   "misses": 1,
-   "pay": "$16/hr",
-   "posted": "2026-10-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Long-Beach-California-United-States-of-America/Intern_JR045559",
    "v": 8,
    "weeks": null,
    "work_mode": null
@@ -10490,7 +10372,7 @@
    "last_seen": "2026-10-16",
    "level": "Undergraduate",
    "location": "Saint Petersburg, Florida - United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-06",
    "region": "US",
@@ -12204,6 +12086,44 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-16",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:cw:R328639",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Gurgaon, India",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "EIC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R328639",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-09",
    "company": "Cushman & Wakefield",
    "company_type": "CRE Services & Brokerage",
@@ -12317,6 +12237,48 @@
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R336024",
    "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduation date between December 2027 – May 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-16",
+   "company": "Freddie Mac (Multifamily)",
+   "company_type": "CRE Finance & Lending",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "id": "wd:freddiemac:JR17638",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "McLean, VA",
+   "misses": 2,
+   "pay": "$31–$40/hr (≈ $64k–$83k/yr)",
+   "posted": "2026-09-22",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "VA"
+   ],
+   "status": "closed",
+   "title": "Multifamily Graduate Intern - Quantitative - Summer 2027",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638",
+   "v": 8,
    "weeks": null,
    "work_mode": null
   },
@@ -13999,6 +13961,47 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-16",
+   "company": "LPL Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.3+",
+   "id": "wd:lplfinancial:R-052052",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Fort Mill/Charlotte",
+   "misses": 2,
+   "pay": "$20–$25/hr",
+   "posted": "2026-09-15",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "SC"
+   ],
+   "status": "closed",
+   "title": "Intern 2027 - FAR Program - Finance",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Finance_R-052052",
+   "v": 8,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Currently enrolled as a sophomore or junior pursuing a bachelor’s degree.",
    "classes": [
     2028,
@@ -14119,6 +14122,46 @@
    "v": 5,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-16",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:ms:JR045559",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "Long Beach, California, United States of America",
+   "misses": 2,
+   "pay": "$16/hr",
+   "posted": "2026-10-15",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Long-Beach-California-United-States-of-America/Intern_JR045559",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
   },
   {
    "class_evidence": null,
