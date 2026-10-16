@@ -77,9 +77,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
      "changed_on": null,
@@ -174,7 +173,7 @@
    "hq": "London / New York",
    "last_ok": "2026-10-16",
    "name": "Barclays",
-   "open": 5,
+   "open": 4,
    "sources": [
     {
      "kind": "workday",
@@ -271,9 +270,8 @@
      "ok": true
     },
     {
-     "error": "HTTPError: 520 Server Error: <none> for url: https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs",
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -337,7 +335,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "fd493dfc9b1f0833",
+     "hash": "22dd376de6b8b296",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1219,8 +1217,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-14",
-     "hash": "57192e6eac90f05c",
+     "changed_on": "2026-10-16",
+     "hash": "3e47c5e2e9d4ff39",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1315,10 +1313,11 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
+     "changed_on": null,
      "hash": "141ec77912857372",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.hilltopsecurities.com/careers/"
     }
    ],
@@ -1575,8 +1574,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
-     "hash": "cef33e00d1491fb1",
+     "changed_on": "2026-10-16",
+     "hash": "74d5584ff3aece4d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2534,7 +2533,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-16",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 20,
    "sources": [
     {
      "kind": "workday",
@@ -2746,7 +2745,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "f57d76834eac2c9e",
+     "hash": "5cbfa1f8053c5ca3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2838,7 +2837,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "ada99d67b3713ebe",
+     "hash": "482893513d7bfb40",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2862,7 +2861,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "cede8d21716ead37",
+     "hash": "aa71ad5fb869e7c1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3118,7 +3117,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3556,15 +3555,16 @@
    "domain": "coniferllc.com",
    "focus": "real_estate",
    "hq": "Rochester, NY",
-   "last_ok": "2026-10-15",
+   "last_ok": "2026-10-16",
    "name": "Conifer Realty",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "changed_on": null,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     }
    ],
@@ -3996,10 +3996,10 @@
    "sources": [
     {
      "changed_on": "2026-10-09",
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7f96f8fc2d20>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
      "hash": "4b7d812410c95d73",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.federalrealty.com/careers"
     }
    ],
@@ -4325,8 +4325,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
-     "hash": "0a498a546955fa26",
+     "changed_on": "2026-10-16",
+     "hash": "1d9ee06b6eeeffe7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4441,8 +4441,8 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-14",
-     "hash": "b9e0b94ae335e2c7",
+     "changed_on": "2026-10-16",
+     "hash": "a1c3a264a311942a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4538,7 +4538,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "hash": "1214228138ed9338",
+     "hash": "44241b74c7d39bfe",
      "kind": "page",
      "links": [],
      "ok": true,
