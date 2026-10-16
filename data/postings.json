@@ -3878,45 +3878,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Risk / Compliance",
-   "gpa": null,
-   "id": "ic:career-schwab:126253",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "US-CO-Lone Tree",
-   "misses": 1,
-   "pay": "$34/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "open",
-   "title": "2027 SOX Compliance Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126253/2027-sox-compliance-intern/job",
-   "v": 8,
-   "weeks": 3,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- You are due to graduate in 2026",
    "classes": [
     2026
@@ -11873,6 +11834,46 @@
    "url": "https://career-schwab.icims.com/jobs/126238/2027-financial-service-%26-support-intern---phoenix/job",
    "v": 8,
    "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-16",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Risk / Compliance",
+   "gpa": null,
+   "id": "ic:career-schwab:126253",
+   "last_seen": "2026-10-16",
+   "level": "Undergraduate",
+   "location": "US-CO-Lone Tree",
+   "misses": 2,
+   "pay": "$34/hr",
+   "posted": "2026-10-08",
+   "region": "",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "2027 SOX Compliance Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126253/2027-sox-compliance-intern/job",
+   "v": 8,
+   "weeks": 3,
    "work_mode": "On-site"
   },
   {
