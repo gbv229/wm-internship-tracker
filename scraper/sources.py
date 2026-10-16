@@ -119,12 +119,19 @@ def oracle(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     for term in ["intern", "summer analyst", "internship", "sophomore"]:
         offset = 0
         while offset < 5000:  # stops early when the results run out
-            finder = (f'findReqs;siteNumber={site},keyword="{term}",limit=50,offset={offset},'
-                      f"sortBy=POSTING_DATES_DESC")
-            r = s.get(f"{base}/recruitingCEJobRequisitions",
-                      params={"onlyData": "true", "expand": "requisitionList.secondaryLocations", "finder": finder},
-                      timeout=TIMEOUT)
-            r.raise_for_status()
+            full = (f'findReqs;siteNumber={site},keyword="{term}",limit=50,offset={offset},'
+                    f"sortBy=POSTING_DATES_DESC")
+            try:
+                r = s.get(f"{base}/recruitingCEJobRequisitions",
+                          params={"onlyData": "true", "expand": "requisitionList.secondaryLocations", "finder": full},
+                          timeout=TIMEOUT)
+                r.raise_for_status()
+            except (requests.HTTPError, requests.exceptions.RetryError):
+                # some Oracle sites reject the sort / expand options: retry with the bare search
+                bare = f'findReqs;siteNumber={site},keyword="{term}",limit=25,offset={offset}'
+                r = s.get(f"{base}/recruitingCEJobRequisitions", params={"onlyData": "true", "finder": bare},
+                          timeout=TIMEOUT)
+                r.raise_for_status()
             items = (r.json().get("items") or [{}])[0]
             reqs = items.get("requisitionList") or []
             for q in reqs:

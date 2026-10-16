@@ -306,6 +306,8 @@ def main(argv=None):
                 continue                  # same posting reached through two firms' feeds: keep one
             out[pid] = p
         for p in prev.values():
+            if p.get("source") == "browser" and browser.is_cta(p["title"]):
+                continue                  # a "Learn more"-style button, not a role: drop it
             if p["company"] != name or p["id"] in found or p["id"] in rejected:
                 continue                  # rejected = no longer matches the filters: drop it
             p = dict(p)

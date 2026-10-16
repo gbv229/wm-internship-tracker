@@ -27,7 +27,7 @@ def report(data: Path) -> tuple[bool, str]:
         for s in c.get("sources", []):
             if s.get("ok") or s.get("fail_streak", 99) < 3:   # ignore one-off timeouts
                 continue
-            err = (s.get("error") or "")[:160]
+            err = " ".join((s.get("error") or "").split())[:160].replace("|", "/").replace("`", "'")
             if s["kind"] == "browser":
                 browser_errs.append((c["name"], err))
             elif s["kind"] == "page":

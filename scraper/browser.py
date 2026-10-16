@@ -26,6 +26,21 @@ NAV_LABEL = re.compile(
 NAV_HREF = re.compile(r"(?i)(student|campus|early-?career|intern|university|graduate|early-?talent|college|programs?)")
 GENERIC_TEXT = re.compile(r"(?i)^(apply( now)?|learn more|read more|view( job| details| role)?|details|explore|see more|more|"
                           r"find out more|discover more|view program|view opportunity|›|»|→)$")
+# "Learn more about our internship program", "Search Headquarters Internship positions": buttons that
+# lead to the real listings. Follow them instead of listing them.
+CTA = re.compile(r"(?i)^(explore|learn|search|see|view|read|discover|find|browse|apply|join|meet|click|visit|check out|"
+                 r"get to know|start|go to|watch|hear|more about|current|open|all)\b|opens? (in )?a new (window|tab)|"
+                 r"\b(opportunities|openings|positions|jobs|roles)\s*$")
+
+
+def is_cta(text: str) -> bool:
+    return bool(CTA.search(text or ""))
+
+
+def clean_title(text: str) -> str:
+    return re.sub(r"(?i)\s*\(?opens? (in )?a new (window|tab)\)?\s*$", "", text or "").strip(" -–|")
+
+
 SKIP_HREF = re.compile(r"(?i)^(mailto:|tel:|javascript:)|\.(pdf|jpg|png|zip)(\?|$)|linkedin\.com|facebook\.com|"
                        r"twitter\.com|x\.com/|instagram\.com|youtube\.com|glassdoor")
 
@@ -77,13 +92,18 @@ def pick_links(links: list[dict], base: str) -> tuple[list[tuple[str, str]], lis
             continue
         if GENERIC_TEXT.match(text) and l.get("context"):
             text = l["context"]
+        text = clean_title(text)
+        if is_cta(text) and (parse.INTERN_RE.search(text) or parse.is_early(text) or NAV_HREF.search(href)):
+            if href not in nav and href.rstrip("/") != base.rstrip("/"):
+                nav.insert(0, href)            # buttons into job listings: follow these first, any site
+            continue
         if _looks_like_program(text):
             cands.setdefault(href, text)
         elif (NAV_LABEL.match(text) or (NAV_HREF.search(href) and len(text) <= 40 and text)) \
                 and urlparse(href).netloc.split(".")[-2:] == host and href.rstrip("/") != base.rstrip("/"):
             if href not in nav:
                 nav.append(href)
-    return list(cands.items()), nav[:4]
+    return list(cands.items()), nav[:5]
 
 
 async def _render(ctx, url: str, wait_ms: int = 2500):

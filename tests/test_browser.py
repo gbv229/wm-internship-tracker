@@ -12,7 +12,8 @@ from scraper import browser, run, sources
 pytestmark = pytest.mark.skipif(not browser.available(), reason="playwright not installed")
 
 PAGES = {
-    "/index.html": """<html><head><meta charset="utf-8"></head><body><nav><a href="/students/index.html">Students</a></nav>
+    "/index.html": """<html><head><meta charset="utf-8"></head><body><nav><a href="/students/index.html">Students</a>
+      <a href="/listings.html">Learn more about our internship program</a></nav>
       <main><div id="app"></div><script>document.getElementById('app').innerHTML =
       '<a href="/jobs/wm.html">2027 Summer Analyst Program - Private Wealth Management</a>';</script></main></body></html>""",
     "/students/index.html": """<html><head><meta charset="utf-8"></head><body><main>
@@ -24,6 +25,10 @@ PAGES = {
     "/jobs/insight.html": """<html><head><meta charset="utf-8"></head><body><main><h1>Sophomore Insight Day - Real Estate</h1>
       <p>Open to sophomores. Learn about real estate investment. Apply by November 1, 2026.</p></main></body></html>""",
     "/jobs/swe.html": "<html><body><main><h1>SWE Intern</h1></main></body></html>",
+    "/listings.html": """<html><head><meta charset="utf-8"></head><body><main>
+      <a href="/jobs/acq.html">2027 Summer Internship - Real Estate Acquisitions</a></main></body></html>""",
+    "/jobs/acq.html": """<html><head><meta charset="utf-8"></head><body><main><h1>2027 Summer Internship - Real Estate Acquisitions</h1>
+      <p>Underwrite real estate investments. Real estate acquisitions team in Dallas, TX.</p></main></body></html>""",
 }
 
 
@@ -67,5 +72,7 @@ companies:
     ins = posts["Sophomore Insight Day - Real Estate"]
     assert "real_estate" in ins["tracks"] and "early" in ins["tracks"]
     assert not any("SWE" in t or "Software" in t for t in posts)
+    assert "real_estate" in posts["2027 Summer Internship - Real Estate Acquisitions"]["tracks"]   # found via the button
+    assert not any(t.startswith("Learn more") for t in posts)
     cos = json.loads((tmp_path / "data" / "companies.json").read_text())["companies"]
     assert any(s["kind"] == "browser" and s["ok"] for s in cos[0]["sources"])
