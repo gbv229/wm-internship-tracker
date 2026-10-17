@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "6ef324b77ed1e551",
+     "hash": "ad368cf42a1e3a4b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -558,7 +558,7 @@
    "sources": [
     {
      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -951,7 +951,7 @@
    "hq": "Cleveland, OH",
    "last_ok": "2026-10-17",
    "name": "KeyBank",
-   "open": 12,
+   "open": 6,
    "sources": [
     {
      "fail_streak": 0,
@@ -971,15 +971,14 @@
    "domain": "huntington.com",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-10-16",
+   "last_ok": "2026-10-17",
    "name": "Huntington (Private Bank)",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1523,15 +1522,14 @@
    "domain": "joincambridge.com",
    "focus": "wealth",
    "hq": "Fairfield, IA",
-   "last_ok": "2026-10-16",
+   "last_ok": "2026-10-17",
    "name": "Cambridge Investment Research",
    "open": 5,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1663,15 +1661,14 @@
    "domain": "ceritypartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-10-16",
+   "last_ok": "2026-10-17",
    "name": "Cerity Partners",
    "open": 19,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1774,7 +1771,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1834,7 +1831,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1924,12 +1921,11 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
+     "fail_streak": 1,
      "hash": "2de559024e793a16",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.edelmanfinancialengines.com/careers/"
     },
     {
@@ -1956,7 +1952,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1985,7 +1981,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2197,15 +2193,14 @@
    "domain": "securian.com",
    "focus": "mixed",
    "hq": "St. Paul, MN",
-   "last_ok": "2026-10-16",
+   "last_ok": "2026-10-17",
    "name": "Securian Financial",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2919,7 +2914,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-17",
    "name": "Cushman & Wakefield",
-   "open": 21,
+   "open": 22,
    "sources": [
     {
      "fail_streak": 0,
@@ -3178,7 +3173,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "299360f4425570a1",
+     "hash": "471d48597ae7ecf1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3282,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "c0979ba999628e22",
+     "hash": "d3d48e4562040ec4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3313,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "45d748f45dca166f",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3477,15 +3472,14 @@
    "domain": "capitalone.com",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-10-16",
+   "last_ok": "2026-10-17",
    "name": "Capital One (Commercial Real Estate)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3611,7 +3605,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3857,7 +3851,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3886,7 +3880,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4157,7 +4151,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4187,7 +4181,7 @@
    "sources": [
     {
      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4352,15 +4346,14 @@
    "domain": "realtyincome.com",
    "focus": "real_estate",
    "hq": "San Diego, CA",
-   "last_ok": "2026-10-16",
+   "last_ok": "2026-10-17",
    "name": "Realty Income",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4485,7 +4478,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4514,7 +4507,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 8,
+     "fail_streak": 9,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5324,7 +5317,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "4827b420ad7d3068",
+     "hash": "1a5ac4838ebef9ef",
      "kind": "page",
      "links": [],
      "ok": true,
