@@ -6400,7 +6400,7 @@
    "function": "Real Estate (general)",
    "gpa": null,
    "id": "wd:invitationhomes:R5938",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "level": "Undergraduate",
    "location": "Dallas, TX- HQ",
    "misses": 0,
@@ -6442,7 +6442,7 @@
    "function": "Development / Construction",
    "gpa": null,
    "id": "wd:invitationhomes:R5958",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "level": "Undergraduate",
    "location": "Dallas, TX- HQ",
    "misses": 0,
@@ -8793,129 +8793,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "id": "wd:keybank:R-41217",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Albany, OR",
-   "misses": 1,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OR"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Albany, OR",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "id": "wd:keybank:R-41216",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Bellingham, WA",
-   "misses": 1,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "WA"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Bellingham, WA",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "id": "wd:keybank:R-41218",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Boise, ID",
-   "misses": 1,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "ID"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Boise, ID",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Currently enrolled in an Undergraduate degree program with an expected graduation date of December 2027 or May 2028.",
    "classes": [
     2028
@@ -10886,7 +10763,7 @@
    "last_seen": "2026-10-17",
    "level": "Undergraduate",
    "location": "Saint Petersburg, Florida - United States; Houston, Texas - United States; New York, New York - United States; San Francisco, California - United States; Mc Lean, Virginia - United States; Raleigh, North Carolina - United States; Chicago, Illinois - United States; Atlanta, Georgia - United States; Nashville, Tennessee - United States; Memphis, Tennessee - United States; NC - Charlotte - 650 S Tryon St Ste 1525; MA - Boston - 225 Franklin St Ste 3000",
-   "misses": 0,
+   "misses": 1,
    "pay": "$17–$50/hr (≈ $36k–$105k/yr)",
    "posted": "2026-10-05",
    "region": "US",
@@ -14896,6 +14773,132 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
+   "v": 8,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "closed_on": "2026-10-17",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "id": "wd:keybank:R-41217",
+   "last_seen": "2026-10-17",
+   "level": "Undergraduate",
+   "location": "Albany, OR",
+   "misses": 2,
+   "pay": "$23/hr",
+   "posted": "2026-09-15",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OR"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Albany, OR",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217",
+   "v": 8,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "closed_on": "2026-10-17",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "id": "wd:keybank:R-41216",
+   "last_seen": "2026-10-17",
+   "level": "Undergraduate",
+   "location": "Bellingham, WA",
+   "misses": 2,
+   "pay": "$23/hr",
+   "posted": "2026-09-15",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WA"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Bellingham, WA",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216",
+   "v": 8,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "closed_on": "2026-10-17",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "id": "wd:keybank:R-41218",
+   "last_seen": "2026-10-17",
+   "level": "Undergraduate",
+   "location": "Boise, ID",
+   "misses": 2,
+   "pay": "$23/hr",
+   "posted": "2026-09-15",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "ID"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Boise, ID",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
    "v": 8,
    "weeks": 5,
    "work_mode": null
