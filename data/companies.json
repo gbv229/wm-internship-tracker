@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "650c2db7d7e810c7",
+     "hash": "6a72bb9b85f7209e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1770,7 +1770,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1830,7 +1830,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1920,11 +1920,12 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 4,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "2de559024e793a16",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.edelmanfinancialengines.com/careers/"
     },
     {
@@ -1951,7 +1952,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1980,7 +1981,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3172,7 +3173,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "96e89a3af5339348",
+     "hash": "2157430a553200ef",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3281,7 +3282,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "fdab9d854d053e40",
+     "hash": "fc7dbabe478e394d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3312,7 +3313,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "60cd192fc0e4ef71",
+     "hash": "45d748f45dca166f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3850,7 +3851,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3879,7 +3880,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4150,7 +4151,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4476,7 +4477,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4505,7 +4506,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5315,7 +5316,7 @@
     {
      "changed_on": "2026-10-17",
      "fail_streak": 0,
-     "hash": "11133b739d3534b6",
+     "hash": "0ec8db0ddb7b0423",
      "kind": "page",
      "links": [],
      "ok": true,
