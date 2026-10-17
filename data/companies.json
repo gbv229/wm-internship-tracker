@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "c6afc060a14e23db",
+     "hash": "cc4b47008383abf6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -905,10 +905,13 @@
    "open": 0,
    "sources": [
     {
-     "error": "RetryError: HTTPSConnectionPool(host='hcgn.fa.us2.oraclecloud.com', port=443): Max retries exceeded with url: /hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs%3BsiteNumber%3DCX_1%2Ckeyword%3D%22intern%22%2Climit%3D25%2Coffset%3D0 (Caused by ResponseError('too ma",
-     "fail_streak": 5,
-     "kind": "oracle",
-     "ok": false
+     "changed_on": null,
+     "fail_streak": 0,
+     "hash": "50fe98823641dbde",
+     "kind": "page",
+     "links": [],
+     "ok": true,
+     "url": "https://jobs.citizensbank.com/"
     }
    ],
    "tracks": [
@@ -916,7 +919,7 @@
     "real_estate"
    ],
    "type": "Regional Bank",
-   "verified": true
+   "verified": false
   },
   {
    "careers": "https://fifththird.wd5.myworkdayjobs.com/53careers",
@@ -1767,7 +1770,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1827,7 +1830,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1918,7 +1921,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1948,7 +1951,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1977,7 +1980,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3169,7 +3172,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "e97b28985ef94404",
+     "hash": "f40133c19785c784",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3309,7 +3312,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "c6aa589384699d14",
+     "hash": "c715a6508fc0d3d6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3847,7 +3850,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3876,7 +3879,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4474,7 +4477,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4503,7 +4506,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5313,7 +5316,7 @@
     {
      "changed_on": "2026-10-16",
      "fail_streak": 0,
-     "hash": "2b746765542eb7a6",
+     "hash": "7293ad812cc4d7dd",
      "kind": "page",
      "links": [],
      "ok": true,
