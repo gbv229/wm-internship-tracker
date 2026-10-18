@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "8ae6f0db31673bb3",
+     "hash": "d8f44c6bec2c48a9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 7,
+     "fail_streak": 8,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "7d47cea4904b2fa5",
+     "hash": "dbfbcb4bb2c0cd08",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "b299c1cc78d2f63a",
+     "hash": "aa71ad5fb869e7c1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3610,7 +3610,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "e223adf8dc8a34b4",
+     "hash": "d271bbeb95fb5d04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3946,7 +3946,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "355e63a26f7c4a69",
+     "hash": "cee548f047beab10",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4156,7 +4156,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4481,7 +4481,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4510,7 +4510,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5320,7 +5320,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "4b5ba11dc36c66b7",
+     "hash": "fea158a92a893351",
      "kind": "page",
      "links": [],
      "ok": true,
