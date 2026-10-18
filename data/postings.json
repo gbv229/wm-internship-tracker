@@ -4059,47 +4059,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Currently pursuing a bachelor’s degree and expected to graduate after August 2027.",
-   "classes": [
-    2027
-   ],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-13",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "id": "ic:career-schwab:126258",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "US-TX-Westlake",
-   "misses": 1,
-   "pay": "$22/hr",
-   "posted": "2026-10-13",
-   "region": "",
-   "regions": [
-    "Southwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 International Client Services Intern - Westlake Only",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---westlake-only/job",
-   "v": 8,
-   "weeks": 9,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- You are due to graduate in 2026",
    "classes": [
     2026
@@ -10703,130 +10662,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Graduating December 2027 or Spring 2028",
-   "classes": [
-    2028
-   ],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "id": "wd:rbc:R-0000187999-1",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "misses": 1,
-   "pay": "$20–$30/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Summer 2027 US Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-   "v": 8,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must be a Sophomore, Junior, or in a Masters program (graduation date December 2027 – May 2029) with a major in Software Engineering, Computer Science, Management Information Systems, Data Science, or other technology-related disciplines",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Technology / Data",
-   "gpa": null,
-   "id": "wd:rbc:R-0000187852-1",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "misses": 1,
-   "pay": "$20–$30/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Summer 2027 US Wealth Management Technology Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Graduating December 2027 or Spring 2028",
-   "classes": [
-    2028
-   ],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Operations",
-   "gpa": null,
-   "id": "wd:rbc:R-0000187994-1",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "misses": 1,
-   "pay": "$20–$30/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Operations Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1",
-   "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Finance, Accounting, Tax, Business or a related field, with an expected graduation date of December 2027 through June 2028",
    "classes": [
     2028
@@ -12800,6 +12635,48 @@
    "url": "https://career-schwab.icims.com/jobs/126238/2027-financial-service-%26-support-intern---phoenix/job",
    "v": 8,
    "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently pursuing a bachelor’s degree and expected to graduate after August 2027.",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-18",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-13",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "id": "ic:career-schwab:126258",
+   "last_seen": "2026-10-17",
+   "level": "Undergraduate",
+   "location": "US-TX-Westlake",
+   "misses": 2,
+   "pay": "$22/hr",
+   "posted": "2026-10-13",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 International Client Services Intern - Westlake Only",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---westlake-only/job",
+   "v": 8,
+   "weeks": 9,
    "work_mode": "On-site"
   },
   {
@@ -15836,6 +15713,133 @@
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000186438",
    "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduating December 2027 or Spring 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-18",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "id": "wd:rbc:R-0000187999-1",
+   "last_seen": "2026-10-17",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 2,
+   "pay": "$20–$30/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 US Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
+   "v": 8,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must be a Sophomore, Junior, or in a Masters program (graduation date December 2027 – May 2029) with a major in Software Engineering, Computer Science, Management Information Systems, Data Science, or other technology-related disciplines",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-10-18",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Technology / Data",
+   "gpa": null,
+   "id": "wd:rbc:R-0000187852-1",
+   "last_seen": "2026-10-17",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 2,
+   "pay": "$20–$30/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 US Wealth Management Technology Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
+   "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduating December 2027 or Spring 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-18",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-15",
+   "first_seen": "2026-10-08",
+   "function": "Operations",
+   "gpa": null,
+   "id": "wd:rbc:R-0000187994-1",
+   "last_seen": "2026-10-17",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 2,
+   "pay": "$20–$30/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Operations Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1",
+   "v": 8,
    "weeks": null,
    "work_mode": null
   },
