@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "1033b6d6b5d5b570",
+     "hash": "d4d0531448624492",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2919,7 +2919,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-18",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 23,
    "sources": [
     {
      "fail_streak": 0,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "c00efbdc0415b7cf",
+     "hash": "a5fb0da20370ff19",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "c423ac468ef3a164",
+     "hash": "c2123688a523eace",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "6d72b30e47d599b5",
+     "hash": "c6aa589384699d14",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4156,7 +4156,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4482,7 +4482,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4511,7 +4511,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5321,7 +5321,7 @@
     {
      "changed_on": "2026-10-18",
      "fail_streak": 0,
-     "hash": "8826d10845d0e16f",
+     "hash": "434aa9577c22b332",
      "kind": "page",
      "links": [],
      "ok": true,
