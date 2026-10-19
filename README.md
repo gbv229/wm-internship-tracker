@@ -5,7 +5,7 @@ A free, self-updating website that tracks internships at 200+ firms for college 
 - **Wealth management** — global banks, private banks and trust companies, brokerages, independent RIAs, insurers and wealthtech.
 - **Real estate** — CRE brokerage and services (CBRE, JLL, Cushman & Wakefield…), REITs, real estate investment managers, developers and operators, homebuilders, and real estate lenders. Banks with real estate groups (J.P. Morgan, Wells Fargo, PNC, M&T…) appear in both.
 
-Every 30 minutes GitHub Actions reads each firm's careers system, keeps internships tied to wealth management or real estate, pulls out the details, and republishes the site on GitHub Pages.
+About every 30 minutes GitHub Actions reads each firm's careers system (the schedule asks four times an hour because GitHub skips scheduled runs when it's busy), keeps internships tied to wealth management or real estate, pulls out the details, and republishes the site on GitHub Pages.
 
 **What each posting shows:** firm and firm type, role, season (Summer 2027, Fall 2026, Summer 2028…), which class years are eligible, application deadline, posted date, location, and — when the posting says — pay, minimum GPA, program length, work setup and visa sponsorship. Open a row to see the exact sentence the eligibility and deadline were read from.
 
@@ -20,6 +20,7 @@ Every run also writes `data/early-programs.ics`, a calendar feed with reminders 
 
 ## For visitors
 
+- **One row per role** — a program posted separately for many offices is grouped, with a "Pick office" list of each office's posting.
 - **My list** — Save roles and programs and track them as Applied / Interviewing / Offer / Rejected / Not for me. Stored in the visitor's browser only (no accounts); CSV backup and restore.
 - **New since last visit** — roles that appeared since you last opened the site are marked and can be filtered.
 - **Alerts** — Atom feeds per field (`data/feed-wealth.xml`, `data/feed-real-estate.xml`, `data/feed-early.xml`) for feed readers, Slack/Discord or RSS-to-email services; plus the calendar feed on the Early programs tab.
@@ -56,7 +57,7 @@ tests/                    parser and end-to-end tests (run before every update)
 ### Tracking methods
 
 - **Live feed** — the firm's job system (Workday, Oracle, iCIMS, Greenhouse, Lever, Ashby) is read directly and every matching role appears in the table.
-- **Read via browser** — firms with no readable feed (e.g. Goldman Sachs, UBS, Edward Jones) are opened in headless Chromium every 3 hours (`scraper/browser.py`). Internship and program links on the careers page, and one level into "Students / Internships" pages, are read and run through the same filters.
+- **Read via browser** — firms with no readable feed (e.g. Goldman Sachs, UBS, Edward Jones) are opened in headless Chromium every 3 hours (`scraper/browser.py`; the last pass is recorded in `data/state.json`). Internship and program links on the careers page, and one level into "Students / Internships" pages, are read and run through the same filters.
 - **Page watch** — sites that block automated visits are still checked for changes and listed on the *Firms* tab with a direct link.
 
 ## Common tasks

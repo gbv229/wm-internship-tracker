@@ -29,7 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 8       # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 9       # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -262,7 +262,10 @@ def main(argv=None):
                   + " ".join(f"[{x['kind']}:{'ok' if x['ok'] else 'ERR'}]" for x in got[2]["sources"]))
 
     # ---- browser pass for firms whose careers page has no readable feed
-    use_browser = args.browser == "on" or (args.browser == "auto" and now.hour % 3 == 0 and now.minute < 30)
+    run_state = load_json(DATA / "state.json", {})
+    last_browser = run_state.get("last_browser")
+    due = not last_browser or (now - datetime.fromisoformat(last_browser)).total_seconds() > 170 * 60
+    use_browser = args.browser == "on" or (args.browser == "auto" and due)
     if use_browser and browser.available():
         targets = [(co["name"], next(iter(src.values()))["url"]) for co in companies
                    for src in co["sources"] if "page" in src and co["name"] in results]
@@ -271,6 +274,7 @@ def main(argv=None):
                 and (today - date.fromisoformat(p["detail_at"])).days < REFRESH_DAYS} | set(seen)
         t0 = time.time()
         crawled = browser.crawl(targets, skip)
+        run_state["last_browser"] = now.isoformat(timespec="seconds")
         print(f"\nBrowser pass: {len(targets)} pages in {time.time() - t0:.0f}s")
         for co in companies:
             if co["name"] not in crawled:
@@ -306,7 +310,7 @@ def main(argv=None):
                 continue                  # same posting reached through two firms' feeds: keep one
             out[pid] = p
         for p in prev.values():
-            if p.get("source") == "browser" and browser.is_cta(p["title"]):
+            if p.get("source") == "browser" and browser.is_cta(browser.clean_title(p["title"])):
                 continue                  # a "Learn more"-style button, not a role: drop it
             if p["company"] != name or p["id"] in found or p["id"] in rejected:
                 continue                  # rejected = no longer matches the filters: drop it
@@ -369,13 +373,20 @@ def main(argv=None):
     n_fixed = apply_overrides(out, ROOT / "overrides.yaml")
     if n_fixed:
         print(f"Applied hand corrections to {n_fixed} postings")
+    for p in out.values():               # programs whose season already ended
+        if p["status"] == "open" and parse.is_stale_season(p.get("season"), today):
+            p["status"], p["closed_on"] = "closed", today.isoformat()
     for p in out.values():               # cheap to recompute: keeps old records current too
         p["regions"] = parse.regions(p.get("location", ""), p.get("title", ""))
         p["states"] = parse.states(p.get("location", ""), p.get("title", ""))
+        key, display = parse.group_key(p.get("title", ""))
+        p["group"] = f"{p['company']}|{key}"
+        p["group_title"] = display
     postings = sorted(out.values(), key=lambda p: (p["status"] != "open", p["company"], p["title"]))
     dump(DATA / "postings.json", {"postings": postings})
     dump(DATA / "companies.json", {"companies": status_out})
     dump(DATA / "seen.json", {"_v": PARSER_VERSION, **seen})
+    dump(DATA / "state.json", run_state)
     try:
         feeds.write_feeds(postings, DATA, today)
     except Exception:  # noqa: BLE001

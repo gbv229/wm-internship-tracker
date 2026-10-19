@@ -62,8 +62,14 @@ WEALTH_RE = re.compile(
 MBA_RE = re.compile(r"\b(mba|summer associate|graduate (student|program)|master'?s student|ph\.?d)\b", re.I)
 
 
+FULL_TIME_RE = re.compile(r"(?i)\bnew grad|\bfull[- ]time (analyst|associate|program|role|position|hire)|"
+                          r"\b(analyst|associate) development program\b(?!.*\bintern)|\bexperienced hire")
+
+
 def is_internship(title: str, text_head: str = "") -> bool:
     t = title or ""
+    if FULL_TIME_RE.search(t):
+        return False
     if INTERN_RE.search(t) and not re.fullmatch(r"(?i).*\binternal\b.*", t):
         return True
     # titles like "2027 Wealth Management Program" -> check the opening text
@@ -86,7 +92,11 @@ OTHER_DIVISION_RE = re.compile(
     r"private equity|asset servicing|custody|fund services|chief operations|corporate finance|"
     r"social media|communications|conference|hospitality|event|sustainab|model risk|third-party risk|"
     r"operational risk|enterprise risk|facilities|procurement|graphic|creative|design|talent|"
-    r"\bai\b|machine learning|video|photograph|copywrit|content creat)", re.I)
+    r"\bai\b|machine learning|video|photograph|copywrit|content creat|"
+    r"compliance|public relations|\bpr\b|financial crime|product control|\banalytics\b|business intelligence|"
+    r"business data|application development|systems? admin|information (risk|security)|advocacy|supervision|"
+    r"continuous improvement|business coordinator|project management|program management|transformation|"
+    r"financial operations|business operations|product analyst|product manag)", re.I)
 
 
 def is_wealth(title: str, text: str, focus: str) -> bool:
@@ -120,7 +130,8 @@ RE_OTHER_RE = re.compile(
     r"porter|groundskeep|security officer|electrician|plumb|mechanic|culinary|cook|"
     r"front desk|concierge|call center|customer service|payroll|benefits|technology intern|\bai\b|"
     r"machine learning|computer science|information services|digital product|product analy|"
-    r"interior design|architecture|\bdesign\b)", re.I)
+    r"interior design|architecture|\bdesign\b|accounting|business intelligence|\bproduct (intern|manag)|"
+    r"compliance|public relations|project management)", re.I)
 
 
 def is_real_estate(title: str, text: str, focus: str) -> bool:
@@ -132,6 +143,10 @@ def is_real_estate(title: str, text: str, focus: str) -> bool:
     if RE_STRICT_TITLE_RE.search(t):
         return True
     if WEALTH_RE.search(t):
+        return False
+    # bank job descriptions often list every division, so only a plain title like "Summer Analyst" can count
+    if re.search(r"(?i)\bbanking\b|\bmarkets\b|research|treasury|technology|operations|risk|finance|sales|"
+                 r"strategy|consulting|tax|legal|wealth|accounting", t):
         return False
     head = (text or "")[:1200]
     return bool(re.search(r"(?i)\b(summer analyst|intern|internship)\b", t)) and len(RE_STRONG_RE.findall(head)) >= 2 \
@@ -240,7 +255,10 @@ MORE_INTL_RE = re.compile(
     r"auckland|indonesia|jakarta|thailand|bangkok|malaysia|turkey|istanbul|egypt|cairo|nigeria|lagos|kenya|"
     r"nairobi|peru|lima|argentina|uruguay|panama|cayman|bermuda|bahamas|guernsey|czech|philippines|"
     r"netherlands|hungary|romania|bucharest|slovakia|croatia|cyprus|malta|morocco|kuwait|oman|pakistan|"
-    r"bangladesh|sri lanka|vietnam|neuilly|gurgaon|gurugram|hyderabad|chennai|pune|telangana)\b")
+    r"bangladesh|sri lanka|vietnam|neuilly|gurgaon|gurugram|hyderabad|chennai|pune|telangana|"
+    r"munich|münchen|hamburg|berlin|düsseldorf|dusseldorf|cologne|köln|stuttgart|lyon|rome|turin|barcelona|"
+    r"basel|lugano|manchester|leeds|bristol|jersey|guernsey|abu dhabi|tokyo|osaka|beijing|shenzhen|"
+    r"taipei|bengaluru|noida|kuala lumpur|jakarta|ho chi minh|hcmc|riyadh|jeddah|doha|kuwait|bahrain)\b")
 _US_RE = re.compile(r"(?i)united states|\busa?\b|\bu\.s\.(a\.)?")
 _REMOTE_RE = re.compile(r"(?i)\bremote\b|work from home|virtual")
 
@@ -370,6 +388,52 @@ def function(title: str, track: str = "wealth") -> str:
         if re.search(pat, title or "", re.I):
             return name
     return "Wealth Management"
+
+
+_SEP_RE = re.compile(r"\s+[-–—|]\s*|\s*[-–—|]\s+|,\s*")
+_NOT_PLACE_RE = re.compile(r"(?i)\b(intern|internship|analyst|program|programme|associate|co-?op|summer|wealth|bank|"
+                           r"real estate|capital|markets|management|advisor|planning|client|team|group)\b")
+
+
+def _is_place_or_date(seg: str) -> bool:
+    seg = seg.strip(" .()")
+    if not seg:
+        return True
+    if re.fullmatch(r"(?i)((summer|fall|winter|spring)\s+)?(20\d\d)|20\d\d intake|multiple locations?|"
+                    r"\d+ locations?|remote|hybrid|on-?site|usa?|united states|us offices?|nationwide", seg):
+        return True
+    if _NOT_PLACE_RE.search(seg):
+        return False
+    return bool(states(seg) or regions(seg))
+
+
+def group_key(title: str) -> tuple[str, str]:
+    """(match key, display title) with office locations and dates stripped, so the same
+    role posted for many offices groups into one row:
+    'Capital Markets Summer 2027 Internship - Miami, FL' -> 'Capital Markets Summer 2027 Internship'."""
+    t = re.sub(r"\s*\([^)]*\)", "", title or "").strip()       # "(Akron, OH Summer 2027)", "(f/m/d)"
+    parts = [x for x in _SEP_RE.split(t) if x is not None]
+    seps = _SEP_RE.findall(t)
+    while len(parts) > 1 and _is_place_or_date(parts[-1]):
+        parts.pop()
+        seps = seps[:len(parts) - 1]
+    display = parts[0] + "".join(sep + part for sep, part in zip(seps, parts[1:]))
+    display = display.strip(" -–—|,") or (title or "").strip()
+    key = re.sub(r"[^a-z0-9]+", " ", display.lower()).strip()
+    return key, display
+
+
+def is_stale_season(season: str | None, today: date) -> bool:
+    """True when a posting's program season has already finished."""
+    if not season:
+        return False
+    try:
+        name, year = season.split()
+        year = int(year)
+    except ValueError:
+        return False
+    end_month = {"Winter": 3, "Spring": 6, "Summer": 9, "Fall": 12}.get(name, 12)
+    return (year, end_month) < (today.year, today.month)
 
 
 # ------------------------------------------------------------------ season

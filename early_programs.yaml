@@ -8,7 +8,7 @@
 # status: open | upcoming | closed | watch (no date published) | invite (no public application)
 # source: where the date came from (official page preferred).
 #
-# Last researched: 2026-10-15
+# Last researched: 2026-10-18
 
 programs:
 
@@ -26,6 +26,7 @@ programs:
     deadline: 2027-01-13
     deadline_est: true
     deadline_note: Last cycle closed Jan 13.
+    notes: "Last cycle had Asset & Wealth Management tracks, including the International Private Bank."
     status: upcoming
     link: https://www.jpmorganchase.com/careers/explore-opportunities/programs/jpmcfellowship
     source: https://www.extern.com/post/sophomore-internships-2027-guide
@@ -77,9 +78,9 @@ programs:
     field: wealth
     eligibility: Class of 2029 (junior summer).
     when: Summer 2028
-    opens: 2027-03-01
+    opens: 2026-12-01
     opens_est: true
-    opens_note: Expected spring 2027.
+    opens_note: Estimates range from December 2026 to spring 2027.
     deadline: 2027-09-30
     deadline_est: true
     deadline_note: The 2027 Markets posting closed Sep 30, 2026.
@@ -143,7 +144,7 @@ programs:
     when: Summer 2028
     opens: 2027-01-04
     opens_est: true
-    opens_note: Some divisions expected from Jan 2027; the 2027 Americas Summer Analyst opened Aug 15, 2026, so plan for Jan–Aug 2027. Rolling review.
+    opens_note: Estimates range from December 2026 to August 2027 - the 2027 Americas program opened Aug 15, 2026. Rolling review.
     status: upcoming
     link: https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2027-summer-analyst-program
     source: https://www.extern.com/post/goldman-sachs-internship-guide
@@ -300,7 +301,7 @@ programs:
     eligibility: Sophomores. Paid, in Charlotte, NC.
     when: Summer 2027
     status: watch
-    opens_note: Usually opens in the fall.
+    opens_note: Last cycle was posted in early September; join Wells Fargo's talent community for an alert.
     link: https://www.wellsfargojobs.com/en/early-careers/undergraduate-programs/other-undergraduate-programs/sophomore-discovery-fellowship-program/
     source: https://www.interndock.com/tracker/guides/ultimate-pre-internship-early-insight-programs-list
 
@@ -324,18 +325,17 @@ programs:
     program: Discovery Program
     type: insight
     field: banking
-    eligibility: Sophomores, 3.2+ GPA. Two-part insight program.
-    when: Winter 2026 – 2027
-    opens: 2026-10-14
+    eligibility: Sophomores, 3.2+ GPA (last cycle). Two-part virtual insight program.
+    when: Last cycle - Part 1 mid-November, Part 2 early December
+    opens: 2026-10-26
     opens_est: true
-    opens_note: Last cycle posted Oct 14.
+    opens_note: Not posted as of Oct 16; expected late October – November.
     deadline: 2026-11-07
     deadline_est: true
     deadline_note: Last cycle's deadline was Nov 7.
     status: upcoming
     link: https://search.jobs.barclays/discovery
-    source: https://www.extern.com/post/sophomore-internships-2027-guide
-
+    source: https://www.extern.com/post/barclays-discovery-program-guide
   - id: db-insight
     firm: Deutsche Bank
     program: dbDevelop & US Insight Programs
@@ -354,6 +354,7 @@ programs:
     field: multi
     eligibility: Sophomores.
     when: Typically winter – spring
+    notes: "Includes a Global Wealth Management Insights Day (last held 2025)."
     status: watch
     link: https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html
     source: https://www.interndock.com/tracker/guides/ultimate-pre-internship-early-insight-programs-list
@@ -510,14 +511,12 @@ programs:
     program: Women in Banking Sophomore Internship
     type: sophomore
     field: banking
-    eligibility: Sophomore women. 10 weeks, summers 2027 and 2028.
-    opens: 2026-10-15
-    opens_est: true
-    opens_note: Expected to open in October.
-    status: upcoming
+    eligibility: Sophomore women graduating Dec 2028 or Spring 2029 - your class. Offers cover both Summer 2027 and Summer 2028.
+    when: Summers 2027 and 2028, Chicago (10 weeks each; $110k base salary prorated)
+    status: open
+    notes: No deadline posted; it's been live since late August, so apply soon.
     link: https://www.bairdcareers.com/internships/global-investment-banking-intern-program-us/
-    source: https://www.extern.com/post/sophomore-internships-2027-guide
-
+    source: https://www.tealhq.com/job/women-in-banking-sophomore-internship_7ea1a3796edcd75e842d8d4176c32fc5f1348
   - id: rbc-cm-insights
     firm: RBC (incl. RBC Wealth Mgmt & City National)
     program: Capital Markets Insights Program
@@ -552,6 +551,7 @@ programs:
     deadline: 2026-10-03
     deadline_est: true
     deadline_note: Last cycle's deadline was Oct 3. No 2027 posting found as of Oct 15, so check now.
+    notes: "No 2027 cohort posting found as of Oct 18."
     status: watch
     link: https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers
     source: https://talents.vaia.com/companies/the-blackstone-group-l-p/2026-blackstone-real-estate-leaders-brel-program-34904945/
@@ -642,16 +642,16 @@ programs:
 
   - id: gwi
     firm: Girls Who Invest
-    program: GWI Intensive (Summer & Online)
+    program: GWI Scholars Program (Summer & Online Intensive)
     type: fellowship
     field: asset_mgmt
-    eligibility: First-years and sophomores (open to all genders). Only sophomores can opt into the internship track.
-    when: 2027
-    status: watch
-    deadline_note: 2027 applications opened late summer 2026. Last cycle's deadline was Oct 1, so check now.
-    link: https://www.girlswhoinvest.org/apply-faq
-    source: https://www.girlswhoinvest.org/apply-faq
-
+    eligibility: First-years and sophomores graduating fall 2028 – spring 2030 (open to all genders). Only sophomores can opt into the internship track.
+    when: Curriculum through March 2027, then Summer or Online Intensive from April
+    deadline: 2026-10-15
+    deadline_note: Priority deadline was Sep 15 and the final deadline Oct 15; decisions by early December.
+    status: closed
+    link: https://www.girlswhoinvest.org/apply-faqs
+    source: https://www.girlswhoinvest.org/apply-faqs
   - id: keybank-wm-2029
     firm: KeyBank
     program: Summer 2027 Wealth Management & Key Investment Services Internships
@@ -734,3 +734,104 @@ programs:
     status: upcoming
     link: https://www.cbre.com/careers/students-and-graduates
     source: https://www.extern.com/post/cbre-internship-guide
+
+  # ===================================================== added 2026-10-18
+  - id: hl-ib-insight
+    firm: Houlihan Lokey
+    program: Investment Banking Insight Day
+    type: insight
+    field: banking
+    eligibility: Sophomores.
+    deadline: 2026-10-19
+    status: open
+    link: https://hl.com/careers/
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  - id: moelis-ldp
+    firm: Moelis
+    program: Leadership Development Program
+    type: sophomore
+    field: banking
+    eligibility: Sophomores.
+    deadline: 2026-10-22
+    status: open
+    link: https://www.moelis.com/about/careers
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  - id: pwp-advisory-prep
+    firm: Perella Weinberg
+    program: U.S. Advisory Prep Program
+    type: sophomore
+    field: banking
+    eligibility: Sophomores.
+    deadline: 2026-10-25
+    status: open
+    link: https://pwpartners.com/careers/intern-graduate-recruitment/
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  - id: lincoln-job-shadow
+    firm: Lincoln International
+    program: Sophomore Job Shadow Program
+    type: sophomore
+    field: banking
+    eligibility: Sophomores.
+    deadline: 2026-10-30
+    status: open
+    link: https://www.lincolninternational.com/careers/
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  - id: blackrock-2028
+    firm: BlackRock
+    program: 2028 Summer Internship Program (Americas)
+    type: summer_2028
+    field: asset_mgmt
+    eligibility: Class of 2029.
+    when: Summer 2028
+    opens: 2027-01-04
+    opens_est: true
+    opens_note: Expected January 2027; the Summer 2027 posting was still live in October 2026.
+    status: upcoming
+    link: https://careers.blackrock.com/early-careers/
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  - id: fidelity-2028
+    firm: Fidelity Investments
+    program: 2028 Summer Internships (Equity Research, FIDTERN)
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029.
+    when: Summer 2028
+    opens: 2027-01-04
+    opens_est: true
+    opens_note: Equity Research expected January 2027; the main FIDTERN internship around September 2027 (the 2027 version closed Oct 17, 2026).
+    status: upcoming
+    link: https://jobs.fidelity.com/en/students/
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  - id: vanguard-2028
+    firm: Vanguard
+    program: 2028 Summer Internships (Investment Management, College to Corporate)
+    type: summer_2028
+    field: asset_mgmt
+    eligibility: Class of 2029.
+    when: Summer 2028
+    opens: 2027-05-03
+    opens_est: true
+    opens_note: Investment Management expected May – June 2027; other programs late August 2027 (the 2027 versions closed Oct 19, 2026).
+    status: upcoming
+    link: https://www.vanguardjobs.com/students/
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  - id: pimco-2028
+    firm: PIMCO
+    program: 2028 Summer Internships (incl. Global Wealth Management)
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029.
+    when: Summer 2028
+    opens: 2027-08-02
+    opens_est: true
+    opens_note: Expected August 2027. The 2027 cycle has six Global Wealth Management analyst internships open now.
+    status: upcoming
+    link: https://www.pimco.com/us/en/about-us/careers/students
+    source: https://www.extern.com/post/finance-internships-summer-2028-guide

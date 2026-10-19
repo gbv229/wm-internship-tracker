@@ -172,6 +172,7 @@ a { color: var(--ink); text-underline-offset: 2px; }
 }
 .tabs button:hover { color: var(--ink); }
 .tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+.tab-n:empty { display: none; }
 .tab-n { font-weight: 500; color: var(--muted); background: var(--tint); border-radius: 999px; padding: 1px 8px; margin-left: 4px; font-size: 12.5px; }
 
 /* ---------------------------------------------------- who + filters */
@@ -228,7 +229,8 @@ tr.row.closed td { color: var(--muted); }
   display: inline-grid; place-items: center; font-weight: 750; font-size: 12px; color: #fff; letter-spacing: .01em;
   background: var(--logo-bg, #567);
 }
-.logo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; background: #fff; padding: 3px; }
+.logo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; background: #fff; padding: 3px; opacity: 0; transition: opacity .2s; }
+.logo img.ok { opacity: 1; }
 .firm { font-weight: 650; color: var(--ink); display: block; }
 .ftype { display: block; font-size: 12.5px; color: var(--muted); font-weight: 400; }
 .role { max-width: 36ch; font-weight: 500; }
@@ -397,6 +399,25 @@ tr.detail[hidden] { display: none; }
   .detail-wrap { padding-left: 16px; }
   .apply-box { flex-direction: row; }
 }
+
+/* ------------------------------------------------------ office groups */
+.pick-office {
+  appearance: none; font: inherit; font-weight: 650; font-size: 14px; cursor: pointer; white-space: nowrap;
+  color: var(--ink); background: var(--surface); border: 1.5px solid var(--ink); border-radius: 999px; padding: 5px 13px;
+}
+.pick-office:hover { background: var(--ink); color: var(--page); }
+.offices { margin: 0 0 12px; }
+.offices h5 { margin: 0 0 6px; font-size: 13.5px; color: var(--ink); }
+.offices ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 6px; }
+.offices li {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-rows: auto auto; column-gap: 8px; align-items: center;
+  background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 6px 8px 6px 10px; min-width: 0;
+}
+.office-where { font-weight: 600; font-size: 13.5px; min-width: 0; overflow-wrap: anywhere; }
+.office-meta { font-size: 12px; color: var(--muted); grid-row: 2; }
+.offices li .office-apply, .offices li .status-closed { grid-row: 1 / span 2; grid-column: 2; }
+.office-apply { font-size: 13px; font-weight: 650; text-decoration: none; color: var(--page); background: var(--ink); border-radius: 999px; padding: 2px 10px; }
+.muted { color: var(--muted); font-weight: 400; }
 
 /* ============================================================= FIRMS */
 .panel-intro { max-width: 78ch; margin: 22px 0 14px; }

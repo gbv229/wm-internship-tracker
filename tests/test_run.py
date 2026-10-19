@@ -54,7 +54,7 @@ def read(tmp_path, name):
 
 def test_full_cycle(tmp_path, monkeypatch):
     setup(tmp_path, monkeypatch, make_jobs())
-    run.main([])
+    run.main(["--browser", "off"])
     posts = {p["id"]: p for p in read(tmp_path, "postings.json")["postings"]}
     assert set(posts) == {"wd:x:3", "wd:x:4"}     # SWE intern + experienced hire filtered out
     p = posts["wd:x:3"]
@@ -69,26 +69,26 @@ def test_full_cycle(tmp_path, monkeypatch):
 
     # posting disappears: needs two successful runs before it's closed
     setup(tmp_path, monkeypatch, make_jobs(include_wm=False), page=("def", ["Summer Intern | https://example.com/ria/1"]))
-    run.main([])
+    run.main(["--browser", "off"])
     posts = {p["id"]: p for p in read(tmp_path, "postings.json")["postings"]}
     assert posts["wd:x:3"]["status"] == "open" and posts["wd:x:3"]["misses"] == 1
     cos = {c["name"]: c for c in read(tmp_path, "companies.json")["companies"]}
     assert cos["Small RIA"]["sources"][0]["changed_on"]          # page hash changed
     assert cos["Small RIA"]["sources"][0]["links"] == ["Summer Intern | https://example.com/ria/1"]
-    run.main([])
+    run.main(["--browser", "off"])
     posts = {p["id"]: p for p in read(tmp_path, "postings.json")["postings"]}
     assert posts["wd:x:3"]["status"] == "closed"
 
 
 def test_failed_source_does_not_close(tmp_path, monkeypatch):
     setup(tmp_path, monkeypatch, make_jobs())
-    run.main([])
+    run.main(["--browser", "off"])
 
     def boom(s, cfg, today):
         raise RuntimeError("site down")
     monkeypatch.setitem(sources.FETCHERS, "workday", boom)
-    run.main([])
-    run.main([])
+    run.main(["--browser", "off"])
+    run.main(["--browser", "off"])
     posts = {p["id"]: p for p in read(tmp_path, "postings.json")["postings"]}
     assert posts["wd:x:3"]["status"] == "open"
     cos = {c["name"]: c for c in read(tmp_path, "companies.json")["companies"]}

@@ -153,3 +153,17 @@ def test_us_regions():
     assert r("Athens, Attica, Greece") == ["International"]
     assert r("CW Site - VNM - Ho Chi Minh - District 1") == ["International"]
     assert r("CW Site - USA - MA - Boston - 125 High Street") == ["Northeast"]
+
+
+def test_support_roles_and_stale():
+    tf = lambda t, f: parse.tracks_for(t, "", f, ["wealth", "real_estate"])
+    assert tf("Internship – Compliance (Year-Round)", "wealth") == []
+    assert tf("Application Development Internship", "wealth") == []
+    assert tf("Internship – Private Wealth Management (Akron, OH Summer 2027)", "wealth") == ["wealth"]
+    assert tf("EMEA Banking Summer Analyst", "mixed") == []
+    assert tf("EMEA Commercial Real Estate Summer Analyst", "mixed") == ["real_estate"]
+    assert tf("Accounting Co-Op", "real_estate") == []
+    assert not parse.is_internship("New Grad 2027 - Project Management and Business Analyst", "intern")
+    assert parse.is_internship("Full Time Branch Intern")
+    assert parse.is_stale_season("Summer 2025", date(2026, 10, 18))
+    assert not parse.is_stale_season("Fall 2026", date(2026, 10, 18))

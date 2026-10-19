@@ -29,16 +29,19 @@ GENERIC_TEXT = re.compile(r"(?i)^(apply( now)?|learn more|read more|view( job| d
 # "Learn more about our internship program", "Search Headquarters Internship positions": buttons that
 # lead to the real listings. Follow them instead of listing them.
 CTA = re.compile(r"(?i)^(explore|learn|search|see|view|read|discover|find|browse|apply|join|meet|click|visit|check out|"
-                 r"get to know|start|go to|watch|hear|more about|current|open|all)\b|opens? (in )?a new (window|tab)|"
+                 r"get|start|go to|watch|hear|more about|current|open|all|begin|take|launch your|kick-?start)\b|"
+                 r"opens? (in )?(a )?new (window|tab)|joining our|our internship program|"
                  r"\b(opportunities|openings|positions|jobs|roles)\s*$")
 
 
 def is_cta(text: str) -> bool:
-    return bool(CTA.search(text or ""))
+    t = (text or "").strip()
+    # a full sentence ("Get experience in the industry by joining our internship program.") is a blurb, not a role
+    return bool(CTA.search(t)) or (len(t.split()) >= 8 and t.endswith((".", "!")))
 
 
 def clean_title(text: str) -> str:
-    return re.sub(r"(?i)\s*\(?opens? (in )?a new (window|tab)\)?\s*$", "", text or "").strip(" -–|")
+    return re.sub(r"(?i)\s*\(?opens? (in )?(a )?new (window|tab)\)?\s*$", "", text or "").strip(" -–|")
 
 
 SKIP_HREF = re.compile(r"(?i)^(mailto:|tel:|javascript:)|\.(pdf|jpg|png|zip)(\?|$)|linkedin\.com|facebook\.com|"

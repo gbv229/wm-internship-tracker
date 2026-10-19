@@ -2,7 +2,9 @@ name: Update internships
 
 on:
   schedule:
-    - cron: "*/30 * * * *"      # every 30 minutes (GitHub may start runs a few minutes late)
+    # GitHub delays or skips scheduled runs when it's busy, especially at :00 and :30, so ask
+    # four times an hour at quiet minutes; runs never overlap (see concurrency below).
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:             # "Run workflow" button on the Actions tab
     inputs:
       browser:
@@ -12,7 +14,8 @@ on:
         options: [auto, "on", "off"]
   push:
     branches: [main]
-    paths: ["companies.yaml", "scraper/**", "site/**", ".github/workflows/**"]
+    paths: ["companies.yaml", "early_programs.yaml", "overrides.yaml", "firm_notes.yaml", "requirements.txt",
+            "scraper/**", "site/**", "tests/**", ".github/workflows/**"]
 
 permissions:
   contents: write
@@ -57,7 +60,7 @@ jobs:
         run: |
           git config user.name  "internship-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/postings.json data/companies.json data/seen.json
+          git add data/postings.json data/companies.json data/seen.json data/state.json
           if git diff --cached --quiet; then
             echo "No changes in postings."
           else

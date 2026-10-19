@@ -19,7 +19,8 @@ STATUSES = {"open", "upcoming", "closed", "watch", "invite"}
 EXTRA_DOMAINS = {
     "Evercore": "evercore.com", "Moelis": "moelis.com", "Jefferies": "jefferies.com", "Lazard": "lazard.com",
     "Houlihan Lokey": "hl.com", "Guggenheim": "guggenheimpartners.com", "William Blair": "williamblair.com",
-    "Bain Capital": "baincapital.com", "Girls Who Invest": "girlswhoinvest.org", "Citi": "citi.com",
+    "Bain Capital": "baincapital.com", "Perella Weinberg": "pwpartners.com",
+    "Lincoln International": "lincolninternational.com", "Girls Who Invest": "girlswhoinvest.org", "Citi": "citi.com",
 }
 TEXT_FIELDS = {"firm", "program", "eligibility", "when", "opens_note", "deadline_note", "notes", "link", "source"}
 SITE = "https://gbv229.github.io/wm-internship-tracker/"
@@ -171,7 +172,7 @@ def build(root: Path, data: Path, postings: list[dict], companies: list[dict], t
     curated_links = {p["link"] for p in curated}
     live = [p for p in live if p["link"] not in curated_links]
     programs = curated + live
-    (data / "early_programs.json").write_text(json.dumps({"programs": programs, "researched": "2026-10-15"},
+    (data / "early_programs.json").write_text(json.dumps({"programs": programs, "researched": "2026-10-18"},
                                                          indent=1, ensure_ascii=False) + "\n")
     write_ics(programs, data / "early-programs.ics", today)
     return programs

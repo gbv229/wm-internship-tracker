@@ -57,7 +57,7 @@
   function hue(name) { let h = 0; for (const c of name) h = (h * 31 + c.charCodeAt(0)) % 360; return h; }
   function logoHtml(name) {
     const d = DOMAINS[name];
-    const img = d ? `<img src="https://icons.duckduckgo.com/ip3/${esc(d)}.ico" alt="" loading="lazy" onerror="this.remove()">` : "";
+    const img = d ? `<img src="https://icons.duckduckgo.com/ip3/${esc(d)}.ico" alt="" loading="lazy" onload="if(this.naturalWidth>8)this.classList.add('ok');else this.remove()" onerror="this.remove()">` : "";
     return `<span class="logo" style="--logo-bg:hsl(${hue(name)} 38% 38%)" aria-hidden="true">${esc(initials(name))}${img}</span>`;
   }
   const inTrack = (p) => (p.tracks || ["wealth"]).includes(state.track);
@@ -81,6 +81,7 @@
     const get = (f) => fetch(`data/${f}?t=${Date.now()}`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
     const [p, c, r, e, fn] = await Promise.all([get("postings.json"), get("companies.json"), get("run.json"), get("early_programs.json"), get("firm_notes.json")]);
     EARLY.list = e?.programs || [];
+    EARLY.researched = e?.researched ? parseDay(e.researched) : null;
     FIRM_NOTES = fn || {};
     state.postings = (p?.postings || []).map(enrich);
     state.firms = c?.companies || [];
@@ -432,16 +433,22 @@
       if (b.dataset.sort === state.sort) b.setAttribute("aria-sort", state.dir === 1 ? "ascending" : "descending");
       else b.removeAttribute("aria-sort");
     });
-    const list = sorted(filtered());
+    const flat = sorted(filtered());
+    // one row per role: the same program posted for many offices is grouped
+    const gmap = new Map();
+    flat.forEach((p) => { const k = p.group || `${p.company}|${p.title}`; if (!gmap.has(k)) gmap.set(k, []); gmap.get(k).push(p); });
+    const list = [...gmap.values()];
+    GROUPS = new Map(list.map((g) => [g[0].id, g]));
     const activeTotal = state.postings.filter(inTrack).filter((p) => p._status === "open" || p._status === "soon").length;
     $("#n-postings").textContent = activeTotal;
     $("#result-count").innerHTML = `<b>${list.length}</b> ${list.length === 1 ? "role" : "roles"}` +
+      (flat.length > list.length ? ` <span class="muted">(${flat.length} postings across offices)</span>` : "") +
       (state.cls !== "any" ? ` for ${esc(CLASS_NAMES[+state.cls]?.toLowerCase() || "class of " + state.cls)}` : "") +
       (state.region && state.region !== "US" ? ` in ${esc(REGION_LABEL[state.region] || state.region)}` : "");
     renderStats();
     renderMap();
 
-    $("#rows").innerHTML = list.map(rowHtml).join("");
+    $("#rows").innerHTML = list.map((g) => rowHtml(g[0], g)).join("");
     refreshTracked();
     const nNew = state.postings.filter((p) => inTrack(p) && p._new && p.status === "open").length;
     $("#new-only-wrap").hidden = FIRST_VISIT || (!nNew && !state.newOnly);
@@ -538,7 +545,7 @@
       setTimeout(() => URL.revokeObjectURL(a.href), 1000);
       b.textContent = "Added – open the file";
     });
-    $("#early-note").innerHTML = `Campus ambassadors at J.P. Morgan and Goldman Sachs are picked from past interns, so there's no public application. They're listed so you know to ask during your internship. Programs researched Oct 15, 2026; rows marked <span class="pill live">Live posting</span> come straight from firm job boards and update every 30 minutes.`;
+    $("#early-note").innerHTML = `Campus ambassadors at J.P. Morgan and Goldman Sachs are picked from past interns, so there's no public application. They're listed so you know to ask during your internship. Programs last researched ${EARLY.researched ? fmtFull(EARLY.researched) : "recently"}; rows marked <span class="pill live">Live posting</span> come straight from firm job boards and update every 30 minutes.`;
     renderEarly();
   }
 
@@ -698,7 +705,9 @@
     update();
   }
 
-  function rowHtml(p) {
+  let GROUPS = new Map();
+  function rowHtml(p, members = [p]) {
+    const multi = members.length > 1;
     const cls = p.classes || [];
     const elig = cls.length
       ? `<td class="elig">${cls.map((y) => `<span class="pill${state.cls !== "any" && y === +state.cls ? " match" : ""}">${classLabel(y)}</span>`).join("")}</td>`
@@ -715,20 +724,23 @@
       dl = `<td class="dl none" title="No deadline stated. Most firms review on a rolling basis, so earlier is better."><span class="pill rolling">Rolling</span>${ageTxt ? `<small>${ageTxt}${age > 45 ? " – may fill soon" : ""}</small>` : ""}</td>`;
     }
     const posted = p._posted ? fmtDay(p._posted, p._posted.getFullYear() !== TODAY.getFullYear()) : "";
-    const meta = [fmtLoc(p.location), p.level === "Graduate/MBA" ? "MBA / graduate" : ""].filter(Boolean).join(" · ");
+    const regs = [...new Set(members.flatMap((m) => regionsOf(m)))].filter((r) => r !== "US");
+    const where = multi ? `${members.length} offices${regs.length ? " · " + regs.slice(0, 3).join(", ") + (regs.length > 3 ? "…" : "") : ""}` : fmtLoc(p.location);
+    const meta = [where, p.level === "Graduate/MBA" ? "MBA / graduate" : ""].filter(Boolean).join(" · ");
     const isOpen = state.open.has(p.id);
-    const apply = p._status === "closed"
+    const apply = p._status === "closed" && !multi
       ? `<span class="status-closed">Closed ${p.closed_on ? fmtDay(parseDay(p.closed_on)) : ""}</span>`
+      : multi ? `<button type="button" class="pick-office" aria-label="Choose an office for ${esc(p.company)}, ${esc(p.group_title || p.title)}">Pick office</button>`
       : `<a href="${esc(p.url)}" target="_blank" rel="noopener" aria-label="Apply: ${esc(p.company)}, ${esc(p.title)} (opens employer site)">Apply</a>`;
     return `<tr class="row ${p._status === "closed" ? "closed" : ""}" data-id="${esc(p.id)}" tabindex="0" aria-expanded="${isOpen}">
       <td class="c-company"><div class="firmcell">${logoHtml(p.company)}<div><span class="firm">${esc(p.company)}</span><span class="ftype">${esc(p.company_type)}</span></div></div></td>
-      <td class="role">${esc(p.title)}${p._new ? '<span class="new">New</span>' : ""}${p.verified ? `<span class="verified" title="Details confirmed by hand on ${esc(p.verified)}">Verified</span>` : ""}${meta ? `<span class="role-meta" title="${esc(p.location)}">${esc(meta)}</span>` : ""}</td>
+      <td class="role">${esc(multi ? p.group_title || p.title : p.title)}${p._new ? '<span class="new">New</span>' : ""}${p.verified ? `<span class="verified" title="Details confirmed by hand on ${esc(p.verified)}">Verified</span>` : ""}${meta ? `<span class="role-meta" title="${esc(p.location)}">${esc(meta)}</span>` : ""}</td>
       <td class="c-season">${p.season ? `<span class="pill">${esc(p.season)}</span>` + (p.season_inferred ? '<span class="est" title="Year estimated from posting date">est.</span>' : "") : '<span class="est">Season not stated</span>'}</td>
       ${elig}${dl}
       <td class="posted">${posted}</td>
       <td class="apply"><div class="apply-box" data-id="${esc(p.id)}" data-kind="posting">${apply}<button type="button" class="star" data-s="saved" aria-pressed="false">Save</button></div></td>
     </tr>
-    <tr class="detail" ${isOpen ? "" : "hidden"}><td colspan="7">${detailHtml(p)}</td></tr>`;
+    <tr class="detail" ${isOpen ? "" : "hidden"}><td colspan="7">${detailHtml(p, members)}</td></tr>`;
   }
 
   let FIRM_NOTES = {};
@@ -751,7 +763,17 @@
     return `https://github.com/${repo}/issues/new?${new URLSearchParams({ title: `Fix: ${p.company} – ${p.title}`.slice(0, 120), body, labels: "data fix" })}`;
   }
 
-  function detailHtml(p) {
+  function officesHtml(members) {
+    if (members.length < 2) return "";
+    const fmtDl = (m) => (m._dl ? `due ${fmtFull(m._dl)}` : "rolling");
+    return `<div class="offices"><h5>${members.length} offices – apply to the one you want</h5><ul>
+      ${members.map((m) => `<li><span class="office-where">${esc(m.location || m.title)}</span>
+        <span class="office-meta">${esc([fmtDl(m), (m.classes || []).length ? "Class of " + m.classes.join(", ") : ""].filter(Boolean).join(" · "))}</span>
+        ${m._status === "closed" ? '<span class="status-closed">Closed</span>' : `<a class="office-apply" href="${esc(m.url)}" target="_blank" rel="noopener">Apply</a>`}</li>`).join("")}
+    </ul></div>`;
+  }
+
+  function detailHtml(p, members = [p]) {
     const items = [
       ["Pay", p.pay], ["Minimum GPA", p.gpa], ["Length", p.weeks ? `${p.weeks} weeks` : null],
       ["Work setup", p.work_mode], ["Visa sponsorship", p.sponsorship], ["Area", p.function],
@@ -764,6 +786,7 @@
     if (p.deadline_evidence) ev.push(`<div class="evidence"><dt>Deadline, ${from(p.deadline_evidence)}</dt><dd><blockquote>${esc(p.deadline_evidence)}</blockquote></dd></div>`);
     return `<div class="detail-wrap">
       <div class="detail-track">${trackerControls(p.id, "posting")}</div>
+      ${officesHtml(members)}
       <dl class="detail-inner">${items.map(([k, v]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join("")}${ev.join("")}
         ${!items.length && !ev.length ? `<div><dd>No extra details were listed. Open the posting for the full description.</dd></div>` : ""}</dl>
       ${firmNoteHtml(p.company)}
@@ -773,8 +796,10 @@
 
   function renderClosing() {
     const soon = state.postings
-      .filter((p) => inTrack(p) && p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && isUS(p))
-      .sort((a, b) => a._dl - b._dl).slice(0, 5);
+      .filter((p) => inTrack(p) && p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && regionsOf(p).some((r) => US_REGIONS.includes(r)))
+      .sort((a, b) => a._dl - b._dl)
+      .filter((p, i, arr) => arr.findIndex((q) => (q.group || q.id) === (p.group || p.id)) === i)
+      .slice(0, 5);
     const ol = $("#closing-list");
     if (!soon.length) {
       ol.innerHTML = `<li class="closing-empty">No upcoming deadlines are listed yet. Most programs review applications on a rolling basis, so apply as soon as a role opens.</li>`;
@@ -798,7 +823,7 @@
     const mins = Math.max(0, Math.round((Date.now() - t) / 60000));
     const ago = mins < 1 ? "just now" : mins < 60 ? `${mins} min ago` : mins < 1440 ? `${Math.round(mins / 60)} hr ago` : `${Math.round(mins / 1440)} days ago`;
     el.classList.toggle("stale", mins > 120);
-    el.innerHTML = `<span class="dot" aria-hidden="true"></span>Updated ${ago}. Checks every 30 minutes. ${r.sources_ok} of ${r.sources_total} careers sites reached on the last check.`;
+    el.innerHTML = `<span class="dot" aria-hidden="true"></span>Updated ${ago}. Checks about every 30 minutes. ${r.sources_ok} of ${r.sources_total} careers sites reached on the last check.`;
   }
 
   // -------------------------------------------------------------- firms
