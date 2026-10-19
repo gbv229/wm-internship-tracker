@@ -22,6 +22,7 @@ EXTRA_DOMAINS = {
     "Bain Capital": "baincapital.com", "Perella Weinberg": "pwpartners.com",
     "Lincoln International": "lincolninternational.com", "Girls Who Invest": "girlswhoinvest.org", "Citi": "citi.com",
 }
+US_REGIONS = {"Northeast", "Mid-Atlantic", "Southeast", "Midwest", "Southwest", "West", "Remote", "US"}
 TEXT_FIELDS = {"firm", "program", "eligibility", "when", "opens_note", "deadline_note", "notes", "link", "source"}
 SITE = "https://gbv229.github.io/wm-internship-tracker/"
 
@@ -60,10 +61,16 @@ def live_programs(postings: list[dict], companies: list[dict]) -> list[dict]:
     """Open postings tagged 'early' by the scraper (sophomore / insight /
     externship / fellowship titles at any tracked firm)."""
     domains = {c["name"]: c.get("domain") for c in companies}
-    out = []
+    out, seen_urls = [], set()
     for p in postings:
         if p.get("status") != "open" or "early" not in (p.get("tracks") or []):
             continue
+        regs = p.get("regions") or []
+        if regs and not any(r in US_REGIONS for r in regs):
+            continue                      # programs abroad (e.g. London spring weeks) aren't useful here
+        if p["url"] in seen_urls or p["id"] in seen_urls:
+            continue
+        seen_urls.update((p["url"], p["id"]))
         title = p["title"]
         typ = ("insight" if re.search(r"(?i)insight|summit|discovery|explore|forum", title) else
                "fellowship" if re.search(r"(?i)fellow", title) else

@@ -103,6 +103,11 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         rejected[j.id] = "not relevant"
         return None
 
+    # at single-business firms the title alone can rule a role out: no need to read it
+    if focus != "mixed" and not parse.tracks_for(j.title, "", focus, tracks) and not parse.is_early(j.title):
+        rejected[j.id] = "not relevant"
+        return None
+
     fresh = old and old.get("v") == PARSER_VERSION and old.get("detail_at") and \
         (today - date.fromisoformat(old["detail_at"])).days < REFRESH_DAYS
     if old and fresh:
@@ -177,6 +182,31 @@ def handle_job(j, co, old, seen, today, budget, rejected):
         "detail_at": today.isoformat() if text else None,
         "v": PARSER_VERSION,
     }
+
+
+def drop_cross_firm_duplicates(postings: dict) -> int:
+    """Two tracked firms sometimes share one job board (PGIM and Prudential), so the same role
+    is listed twice under different ids. Keep one: the firm named in the title, else the first."""
+    from urllib.parse import urlparse
+    groups: dict[tuple, list[dict]] = {}
+    for p in postings.values():
+        if p.get("status") != "open":
+            continue
+        key = (urlparse(p["url"]).netloc, p["title"].strip().lower(), (p.get("location") or "").strip().lower())
+        groups.setdefault(key, []).append(p)
+    n = 0
+    for ps in groups.values():
+        if len({p["company"] for p in ps}) < 2:
+            continue
+        def score(p):
+            first = re.split(r"[\s(/]", p["company"])[0].lower()
+            return (first in p["title"].lower(), -len(p["company"]))
+        keep = max(ps, key=score)
+        for p in ps:
+            if p is not keep and p["company"] != keep["company"]:
+                postings.pop(p["id"], None)
+                n += 1
+    return n
 
 
 def apply_overrides(postings: dict, path: Path) -> int:
@@ -310,6 +340,8 @@ def main(argv=None):
                 continue                  # same posting reached through two firms' feeds: keep one
             out[pid] = p
         for p in prev.values():
+            if p["id"] in out and out[p["id"]]["company"] != p["company"]:
+                continue                  # same posting already kept under another firm
             if p.get("source") == "browser" and browser.is_cta(browser.clean_title(p["title"])):
                 continue                  # a "Learn more"-style button, not a role: drop it
             if p["company"] != name or p["id"] in found or p["id"] in rejected:
@@ -370,6 +402,7 @@ def main(argv=None):
         rec["last_ok"] = today.isoformat() if any(x["ok"] for x in srcs) else old.get("last_ok")
         status_out.append(rec)
 
+    drop_cross_firm_duplicates(out)
     n_fixed = apply_overrides(out, ROOT / "overrides.yaml")
     if n_fixed:
         print(f"Applied hand corrections to {n_fixed} postings")
