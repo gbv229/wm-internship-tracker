@@ -1174,7 +1174,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "CO-Denver",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
@@ -3681,36 +3681,77 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-16",
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
    "function": "Wealth Management",
    "gpa": null,
    "group": "Charles Schwab|2027 financial service support intern",
    "group_title": "2027 Financial Service & Support Intern",
-   "id": "ic:career-schwab:126232",
+   "id": "ic:career-schwab:126235",
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
-   "location": "US-TX-Austin",
-   "misses": 1,
-   "pay": "$24/hr",
-   "posted": "2026-10-16",
-   "region": "",
+   "location": "US-IN-Indianapolis",
+   "misses": 0,
+   "pay": "$22/hr",
+   "posted": "2026-10-19",
+   "region": "International",
    "regions": [
-    "Southwest"
+    "Midwest"
    ],
    "season": null,
    "season_inferred": false,
    "source": "icims",
    "sponsorship": null,
    "states": [
-    "TX"
+    "IN"
    ],
    "status": "open",
-   "title": "2027 Financial Service & Support Intern - Austin",
+   "title": "2027 Financial Service & Support Intern - Indianapolis",
    "tracks": [
     "wealth"
    ],
-   "url": "https://career-schwab.icims.com/jobs/126232/2027-financial-service-%26-support-intern---austin/job",
+   "url": "https://career-schwab.icims.com/jobs/126235/2027-financial-service-%26-support-intern---indianapolis/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|2027 financial service support intern",
+   "group_title": "2027 Financial Service & Support Intern",
+   "id": "ic:career-schwab:126236",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "US-NE-Omaha",
+   "misses": 0,
+   "pay": "$22/hr",
+   "posted": "2026-10-19",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NE"
+   ],
+   "status": "open",
+   "title": "2027 Financial Service & Support Intern - Omaha",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126236/2027-financial-service-%26-support-intern---omaha/job",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -5026,7 +5067,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "CW Site - VNM - Ha Noi - 4th Floor, Building A – Tien Bo Plaza",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-09",
    "region": "",
@@ -5477,49 +5518,6 @@
    "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/?codes=DIRECT&utm_source=DIRECT",
    "v": 9,
    "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Expected graduation date of December 2027 – May 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "Freddie Mac (Multifamily)",
-   "company_type": "CRE Finance & Lending",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Freddie Mac (Multifamily)|multifamily business intern",
-   "group_title": "Multifamily Business Intern",
-   "id": "wd:freddiemac:JR17561",
-   "last_seen": "2026-10-19",
-   "level": "Undergraduate",
-   "location": "McLean, VA",
-   "misses": 1,
-   "pay": "$26–$39/hr (≈ $54k–$82k/yr)",
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "VA"
-   ],
-   "status": "open",
-   "title": "Multifamily Business Intern - Summer 2027",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Intern---Summer-2027_JR17561",
-   "v": 9,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -5984,54 +5982,6 @@
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4499430",
    "v": 9,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Interns participate in a structured series of development opportunities, including interactions with senior leadership and career pathing insights.",
-   "classes": [
-    2027,
-    2028,
-    2029
-   ],
-   "company": "Huntington (Private Bank)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Huntington (Private Bank)|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
-   "id": "wd:huntington:R0075378",
-   "last_seen": "2026-10-19",
-   "level": "Undergraduate",
-   "location": "Columbus, OH; Grand Rapids, MI; Cincinnati, OH; Detroit, MI; Charlotte, NC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-18",
-   "region": "US",
-   "regions": [
-    "Southeast",
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "MI",
-    "NC",
-    "OH"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Wealth-Management-Internship_R0075378",
-   "v": 9,
-   "weeks": 8,
    "work_mode": null
   },
   {
@@ -7086,47 +7036,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Capital-Markets-Analyst-Summer-2027-Internship---Salt-Lake-City--UT_REQ530571",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets intern",
-   "group_title": "Capital Markets Intern",
-   "id": "wd:jll:REQ539913",
-   "last_seen": "2026-10-19",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-19",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Capital Markets Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Capital-Markets-Intern_REQ539913",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -9242,6 +9151,47 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR045797",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Winter Park, Florida, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-18",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
@@ -9272,6 +9222,47 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR045780",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Rapid City, South Dakota, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "SD"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Rapid-City-South-Dakota-United-States-of-America/Intern_JR045780",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -9315,6 +9306,47 @@
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320",
    "v": 9,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|intern",
+   "group_title": "Intern",
+   "id": "or:hdow:250258",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Phoenix, AZ, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250258",
+   "v": 9,
+   "weeks": 16,
    "work_mode": null
   },
   {
@@ -10057,6 +10089,45 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALTON-HILLS-Ontario-Canada/Financial-Advisor-Intern_R-0000190234",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "id": "wd:rbc:R-0000190503",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "WELLAND, Ontario, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WELLAND-Ontario-Canada/Financial-Advisor-Intern_R-0000190503",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -11977,6 +12048,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-19",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-16",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|2027 financial service support intern",
+   "group_title": "2027 Financial Service & Support Intern",
+   "id": "ic:career-schwab:126232",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "US-TX-Austin",
+   "misses": 2,
+   "pay": "$24/hr",
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 Financial Service & Support Intern - Austin",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126232/2027-financial-service-%26-support-intern---austin/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-16",
    "company": "Charles Schwab",
    "company_type": "Brokerage & Platform",
@@ -12058,48 +12171,6 @@
    "url": "https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---westlake-only/job",
    "v": 8,
    "weeks": 9,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-16",
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Risk / Compliance",
-   "gpa": null,
-   "group": "Charles Schwab|2027 sox compliance intern",
-   "group_title": "2027 SOX Compliance Intern",
-   "id": "ic:career-schwab:126253",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "US-CO-Lone Tree",
-   "misses": 2,
-   "pay": "$34/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "closed",
-   "title": "2027 SOX Compliance Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126253/2027-sox-compliance-intern/job",
-   "v": 8,
-   "weeks": 3,
    "work_mode": "On-site"
   },
   {
@@ -12485,6 +12556,50 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Expected graduation date of December 2027 – May 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-19",
+   "company": "Freddie Mac (Multifamily)",
+   "company_type": "CRE Finance & Lending",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Freddie Mac (Multifamily)|multifamily business intern",
+   "group_title": "Multifamily Business Intern",
+   "id": "wd:freddiemac:JR17561",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "McLean, VA",
+   "misses": 2,
+   "pay": "$26–$39/hr (≈ $54k–$82k/yr)",
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "VA"
+   ],
+   "status": "closed",
+   "title": "Multifamily Business Intern - Summer 2027",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Intern---Summer-2027_JR17561",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Graduation date between December 2027 – May 2028",
    "classes": [
     2028
@@ -12571,6 +12686,55 @@
    "work_mode": null
   },
   {
+   "class_evidence": "Interns participate in a structured series of development opportunities, including interactions with senior leadership and career pathing insights.",
+   "classes": [
+    2027,
+    2028,
+    2029
+   ],
+   "closed_on": "2026-10-19",
+   "company": "Huntington (Private Bank)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Huntington (Private Bank)|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "id": "wd:huntington:R0075378",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Columbus, OH; Grand Rapids, MI; Cincinnati, OH; Detroit, MI; Charlotte, NC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-18",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MI",
+    "NC",
+    "OH"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Wealth-Management-Internship_R0075378",
+   "v": 9,
+   "weeks": 8,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-14",
@@ -12649,6 +12813,48 @@
    "v": 6,
    "weeks": 12,
    "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets intern",
+   "group_title": "Capital Markets Intern",
+   "id": "wd:jll:REQ539913",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Capital-Markets-Intern_REQ539913",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
