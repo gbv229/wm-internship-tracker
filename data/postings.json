@@ -2636,45 +2636,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": null,
-   "group": "CIBC Private Wealth|investment strategy analyst wealth solutions winter co op 2027",
-   "group_title": "Investment Strategy Analyst, Wealth Solutions Winter Co-op 2027",
-   "id": "wd:cibc:2620494",
-   "last_seen": "2026-10-18",
-   "level": "Undergraduate",
-   "location": "Toronto, ON",
-   "misses": 1,
-   "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
-   "posted": "2026-10-14",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Investment Strategy Analyst, Wealth Solutions Winter Co-op 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Investment-Strategy-Analyst--Wealth-Solutions-Winter-Co-op-2027_2620494",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Hybrid"
-  },
-  {
    "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2026 and June 2027",
    "classes": [
     2027
@@ -3730,7 +3691,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "US-TX-Austin",
-   "misses": 0,
+   "misses": 1,
    "pay": "$24/hr",
    "posted": "2026-10-16",
    "region": "",
@@ -3752,6 +3713,49 @@
    "url": "https://career-schwab.icims.com/jobs/126232/2027-financial-service-%26-support-intern---austin/job",
    "v": 9,
    "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently pursuing a bachelor's degree and expected to graduate after August 2027.",
+   "classes": [
+    2027
+   ],
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|wealth management internship",
+   "group_title": "Wealth Management Internship",
+   "id": "ic:career-schwab:128554",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": "$25–$28/hr",
+   "posted": "2026-10-19",
+   "region": "",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NV"
+   ],
+   "status": "open",
+   "title": "Wealth Management Internship - Las Vegas CFP Event Attendees",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/128554/wealth-management-internship---las-vegas-cfp-event-attendees/job",
+   "v": 9,
+   "weeks": 9,
    "work_mode": "On-site"
   },
   {
@@ -4661,6 +4665,45 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic intern commercial real estate sgp summer program 2027",
+   "group_title": "EIC Intern - Commercial Real Estate, SGP Summer Program 2027",
+   "id": "wd:cw:R337694",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "CW Site - SGP - Singapore - 88 Market Street #47-01",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern - Commercial Real Estate, SGP Summer Program 2027",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/EIC-Intern---Commercial-Real-Estate--SGP-Summer-Program-2027_R337694",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-18",
    "first_seen": "2026-10-08",
    "function": "Development / Construction",
@@ -5455,7 +5498,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "McLean, VA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$26–$39/hr (≈ $54k–$82k/yr)",
    "posted": "2026-10-16",
    "region": "US",
@@ -5964,7 +6007,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "Columbus, OH; Grand Rapids, MI; Cincinnati, OH; Detroit, MI; Charlotte, NC",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
@@ -7064,7 +7107,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "New York, NY",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-19",
    "region": "US",
@@ -8703,6 +8746,50 @@
    "work_mode": "Hybrid"
   },
   {
+   "class_evidence": "Our Spring Insight programme will be held in the Spring of 2027 and is open to students who are either currently in their first year of a three-year degree or second year of a four-year degree, graduating in 2029.",
+   "classes": [
+    2027,
+    2028,
+    2029
+   ],
+   "company": "Lazard (Lazard Wealth Management)",
+   "company_type": "Investment Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Lazard (Lazard Wealth Management)|2027 london financial advisory spring insight programme",
+   "group_title": "2027 London Financial Advisory Spring Insight Programme",
+   "id": "or:icbpjb:6743",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "London, United Kingdom",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Spring 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "2027 London Financial Advisory Spring Insight Programme",
+   "tracks": [
+    "wealth",
+    "early"
+   ],
+   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6743",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "company": "Lazard (Lazard Wealth Management)",
@@ -10020,6 +10107,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Graduating December 2027 or Spring 2028",
+   "classes": [
+    2028
+   ],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|summer 2027 us wealth management internship",
+   "group_title": "Summer 2027 US Wealth Management Internship",
+   "id": "wd:rbc:R-0000187999-1",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 0,
+   "pay": "$20–$30/hr",
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "open",
+   "title": "Summer 2027 US Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Real Estate, Development, Urban Planning, Finance, or related field with an expected graduation date of December 2027 through June 2028",
    "classes": [
     2028
@@ -11262,6 +11392,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": "· Pursuing a bachelor’s degree with a target graduation date of May 2029",
+   "classes": [
+    2029
+   ],
+   "company": "U.S. Bank (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": "2026-10-30",
+   "deadline_evidence": "Applications will be closed on October 30.",
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "U.S. Bank (Private Wealth)|2027 discover us finance banking fellowship",
+   "group_title": "2027 Discover Us: Finance & Banking Fellowship",
+   "id": "wd:usbank:2026-0032523",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Minneapolis, MN",
+   "misses": 0,
+   "pay": "$21–$28/hr",
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "open",
+   "title": "2027 Discover Us: Finance & Banking Fellowship",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Discover-Us--Finance---Banking-Fellowship_2026-0032523",
+   "v": 9,
+   "weeks": 4,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "company": "UBS",
@@ -11640,6 +11813,46 @@
    "v": 4,
    "weeks": 8,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-19",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": null,
+   "group": "CIBC Private Wealth|investment strategy analyst wealth solutions winter co op 2027",
+   "group_title": "Investment Strategy Analyst, Wealth Solutions Winter Co-op 2027",
+   "id": "wd:cibc:2620494",
+   "last_seen": "2026-10-18",
+   "level": "Undergraduate",
+   "location": "Toronto, ON",
+   "misses": 2,
+   "pay": "$25–$29/hr (≈ $52k–$60k/yr)",
+   "posted": "2026-10-14",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Investment Strategy Analyst, Wealth Solutions Winter Co-op 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Investment-Strategy-Analyst--Wealth-Solutions-Winter-Co-op-2027_2620494",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
@@ -15074,50 +15287,6 @@
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000186438",
    "v": 6,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Graduating December 2027 or Spring 2028",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-18",
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|summer 2027 us wealth management internship",
-   "group_title": "Summer 2027 US Wealth Management Internship",
-   "id": "wd:rbc:R-0000187999-1",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "misses": 2,
-   "pay": "$20–$30/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 US Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-   "v": 8,
-   "weeks": 10,
    "work_mode": null
   },
   {
