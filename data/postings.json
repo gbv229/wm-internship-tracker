@@ -2399,48 +2399,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "• Anticipated graduation date: 2028 or 2029",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "Blackstone",
-   "company_type": "Asset Manager",
-   "deadline": "2026-10-20",
-   "deadline_evidence": "Applications will close on 16 October 2026.",
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-15",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Blackstone|2027 emea future leaders spring insight programme",
-   "group_title": "2027 EMEA Future Leaders Spring Insight Programme",
-   "id": "wd:blackstone:45529",
-   "last_seen": "2026-10-19",
-   "level": "Undergraduate",
-   "location": "London",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-15",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Spring 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 EMEA Future Leaders Spring Insight Programme",
-   "tracks": [
-    "early"
-   ],
-   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-EMEA-Future-Leaders-Spring-Insight-Programme_45529",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Blackstone",
@@ -4265,6 +4223,53 @@
    "url": "https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/",
    "v": 9,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
+   "classes": [
+    2027,
+    2028
+   ],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic 2027 dc tysons summer intern",
+   "group_title": "EIC 2027 DC/Tysons Summer Intern",
+   "id": "wd:cw:R340995",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Washington, District of Columbia, USA; CW Site - USA - VA - Tysons Corner - 1775 Tysons Boulevard, #1250",
+   "misses": 0,
+   "pay": "$20–$23/hr",
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic",
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "DC",
+    "VA",
+    "WA"
+   ],
+   "status": "open",
+   "title": "EIC 2027 DC/Tysons Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/EIC-2027-DC-Tysons-Summer-Intern_R340995",
+   "v": 9,
+   "weeks": 8,
    "work_mode": null
   },
   {
@@ -6882,49 +6887,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Capital-Markets-Analyst-Summer-2027-Internship---Salt-Lake-City--UT_REQ530571",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "id": "wd:jll:REQ530570",
-   "last_seen": "2026-10-19",
-   "level": "Undergraduate",
-   "location": "Los Angeles, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Century City, LA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Capital-Markets-Summer-2027-Internship---Century-City--LA_REQ530570",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -11515,6 +11477,47 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "USAA",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "USAA|hoh military fellowship sourcing and procurement manager mid level",
+   "group_title": "HOH Military Fellowship-Sourcing and Procurement Manager- Mid-level",
+   "id": "wd:usaa:R0121771",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "San Antonio Home Office I",
+   "misses": 0,
+   "pay": "$34–$64/hr (≈ $70k–$134k/yr)",
+   "posted": "2026-10-20",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "HOH Military Fellowship-Sourcing and Procurement Manager- Mid-level",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/HOH-Military-Fellowship-Sourcing-and-Procurement-Manager--Mid-level_R0121771",
+   "v": 9,
+   "weeks": 12,
+   "work_mode": "Hybrid"
+  },
+  {
    "class_evidence": "- Penultimate year undergraduate with an expected graduation date of June 2028",
    "classes": [
     2028
@@ -11899,6 +11902,49 @@
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Real-Estate-Summer-Analyst--Tokyo_40628",
    "v": 4,
    "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "• Anticipated graduation date: 2028 or 2029",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-10-20",
+   "company": "Blackstone",
+   "company_type": "Asset Manager",
+   "deadline": "2026-10-20",
+   "deadline_evidence": "Applications will close on 16 October 2026.",
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-15",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Blackstone|2027 emea future leaders spring insight programme",
+   "group_title": "2027 EMEA Future Leaders Spring Insight Programme",
+   "id": "wd:blackstone:45529",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "London",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Spring 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 EMEA Future Leaders Spring Insight Programme",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-EMEA-Future-Leaders-Spring-Insight-Programme_45529",
+   "v": 9,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -13115,6 +13161,50 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Capital-Markets-Summer-2027-Internship---Austin--TX_REQ530579",
    "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-20",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "id": "wd:jll:REQ530570",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Los Angeles, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Century City, LA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Capital-Markets-Summer-2027-Internship---Century-City--LA_REQ530570",
+   "v": 9,
    "weeks": null,
    "work_mode": "On-site"
   },
