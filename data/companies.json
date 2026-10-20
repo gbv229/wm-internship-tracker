@@ -86,10 +86,9 @@
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
      "changed_on": null,
@@ -379,7 +378,7 @@
     {
      "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "8166aaec9d09e167",
+     "hash": "8ec9004bac633aae",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -746,7 +745,7 @@
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-19",
    "name": "Brown Advisory",
-   "open": 4,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -957,7 +956,7 @@
    "hq": "Cleveland, OH",
    "last_ok": "2026-10-19",
    "name": "KeyBank",
-   "open": 3,
+   "open": 4,
    "sources": [
     {
      "fail_streak": 0,
@@ -1777,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1837,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1867,7 +1866,7 @@
     {
      "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "14aa42db3c2742e3",
+     "hash": "bce9dccf0756ebf7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1928,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1958,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1987,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3179,7 +3178,7 @@
     {
      "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "e3aacd07f729ddfe",
+     "hash": "dd6487fe1a8731d4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3288,7 +3287,7 @@
     {
      "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "585c6abf7dc8b0d2",
+     "hash": "9ac952f30989932c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3319,7 +3318,7 @@
     {
      "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "6d72b30e47d599b5",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3611,7 +3610,7 @@
     {
      "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "d271bbeb95fb5d04",
+     "hash": "e223adf8dc8a34b4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3802,9 +3801,9 @@
    "open": 1,
    "sources": [
     {
-     "changed_on": "2026-10-15",
+     "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "9e1481aaeadc7b9f",
+     "hash": "06749d31f74ddbfe",
      "kind": "page",
      "links": [
       "Investor Relations & Investor Coverage Summer Analyst\n Crow Holdings Capital\n dallas , | https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/"
@@ -3857,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3886,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4157,7 +4156,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4482,7 +4481,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4511,7 +4510,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 27,
+     "fail_streak": 28,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5321,7 +5320,7 @@
     {
      "changed_on": "2026-10-19",
      "fail_streak": 0,
-     "hash": "31bd6521664958cf",
+     "hash": "a64509727fb8710b",
      "kind": "page",
      "links": [],
      "ok": true,
