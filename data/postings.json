@@ -1164,20 +1164,20 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
    "function": "Wealth Management",
    "gpa": null,
    "group": "Baird|internship private wealth management",
    "group_title": "Internship – Private Wealth Management",
-   "id": "wd:baird:R2026984-1",
+   "id": "wd:baird:R20261183-1",
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
-   "location": "CO-Denver",
-   "misses": 1,
+   "location": "CO-Durango",
+   "misses": 0,
    "pay": null,
-   "posted": "2026-09-18",
-   "region": "US",
+   "posted": "2026-10-19",
+   "region": "",
    "regions": [
     "West"
    ],
@@ -1189,11 +1189,11 @@
     "CO"
    ],
    "status": "open",
-   "title": "Internship – Private Wealth Management (Denver, CO Summer 2027)",
+   "title": "Internship – Private Wealth Management (Durango, CO Summer 2027)",
    "tracks": [
     "wealth"
    ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1",
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CO-Durango/Internship---Private-Wealth-Management--Durango--CO-Summer-2027-_R20261183-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -2496,7 +2496,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2535,7 +2535,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2572,7 +2572,7 @@
    "last_seen": "2026-10-19",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -5046,45 +5046,6 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/EIC-Intern---Sustainability--SGP_R337699",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-18",
-   "function": "Valuation / Research",
-   "gpa": null,
-   "group": "Cushman & Wakefield|eic intern real estate valuation services ha noi",
-   "group_title": "EIC Intern – Real Estate Valuation Services, Ha Noi",
-   "id": "wd:cw:R338349",
-   "last_seen": "2026-10-19",
-   "level": "Undergraduate",
-   "location": "CW Site - VNM - Ha Noi - 4th Floor, Building A – Tien Bo Plaza",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "EIC Intern – Real Estate Valuation Services, Ha Noi",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ha-Noi---4th-Floor-Building-A--Tien-Bo-Plaza/EIC-Intern---Real-Estate-Valuation-Services--Ha-Noi_R338349",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -7643,6 +7604,50 @@
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|center of excellence summer 2027 internship",
+   "group_title": "Center of Excellence Summer 2027 Internship",
+   "id": "wd:jll:REQ541722",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "Plymouth, MN; Latham, NY; Cambridge, MA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MA",
+    "MN",
+    "NY"
+   ],
+   "status": "open",
+   "title": "Center of Excellence Summer 2027 Internship",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Plymouth-MN/Center-of-Excellence-Summer-2027-Internship_REQ541722",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Remote"
   },
   {
    "class_evidence": null,
@@ -11457,7 +11462,7 @@
    "tracks": [
     "real_estate"
    ],
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -11716,6 +11721,50 @@
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/NC-Charlotte/Internship---Private-Wealth-Management--Charlotte--NC-Summer-2027-_R2026978-2",
    "v": 5,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-19",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "id": "wd:baird:R2026984-1",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "CO-Denver",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-18",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Denver, CO Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1",
+   "v": 9,
    "weeks": null,
    "work_mode": null
   },
@@ -12467,6 +12516,46 @@
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ho-Chi-Minh---District-1-9-11-Ton-Duc-Thang-Street-Sai-Gon-Ward/EIC-Intern---Retail-Leasing--HCMC_R332443",
    "v": 5,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-19",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "function": "Valuation / Research",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic intern real estate valuation services ha noi",
+   "group_title": "EIC Intern – Real Estate Valuation Services, Ha Noi",
+   "id": "wd:cw:R338349",
+   "last_seen": "2026-10-19",
+   "level": "Undergraduate",
+   "location": "CW Site - VNM - Ha Noi - 4th Floor, Building A – Tien Bo Plaza",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "EIC Intern – Real Estate Valuation Services, Ha Noi",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ha-Noi---4th-Floor-Building-A--Tien-Bo-Plaza/EIC-Intern---Real-Estate-Valuation-Services--Ha-Noi_R338349",
+   "v": 9,
    "weeks": null,
    "work_mode": null
   },
