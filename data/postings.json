@@ -4182,6 +4182,47 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|intern",
+   "group_title": "Intern",
+   "id": "wd:colliers:JR18702",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Los Angeles, California, United States of America",
+   "misses": 0,
+   "pay": "$18/hr",
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Intern (Hourly)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Los-Angeles-California-United-States-of-America/Intern--Hourly-_JR18702",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "Crow Holdings Capital Real Estate offers rising juniors and seniors the opportunity to participate in a comprehensive Summer Internship Program across multiple investment functions, including Investor Relations and Investor Coverage.",
    "classes": [
     2027,
@@ -6906,6 +6947,49 @@
    "gpa": null,
    "group": "JLL|capital markets summer 2027 internship",
    "group_title": "Capital Markets Summer 2027 Internship",
+   "id": "wd:jll:REQ530570",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Los Angeles, CA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Capital Markets Summer 2027 Internship - Century City, LA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Capital-Markets-Summer-2027-Internship---Century-City--LA_REQ530570",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
    "id": "wd:jll:REQ530231",
    "last_seen": "2026-10-20",
    "level": "Undergraduate",
@@ -7865,6 +7949,47 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Property-Management-Summer-2027-Internship---New-York--NY_REQ540467",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|property management summer 2027 internship",
+   "group_title": "Property Management Summer 2027 Internship",
+   "id": "wd:jll:REQ540388",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Orlando, FL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Property Management Summer 2027 Internship - Orlando, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Orlando-FL/Property-Management-Summer-2027-Internship---Orlando--FL_REQ540388",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -9847,7 +9972,7 @@
    "last_seen": "2026-10-20",
    "level": "Undergraduate",
    "location": "Rolling Hills Estates, California, United States of America",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20/hr",
    "posted": "2026-10-09",
    "region": "US",
@@ -10023,6 +10148,45 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WELLAND-Ontario-Canada/Financial-Advisor-Intern_R-0000190503",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial planner relationship intern",
+   "group_title": "Financial Planner Relationship Intern",
+   "id": "wd:rbc:R-0000190805-1",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "GATINEAU, Quebec, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Planner Relationship Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GATINEAU-Quebec-Canada/Financial-Planner-Relationship-Intern_R-0000190805-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -10589,7 +10753,7 @@
    "last_seen": "2026-10-20",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -10708,7 +10872,7 @@
    "last_seen": "2026-10-20",
    "level": "Undergraduate",
    "location": "London, United Kingdom",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -10840,6 +11004,48 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": "Current enrollment in an undergraduate degree program with an anticipated graduation date no later than May 2029",
+   "classes": [
+    2029
+   ],
+   "company": "Rothschild & Co (Wealth Mgmt)",
+   "company_type": "Investment Bank",
+   "deadline": "2027-05-20",
+   "deadline_evidence": "Current enrollment in an undergraduate degree program with an anticipated graduation date no later than May 2029",
+   "detail_at": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Rothschild & Co (Wealth Mgmt)|us global advisory 2027 sophomore leadership program",
+   "group_title": "US Global Advisory | 2027 Sophomore Leadership Program",
+   "id": "br:c1eff4e81ace29",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "",
+   "regions": [
+    "US"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "US Global Advisory | 2027 Sophomore Leadership Program",
+   "tracks": [
+    "wealth",
+    "early"
+   ],
+   "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/us-global-advisory--2027-sophomore-leadership-program2/",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -13161,50 +13367,6 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Capital-Markets-Summer-2027-Internship---Austin--TX_REQ530579",
    "v": 5,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-20",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "id": "wd:jll:REQ530570",
-   "last_seen": "2026-10-19",
-   "level": "Undergraduate",
-   "location": "Los Angeles, CA",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "closed",
-   "title": "Capital Markets Summer 2027 Internship - Century City, LA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Capital-Markets-Summer-2027-Internship---Century-City--LA_REQ530570",
-   "v": 9,
    "weeks": null,
    "work_mode": "On-site"
   },
