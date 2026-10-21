@@ -2454,7 +2454,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2491,7 +2491,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2530,7 +2530,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2567,7 +2567,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "Boston, MA",
-   "misses": 1,
+   "misses": 0,
    "pay": "$20–$35/hr",
    "posted": "2026-10-16",
    "region": "US",
@@ -2881,48 +2881,6 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R944",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Cerity Partners|investment office analyst internship",
-   "group_title": "Investment Office Analyst Internship",
-   "id": "wd:ceritypartners:R930-1",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "West Conshohocken, PA; New York City, NY",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY",
-    "PA"
-   ],
-   "status": "open",
-   "title": "Investment Office Analyst Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/West-Conshohocken-PA/Investment-Office-Analyst-Internship_R930-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -3414,7 +3372,7 @@
    "tracks": [
     "wealth"
    ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-Office/Wealth-Management-Internship_R825-1",
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Wealth-Management-Internship_R825-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -3581,49 +3539,6 @@
    "url": "https://career-schwab.icims.com/jobs/126236/2027-financial-service-%26-support-intern---omaha/job",
    "v": 9,
    "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently pursuing a bachelor's degree and expected to graduate after August 2027.",
-   "classes": [
-    2027
-   ],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Charles Schwab|wealth management internship",
-   "group_title": "Wealth Management Internship",
-   "id": "ic:career-schwab:128554",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": "$25–$28/hr",
-   "posted": "2026-10-19",
-   "region": "",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NV"
-   ],
-   "status": "open",
-   "title": "Wealth Management Internship - Las Vegas CFP Event Attendees",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/128554/wealth-management-internship---las-vegas-cfp-event-attendees/job",
-   "v": 9,
-   "weeks": 9,
    "work_mode": "On-site"
   },
   {
@@ -5493,7 +5408,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -5593,47 +5508,6 @@
    "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Wealth-and-Asset-Management-Co-Op---FULL-TIME-January-2027---May-2027_R74059",
    "v": 9,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Goldman Sachs",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Goldman Sachs|2027 americas albany wealth management financial planning summer analyst albany united states summer analyst",
-   "group_title": "2027 | Americas | Albany | Wealth Management, Financial Planning | Summer Analyst Albany·United States ·Summer Analyst",
-   "id": "br:d4916db9f3b34e",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 | Americas | Albany | Wealth Management, Financial Planning | Summer Analyst Albany·United States ·Summer Analyst",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://higher.gs.com/roles/155671",
-   "v": 9,
-   "weeks": 10,
    "work_mode": null
   },
   {
@@ -5821,7 +5695,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-21",
    "region": "",
@@ -7848,47 +7722,6 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-21",
    "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|hotels and hospitality summer 2027 internship",
-   "group_title": "Hotels and Hospitality Summer 2027 Internship",
-   "id": "wd:jll:REQ532428",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "Tampa, FL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Hotels and Hospitality Summer 2027 Internship – Tampa, FL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Orlando--FL_REQ532428",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
    "function": "Asset / Property Management",
    "gpa": null,
    "group": "JLL|industrial property management summer 2027 internship",
@@ -9286,49 +9119,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Link is looking for actively enrolled juniors (rising seniors) who would be interested in gaining hands-on experience with institutional real estate finance at portfolio scale.",
-   "classes": [
-    2028
-   ],
-   "company": "Link Logistics",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "Link Logistics|financial planning analysis summer intern",
-   "group_title": "Financial Planning & Analysis Summer Intern",
-   "id": "wd:linklogistics:JR101856",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "New York, New York",
-   "misses": 1,
-   "pay": "$30/hr",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Financial Planning & Analysis Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Financial-Planning---Analysis-Summer-Intern_JR101856",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Link is looking for actively enrolled juniors rising into their senior year who are interested in gaining hands-on experience in real estate investments .",
    "classes": [
     2027,
@@ -9522,7 +9312,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "Rapid City, South Dakota, United States of America",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-19",
    "region": "US",
@@ -11244,6 +11034,47 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-21",
    "first_seen": "2026-10-21",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Stifel|advisory services intern",
+   "group_title": "Advisory Services Intern",
+   "id": "ic:careers-stifel:10030",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Advisory Services Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10030/advisory-services-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
    "function": "Wealth Management",
    "gpa": null,
    "group": "Stifel|branch intern",
@@ -11325,6 +11156,88 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Technology / Data",
+   "gpa": null,
+   "group": "Stifel|data analyst intern",
+   "group_title": "Data Analyst Intern",
+   "id": "ic:careers-stifel:9970",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Data Analyst Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9970/data-analyst-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|field development intern",
+   "group_title": "Field Development Intern",
+   "id": "ic:careers-stifel:10031",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Field Development Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10031/field-development-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -11354,6 +11267,293 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/9734/full-time-branch-intern/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|information systems intern",
+   "group_title": "Information Systems Intern",
+   "id": "ic:careers-stifel:9969",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-NY-New York",
+   "misses": 0,
+   "pay": "$20/hr",
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "Information Systems Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9969/information-systems-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|payroll intern",
+   "group_title": "Payroll Intern",
+   "id": "ic:careers-stifel:9966",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Payroll Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9966/payroll-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|platform strategy intern",
+   "group_title": "Platform Strategy Intern",
+   "id": "ic:careers-stifel:9918",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Platform Strategy Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9918/platform-strategy-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|platform strategy client reporting intern",
+   "group_title": "Platform Strategy-Client Reporting Intern",
+   "id": "ic:careers-stifel:9919",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Platform Strategy-Client Reporting Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9919/platform-strategy-client-reporting-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Operations",
+   "gpa": null,
+   "group": "Stifel|rotational operations intern",
+   "group_title": "Rotational Operations Intern",
+   "id": "ic:careers-stifel:9964",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Rotational Operations Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9964/rotational-operations-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|stifel charitable intern",
+   "group_title": "Stifel Charitable Intern",
+   "id": "ic:careers-stifel:10083",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Stifel Charitable Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10083/stifel-charitable-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|tech product development analyst intern",
+   "group_title": "Tech Product Development Analyst Intern",
+   "id": "ic:careers-stifel:9960",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Tech Product Development Analyst Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9960/tech-product-development-analyst-intern--summer-2027/job",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -12331,6 +12531,49 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-21",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Cerity Partners|investment office analyst internship",
+   "group_title": "Investment Office Analyst Internship",
+   "id": "wd:ceritypartners:R930-1",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "West Conshohocken, PA; New York City, NY",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY",
+    "PA"
+   ],
+   "status": "closed",
+   "title": "Investment Office Analyst Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/West-Conshohocken-PA/Investment-Office-Analyst-Internship_R930-1",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-19",
    "company": "Charles Schwab",
    "company_type": "Brokerage & Platform",
@@ -12453,6 +12696,50 @@
    ],
    "url": "https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---westlake-only/job",
    "v": 8,
+   "weeks": 9,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently pursuing a bachelor's degree and expected to graduate after August 2027.",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-21",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|wealth management internship",
+   "group_title": "Wealth Management Internship",
+   "id": "ic:career-schwab:128554",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": "$25–$28/hr",
+   "posted": "2026-10-19",
+   "region": "",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NV"
+   ],
+   "status": "closed",
+   "title": "Wealth Management Internship - Las Vegas CFP Event Attendees",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/128554/wealth-management-internship---las-vegas-cfp-event-attendees/job",
+   "v": 9,
    "weeks": 9,
    "work_mode": "On-site"
   },
@@ -13051,6 +13338,48 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-21",
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 americas albany wealth management financial planning summer analyst albany united states summer analyst",
+   "group_title": "2027 | Americas | Albany | Wealth Management, Financial Planning | Summer Analyst Albany·United States ·Summer Analyst",
+   "id": "br:d4916db9f3b34e",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 | Americas | Albany | Wealth Management, Financial Planning | Summer Analyst Albany·United States ·Summer Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/155671",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Interns participate in a structured series of development opportunities, including interactions with senior leadership and career pathing insights.",
    "classes": [
     2027,
@@ -13522,6 +13851,48 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Expression-of-Interest--2027-Summer-Internship-Program_REQ535877",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-21",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|hotels and hospitality summer 2027 internship",
+   "group_title": "Hotels and Hospitality Summer 2027 Internship",
+   "id": "wd:jll:REQ532428",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Tampa, FL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Hotels and Hospitality Summer 2027 Internship – Tampa, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Orlando--FL_REQ532428",
+   "v": 9,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -15559,6 +15930,50 @@
    "v": 5,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Link is looking for actively enrolled juniors (rising seniors) who would be interested in gaining hands-on experience with institutional real estate finance at portfolio scale.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-21",
+   "company": "Link Logistics",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "Link Logistics|financial planning analysis summer intern",
+   "group_title": "Financial Planning & Analysis Summer Intern",
+   "id": "wd:linklogistics:JR101856",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "New York, New York",
+   "misses": 2,
+   "pay": "$30/hr",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Financial Planning & Analysis Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Financial-Planning---Analysis-Summer-Intern_JR101856",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
   },
   {
    "class_evidence": null,
