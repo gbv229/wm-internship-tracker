@@ -4430,45 +4430,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-13",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Cushman & Wakefield|eic intern",
-   "group_title": "EIC Intern",
-   "id": "wd:cw:R337383",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "Gurgaon, India",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-14",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "EIC Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R337383",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-20",
    "first_seen": "2026-10-20",
    "function": "Real Estate (general)",
@@ -4511,6 +4472,45 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-21",
+   "first_seen": "2026-10-13",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic intern",
+   "group_title": "EIC Intern",
+   "id": "wd:cw:R337383",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Gurgaon, India",
+   "misses": 1,
+   "pay": null,
+   "posted": "2026-10-14",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R337383",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -4538,6 +4538,45 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VN---Ba-Dinh-District---Hanoi---5-Dien-Bien-Phu-Street/EIC-Intern---Commercial-Real-Estate--Hanoi_R304840",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic intern commercial real estate",
+   "group_title": "EIC Intern - Commercial Real Estate",
+   "id": "wd:cw:R304843",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "District 1, Vietnam",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-21",
+   "region": "",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern - Commercial Real Estate, Ho Chi Minh City",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/District-1-Vietnam/EIC-Intern---Commercial-Real-Estate--Ho-Chi-Minh-City_R304843",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -9437,49 +9476,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Candidates must be enrolled in an accredited bachelor’s degree program graduating between December 2028 and May 2029",
-   "classes": [
-    2029
-   ],
-   "company": "PGIM Real Estate",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-15",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "PGIM Real Estate|pgim 2027 public and private credit sophomore externship program",
-   "group_title": "PGIM: 2027 Public and Private Credit, Sophomore Externship Program",
-   "id": "wd:pru:R-124932",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Newark, NJ, USA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "PGIM: 2027 Public and Private Credit, Sophomore Externship Program",
-   "tracks": [
-    "early"
-   ],
-   "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-and-Private-Credit--Sophomore-Externship-Program_R-124932",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "This program is intended for students graduating between December 2028-May 2029.",
    "classes": [
     2029
@@ -10061,49 +10057,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Graduating December 2027 or Spring 2028",
-   "classes": [
-    2028
-   ],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-19",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|summer 2027 us wealth management internship",
-   "group_title": "Summer 2027 US Wealth Management Internship",
-   "id": "wd:rbc:R-0000187999-1",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "misses": 1,
-   "pay": "$20–$30/hr",
-   "posted": "2026-10-19",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Summer 2027 US Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Real Estate, Development, Urban Planning, Finance, or related field with an expected graduation date of December 2027 through June 2028",
    "classes": [
     2028
@@ -10142,49 +10095,6 @@
     "real_estate"
    ],
    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Graduation date of December 2027 or May 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Regions (Private Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-15",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Regions (Private Wealth)|2027 etp intern real estate banking",
-   "group_title": "2027 ETP Intern - Real Estate Banking",
-   "id": "wd:regions:R106935",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Dallas, TX - 17 Seventeen Building Branch",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-15",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 ETP Intern - Real Estate Banking, Dallas TX",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Dallas-TX---17-Seventeen-Building-Branch/XMLNAME-2027-ETP-Intern---Real-Estate-Banking--Dallas-TX_R106935",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -11173,51 +11083,6 @@
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "TIAA / Nuveen",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-12",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "TIAA / Nuveen|2027 early talent internship nuveen real estate",
-   "group_title": "2027 Early Talent Internship: Nuveen Real Estate",
-   "id": "wd:tiaa:R261000135",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "New York, NY, USA; Charlotte, NC, USA",
-   "misses": 1,
-   "pay": "$22/hr",
-   "posted": "2026-10-12",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NC",
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 Early Talent Internship: Nuveen Real Estate",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Real-Estate_R261000135",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
   },
   {
    "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
@@ -15684,6 +15549,50 @@
    "work_mode": "Hybrid"
   },
   {
+   "class_evidence": "- Candidates must be enrolled in an accredited bachelor’s degree program graduating between December 2028 and May 2029",
+   "classes": [
+    2029
+   ],
+   "closed_on": "2026-10-21",
+   "company": "PGIM Real Estate",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-15",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "PGIM Real Estate|pgim 2027 public and private credit sophomore externship program",
+   "group_title": "PGIM: 2027 Public and Private Credit, Sophomore Externship Program",
+   "id": "wd:pru:R-124932",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Newark, NJ, USA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "PGIM: 2027 Public and Private Credit, Sophomore Externship Program",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-and-Private-Credit--Sophomore-Externship-Program_R-124932",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "The programme is designed to provide meaningful responsibility from day one, culminating in the presentation of a strategic growth opportunity or market-based research project to senior business leaders.",
    "classes": [
     2027
@@ -15935,6 +15844,50 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Graduating December 2027 or Spring 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-21",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|summer 2027 us wealth management internship",
+   "group_title": "Summer 2027 US Wealth Management Internship",
+   "id": "wd:rbc:R-0000187999-1",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 2,
+   "pay": "$20–$30/hr",
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 US Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Must be a Sophomore, Junior, or in a Masters program (graduation date December 2027 – May 2029) with a major in Software Engineering, Computer Science, Management Information Systems, Data Science, or other technology-related disciplines",
    "classes": [
     2028,
@@ -16170,6 +16123,50 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Graduation date of December 2027 or May 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-21",
+   "company": "Regions (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Regions (Private Wealth)|2027 etp intern real estate banking",
+   "group_title": "2027 ETP Intern - Real Estate Banking",
+   "id": "wd:regions:R106935",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Dallas, TX - 17 Seventeen Building Branch",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 ETP Intern - Real Estate Banking, Dallas TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Dallas-TX---17-Seventeen-Building-Branch/XMLNAME-2027-ETP-Intern---Real-Estate-Banking--Dallas-TX_R106935",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-20",
@@ -16291,6 +16288,52 @@
    "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Lease-Services--Real-Estate-Finance-Major-_R13945-1",
    "v": 9,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-21",
+   "company": "TIAA / Nuveen",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-12",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "TIAA / Nuveen|2027 early talent internship nuveen real estate",
+   "group_title": "2027 Early Talent Internship: Nuveen Real Estate",
+   "id": "wd:tiaa:R261000135",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "New York, NY, USA; Charlotte, NC, USA",
+   "misses": 2,
+   "pay": "$22/hr",
+   "posted": "2026-10-12",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 Early Talent Internship: Nuveen Real Estate",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Real-Estate_R261000135",
+   "v": 9,
+   "weeks": 10,
    "work_mode": null
   }
  ]

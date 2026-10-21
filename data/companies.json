@@ -241,7 +241,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-21",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 7,
+   "open": 6,
    "sources": [
     {
      "fail_streak": 0,
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "eb8d9714a722ac86",
+     "hash": "ec56f2b740bebecf",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1000,7 +1000,7 @@
    "hq": "Birmingham, AL",
    "last_ok": "2026-10-21",
    "name": "Regions (Private Wealth)",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -1618,7 +1618,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "a38bd29270ebb10d",
+     "hash": "24b053eca6e27010",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1866,7 +1866,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "2747a9224af8c166",
+     "hash": "e62cfe72615fc75d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2615,7 +2615,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-21",
    "name": "TIAA / Nuveen",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -2841,7 +2841,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "6c69117b383b77ed",
+     "hash": "a0d18e67f6c5dc66",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2919,7 +2919,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-21",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 23,
    "sources": [
     {
      "fail_streak": 0,
@@ -3023,7 +3023,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "490f9f6636b607f0",
+     "hash": "af5bdeb38002435d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "52f0f9e4f32a26c2",
+     "hash": "3f6e3075e118f37d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "b299c1cc78d2f63a",
+     "hash": "a0edecf16e1073b2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3542,7 +3542,7 @@
    "hq": "Newark, NJ",
    "last_ok": "2026-10-21",
    "name": "PGIM Real Estate",
-   "open": 4,
+   "open": 3,
    "sources": [
     {
      "fail_streak": 0,
@@ -3704,9 +3704,9 @@
    "open": 2,
    "sources": [
     {
-     "changed_on": "2026-10-17",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "73b76391e7fd7146",
+     "hash": "07098ef58948ef3d",
      "kind": "page",
      "links": [
       "2027 Summer Internship – Acquisitions | https://www.heitman.com/jobs/ofOQAfwd/",
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3953,10 +3953,9 @@
      "url": "https://www.lpc.com/careers/"
     },
     {
+     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.lpc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4483,7 +4482,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4512,7 +4511,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5322,7 +5321,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "c64a30198ec1ff0c",
+     "hash": "c8cd7f89658e649b",
      "kind": "page",
      "links": [],
      "ok": true,
