@@ -29,7 +29,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-21",
    "name": "Goldman Sachs",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "changed_on": null,
@@ -42,8 +42,8 @@
     },
     {
      "kind": "browser",
-     "listed": 10,
-     "matched": 0,
+     "listed": 20,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "ec56f2b740bebecf",
+     "hash": "01a4305eb70683bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -745,7 +745,7 @@
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-21",
    "name": "Brown Advisory",
-   "open": 1,
+   "open": 4,
    "sources": [
     {
      "changed_on": null,
@@ -760,8 +760,8 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 7,
+     "matched": 4,
      "ok": true
     }
    ],
@@ -934,7 +934,7 @@
    "hq": "Cincinnati, OH",
    "last_ok": "2026-10-21",
    "name": "Fifth Third (Wealth)",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -1067,9 +1067,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "669b910e130ae15a",
+     "hash": "59d8f8a204792977",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1311,7 +1311,7 @@
    "hq": "St. Louis, MO",
    "last_ok": "2026-10-21",
    "name": "Stifel",
-   "open": 3,
+   "open": 4,
    "sources": [
     {
      "fail_streak": 0,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1806,7 +1806,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "03a7fbf937b462e5",
+     "hash": "74d5584ff3aece4d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1895,9 +1895,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-15",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "32e476253a94b4d3",
+     "hash": "55f9c29df540e828",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2158,7 +2158,7 @@
    "hq": "Newark, NJ",
    "last_ok": "2026-10-21",
    "name": "Prudential Financial",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -2841,7 +2841,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "a0d18e67f6c5dc66",
+     "hash": "762a00d4f8c3abae",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2940,7 +2940,7 @@
    "hq": "Toronto / Seattle",
    "last_ok": "2026-10-21",
    "name": "Colliers",
-   "open": 1,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "af5bdeb38002435d",
+     "hash": "10ade6ee4f808763",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "3f6e3075e118f37d",
+     "hash": "3e0fe16c9462a3f1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "a0edecf16e1073b2",
+     "hash": "aa71ad5fb869e7c1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3348,11 +3348,11 @@
    "sources": [
     {
      "changed_on": "2026-10-20",
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.northmarq.com/careers",
+     "fail_streak": 1,
      "hash": "a7f714e53a57778a",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.northmarq.com/careers"
     },
     {
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3953,9 +3953,10 @@
      "url": "https://www.lpc.com/careers/"
     },
     {
-     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.lpc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4154,19 +4155,17 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "fail_streak": 1,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
+     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4482,7 +4481,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4511,7 +4510,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 35,
+     "fail_streak": 36,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4955,21 +4954,20 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.pennmutual.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pennmutual.com', port=443) at 0x7fca08ce5370>, 'Connection to www.pennmutual.com timed out. (connect timeout=25)'))",
+     "fail_streak": 1,
      "hash": "2884c6b7c9732811",
      "kind": "page",
      "links": [
       "Internships | https://www.pennmutual.com/careers/internships"
      ],
-     "ok": true,
+     "ok": false,
      "url": "https://www.pennmutual.com/careers"
     },
     {
+     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.pennmutual.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -5195,9 +5193,9 @@
    "open": 8,
    "sources": [
     {
-     "changed_on": "2026-10-19",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "536ebd29c931b2e9",
+     "hash": "bc4b9e3ef778eadd",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5205,7 +5203,7 @@
     },
     {
      "kind": "browser",
-     "listed": 8,
+     "listed": 10,
      "matched": 8,
      "ok": true
     }
@@ -5321,7 +5319,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "c8cd7f89658e649b",
+     "hash": "9036386e6075ae24",
      "kind": "page",
      "links": [],
      "ok": true,
