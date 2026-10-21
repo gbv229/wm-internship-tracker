@@ -2454,7 +2454,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2491,7 +2491,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2530,7 +2530,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2567,7 +2567,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "Boston, MA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$35/hr",
    "posted": "2026-10-16",
    "region": "US",
@@ -2902,7 +2902,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "West Conshohocken, PA; New York City, NY",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
@@ -3602,7 +3602,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": "$25–$28/hr",
    "posted": "2026-10-19",
    "region": "",
@@ -5493,7 +5493,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -5612,7 +5612,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-21",
    "region": "US",
@@ -5802,6 +5802,43 @@
    "url": "https://us63.dayforcehcm.com/CandidatePortal/en-US/hightower?q=internship",
    "v": 9,
    "weeks": 16,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Hines",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Hines|internships early careers",
+   "group_title": "Internships & Early Careers",
+   "id": "br:03bc0895528962",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Internships & Early Careers",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://www.hines.com/careers/graduates-and-interns",
+   "v": 9,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -7604,49 +7641,6 @@
    "gpa": null,
    "group": "JLL|capital markets summer 2027 internship",
    "group_title": "Capital Markets Summer 2027 Internship",
-   "id": "wd:jll:REQ532419",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "Tampa, FL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-01",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Tampa, FL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Tampa--FL_REQ532419",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
    "id": "wd:jll:REQ530230",
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
@@ -7862,7 +7856,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "Tampa, FL",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
@@ -7923,45 +7917,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|intern administration business support",
-   "group_title": "Intern – Administration & Business Support",
-   "id": "wd:jll:REQ543355",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "Colombo, Sri Lanka",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Intern – Administration & Business Support",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Colombo-Sri-Lanka/Intern---Administration---Business-Support_REQ543355",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -8806,6 +8761,49 @@
    "work_mode": "Hybrid"
   },
   {
+   "class_evidence": "· Currently enrolled in an Undergraduate degree program with an expected graduation date of December 2027 or May 2028",
+   "classes": [
+    2028
+   ],
+   "company": "LPL Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "LPL Financial|intern 2027 government relations",
+   "group_title": "Intern 2027 - Government Relations",
+   "id": "wd:lplfinancial:R-054560",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "DC"
+   ],
+   "status": "open",
+   "title": "Intern 2027 - Government Relations",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Washington-DC/Intern-2027---Government-Relations_R-054560",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
    "class_evidence": "- Currently pursuing a bachelor's degree in Business, Finance, Economics, Communications, Marketing, Management, or a related field, with an anticipated graduation date between December 2027 and May 2028",
    "classes": [
     2028
@@ -9306,7 +9304,7 @@
    "last_seen": "2026-10-21",
    "level": "Undergraduate",
    "location": "New York, New York",
-   "misses": 0,
+   "misses": 1,
    "pay": "$30/hr",
    "posted": "2026-09-21",
    "region": "US",
@@ -9629,6 +9627,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "Northern Trust|wealth management intern",
+   "group_title": "Wealth Management Intern",
+   "id": "wd:ntrs:R163472-1",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Atlanta, GA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "GA"
+   ],
+   "status": "open",
+   "title": "Wealth Management Intern - Atlanta",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Wealth-Management-Intern---Atlanta_R163472-1",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Incoming junior or senior (expected graduation within 1-2 years).",
    "classes": [
     2027,
@@ -9748,50 +9789,6 @@
    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Paris-France/PGIM---Real-Estate-Private-Equity-Analyst-Intern--all-genders-_R-124980-1",
    "v": 9,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "This program is intended for students graduating between December 2028-May 2029.",
-   "classes": [
-    2029
-   ],
-   "company": "PGIM Real Estate",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "PGIM Real Estate|pgim 2027 real estate sophomore externship program",
-   "group_title": "PGIM: 2027 Real Estate, Sophomore Externship Program",
-   "id": "wd:pru:R-124904",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "Newark, NJ, USA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "PGIM: 2027 Real Estate, Sophomore Externship Program",
-   "tracks": [
-    "real_estate",
-    "early"
-   ],
-   "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904",
-   "v": 9,
-   "weeks": 10,
    "work_mode": null
   },
   {
@@ -13405,6 +13402,50 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-21",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "id": "wd:jll:REQ532419",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Tampa, FL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-01",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Tampa, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Tampa--FL_REQ532419",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-15",
@@ -13525,6 +13566,46 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Houston-Capital-Markets-Summer-2027-Internship----Houston--TX_REQ530228",
    "v": 8,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-21",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|intern administration business support",
+   "group_title": "Intern – Administration & Business Support",
+   "id": "wd:jll:REQ543355",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Colombo, Sri Lanka",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Intern – Administration & Business Support",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Colombo-Sri-Lanka/Intern---Administration---Business-Support_REQ543355",
+   "v": 9,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -15828,6 +15909,51 @@
    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-and-Private-Credit--Sophomore-Externship-Program_R-124932",
    "v": 9,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "This program is intended for students graduating between December 2028-May 2029.",
+   "classes": [
+    2029
+   ],
+   "closed_on": "2026-10-21",
+   "company": "PGIM Real Estate",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "PGIM Real Estate|pgim 2027 real estate sophomore externship program",
+   "group_title": "PGIM: 2027 Real Estate, Sophomore Externship Program",
+   "id": "wd:pru:R-124904",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Newark, NJ, USA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "PGIM: 2027 Real Estate, Sophomore Externship Program",
+   "tracks": [
+    "real_estate",
+    "early"
+   ],
+   "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904",
+   "v": 9,
+   "weeks": 10,
    "work_mode": null
   },
   {

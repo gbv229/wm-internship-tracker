@@ -43,7 +43,7 @@
     {
      "kind": "browser",
      "listed": 20,
-     "matched": 1,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "01a4305eb70683bb",
+     "hash": "87ab685f8a5839a4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -575,7 +575,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-21",
    "name": "Northern Trust",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -760,8 +760,8 @@
     },
     {
      "kind": "browser",
-     "listed": 7,
-     "matched": 4,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -1069,7 +1069,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "59d8f8a204792977",
+     "hash": "669b910e130ae15a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1210,9 +1210,9 @@
    "open": 1,
    "sources": [
     {
-     "changed_on": "2026-10-20",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "6765c92fd74851f7",
+     "hash": "07205babac1ec5bc",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1220,8 +1220,8 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -1285,7 +1285,7 @@
    "hq": "San Diego, CA",
    "last_ok": "2026-10-21",
    "name": "LPL Financial",
-   "open": 4,
+   "open": 5,
    "sources": [
     {
      "fail_streak": 0,
@@ -1377,9 +1377,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-16",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "3e47c5e2e9d4ff39",
+     "hash": "69bee20f63aa4baa",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1618,7 +1618,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "24b053eca6e27010",
+     "hash": "0c025773a626807a",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1806,7 +1806,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "74d5584ff3aece4d",
+     "hash": "03a7fbf937b462e5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1866,7 +1866,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "e62cfe72615fc75d",
+     "hash": "f2d1a5894a72d2a4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2841,7 +2841,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "762a00d4f8c3abae",
+     "hash": "92cc3a1493240df1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2898,7 +2898,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-21",
    "name": "JLL",
-   "open": 36,
+   "open": 34,
    "sources": [
     {
      "fail_streak": 0,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "10ade6ee4f808763",
+     "hash": "d7819e0196a6ef9d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "3e0fe16c9462a3f1",
+     "hash": "9538716dfaa9cb71",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3348,11 +3348,11 @@
    "sources": [
     {
      "changed_on": "2026-10-20",
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.northmarq.com/careers",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "hash": "a7f714e53a57778a",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.northmarq.com/careers"
     },
     {
@@ -3542,7 +3542,7 @@
    "hq": "Newark, NJ",
    "last_ok": "2026-10-21",
    "name": "PGIM Real Estate",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -3852,19 +3852,19 @@
    "hq": "Houston, TX",
    "last_ok": "2026-10-21",
    "name": "Hines",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
     },
     {
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
+     "listed": 1,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4155,17 +4155,19 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 1,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4481,7 +4483,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4510,7 +4512,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4662,9 +4664,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-20",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "d63378c1c4a7605f",
+     "hash": "84ca51cce3822866",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4954,20 +4956,21 @@
    "open": 0,
    "sources": [
     {
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.pennmutual.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pennmutual.com', port=443) at 0x7fca08ce5370>, 'Connection to www.pennmutual.com timed out. (connect timeout=25)'))",
-     "fail_streak": 1,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "2884c6b7c9732811",
      "kind": "page",
      "links": [
       "Internships | https://www.pennmutual.com/careers/internships"
      ],
-     "ok": false,
+     "ok": true,
      "url": "https://www.pennmutual.com/careers"
     },
     {
-     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.pennmutual.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -5110,9 +5113,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-20",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "9fe5bce52debde34",
+     "hash": "885ae7c0b209fa45",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5141,9 +5144,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-20",
+     "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "33706566fe81f66a",
+     "hash": "2f8368111c34387c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5319,7 +5322,7 @@
     {
      "changed_on": "2026-10-21",
      "fail_streak": 0,
-     "hash": "9036386e6075ae24",
+     "hash": "8d12789f6ec60013",
      "kind": "page",
      "links": [],
      "ok": true,
