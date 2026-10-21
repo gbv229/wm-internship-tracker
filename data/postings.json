@@ -2565,135 +2565,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Graduation date of August 2027 or beyond.",
-   "classes": [
-    2027
-   ],
-   "company": "COUNTRY Financial",
-   "company_type": "Insurance & Planning",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "COUNTRY Financial|financial planning analysis intern",
-   "group_title": "Financial Planning & Analysis Intern",
-   "id": "wd:countryfinancial:0000001057",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Bloomington, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-23",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Financial Planning & Analysis Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Financial-Planning---Analysis-Intern_R26_0000001057",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- Graduation date of August 2027 or beyond.",
-   "classes": [
-    2027
-   ],
-   "company": "COUNTRY Financial",
-   "company_type": "Insurance & Planning",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "COUNTRY Financial|wealth management financial planning intern",
-   "group_title": "Wealth Management & Financial Planning Intern",
-   "id": "wd:countryfinancial:0000000962",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Bloomington, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-23",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Fall 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Wealth Management & Financial Planning Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Wealth-Management---Financial-Planning-Intern_R26_0000000962",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- Graduation date of August 2027 or beyond.",
-   "classes": [
-    2027
-   ],
-   "company": "COUNTRY Financial",
-   "company_type": "Insurance & Planning",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": null,
-   "group": "COUNTRY Financial|wealth and investment management intern",
-   "group_title": "Wealth and Investment Management Intern",
-   "id": "wd:countryfinancial:0000001026",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Bloomington, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-23",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Fall 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Wealth and Investment Management Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Wealth-and-Investment-Management-Intern_R26_0000001026",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Hybrid"
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Cambridge Investment Research",
@@ -5070,47 +4941,6 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-18",
    "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic mf national operations intern",
-   "group_title": "EIC MF National Operations Intern",
-   "id": "wd:cw:R333466",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Saint Louis, Missouri, USA",
-   "misses": 1,
-   "pay": "$18–$21/hr",
-   "posted": "2026-09-18",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "open",
-   "title": "EIC MF National Operations Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/EIC-Operations-Intern_R333466",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
    "function": "Valuation / Research",
    "gpa": null,
    "group": "Cushman & Wakefield|eic valuation advisory hospitality intern",
@@ -6042,53 +5872,6 @@
    "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Construction-Lending_R5958",
    "v": 9,
    "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Expected graduation date of December 2027 through June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "J.P. Morgan",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "J.P. Morgan|2027 asset wealth management international private bank mba summer associate program",
-   "group_title": "2027 Asset & Wealth Management International Private Bank MBA Summer Associate Program",
-   "id": "or:jpmc:210777959",
-   "last_seen": "2026-10-20",
-   "level": "Graduate/MBA",
-   "location": "New York, NY, United States; Houston, TX, United States; Miami, FL, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-30",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southeast",
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "FL",
-    "NY",
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 Asset & Wealth Management International Private Bank (Latin America) MBA Summer Associate Program",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777959",
-   "v": 9,
-   "weeks": 9,
    "work_mode": null
   },
   {
@@ -9411,88 +9194,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-14",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Morgan Stanley|intern bilingual english mandarin",
-   "group_title": "Intern - Bilingual English/Mandarin",
-   "id": "wd:ms:JR045320",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Beverly Hills, California, United States of America",
-   "misses": 1,
-   "pay": "$20/hr",
-   "posted": "2026-10-14",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Intern - Bilingual English/Mandarin",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Newmark",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Newmark|intern",
-   "group_title": "Intern",
-   "id": "or:hdow:250258",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Phoenix, AZ, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-19",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "AZ"
-   ],
-   "status": "open",
-   "title": "Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250258",
-   "v": 9,
-   "weeks": 16,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "Newmark",
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
@@ -11226,47 +10927,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Simon Property Group",
-   "company_type": "REIT",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-18",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Simon Property Group|intern lease services",
-   "group_title": "Intern - Lease Services",
-   "id": "wd:simon:R13945-1",
-   "last_seen": "2026-10-20",
-   "level": "Undergraduate",
-   "location": "Indianapolis, IN",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-18",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IN"
-   ],
-   "status": "open",
-   "title": "Intern - Lease Services (Real Estate/Finance Major)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Lease-Services--Real-Estate-Finance-Major-_R13945-1",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "Stephens",
    "company_type": "Brokerage & Platform",
    "deadline": null,
@@ -12432,6 +12092,138 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Graduation date of August 2027 or beyond.",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-20",
+   "company": "COUNTRY Financial",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "COUNTRY Financial|financial planning analysis intern",
+   "group_title": "Financial Planning & Analysis Intern",
+   "id": "wd:countryfinancial:0000001057",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Bloomington, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-23",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Financial Planning & Analysis Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Financial-Planning---Analysis-Intern_R26_0000001057",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Graduation date of August 2027 or beyond.",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-20",
+   "company": "COUNTRY Financial",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "COUNTRY Financial|wealth management financial planning intern",
+   "group_title": "Wealth Management & Financial Planning Intern",
+   "id": "wd:countryfinancial:0000000962",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Bloomington, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-23",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Fall 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Wealth Management & Financial Planning Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Wealth-Management---Financial-Planning-Intern_R26_0000000962",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Graduation date of August 2027 or beyond.",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-20",
+   "company": "COUNTRY Financial",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": null,
+   "group": "COUNTRY Financial|wealth and investment management intern",
+   "group_title": "Wealth and Investment Management Intern",
+   "id": "wd:countryfinancial:0000001026",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Bloomington, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-23",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Fall 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Wealth and Investment Management Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Wealth-and-Investment-Management-Intern_R26_0000001026",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Hybrid"
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-19",
@@ -12857,6 +12649,48 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-20",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic mf national operations intern",
+   "group_title": "EIC MF National Operations Intern",
+   "id": "wd:cw:R333466",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Saint Louis, Missouri, USA",
+   "misses": 2,
+   "pay": "$18–$21/hr",
+   "posted": "2026-09-18",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "closed",
+   "title": "EIC MF National Operations Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/EIC-Operations-Intern_R333466",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
    "classes": [
     2027,
@@ -13199,6 +13033,54 @@
    "v": 6,
    "weeks": 12,
    "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Expected graduation date of December 2027 through June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-20",
+   "company": "J.P. Morgan",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "J.P. Morgan|2027 asset wealth management international private bank mba summer associate program",
+   "group_title": "2027 Asset & Wealth Management International Private Bank MBA Summer Associate Program",
+   "id": "or:jpmc:210777959",
+   "last_seen": "2026-10-20",
+   "level": "Graduate/MBA",
+   "location": "New York, NY, United States; Houston, TX, United States; Miami, FL, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-30",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast",
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "FL",
+    "NY",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 Asset & Wealth Management International Private Bank (Latin America) MBA Summer Associate Program",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777959",
+   "v": 9,
+   "weeks": 9,
+   "work_mode": null
   },
   {
    "class_evidence": null,
@@ -15534,6 +15416,90 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-20",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-14",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern bilingual english mandarin",
+   "group_title": "Intern - Bilingual English/Mandarin",
+   "id": "wd:ms:JR045320",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Beverly Hills, California, United States of America",
+   "misses": 2,
+   "pay": "$20/hr",
+   "posted": "2026-10-14",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Intern - Bilingual English/Mandarin",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-20",
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|intern",
+   "group_title": "Intern",
+   "id": "or:hdow:250258",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Phoenix, AZ, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "closed",
+   "title": "Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250258",
+   "v": 9,
+   "weeks": 16,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
    "classes": [
     2028
@@ -16238,6 +16204,48 @@
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-uk-wealth-management-summer-analyst-programme/",
    "v": 9,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-20",
+   "company": "Simon Property Group",
+   "company_type": "REIT",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-18",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Simon Property Group|intern lease services",
+   "group_title": "Intern - Lease Services",
+   "id": "wd:simon:R13945-1",
+   "last_seen": "2026-10-20",
+   "level": "Undergraduate",
+   "location": "Indianapolis, IN",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-18",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IN"
+   ],
+   "status": "closed",
+   "title": "Intern - Lease Services (Real Estate/Finance Major)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Lease-Services--Real-Estate-Finance-Major-_R13945-1",
+   "v": 9,
+   "weeks": null,
    "work_mode": null
   }
  ]
