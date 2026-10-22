@@ -9298,47 +9298,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-19",
-   "first_seen": "2026-10-19",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Morgan Stanley|intern",
-   "group_title": "Intern",
-   "id": "wd:ms:JR045780",
-   "last_seen": "2026-10-21",
-   "level": "Undergraduate",
-   "location": "Rapid City, South Dakota, United States of America",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-19",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "SD"
-   ],
-   "status": "open",
-   "title": "Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Rapid-City-South-Dakota-United-States-of-America/Intern_JR045780",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "Newmark",
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
@@ -15973,6 +15932,48 @@
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Financial-Planning---Analysis-Summer-Intern_JR101856",
    "v": 9,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-21",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR045780",
+   "last_seen": "2026-10-21",
+   "level": "Undergraduate",
+   "location": "Rapid City, South Dakota, United States of America",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "SD"
+   ],
+   "status": "closed",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Rapid-City-South-Dakota-United-States-of-America/Intern_JR045780",
+   "v": 9,
+   "weeks": null,
    "work_mode": null
   },
   {
