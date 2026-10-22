@@ -4307,7 +4307,7 @@
    "last_seen": "2026-10-22",
    "level": "Undergraduate",
    "location": "CW Site - IRL - Dublin - 2 Cumberland Place",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-03",
    "region": "International",
@@ -8234,7 +8234,7 @@
    "last_seen": "2026-10-22",
    "level": "Undergraduate",
    "location": "Petaling Jaya, Malaysia",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-22",
    "region": "",
@@ -8870,7 +8870,7 @@
    "last_seen": "2026-10-22",
    "level": "Graduate/MBA",
    "location": "Houston, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-09",
    "region": "US",
@@ -9460,50 +9460,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Incoming junior or senior (expected graduation within 1-2 years).",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "Northwestern Mutual",
-   "company_type": "Insurance & Planning",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-16",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "Northwestern Mutual|field engagement experience intern year round",
-   "group_title": "Field Engagement & Experience Intern, Year round",
-   "id": "wd:northwesternmutual:JR-46183",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "Milwaukee, WI Corporate",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-17",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "WI"
-   ],
-   "status": "open",
-   "title": "Field Engagement & Experience Intern, Year round",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Field-Engagement---Experience-Intern--Year-round_JR-46183",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "PGIM Real Estate",
@@ -9854,7 +9810,7 @@
    "last_seen": "2026-10-22",
    "level": "Undergraduate",
    "location": "PA - Pittsburgh (15222)",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-21",
    "region": "US",
@@ -16576,6 +16532,46 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Rolling-Hills-Estates-California-United-States-of-America/XMLNAME-2026-PCG-Wealth-Management-Intern_R-0000189939",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-22",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|2026 wealth management winter intern",
+   "group_title": "2026 Wealth Management , winter Intern",
+   "id": "wd:rbc:R-0000190362",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "TORONTO, Ontario, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-22",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2026",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2026 Wealth Management , winter Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management---winter-Intern_R-0000190362",
    "v": 9,
    "weeks": null,
    "work_mode": null

@@ -241,7 +241,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-22",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 6,
+   "open": 7,
    "sources": [
     {
      "fail_streak": 0,
@@ -345,9 +345,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-19",
+     "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "812b66db26fade53",
+     "hash": "bc3f5a1bdeb79da9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "0e88af87d196f209",
+     "hash": "57a6911281b3c676",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1616,9 +1616,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "0c025773a626807a",
+     "hash": "ee1b2b895964e511",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 10,
+     "fail_streak": 11,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2073,7 +2073,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-22",
    "name": "Northwestern Mutual",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "83ec10335e02ca39",
+     "hash": "433d5fa6eb3269b9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "b31735282ee2574e",
+     "hash": "a2b7aa41e8bf677c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "a0edecf16e1073b2",
+     "hash": "2cd15b52e7be55bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3704,9 +3704,9 @@
    "open": 2,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "07098ef58948ef3d",
+     "hash": "7fe7152721bfda30",
      "kind": "page",
      "links": [
       "2027 Summer Internship – Acquisitions | https://www.heitman.com/jobs/ofOQAfwd/",
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4155,19 +4155,17 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
+     "fail_streak": 1,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
+     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4483,7 +4481,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4512,7 +4510,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 41,
+     "fail_streak": 42,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5196,9 +5194,9 @@
    "open": 8,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "bc4b9e3ef778eadd",
+     "hash": "536ebd29c931b2e9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5206,7 +5204,7 @@
     },
     {
      "kind": "browser",
-     "listed": 10,
+     "listed": 8,
      "matched": 8,
      "ok": true
     }
@@ -5322,7 +5320,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "0acb843bc194b577",
+     "hash": "1a0720e9ea77f9c9",
      "kind": "page",
      "links": [],
      "ok": true,
