@@ -241,7 +241,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-22",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 7,
+   "open": 8,
    "sources": [
     {
      "fail_streak": 0,
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "889e1488581a7595",
+     "hash": "47dfba244e6c9b97",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -760,8 +760,8 @@
     },
     {
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
+     "listed": 7,
+     "matched": 4,
      "ok": true
     }
    ],
@@ -1668,7 +1668,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-22",
    "name": "Cerity Partners",
-   "open": 18,
+   "open": 17,
    "sources": [
     {
      "fail_streak": 0,
@@ -1746,7 +1746,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "c6a165ba9c8f37d3",
+     "hash": "f8980aae33929ff6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1895,9 +1895,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "c939971754eb6f68",
+     "hash": "4ebc58a5f5afafc1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "494c941a077488c9",
+     "hash": "b2944b095c8c4675",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "f863d3b7ccba677c",
+     "hash": "d655c27259578740",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "2cd15b52e7be55bb",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4156,7 +4156,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4481,7 +4481,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4510,7 +4510,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 43,
+     "fail_streak": 44,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5196,7 +5196,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "536ebd29c931b2e9",
+     "hash": "9fde8cf504a6032c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5320,7 +5320,7 @@
     {
      "changed_on": "2026-10-22",
      "fail_streak": 0,
-     "hash": "79f70beea7be8743",
+     "hash": "16c08fe833dc5f2f",
      "kind": "page",
      "links": [],
      "ok": true,
