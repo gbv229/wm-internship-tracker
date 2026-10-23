@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "45664ac518d5daaf",
+     "hash": "89b783b046412827",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -447,7 +447,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-23",
    "name": "Lazard (Lazard Wealth Management)",
-   "open": 5,
+   "open": 9,
    "sources": [
     {
      "fail_streak": 0,
@@ -760,8 +760,8 @@
     },
     {
      "kind": "browser",
-     "listed": 7,
-     "matched": 4,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -1212,7 +1212,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "fbeb49955570244d",
+     "hash": "8363e57ce308b253",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1439,9 +1439,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-16",
+     "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "7f4c1ca8fe4067bb",
+     "hash": "f74924917fbebc66",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2746,9 +2746,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-19",
+     "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "e65c1c885614c390",
+     "hash": "fb6fd49d8d997ce9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3023,7 +3023,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "9dc4b2b418b24f6a",
+     "hash": "827aa37bfa9a2418",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "21e5802b20696577",
+     "hash": "99354dc5eaa90950",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "b299c1cc78d2f63a",
+     "hash": "2cd15b52e7be55bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3801,9 +3801,9 @@
    "open": 1,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "f1a166f1b5d923f1",
+     "hash": "f0e3f992c98e7b75",
      "kind": "page",
      "links": [
       "Investor Relations & Investor Coverage Summer Analyst\n Crow Holdings Capital\n dallas , | https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/"
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4150,22 +4150,24 @@
    "domain": "coniferllc.com",
    "focus": "real_estate",
    "hq": "Rochester, NY",
-   "last_ok": "2026-10-22",
+   "last_ok": "2026-10-23",
    "name": "Conifer Realty",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 7,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4481,7 +4483,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4510,7 +4512,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5320,7 +5322,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "8ec83e05ab3a44ea",
+     "hash": "5a4b54147d828bbc",
      "kind": "page",
      "links": [],
      "ok": true,
