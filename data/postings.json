@@ -3739,49 +3739,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- You are graduating between December 2027-June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.4+",
-   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
-   "group_title": "Wealth – Summer Analyst",
-   "id": "wd:citi:26994337",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "Beverly Hills California United States",
-   "misses": 1,
-   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Wealth – Summer Analyst, Los Angeles– USA, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Beverly-Hills-California-United-States/Wealth---Summer-Analyst--Los-Angeles--USA--2027_26994337",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Expected Graduation Date: May 2028",
    "classes": [
     2028
@@ -5109,7 +5066,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -6699,6 +6656,49 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "id": "wd:jll:REQ530236",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Boston, MA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MA"
+   ],
+   "status": "open",
+   "title": "Capital Markets Summer 2027 Internship - Boston, MA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Capital-Markets-Summer-2027-Internship---Boston--MA_REQ530236",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-21",
    "first_seen": "2026-10-08",
    "function": "Capital Markets / Investment Sales",
@@ -8126,49 +8126,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "id": "wd:keybank:R-42000",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "Denver, CO",
-   "misses": 1,
-   "pay": "$27/hr",
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "open",
-   "title": "2027 Summer Real Estate Capital Internship - Denver CDLI",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
-   "v": 9,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Currently enrolled in an Undergraduate degree program with an expected graduation date of December 2027 or May 2028.",
    "classes": [
     2028
@@ -8513,6 +8470,49 @@
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6704",
    "v": 9,
    "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Current enrollment at a US university and obtaining a Bachelor’s degree with an expected graduation date in December 2028 or May/June 2029",
+   "classes": [
+    2029
+   ],
+   "company": "Lazard (Lazard Wealth Management)",
+   "company_type": "Investment Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Lazard (Lazard Wealth Management)|2028 summer analyst houston power energy infrastructure",
+   "group_title": "2028 Summer Analyst - Houston Power, Energy & Infrastructure",
+   "id": "or:icbpjb:6730",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Houston, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2028",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "2028 Summer Analyst - Houston Power, Energy & Infrastructure",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6730",
+   "v": 9,
+   "weeks": 9,
    "work_mode": "On-site"
   },
   {
@@ -8953,6 +8953,47 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR045882",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Oklahoma City, Oklahoma, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OK"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma-United-States-of-America/Intern_JR045882",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -9413,6 +9454,47 @@
    "v": 9,
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "PNC (PNC Private Bank)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "PNC (PNC Private Bank)|realty services undergraduate intern",
+   "group_title": "Realty Services Undergraduate Intern",
+   "id": "wd:pnc:R231491-1",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "PA - Pittsburgh (15222)",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "PA"
+   ],
+   "status": "open",
+   "title": "Realty Services Undergraduate Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Realty-Services-Undergraduate-Intern_R231491-1",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -11134,49 +11216,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Pursuing a bachelor’s degree with a target graduation date of December 2027 or May 2028",
-   "classes": [
-    2028
-   ],
-   "company": "U.S. Bank (Private Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "U.S. Bank (Private Wealth)|2027 commercial real estate summer intern",
-   "group_title": "2027 Commercial Real Estate Summer Intern",
-   "id": "wd:usbank:2026-0025772",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "Los Angeles, CA; Newport Beach, CA",
-   "misses": 1,
-   "pay": "$23–$30/hr",
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "2027 Commercial Real Estate Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "· Pursuing a bachelor’s degree with a target graduation date of May 2029",
    "classes": [
     2029
@@ -12530,6 +12569,50 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Wealth---Summer-Analyst--Dallas---USA--2027_26994348",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are graduating between December 2027-June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.4+",
+   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
+   "group_title": "Wealth – Summer Analyst",
+   "id": "wd:citi:26994337",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Beverly Hills California United States",
+   "misses": 2,
+   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Wealth – Summer Analyst, Los Angeles– USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Beverly-Hills-California-United-States/Wealth---Summer-Analyst--Los-Angeles--USA--2027_26994337",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -15281,6 +15364,50 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "id": "wd:keybank:R-42000",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 2,
+   "pay": "$27/hr",
+   "posted": "2026-09-28",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Real Estate Capital Internship - Denver CDLI",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
+   "v": 9,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
    "classes": [
     2029
@@ -16460,48 +16587,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-22",
-   "company": "PNC (PNC Private Bank)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "PNC (PNC Private Bank)|realty services undergraduate intern",
-   "group_title": "Realty Services Undergraduate Intern",
-   "id": "wd:pnc:R231491-1",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "PA - Pittsburgh (15222)",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "PA"
-   ],
-   "status": "closed",
-   "title": "Realty Services Undergraduate Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Realty-Services-Undergraduate-Intern_R231491-1",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "The programme is designed to provide meaningful responsibility from day one, culminating in the presentation of a strategic growth opportunity or market-based research project to senior business leaders.",
    "classes": [
     2027
@@ -17367,6 +17452,50 @@
     "wealth"
    ],
    "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/XMLNAME-2027-Early-Talent-Internship--Wealth-Management---Advice-Solutions_R261000119-2",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree with a target graduation date of December 2027 or May 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "U.S. Bank (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "U.S. Bank (Private Wealth)|2027 commercial real estate summer intern",
+   "group_title": "2027 Commercial Real Estate Summer Intern",
+   "id": "wd:usbank:2026-0025772",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Los Angeles, CA; Newport Beach, CA",
+   "misses": 2,
+   "pay": "$23–$30/hr",
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "2027 Commercial Real Estate Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
    "v": 9,
    "weeks": 10,
    "work_mode": null
