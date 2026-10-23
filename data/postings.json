@@ -7088,49 +7088,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-21",
-   "first_seen": "2026-10-17",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "id": "wd:jll:REQ530233",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "Indianapolis, IN",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-18",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IN"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Indianapolis, IN",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Indianapolis-IN/Capital-Markets-Summer-2027-Internship---Indianapolis--IN_REQ530233",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
    "first_seen": "2026-10-08",
    "function": "Capital Markets / Investment Sales",
    "gpa": null,
@@ -13767,6 +13724,50 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Capital-Markets-Summer-2027-Internship---Charlotte--NC_REQ530244",
    "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-22",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-17",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "id": "wd:jll:REQ530233",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "Indianapolis, IN",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-18",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IN"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Indianapolis, IN",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Indianapolis-IN/Capital-Markets-Summer-2027-Internship---Indianapolis--IN_REQ530233",
+   "v": 9,
    "weeks": null,
    "work_mode": "On-site"
   },
