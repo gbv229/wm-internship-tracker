@@ -427,49 +427,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Ameriprise Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Sales / Marketing",
-   "gpa": null,
-   "group": "Ameriprise Financial|business development intern",
-   "group_title": "Business Development Intern",
-   "id": "wd:ameriprise:3848",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota",
-   "misses": 1,
-   "pay": "$28/hr",
-   "posted": "2026-09-25",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Business Development Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Business-Development-Intern_R26_3848",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Hybrid"
-  },
-  {
    "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
    "classes": [
     2028
@@ -3700,92 +3657,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- You are graduating between December 2027-June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.4+",
-   "group": "Citi (incl. Citi Private Bank)|wealth latam summer analyst",
-   "group_title": "Wealth - LATAM, Summer Analyst",
-   "id": "wd:citi:26994351",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "Miami Florida United States",
-   "misses": 1,
-   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Wealth - LATAM, Summer Analyst, Miami - USA, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---LATAM--Summer-Analyst--Miami---USA--2027_26994351",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are graduating between December 2027-June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.4+",
-   "group": "Citi (incl. Citi Private Bank)|wealth latam summer analyst",
-   "group_title": "Wealth - LATAM, Summer Analyst",
-   "id": "wd:citi:26994367",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "New York New York United States",
-   "misses": 1,
-   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Wealth - LATAM, Summer Analyst, New York - USA, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---LATAM--Summer-Analyst--New-York---USA--2027_26994367",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- You are in your penultimate year of university pursuing a degree in any discipline (graduating between Dec 2027 - June 2028),",
    "classes": [
     2028
@@ -3882,54 +3753,11 @@
    "gpa": "3.4+",
    "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
    "group_title": "Wealth – Summer Analyst",
-   "id": "wd:citi:26994348",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "Dallas Texas United States",
-   "misses": 1,
-   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Wealth – Summer Analyst, Dallas – USA, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Wealth---Summer-Analyst--Dallas---USA--2027_26994348",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are graduating between December 2027-June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.4+",
-   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
-   "group_title": "Wealth – Summer Analyst",
    "id": "wd:citi:26994337",
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "Beverly Hills California United States",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-21",
    "region": "US",
@@ -3949,92 +3777,6 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Beverly-Hills-California-United-States/Wealth---Summer-Analyst--Los-Angeles--USA--2027_26994337",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are graduating between December 2027-June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.4+",
-   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
-   "group_title": "Wealth – Summer Analyst",
-   "id": "wd:citi:26994091",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "Miami Florida United States",
-   "misses": 1,
-   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Wealth – Summer Analyst, Miami– USA, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---Summer-Analyst--Miami--USA--2027_26994091",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are graduating between December 2027-June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.4+",
-   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
-   "group_title": "Wealth – Summer Analyst",
-   "id": "wd:citi:26994344",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "New York New York United States",
-   "misses": 1,
-   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Wealth – Summer Analyst, New York – USA, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -5367,7 +5109,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -5385,50 +5127,6 @@
    "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/?codes=DIRECT&utm_source=DIRECT",
    "v": 9,
    "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must be a rising Sophomore or Junior currently enrolled in an accredited degree program",
-   "classes": [
-    2028,
-    2030
-   ],
-   "company": "Fifth Third (Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-22",
-   "first_seen": "2026-10-22",
-   "function": "Sales / Marketing",
-   "gpa": "3.0+",
-   "group": "Fifth Third (Wealth)|marketing externship summer 2027",
-   "group_title": "Marketing Externship Summer 2027",
-   "id": "wd:fifththird:R71876",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "Cincinnati, OH",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-22",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "open",
-   "title": "Marketing Externship Summer 2027",
-   "tracks": [
-    "early"
-   ],
-   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Marketing-Externship-Summer-2027_R71876",
-   "v": 9,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -8446,7 +8144,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "Denver, CO",
-   "misses": 0,
+   "misses": 1,
    "pay": "$27/hr",
    "posted": "2026-09-28",
    "region": "US",
@@ -9714,45 +9412,6 @@
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Client-Group-Analyst--US-_R106768",
    "v": 9,
    "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-15",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|2027 winter financing specialist commercial financial services real estate student intern",
-   "group_title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
-   "id": "wd:rbc:R-0000187364",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "MONTRÉAL, Quebec, Canada",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Financing-Specialist-Commercial-Financial-Services-Real-Estate-Student-Intern_R-0000187364",
-   "v": 9,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -11475,51 +11134,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "TIAA / Nuveen",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-12",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "TIAA / Nuveen|2027 early talent internship wealth management advice solutions",
-   "group_title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
-   "id": "wd:tiaa:R261000119-2",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "3965 Dallas Parkway  Frisco, TX 75034; Charlotte, NC, USA",
-   "misses": 1,
-   "pay": "$22/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Southeast",
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NC",
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/XMLNAME-2027-Early-Talent-Internship--Wealth-Management---Advice-Solutions_R261000119-2",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Pursuing a bachelor’s degree with a target graduation date of December 2027 or May 2028",
    "classes": [
     2028
@@ -11538,7 +11152,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "Los Angeles, CA; Newport Beach, CA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$23–$30/hr",
    "posted": "2026-10-20",
    "region": "US",
@@ -11723,6 +11337,50 @@
    "v": 9,
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduation date of December 2027 or May/June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Ameriprise Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Sales / Marketing",
+   "gpa": null,
+   "group": "Ameriprise Financial|business development intern",
+   "group_title": "Business Development Intern",
+   "id": "wd:ameriprise:3848",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota",
+   "misses": 2,
+   "pay": "$28/hr",
+   "posted": "2026-09-25",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Business Development Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Business-Development-Intern_R26_3848",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": "- Graduation date of December 2027 or May/June 2028",
@@ -12745,6 +12403,226 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- You are graduating between December 2027-June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.4+",
+   "group": "Citi (incl. Citi Private Bank)|wealth latam summer analyst",
+   "group_title": "Wealth - LATAM, Summer Analyst",
+   "id": "wd:citi:26994351",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "Miami Florida United States",
+   "misses": 2,
+   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Wealth - LATAM, Summer Analyst, Miami - USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---LATAM--Summer-Analyst--Miami---USA--2027_26994351",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are graduating between December 2027-June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.4+",
+   "group": "Citi (incl. Citi Private Bank)|wealth latam summer analyst",
+   "group_title": "Wealth - LATAM, Summer Analyst",
+   "id": "wd:citi:26994367",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "New York New York United States",
+   "misses": 2,
+   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Wealth - LATAM, Summer Analyst, New York - USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---LATAM--Summer-Analyst--New-York---USA--2027_26994367",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are graduating between December 2027-June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.4+",
+   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
+   "group_title": "Wealth – Summer Analyst",
+   "id": "wd:citi:26994348",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "Dallas Texas United States",
+   "misses": 2,
+   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Wealth – Summer Analyst, Dallas – USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Wealth---Summer-Analyst--Dallas---USA--2027_26994348",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are graduating between December 2027-June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.4+",
+   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
+   "group_title": "Wealth – Summer Analyst",
+   "id": "wd:citi:26994091",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "Miami Florida United States",
+   "misses": 2,
+   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Wealth – Summer Analyst, Miami– USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---Summer-Analyst--Miami--USA--2027_26994091",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are graduating between December 2027-June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.4+",
+   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
+   "group_title": "Wealth – Summer Analyst",
+   "id": "wd:citi:26994344",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "New York New York United States",
+   "misses": 2,
+   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Wealth – Summer Analyst, New York – USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
    "classes": [
     2027,
@@ -13163,6 +13041,51 @@
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R336024",
    "v": 6,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must be a rising Sophomore or Junior currently enrolled in an accredited degree program",
+   "classes": [
+    2028,
+    2030
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Fifth Third (Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "function": "Sales / Marketing",
+   "gpa": "3.0+",
+   "group": "Fifth Third (Wealth)|marketing externship summer 2027",
+   "group_title": "Marketing Externship Summer 2027",
+   "id": "wd:fifththird:R71876",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "Cincinnati, OH",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-22",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "closed",
+   "title": "Marketing Externship Summer 2027",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Marketing-Externship-Summer-2027_R71876",
+   "v": 9,
    "weeks": null,
    "work_mode": null
   },
@@ -16832,6 +16755,46 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|2027 winter financing specialist commercial financial services real estate student intern",
+   "group_title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
+   "id": "wd:rbc:R-0000187364",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "MONTRÉAL, Quebec, Canada",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Financing-Specialist-Commercial-Financial-Services-Real-Estate-Student-Intern_R-0000187364",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-15",
    "company": "RBC (incl. RBC Wealth Mgmt & City National)",
    "company_type": "Global Bank",
@@ -17358,6 +17321,52 @@
     "real_estate"
    ],
    "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Real-Estate_R261000135",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "TIAA / Nuveen",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-12",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "TIAA / Nuveen|2027 early talent internship wealth management advice solutions",
+   "group_title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
+   "id": "wd:tiaa:R261000119-2",
+   "last_seen": "2026-10-22",
+   "level": "Undergraduate",
+   "location": "3965 Dallas Parkway  Frisco, TX 75034; Charlotte, NC, USA",
+   "misses": 2,
+   "pay": "$22/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/XMLNAME-2027-Early-Talent-Internship--Wealth-Management---Advice-Solutions_R261000119-2",
    "v": 9,
    "weeks": 10,
    "work_mode": null

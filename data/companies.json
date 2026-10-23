@@ -42,7 +42,7 @@
     },
     {
      "kind": "browser",
-     "listed": 20,
+     "listed": 19,
      "matched": 0,
      "ok": true
     }
@@ -142,7 +142,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-23",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 13,
+   "open": 8,
    "sources": [
     {
      "fail_streak": 0,
@@ -241,7 +241,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-23",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 8,
+   "open": 7,
    "sources": [
     {
      "fail_streak": 0,
@@ -355,7 +355,7 @@
     },
     {
      "kind": "browser",
-     "listed": 12,
+     "listed": 11,
      "matched": 0,
      "ok": true
     }
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "5952f5adbcfaac77",
+     "hash": "cab05aed9c2e1b9e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -934,7 +934,7 @@
    "hq": "Cincinnati, OH",
    "last_ok": "2026-10-23",
    "name": "Fifth Third (Wealth)",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -1220,8 +1220,8 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -1264,7 +1264,7 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-23",
    "name": "Ameriprise Financial",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1864,9 +1864,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-22",
+     "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "e026e7bddb32464f",
+     "hash": "cdc25bf7081f6315",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 15,
+     "fail_streak": 16,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2615,7 +2615,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-23",
    "name": "TIAA / Nuveen",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "f4f63f42da1ea188",
+     "hash": "6e0037a61a9d7b89",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "02eb944c14db54a1",
+     "hash": "1013ef734056521f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3318,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "b299c1cc78d2f63a",
+     "hash": "c715a6508fc0d3d6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3409,9 +3409,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-16",
+     "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "fb26b1e45e53ac46",
+     "hash": "795489dd46c09fb5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3988,7 +3988,7 @@
     },
     {
      "kind": "browser",
-     "listed": 0,
+     "listed": 1,
      "matched": 0,
      "ok": true
     }
@@ -4156,7 +4156,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4247,9 +4247,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-20",
+     "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "0d050978f333162a",
+     "hash": "8b162169e6867544",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -4481,7 +4481,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4510,7 +4510,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 46,
+     "fail_streak": 47,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5320,7 +5320,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "a6c037b6c59532bb",
+     "hash": "b69a541ab71ec225",
      "kind": "page",
      "links": [],
      "ok": true,
