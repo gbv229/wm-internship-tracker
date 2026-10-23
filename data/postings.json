@@ -427,6 +427,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Associated Bank (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Associated Bank (Private Wealth)|2027 corporate intern wealth management",
+   "group_title": "2027 Corporate Intern - Wealth Management",
+   "id": "wd:associatedbank:JR106649",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Milwaukee 815 Water; Green Bay 200 Adams; Chicago 525 Monroe; Minneapolis 80 8th",
+   "misses": 0,
+   "pay": "$17–$27/hr",
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL",
+    "MN",
+    "WI"
+   ],
+   "status": "open",
+   "title": "2027 Corporate Intern - Wealth Management",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Milwaukee-815-Water/XMLNAME-2027-Corporate-Intern---Wealth-Management_JR106649",
+   "v": 9,
+   "weeks": 12,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
    "classes": [
     2028
@@ -2450,7 +2493,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2487,7 +2530,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2526,7 +2569,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2563,7 +2606,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "Boston, MA",
-   "misses": 1,
+   "misses": 0,
    "pay": "$20–$35/hr",
    "posted": "2026-10-16",
    "region": "US",
@@ -3739,6 +3782,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- You are graduating between December 2027-June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.4+",
+   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
+   "group_title": "Wealth – Summer Analyst",
+   "id": "wd:citi:26994344",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "New York New York United States",
+   "misses": 0,
+   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
+   "posted": "2026-09-21",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "Wealth – Summer Analyst, New York – USA, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Expected Graduation Date: May 2028",
    "classes": [
     2028
@@ -4165,7 +4251,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "Fort Collins, Colorado, USA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$23/hr",
    "posted": "2026-10-21",
    "region": "US",
@@ -9909,6 +9995,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Real Estate, Finance, Business, Urban Planning, or a related field, with an expected graduation date of December 2027 through June 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "Realty Income",
+   "company_type": "REIT",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "function": "Asset / Property Management",
+   "gpa": "3.5+",
+   "group": "Realty Income|asset management intern",
+   "group_title": "Asset Management Intern",
+   "id": "wd:realtyincome:R-100338",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Phoenix, Arizona",
+   "misses": 0,
+   "pay": "$21–$25/hr",
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "open",
+   "title": "Asset Management Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/Phoenix-Arizona/Asset-Management-Intern_R-100338",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Real Estate, Development, Urban Planning, Finance, or related field with an expected graduation date of December 2027 through June 2028",
    "classes": [
     2028
@@ -9947,377 +10076,6 @@
     "real_estate"
    ],
    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst business finance",
-   "group_title": "Summer Analyst - Business Finance",
-   "id": "ic:careers-rcm:5404",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NY-New York",
-   "misses": 1,
-   "pay": "$35/hr",
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Business Finance",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5404/summer-analyst---business-finance/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst core platforms",
-   "group_title": "Summer Analyst - Core Platforms",
-   "id": "ic:careers-rcm:5575",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NJ-Hamilton",
-   "misses": 1,
-   "pay": "$38/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Core Platforms",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5575/summer-analyst---core-platforms/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst core platforms",
-   "group_title": "Summer Analyst - Core Platforms",
-   "id": "ic:careers-rcm:5574",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NJ-Hamilton",
-   "misses": 1,
-   "pay": "$38/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Core Platforms",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5574/summer-analyst---core-platforms/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst core platforms",
-   "group_title": "Summer Analyst - Core Platforms",
-   "id": "ic:careers-rcm:5573",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NJ-Hamilton",
-   "misses": 1,
-   "pay": "$38/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Core Platforms",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5573/summer-analyst---core-platforms/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst core platforms",
-   "group_title": "Summer Analyst - Core Platforms",
-   "id": "ic:careers-rcm:5354",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NJ-Hamilton",
-   "misses": 1,
-   "pay": "$38/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Core Platforms",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5354/summer-analyst---core-platforms/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a bachelor’s degree in Finance, Economics, Business, Marketing, or a related field, on track to graduate in 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Sales / Marketing",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst distribution",
-   "group_title": "Summer Analyst - Distribution",
-   "id": "ic:careers-rcm:5406",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NY-New York",
-   "misses": 1,
-   "pay": "$38/hr",
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Distribution",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5406/summer-analyst---distribution/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst manager due diligence",
-   "group_title": "Summer Analyst - Manager Due Diligence",
-   "id": "ic:careers-rcm:5403",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NY-New York",
-   "misses": 1,
-   "pay": "$38/hr",
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Manager Due Diligence",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5403/summer-analyst---manager-due-diligence/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst practice management",
-   "group_title": "Summer Analyst - Practice Management",
-   "id": "ic:careers-rcm:5412",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NJ-Hamilton",
-   "misses": 1,
-   "pay": "$35/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Practice Management",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5412/summer-analyst---practice-management/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst wealth planning",
-   "group_title": "Summer Analyst - Wealth Planning",
-   "id": "ic:careers-rcm:5405",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NY-New York",
-   "misses": 1,
-   "pay": "$35/hr",
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Summer Analyst - Wealth Planning",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5405/summer-analyst---wealth-planning/job",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -11386,6 +11144,51 @@
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "TIAA / Nuveen",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-12",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "TIAA / Nuveen|2027 early talent internship wealth management advice solutions",
+   "group_title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
+   "id": "wd:tiaa:R261000119-2",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "3965 Dallas Parkway  Frisco, TX 75034; Charlotte, NC, USA",
+   "misses": 0,
+   "pay": "$22/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "TX"
+   ],
+   "status": "open",
+   "title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/XMLNAME-2027-Early-Talent-Internship--Wealth-Management---Advice-Solutions_R261000119-2",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
   },
   {
    "class_evidence": "· Pursuing a bachelor’s degree with a target graduation date of May 2029",
@@ -12829,50 +12632,6 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Miami-Florida-United-States/Wealth---Summer-Analyst--Miami--USA--2027_26994091",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are graduating between December 2027-June 2028",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-23",
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.4+",
-   "group": "Citi (incl. Citi Private Bank)|wealth summer analyst",
-   "group_title": "Wealth – Summer Analyst",
-   "id": "wd:citi:26994344",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "New York New York United States",
-   "misses": 2,
-   "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
-   "posted": "2026-09-21",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "closed",
-   "title": "Wealth – Summer Analyst, New York – USA, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -17415,6 +17174,386 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst business finance",
+   "group_title": "Summer Analyst - Business Finance",
+   "id": "ic:careers-rcm:5404",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NY-New York",
+   "misses": 2,
+   "pay": "$35/hr",
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Business Finance",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5404/summer-analyst---business-finance/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst core platforms",
+   "group_title": "Summer Analyst - Core Platforms",
+   "id": "ic:careers-rcm:5575",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NJ-Hamilton",
+   "misses": 2,
+   "pay": "$38/hr",
+   "posted": "2026-10-08",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Core Platforms",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5575/summer-analyst---core-platforms/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst core platforms",
+   "group_title": "Summer Analyst - Core Platforms",
+   "id": "ic:careers-rcm:5574",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NJ-Hamilton",
+   "misses": 2,
+   "pay": "$38/hr",
+   "posted": "2026-10-08",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Core Platforms",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5574/summer-analyst---core-platforms/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst core platforms",
+   "group_title": "Summer Analyst - Core Platforms",
+   "id": "ic:careers-rcm:5573",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NJ-Hamilton",
+   "misses": 2,
+   "pay": "$38/hr",
+   "posted": "2026-10-08",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Core Platforms",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5573/summer-analyst---core-platforms/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst core platforms",
+   "group_title": "Summer Analyst - Core Platforms",
+   "id": "ic:careers-rcm:5354",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NJ-Hamilton",
+   "misses": 2,
+   "pay": "$38/hr",
+   "posted": "2026-10-08",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Core Platforms",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5354/summer-analyst---core-platforms/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree in Finance, Economics, Business, Marketing, or a related field, on track to graduate in 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Sales / Marketing",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst distribution",
+   "group_title": "Summer Analyst - Distribution",
+   "id": "ic:careers-rcm:5406",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NY-New York",
+   "misses": 2,
+   "pay": "$38/hr",
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Distribution",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5406/summer-analyst---distribution/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst manager due diligence",
+   "group_title": "Summer Analyst - Manager Due Diligence",
+   "id": "ic:careers-rcm:5403",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NY-New York",
+   "misses": 2,
+   "pay": "$38/hr",
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Manager Due Diligence",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5403/summer-analyst---manager-due-diligence/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst practice management",
+   "group_title": "Summer Analyst - Practice Management",
+   "id": "ic:careers-rcm:5412",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NJ-Hamilton",
+   "misses": 2,
+   "pay": "$35/hr",
+   "posted": "2026-10-08",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Practice Management",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5412/summer-analyst---practice-management/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst wealth planning",
+   "group_title": "Summer Analyst - Wealth Planning",
+   "id": "ic:careers-rcm:5405",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "US-NY-New York",
+   "misses": 2,
+   "pay": "$35/hr",
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Summer Analyst - Wealth Planning",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5405/summer-analyst---wealth-planning/job",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-20",
    "company": "Rothschild & Co (Wealth Mgmt)",
    "company_type": "Investment Bank",
@@ -17578,52 +17717,6 @@
     "real_estate"
    ],
    "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Nuveen-Real-Estate_R261000135",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-23",
-   "company": "TIAA / Nuveen",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-12",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "TIAA / Nuveen|2027 early talent internship wealth management advice solutions",
-   "group_title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
-   "id": "wd:tiaa:R261000119-2",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "3965 Dallas Parkway  Frisco, TX 75034; Charlotte, NC, USA",
-   "misses": 2,
-   "pay": "$22/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Southeast",
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NC",
-    "TX"
-   ],
-   "status": "closed",
-   "title": "2027 Early Talent Internship: Wealth Management & Advice Solutions",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/XMLNAME-2027-Early-Talent-Internship--Wealth-Management---Advice-Solutions_R261000119-2",
    "v": 9,
    "weeks": 10,
    "work_mode": null
