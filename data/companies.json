@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-24",
      "fail_streak": 0,
-     "hash": "8ea02bf498f632e9",
+     "hash": "e4bb4656761a4b11",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1866,7 +1866,7 @@
     {
      "changed_on": "2026-10-24",
      "fail_streak": 0,
-     "hash": "2ea45ba20e099077",
+     "hash": "404cb98417add778",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 25,
+     "fail_streak": 26,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2840,7 +2840,7 @@
     {
      "changed_on": "2026-10-24",
      "fail_streak": 0,
-     "hash": "d2047695a890b574",
+     "hash": "0908f2274dda835b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3177,7 +3177,7 @@
     {
      "changed_on": "2026-10-24",
      "fail_streak": 0,
-     "hash": "0c2eb05fb5e9121b",
+     "hash": "031b362144fb3fb6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3286,7 +3286,7 @@
     {
      "changed_on": "2026-10-24",
      "fail_streak": 0,
-     "hash": "6b3345b69122913b",
+     "hash": "1a7182719fec31a7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3317,7 +3317,7 @@
     {
      "changed_on": "2026-10-24",
      "fail_streak": 0,
-     "hash": "c715a6508fc0d3d6",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3855,7 +3855,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3884,7 +3884,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3987,7 +3987,7 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
+     "listed": 0,
      "matched": 0,
      "ok": true
     }
@@ -4149,22 +4149,24 @@
    "domain": "coniferllc.com",
    "focus": "real_estate",
    "hq": "Rochester, NY",
-   "last_ok": "2026-10-23",
+   "last_ok": "2026-10-24",
    "name": "Conifer Realty",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 7,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4480,7 +4482,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4509,7 +4511,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 56,
+     "fail_streak": 57,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5319,7 +5321,7 @@
     {
      "changed_on": "2026-10-24",
      "fail_streak": 0,
-     "hash": "4655dc21be45b931",
+     "hash": "77f7a87038e8b1a9",
      "kind": "page",
      "links": [],
      "ok": true,
