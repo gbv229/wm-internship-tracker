@@ -3181,47 +3181,6 @@
    "gpa": "3.2+",
    "group": "Cerity Partners|summer 2027 wealth management internship",
    "group_title": "Summer 2027 Wealth Management Internship",
-   "id": "wd:ceritypartners:R935",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "Houston, TX",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-09-26",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Houston-TX/Summer-2027-Wealth-Management-Internship_R935",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
    "id": "wd:ceritypartners:R889-1",
    "last_seen": "2026-10-24",
    "level": "Undergraduate",
@@ -3302,6 +3261,47 @@
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "id": "wd:ceritypartners:R935",
+   "last_seen": "2026-10-24",
+   "level": "Undergraduate",
+   "location": "Houston, TX",
+   "misses": 1,
+   "pay": null,
+   "posted": "2026-09-26",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Houston-TX/Summer-2027-Wealth-Management-Internship_R935",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
    "group": "Cerity Partners|wealth management intern",
    "group_title": "Wealth Management Intern",
    "id": "wd:ceritypartners:R869",
@@ -3328,47 +3328,6 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Norfolk-VA/Wealth-Management-Intern_R869",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|wealth management internship",
-   "group_title": "Wealth Management Internship",
-   "id": "wd:ceritypartners:R825-1",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "Austin, TX",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-22",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Wealth-Management-Internship_R825-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -3451,6 +3410,47 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Santa-Barbara-CA/Wealth-Management-Internship_R985",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|wealth management internship",
+   "group_title": "Wealth Management Internship",
+   "id": "wd:ceritypartners:R825-1",
+   "last_seen": "2026-10-24",
+   "level": "Undergraduate",
+   "location": "Austin, TX",
+   "misses": 1,
+   "pay": null,
+   "posted": "2026-10-22",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Wealth-Management-Internship_R825-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -5119,45 +5119,6 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Greystar",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "Greystar|intern property operations diemen",
-   "group_title": "Intern Property Operations Diemen",
-   "id": "br:85812a57a59d47",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-24",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Intern Property Operations Diemen, Netherlands",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jobs.greystar.com/job/diemen/intern-property-operations/35302/96301451776",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
   },
   {
    "class_evidence": "A current junior (graduation date of May 2028) who is fueled by collaboration, able to listen and make quick decisions and thrive in a goal-oriented environment.",
@@ -13350,6 +13311,46 @@
    "v": 9,
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-24",
+   "company": "Greystar",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "Greystar|intern property operations diemen",
+   "group_title": "Intern Property Operations Diemen",
+   "id": "br:85812a57a59d47",
+   "last_seen": "2026-10-24",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-24",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Intern Property Operations Diemen, Netherlands",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jobs.greystar.com/job/diemen/intern-property-operations/35302/96301451776",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
