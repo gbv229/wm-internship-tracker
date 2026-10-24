@@ -4029,50 +4029,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- College/University junior or senior",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic gos central summer intern",
-   "group_title": "EIC GOS Central Summer Intern",
-   "id": "wd:cw:R333458",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "Client Site - USA - MO - St. Louis - 575 Maryville Centre Drive",
-   "misses": 1,
-   "pay": "$18–$21/hr",
-   "posted": "2026-10-15",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "open",
-   "title": "EIC GOS Central Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Cushman & Wakefield",
@@ -5163,6 +5119,45 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Greystar",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "Greystar|intern property operations diemen",
+   "group_title": "Intern Property Operations Diemen",
+   "id": "br:85812a57a59d47",
+   "last_seen": "2026-10-24",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-24",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Intern Property Operations Diemen, Netherlands",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jobs.greystar.com/job/diemen/intern-property-operations/35302/96301451776",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "A current junior (graduation date of May 2028) who is fueled by collaboration, able to listen and make quick decisions and thrive in a goal-oriented environment.",
@@ -12803,6 +12798,51 @@
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IRL---Dublin---2-Cumberland-Place/EIC-Dublin-Building-Surveying-Internship_R337487",
    "v": 9,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- College/University junior or senior",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-10-24",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-21",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic gos central summer intern",
+   "group_title": "EIC GOS Central Summer Intern",
+   "id": "wd:cw:R333458",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Client Site - USA - MO - St. Louis - 575 Maryville Centre Drive",
+   "misses": 2,
+   "pay": "$18–$21/hr",
+   "posted": "2026-10-15",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "closed",
+   "title": "EIC GOS Central Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458",
+   "v": 9,
+   "weeks": 10,
    "work_mode": null
   },
   {
