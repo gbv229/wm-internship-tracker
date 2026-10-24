@@ -3261,47 +3261,6 @@
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
-   "id": "wd:ceritypartners:R935",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "Houston, TX",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-26",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Houston-TX/Summer-2027-Wealth-Management-Internship_R935",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
    "group": "Cerity Partners|wealth management intern",
    "group_title": "Wealth Management Intern",
    "id": "wd:ceritypartners:R869",
@@ -3410,47 +3369,6 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Santa-Barbara-CA/Wealth-Management-Internship_R985",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|wealth management internship",
-   "group_title": "Wealth Management Internship",
-   "id": "wd:ceritypartners:R825-1",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "Austin, TX",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-22",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Wealth-Management-Internship_R825-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -12029,6 +11947,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-24",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "id": "wd:ceritypartners:R935",
+   "last_seen": "2026-10-24",
+   "level": "Undergraduate",
+   "location": "Houston, TX",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-26",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Houston-TX/Summer-2027-Wealth-Management-Internship_R935",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-22",
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
@@ -12064,6 +12024,48 @@
     "wealth"
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Indianapolis-Office/Wealth-Management-Intern_R875",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-24",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|wealth management internship",
+   "group_title": "Wealth Management Internship",
+   "id": "wd:ceritypartners:R825-1",
+   "last_seen": "2026-10-24",
+   "level": "Undergraduate",
+   "location": "Austin, TX",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-22",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Wealth-Management-Internship_R825-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
