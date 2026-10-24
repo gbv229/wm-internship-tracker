@@ -3800,7 +3800,7 @@
    "last_seen": "2026-10-23",
    "level": "Undergraduate",
    "location": "New York New York United States",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$72/hr (≈ $41k–$151k/yr)",
    "posted": "2026-09-21",
    "region": "US",
@@ -4230,47 +4230,6 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/EIC-Hospitality-intern---Capital-Markets_R337039",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-23",
-   "first_seen": "2026-10-20",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic intern",
-   "group_title": "EIC Intern",
-   "id": "wd:cw:R338751",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "Fort Collins, Colorado, USA",
-   "misses": 1,
-   "pay": "$20–$23/hr",
-   "posted": "2026-10-21",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "open",
-   "title": "EIC Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Fort-Collins-Colorado-USA/EIC-Intern_R338751",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -8081,6 +8040,47 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "John Hancock (Manulife)",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "function": "Investments",
+   "gpa": null,
+   "group": "John Hancock (Manulife)|winter co op 2027 global wealth asset management operations",
+   "group_title": "Winter Co-op 2027 – Global Wealth & Asset Management Operations",
+   "id": "wd:manulife:JR26100464",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Boston, Massachusetts",
+   "misses": 0,
+   "pay": "$21–$27/hr (≈ $43k–$57k/yr)",
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "open",
+   "title": "Winter Co-op 2027 – Global Wealth & Asset Management Operations",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Winter-Co-op-2027---Global-Wealth---Asset-Management-Operations_JR26100464",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
@@ -12807,6 +12807,48 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IRL---Dublin---2-Cumberland-Place/EIC-Dublin-Building-Surveying-Internship_R337487",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-23",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-23",
+   "first_seen": "2026-10-20",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic intern",
+   "group_title": "EIC Intern",
+   "id": "wd:cw:R338751",
+   "last_seen": "2026-10-23",
+   "level": "Undergraduate",
+   "location": "Fort Collins, Colorado, USA",
+   "misses": 2,
+   "pay": "$20–$23/hr",
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "EIC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Fort-Collins-Colorado-USA/EIC-Intern_R338751",
    "v": 9,
    "weeks": null,
    "work_mode": null

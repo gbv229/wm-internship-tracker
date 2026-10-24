@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "21db4b6b4c46089d",
+     "hash": "b4d3c4c248f0cd9c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 19,
+     "fail_streak": 20,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2840,7 +2840,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "92cc3a1493240df1",
+     "hash": "0908f2274dda835b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2918,7 +2918,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-23",
    "name": "Cushman & Wakefield",
-   "open": 22,
+   "open": 21,
    "sources": [
     {
      "fail_streak": 0,
@@ -3177,7 +3177,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "97c47f52442ffb07",
+     "hash": "59228b5501cc3ec1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3286,7 +3286,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "438a74f194ad2fa1",
+     "hash": "3e88deec8d8e3637",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3317,7 +3317,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "45d748f45dca166f",
+     "hash": "2cd15b52e7be55bb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3855,7 +3855,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3884,7 +3884,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4155,7 +4155,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.coniferllc.com/careers/",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4480,7 +4480,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4509,7 +4509,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 50,
+     "fail_streak": 51,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4866,7 +4866,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-10-23",
    "name": "John Hancock (Manulife)",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "fail_streak": 0,
@@ -5319,7 +5319,7 @@
     {
      "changed_on": "2026-10-23",
      "fail_streak": 0,
-     "hash": "2eb63924329a0d9f",
+     "hash": "1c34fac525ba1060",
      "kind": "page",
      "links": [],
      "ok": true,
