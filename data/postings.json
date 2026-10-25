@@ -3417,47 +3417,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-22",
-   "first_seen": "2026-10-19",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Charles Schwab|2027 financial service support intern",
-   "group_title": "2027 Financial Service & Support Intern",
-   "id": "ic:career-schwab:126236",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "US-NE-Omaha",
-   "misses": 1,
-   "pay": "$22/hr",
-   "posted": "2026-10-19",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NE"
-   ],
-   "status": "open",
-   "title": "2027 Financial Service & Support Intern - Omaha",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126236/2027-financial-service-%26-support-intern---omaha/job",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "Citi (incl. Citi Private Bank)",
    "company_type": "Global Bank",
    "deadline": null,
@@ -12108,6 +12067,48 @@
     "wealth"
    ],
    "url": "https://career-schwab.icims.com/jobs/126232/2027-financial-service-%26-support-intern---austin/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-24",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-22",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|2027 financial service support intern",
+   "group_title": "2027 Financial Service & Support Intern",
+   "id": "ic:career-schwab:126236",
+   "last_seen": "2026-10-24",
+   "level": "Undergraduate",
+   "location": "US-NE-Omaha",
+   "misses": 2,
+   "pay": "$22/hr",
+   "posted": "2026-10-19",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NE"
+   ],
+   "status": "closed",
+   "title": "2027 Financial Service & Support Intern - Omaha",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126236/2027-financial-service-%26-support-intern---omaha/job",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
