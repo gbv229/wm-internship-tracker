@@ -1045,7 +1045,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "IA-Cedar Rapids",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-02",
    "region": "",
@@ -1710,6 +1710,92 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "id": "wd:baird:R20261220",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "UT-Salt Lake City",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "UT"
+   ],
+   "status": "open",
+   "title": "Internship – Private Wealth Management (Salt Lake City, UT Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/UT-Salt-Lake-City/Internship---Private-Wealth-Management--Salt-Lake-City--UT-Summer-2027-_R20261220",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "id": "wd:baird:R20261218-1",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "IA-Sioux City",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IA"
+   ],
+   "status": "open",
+   "title": "Internship – Private Wealth Management (Sioux City, IA Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -2454,7 +2540,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -2491,7 +2577,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2530,7 +2616,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2569,7 +2655,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -3169,47 +3255,6 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
-   "id": "wd:ceritypartners:R969",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Denver, CO",
-   "misses": 1,
-   "pay": "$25/hr",
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Denver-CO/Summer-2027-Wealth-Management-Internship_R969",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
@@ -5053,7 +5098,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-24",
    "region": "International",
@@ -5585,50 +5630,6 @@
     "real_estate"
    ],
    "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Acquistions_R5938",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Rising senior or grad student pursuing a bachelor’s or master’s degree from an accredited university in Finance, Real Estate, Business, Economics, Statistics, Mathematics, Computer Science, or other related fields with an expected graduation date between…",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "Invitation Homes",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-13",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "Invitation Homes|intern construction lending",
-   "group_title": "Intern, Construction Lending",
-   "id": "wd:invitationhomes:R5958",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Dallas, TX- HQ",
-   "misses": 1,
-   "pay": "$18–$31/hr",
-   "posted": "2026-10-24",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Intern, Construction Lending",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Construction-Lending_R5958",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -6563,49 +6564,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-23",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "id": "wd:jll:REQ530236",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Boston, MA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Boston, MA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Capital-Markets-Summer-2027-Internship---Boston--MA_REQ530236",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-24",
    "first_seen": "2026-10-08",
    "function": "Capital Markets / Investment Sales",
@@ -7176,7 +7134,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "Andover, MA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-26",
    "region": "US",
@@ -7196,45 +7154,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Environmental-Health-and-Safety-Specialist-Summer-2027-Internship---Andover--MA_REQ541929",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|facilities admin intern",
-   "group_title": "Facilities Admin Intern",
-   "id": "wd:jll:REQ544665",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Ho Chi Minh City, Vietnam",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-26",
-   "region": "",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Facilities Admin Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ho-Chi-Minh-City-Vietnam/Facilities-Admin-Intern_REQ544665",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -8151,6 +8070,264 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
+   "v": 9,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "KeyBank|summer 2027 key investment services internship",
+   "group_title": "Summer 2027 Key Investment Services Internship",
+   "id": "wd:keybank:R-41217",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Albany, OR",
+   "misses": 0,
+   "pay": "$23/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OR"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Albany, OR",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217",
+   "v": 9,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "KeyBank|summer 2027 key investment services internship bellingham",
+   "group_title": "Summer 2027 Key Investment Services Internship - Bellingham",
+   "id": "wd:keybank:R-41216",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Bellingham, WA",
+   "misses": 0,
+   "pay": "$23/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WA"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Bellingham, WA",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216",
+   "v": 9,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "KeyBank|summer 2027 key investment services internship boise",
+   "group_title": "Summer 2027 Key Investment Services Internship - Boise",
+   "id": "wd:keybank:R-41218",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Boise, ID",
+   "misses": 0,
+   "pay": "$23/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "ID"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Boise, ID",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
+   "v": 9,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "KeyBank|summer 2027 key investment services internship erie",
+   "group_title": "Summer 2027 Key Investment Services Internship - Erie",
+   "id": "wd:keybank:R-41223",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Erie, PA",
+   "misses": 0,
+   "pay": "$23/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "PA"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Erie, PA",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Erie-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Erie--PA_R-41223",
+   "v": 9,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "KeyBank|summer 2027 key investment services internship goshen",
+   "group_title": "Summer 2027 Key Investment Services Internship - Goshen",
+   "id": "wd:keybank:R-41215",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Goshen, IN",
+   "misses": 0,
+   "pay": "$23/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IN"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Goshen, IN",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Goshen-IN/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Goshen--IN_R-41215",
+   "v": 9,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "KeyBank|summer 2027 key investment services internship toledo",
+   "group_title": "Summer 2027 Key Investment Services Internship - Toledo",
+   "id": "wd:keybank:R-41225",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Toledo, OH",
+   "misses": 0,
+   "pay": "$23/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Toledo, OH",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225",
    "v": 9,
    "weeks": 5,
    "work_mode": null
@@ -10303,6 +10480,47 @@
    "company_type": "Developer & Operator",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Ryan Companies|human resource intern",
+   "group_title": "Human Resource Intern",
+   "id": "wd:ryancompanies:R-101938",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Minneapolis",
+   "misses": 0,
+   "pay": "$20–$25/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "open",
+   "title": "Human Resource Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Human-Resource-Intern_R-101938",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Ryan Companies",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-24",
    "first_seen": "2026-10-08",
    "function": "Development / Construction",
@@ -12185,6 +12403,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-26",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "id": "wd:ceritypartners:R969",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 2,
+   "pay": "$25/hr",
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Denver-CO/Summer-2027-Wealth-Management-Internship_R969",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-24",
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
@@ -13762,6 +14022,51 @@
    "work_mode": "Hybrid"
   },
   {
+   "class_evidence": "- Rising senior or grad student pursuing a bachelor’s or master’s degree from an accredited university in Finance, Real Estate, Business, Economics, Statistics, Mathematics, Computer Science, or other related fields with an expected graduation date between…",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-10-26",
+   "company": "Invitation Homes",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-13",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "Invitation Homes|intern construction lending",
+   "group_title": "Intern, Construction Lending",
+   "id": "wd:invitationhomes:R5958",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Dallas, TX- HQ",
+   "misses": 2,
+   "pay": "$18–$31/hr",
+   "posted": "2026-10-24",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Intern, Construction Lending",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Construction-Lending_R5958",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Expected graduation date of December 2027 through June 2028",
    "classes": [
     2028
@@ -13936,6 +14241,50 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Capital-Markets-Summer-2027-Internship---Austin--TX_REQ530579",
    "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-26",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-23",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "id": "wd:jll:REQ530236",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Boston, MA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Boston, MA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Capital-Markets-Summer-2027-Internship---Boston--MA_REQ530236",
+   "v": 9,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -14148,6 +14497,46 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Expression-of-Interest--2027-Summer-Internship-Program_REQ535877",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-26",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|facilities admin intern",
+   "group_title": "Facilities Admin Intern",
+   "id": "wd:jll:REQ544665",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Ho Chi Minh City, Vietnam",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Facilities Admin Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ho-Chi-Minh-City-Vietnam/Facilities-Admin-Intern_REQ544665",
+   "v": 9,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -15660,138 +16049,6 @@
    "classes": [
     2029
    ],
-   "closed_on": "2026-10-17",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "KeyBank|summer 2027 key investment services internship",
-   "group_title": "Summer 2027 Key Investment Services Internship",
-   "id": "wd:keybank:R-41217",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Albany, OR",
-   "misses": 2,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OR"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Albany, OR",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "closed_on": "2026-10-17",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "KeyBank|summer 2027 key investment services internship bellingham",
-   "group_title": "Summer 2027 Key Investment Services Internship - Bellingham",
-   "id": "wd:keybank:R-41216",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Bellingham, WA",
-   "misses": 2,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "WA"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Bellingham, WA",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "closed_on": "2026-10-17",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "KeyBank|summer 2027 key investment services internship boise",
-   "group_title": "Summer 2027 Key Investment Services Internship - Boise",
-   "id": "wd:keybank:R-41218",
-   "last_seen": "2026-10-17",
-   "level": "Undergraduate",
-   "location": "Boise, ID",
-   "misses": 2,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "ID"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Boise, ID",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
    "closed_on": "2026-10-11",
    "company": "KeyBank",
    "company_type": "Regional Bank",
@@ -15836,94 +16093,6 @@
    "classes": [
     2029
    ],
-   "closed_on": "2026-10-17",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "KeyBank|summer 2027 key investment services internship erie",
-   "group_title": "Summer 2027 Key Investment Services Internship - Erie",
-   "id": "wd:keybank:R-41223",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Erie, PA",
-   "misses": 2,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "PA"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Erie, PA",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Erie-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Erie--PA_R-41223",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "closed_on": "2026-10-17",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "KeyBank|summer 2027 key investment services internship goshen",
-   "group_title": "Summer 2027 Key Investment Services Internship - Goshen",
-   "id": "wd:keybank:R-41215",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Goshen, IN",
-   "misses": 2,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IN"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Goshen, IN",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Goshen-IN/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Goshen--IN_R-41215",
-   "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
    "closed_on": "2026-10-09",
    "company": "KeyBank",
    "company_type": "Regional Bank",
@@ -15960,50 +16129,6 @@
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Pottstown-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Pottstown--PA_R-41222",
    "v": 5,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "closed_on": "2026-10-17",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-15",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "KeyBank|summer 2027 key investment services internship toledo",
-   "group_title": "Summer 2027 Key Investment Services Internship - Toledo",
-   "id": "wd:keybank:R-41225",
-   "last_seen": "2026-10-16",
-   "level": "Undergraduate",
-   "location": "Toledo, OH",
-   "misses": 2,
-   "pay": "$23/hr",
-   "posted": "2026-09-15",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Toledo, OH",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225",
-   "v": 8,
    "weeks": 5,
    "work_mode": null
   },

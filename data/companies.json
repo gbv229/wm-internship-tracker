@@ -42,7 +42,7 @@
     },
     {
      "kind": "browser",
-     "listed": 18,
+     "listed": 19,
      "matched": 0,
      "ok": true
     }
@@ -241,7 +241,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-10-26",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 7,
+   "open": 6,
    "sources": [
     {
      "fail_streak": 0,
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "17b84aeb656f0dc2",
+     "hash": "abb23bc88f72eb17",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -760,8 +760,8 @@
     },
     {
      "kind": "browser",
-     "listed": 7,
-     "matched": 4,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -956,7 +956,7 @@
    "hq": "Cleveland, OH",
    "last_ok": "2026-10-26",
    "name": "KeyBank",
-   "open": 3,
+   "open": 9,
    "sources": [
     {
      "fail_streak": 0,
@@ -1212,7 +1212,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "5cddc75a6ae6dfbe",
+     "hash": "30323d529b5018e0",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1332,7 +1332,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-10-26",
    "name": "Baird",
-   "open": 25,
+   "open": 27,
    "sources": [
     {
      "fail_streak": 0,
@@ -1668,7 +1668,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-26",
    "name": "Cerity Partners",
-   "open": 15,
+   "open": 14,
    "sources": [
     {
      "fail_streak": 0,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1866,7 +1866,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "e026e7bddb32464f",
+     "hash": "52fce816d54aa541",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 38,
+     "fail_streak": 39,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,15 +1986,16 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_CERT_REVOKED at https://www.savantwealth.com/careers/\nCall log:\n  - navigating to \"https://www.savantwealth.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2776,9 +2777,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-20",
+     "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "f13484063a3b0e39",
+     "hash": "05e4faa3e3acad7f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2897,7 +2898,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-26",
    "name": "JLL",
-   "open": 36,
+   "open": 34,
    "sources": [
     {
      "fail_streak": 0,
@@ -3177,7 +3178,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "13479c2c220ef750",
+     "hash": "7470ad43cc6c6a9e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3286,7 +3287,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "0f9ffaaf699616df",
+     "hash": "1721746459171bbb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3855,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3884,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3987,8 +3988,8 @@
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -4047,7 +4048,7 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-10-26",
    "name": "Ryan Companies",
-   "open": 1,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -4182,7 +4183,7 @@
    "hq": "Dallas, TX",
    "last_ok": "2026-10-26",
    "name": "Invitation Homes",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -4482,7 +4483,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4511,7 +4512,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 69,
+     "fail_streak": 70,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4641,9 +4642,10 @@
      "url": "https://www.brixmor.com/careers"
     },
     {
-     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.brixmor.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -5320,7 +5322,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "28d4586e2d909219",
+     "hash": "08831a5e091dfb3c",
      "kind": "page",
      "links": [],
      "ok": true,
