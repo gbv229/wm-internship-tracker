@@ -2247,45 +2247,6 @@
    "classes": [],
    "company": "Blackstone",
    "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Blackstone|2027 blackstone private wealth summer analyst",
-   "group_title": "2027 Blackstone Private Wealth Summer Analyst",
-   "id": "wd:blackstone:40708",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Tokyo",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 Blackstone Private Wealth Summer Analyst, Tokyo",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--Tokyo_40708",
-   "v": 9,
-   "weeks": 8,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Blackstone",
-   "company_type": "Asset Manager",
    "deadline": "2026-10-20",
    "deadline_evidence": "- Applications will close on Friday 3 0 October 202 6",
    "detail_at": "2026-10-24",
@@ -3226,7 +3187,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "Denver, CO",
-   "misses": 0,
+   "misses": 1,
    "pay": "$25/hr",
    "posted": "2026-10-08",
    "region": "US",
@@ -4018,6 +3979,45 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/EIC-Hospitality-intern---Capital-Markets_R337039",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic intern",
+   "group_title": "EIC Intern",
+   "id": "wd:cw:R336024",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Madrid, Spain",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R336024",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -4883,45 +4883,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Digital Realty",
-   "company_type": "REIT",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "Digital Realty|technical operations internship",
-   "group_title": "Technical Operations Internship",
-   "id": "or:hdep:8832",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Zürich, Switzerland",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-30",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Technical Operations Internship (m/f/d)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8832",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "Eastdil Secured",
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
@@ -5074,6 +5035,45 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Greystar",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "Greystar|intern property operations diemen",
+   "group_title": "Intern Property Operations Diemen",
+   "id": "br:85812a57a59d47",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-24",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Intern Property Operations Diemen, Netherlands",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jobs.greystar.com/job/diemen/intern-property-operations/35302/96301451776",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "A current junior (graduation date of May 2028) who is fueled by collaboration, able to listen and make quick decisions and thrive in a goal-oriented environment.",
@@ -5609,7 +5609,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "Dallas, TX- HQ",
-   "misses": 0,
+   "misses": 1,
    "pay": "$18–$31/hr",
    "posted": "2026-10-24",
    "region": "US",
@@ -6573,7 +6573,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "Boston, MA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-23",
    "region": "US",
@@ -7168,6 +7168,47 @@
    "deadline_evidence": null,
    "detail_at": "2026-10-26",
    "first_seen": "2026-10-26",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|environmental health and safety specialist summer 2027 internship andover",
+   "group_title": "Environmental Health and Safety Specialist Summer 2027 Internship – Andover",
+   "id": "wd:jll:REQ541929",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Andover, MA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MA"
+   ],
+   "status": "open",
+   "title": "Environmental Health and Safety Specialist Summer 2027 Internship – Andover, MA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Environmental-Health-and-Safety-Specialist-Summer-2027-Internship---Andover--MA_REQ541929",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
    "function": "Asset / Property Management",
    "gpa": null,
    "group": "JLL|facilities admin intern",
@@ -7176,7 +7217,7 @@
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
    "location": "Ho Chi Minh City, Vietnam",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-26",
    "region": "",
@@ -7360,6 +7401,47 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Pittsburgh-PA/JLL-Real-Estate-Capital-Asset-Management-Capital-Markets-Summer-2027-Internship---Pittsburgh--PA_REQ530211",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-13",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing intern",
+   "group_title": "Leasing Intern",
+   "id": "wd:jll:REQ541497",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Leasing Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Intern_REQ541497",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -9000,6 +9082,47 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR045578",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Westport, Connecticut, United States of America",
+   "misses": 0,
+   "pay": "$20/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CT"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Westport-Connecticut-United-States-of-America/Intern_JR045578",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-25",
    "first_seen": "2026-10-19",
    "function": "Wealth Management",
@@ -9082,36 +9205,36 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
    "function": "Wealth Management",
    "gpa": null,
-   "group": "Morgan Stanley|intern",
-   "group_title": "Intern",
-   "id": "wd:ms:JR042973-2",
+   "group": "Morgan Stanley|scaling insights program manager institutional consulting solutions vice president executive director",
+   "group_title": "Scaling & Insights Program Manager, Institutional Consulting Solutions - Vice President / Executive Director",
+   "id": "wd:ms:PT-JR045641",
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
-   "location": "Baltimore, Maryland, United States of America",
-   "misses": 1,
+   "location": "New York, New York, United States of America",
+   "misses": 0,
    "pay": null,
-   "posted": "2026-09-25",
+   "posted": "2026-10-26",
    "region": "US",
    "regions": [
-    "Mid-Atlantic"
+    "Northeast"
    ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
    "sponsorship": null,
    "states": [
-    "MD"
+    "NY"
    ],
    "status": "open",
-   "title": "Intern",
+   "title": "Scaling & Insights Program Manager, Institutional Consulting Solutions - Vice President / Executive Director",
    "tracks": [
-    "wealth"
+    "early"
    ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Scaling---Insights-Program-Manager--Institutional-Consulting-Solutions---Vice-President---Executive-Director_PT-JR045641",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -10481,6 +10604,47 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|branch intern",
+   "group_title": "Branch Intern",
+   "id": "ic:careers-stifel:10098",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "US-MO-O'Fallon",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Branch Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10098/branch-intern/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-24",
    "first_seen": "2026-10-21",
    "function": "Wealth Management",
@@ -11006,6 +11170,49 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Pursuing a bachelor’s degree with a target graduation date of December 2027 or May 2028",
+   "classes": [
+    2028
+   ],
+   "company": "U.S. Bank (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "U.S. Bank (Private Wealth)|2027 commercial real estate summer intern",
+   "group_title": "2027 Commercial Real Estate Summer Intern",
+   "id": "wd:usbank:2026-0025772",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 0,
+   "pay": "$23–$30/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "open",
+   "title": "2027 Commercial Real Estate Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "· Pursuing a bachelor’s degree with a target graduation date of May 2029",
    "classes": [
     2029
@@ -11513,6 +11720,46 @@
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Geneva-18-20-Chemin-de-Grange-Canal/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Geneva_JR-0000124673",
    "v": 8,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-26",
+   "company": "Blackstone",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Blackstone|2027 blackstone private wealth summer analyst",
+   "group_title": "2027 Blackstone Private Wealth Summer Analyst",
+   "id": "wd:blackstone:40708",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Tokyo",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-08",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 Blackstone Private Wealth Summer Analyst, Tokyo",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--Tokyo_40708",
+   "v": 9,
+   "weeks": 8,
    "work_mode": null
   },
   {
@@ -13093,42 +13340,42 @@
   {
    "class_evidence": null,
    "classes": [],
-   "closed_on": "2026-10-15",
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
+   "closed_on": "2026-10-26",
+   "company": "Digital Realty",
+   "company_type": "REIT",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-15",
+   "detail_at": "2026-10-24",
    "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
+   "function": "Asset / Property Management",
    "gpa": null,
-   "group": "Cushman & Wakefield|intern",
-   "group_title": "Intern",
-   "id": "wd:cw:R336024",
-   "last_seen": "2026-10-15",
+   "group": "Digital Realty|technical operations internship",
+   "group_title": "Technical Operations Internship",
+   "id": "or:hdep:8832",
+   "last_seen": "2026-10-26",
    "level": "Undergraduate",
-   "location": "Madrid, Spain",
+   "location": "Zürich, Switzerland",
    "misses": 2,
    "pay": null,
-   "posted": "2026-09-24",
+   "posted": "2026-09-30",
    "region": "International",
    "regions": [
     "International"
    ],
    "season": null,
    "season_inferred": false,
-   "source": "workday",
+   "source": "oracle",
    "sponsorship": null,
    "states": [],
    "status": "closed",
-   "title": "Intern",
+   "title": "Technical Operations Internship (m/f/d)",
    "tracks": [
     "real_estate"
    ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R336024",
-   "v": 6,
+   "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8832",
+   "v": 9,
    "weeks": null,
-   "work_mode": null
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Must be a rising Sophomore or Junior currently enrolled in an accredited degree program",
@@ -13346,46 +13593,6 @@
    "v": 9,
    "weeks": 10,
    "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-24",
-   "company": "Greystar",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-24",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "Greystar|intern property operations diemen",
-   "group_title": "Intern Property Operations Diemen",
-   "id": "br:85812a57a59d47",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-24",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "Intern Property Operations Diemen, Netherlands",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jobs.greystar.com/job/diemen/intern-property-operations/35302/96301451776",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -14106,48 +14313,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Intern--Capital-Markets--Commercial-_REQ524438",
-   "v": 6,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-14",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-13",
-   "first_seen": "2026-10-13",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing intern",
-   "group_title": "Leasing Intern",
-   "id": "wd:jll:REQ541497",
-   "last_seen": "2026-10-14",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "closed",
-   "title": "Leasing Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Intern_REQ541497",
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
@@ -16234,6 +16399,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-26",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR042973-2",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Baltimore, Maryland, United States of America",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-25",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MD"
+   ],
+   "status": "closed",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-21",
    "company": "Morgan Stanley",
    "company_type": "Global Bank",
@@ -17916,50 +18123,6 @@
     "wealth"
    ],
    "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/XMLNAME-2027-Early-Talent-Internship--Wealth-Management---Advice-Solutions_R261000119-2",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Pursuing a bachelor’s degree with a target graduation date of December 2027 or May 2028",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-23",
-   "company": "U.S. Bank (Private Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "U.S. Bank (Private Wealth)|2027 commercial real estate summer intern",
-   "group_title": "2027 Commercial Real Estate Summer Intern",
-   "id": "wd:usbank:2026-0025772",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "Los Angeles, CA; Newport Beach, CA",
-   "misses": 2,
-   "pay": "$23–$30/hr",
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "closed",
-   "title": "2027 Commercial Real Estate Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Summer-Intern_2026-0025772",
    "v": 9,
    "weeks": 10,
    "work_mode": null
