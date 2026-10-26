@@ -220,7 +220,7 @@
    "hq": "Frankfurt / New York",
    "last_ok": "2026-10-26",
    "name": "Deutsche Bank",
-   "open": 5,
+   "open": 6,
    "sources": [
     {
      "fail_streak": 0,
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "06971f1efac2dacf",
+     "hash": "f712c0169899dc04",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1067,9 +1067,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "669b910e130ae15a",
+     "hash": "59d8f8a204792977",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1501,11 +1501,12 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
-     "fail_streak": 1,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "141ec77912857372",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.hilltopsecurities.com/careers/"
     },
     {
@@ -1617,7 +1618,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "ee1b2b895964e511",
+     "hash": "9ed25250692b6f47",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1775,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1835,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1863,9 +1864,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-25",
+     "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "c651ae24ce42f7ed",
+     "hash": "e026e7bddb32464f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1926,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 36,
+     "fail_streak": 37,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1956,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1979,21 +1980,22 @@
    "domain": "savantwealth.com",
    "focus": "wealth",
    "hq": "Rockford, IL",
-   "last_ok": "2026-10-23",
+   "last_ok": "2026-10-26",
    "name": "Savant Wealth Management",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_CERT_REVOKED at https://www.savantwealth.com/careers/\nCall log:\n  - navigating to \"https://www.savantwealth.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -2613,7 +2615,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-26",
    "name": "TIAA / Nuveen",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -2839,7 +2841,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "7b745bb1cf66f16d",
+     "hash": "d2047695a890b574",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2917,7 +2919,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-26",
    "name": "Cushman & Wakefield",
-   "open": 20,
+   "open": 21,
    "sources": [
     {
      "fail_streak": 0,
@@ -3021,17 +3023,16 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://www.marcusmillichap.com/careers"
     },
     {
+     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.marcusmillichap.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3176,7 +3177,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "9450e6dab9afed58",
+     "hash": "f448a1d0f00e865b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3285,7 +3286,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "3337b2a3199ab38c",
+     "hash": "82cf10f28c64ea1c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3316,7 +3317,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "60cd192fc0e4ef71",
+     "hash": "aa71ad5fb869e7c1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3346,11 +3347,11 @@
    "sources": [
     {
      "changed_on": "2026-10-20",
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.northmarq.com/careers",
+     "fail_streak": 1,
      "hash": "a7f714e53a57778a",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.northmarq.com/careers"
     },
     {
@@ -3715,10 +3716,9 @@
      "url": "https://www.heitman.com/careers/"
     },
     {
+     "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://www.heitman.com/careers/\nCall log:\n  - navigating to \"https://www.heitman.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 3,
-     "matched": 2,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3854,7 +3854,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3883,7 +3883,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4481,7 +4481,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4510,7 +4510,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4657,23 +4657,24 @@
    "domain": "federalrealty.com",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
-   "last_ok": "2026-10-25",
+   "last_ok": "2026-10-26",
    "name": "Federal Realty",
    "open": 0,
    "sources": [
     {
      "changed_on": "2026-10-21",
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.federalrealty.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.federalrealty.com', port=443) at 0x7fbae74196a0>, 'Connection to www.federalrealty.com timed out. (connect timeout=25)'))",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "hash": "faf94c24d1599446",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.federalrealty.com/careers"
     },
     {
-     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.federalrealty.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4866,7 +4867,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-10-26",
    "name": "John Hancock (Manulife)",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -4953,21 +4954,20 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "ConnectTimeout: HTTPSConnectionPool(host='www.pennmutual.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pennmutual.com', port=443) at 0x7f3bec8a9f40>, 'Connection to www.pennmutual.com timed out. (connect timeout=25)'))",
+     "fail_streak": 1,
      "hash": "2884c6b7c9732811",
      "kind": "page",
      "links": [
       "Internships | https://www.pennmutual.com/careers/internships"
      ],
-     "ok": true,
+     "ok": false,
      "url": "https://www.pennmutual.com/careers"
     },
     {
+     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.pennmutual.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -5141,9 +5141,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "2f8368111c34387c",
+     "hash": "e8df42066309645d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5319,7 +5319,7 @@
     {
      "changed_on": "2026-10-26",
      "fail_streak": 0,
-     "hash": "d65f56e492f0807b",
+     "hash": "5a1399c708550d7e",
      "kind": "page",
      "links": [],
      "ok": true,
