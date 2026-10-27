@@ -1041,49 +1041,6 @@
    "gpa": null,
    "group": "Baird|internship private wealth management",
    "group_title": "Internship – Private Wealth Management",
-   "id": "wd:baird:R20261105-1",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "IA-Cedar Rapids",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-02",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IA"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Cedar Rapids, IA Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IA-Cedar-Rapids/Internship---Private-Wealth-Management--Cedar-Rapids--IA-Summer-2027-_R20261105-1",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
    "id": "wd:baird:R20261116",
    "last_seen": "2026-10-26",
    "level": "Undergraduate",
@@ -3378,6 +3335,47 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|2027 financial service support intern",
+   "group_title": "2027 Financial Service & Support Intern",
+   "id": "ic:career-schwab:126234",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "US-CO-Lone Tree",
+   "misses": 0,
+   "pay": "$24/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "open",
+   "title": "2027 Financial Service & Support Intern - Denver",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126234/2027-financial-service-%26-support-intern---denver/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -7124,47 +7122,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|environmental health and safety specialist summer 2027 internship andover",
-   "group_title": "Environmental Health and Safety Specialist Summer 2027 Internship – Andover",
-   "id": "wd:jll:REQ541929",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Andover, MA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-26",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "Environmental Health and Safety Specialist Summer 2027 Internship – Andover, MA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Environmental-Health-and-Safety-Specialist-Summer-2027-Internship---Andover--MA_REQ541929",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-24",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
@@ -9921,6 +9878,45 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|2027 winter financing specialist commercial financial services real estate student intern",
+   "group_title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
+   "id": "wd:rbc:R-0000187364",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "MONTRÉAL, Quebec, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Financing-Specialist-Commercial-Financial-Services-Real-Estate-Student-Intern_R-0000187364",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-25",
    "first_seen": "2026-10-22",
    "function": "Advisory / Client Service",
@@ -11727,6 +11723,50 @@
    "v": 6,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-26",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "id": "wd:baird:R20261105-1",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "IA-Cedar Rapids",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-02",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IA"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Cedar Rapids, IA Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IA-Cedar-Rapids/Internship---Private-Wealth-Management--Cedar-Rapids--IA-Summer-2027-_R20261105-1",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
   },
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
@@ -14459,6 +14499,48 @@
    "v": 6,
    "weeks": null,
    "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-26",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|environmental health and safety specialist summer 2027 internship andover",
+   "group_title": "Environmental Health and Safety Specialist Summer 2027 Internship – Andover",
+   "id": "wd:jll:REQ541929",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Andover, MA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "Environmental Health and Safety Specialist Summer 2027 Internship – Andover, MA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Environmental-Health-and-Safety-Specialist-Summer-2027-Internship---Andover--MA_REQ541929",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -17249,46 +17331,6 @@
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CRE--Operations-Intern--4-Months-_R-0000187541-3",
    "v": 8,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-23",
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-15",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|2027 winter financing specialist commercial financial services real estate student intern",
-   "group_title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
-   "id": "wd:rbc:R-0000187364",
-   "last_seen": "2026-10-22",
-   "level": "Undergraduate",
-   "location": "MONTRÉAL, Quebec, Canada",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "2027 Winter Financing Specialist Commercial Financial Services Real Estate Student Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Financing-Specialist-Commercial-Financial-Services-Real-Estate-Student-Intern_R-0000187364",
-   "v": 9,
    "weeks": null,
    "work_mode": null
   },
