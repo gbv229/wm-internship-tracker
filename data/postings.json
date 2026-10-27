@@ -869,49 +869,6 @@
    "gpa": null,
    "group": "Baird|internship private wealth management",
    "group_title": "Internship – Private Wealth Management",
-   "id": "wd:baird:R20261025-1",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "IN-Bloomington",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-27",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IN"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Bloomington, IN Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IN-Bloomington/Internship---Private-Wealth-Management--Bloomington--IN-Summer-2027-_R20261025-1",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
    "id": "wd:baird:R20261103-1",
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
@@ -2704,7 +2661,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 0,
+   "misses": 1,
    "pay": "$25/hr",
    "posted": "2026-09-30",
    "region": "US",
@@ -2747,7 +2704,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 0,
+   "misses": 1,
    "pay": "$25/hr",
    "posted": "2026-09-30",
    "region": "US",
@@ -3474,6 +3431,47 @@
   {
    "class_evidence": null,
    "classes": [],
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|2027 financial service support intern",
+   "group_title": "2027 Financial Service & Support Intern",
+   "id": "ic:career-schwab:126236",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "US-NE-Omaha",
+   "misses": 0,
+   "pay": "$22/hr",
+   "posted": "2026-10-19",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NE"
+   ],
+   "status": "open",
+   "title": "2027 Financial Service & Support Intern - Omaha",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126236/2027-financial-service-%26-support-intern---omaha/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "company": "Citi (incl. Citi Private Bank)",
    "company_type": "Global Bank",
    "deadline": null,
@@ -3759,45 +3757,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-21",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "Colliers|capital markets intern",
-   "group_title": "Capital Markets Intern",
-   "id": "wd:colliers:JR18677",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Toronto, Ontario, Canada",
-   "misses": 1,
-   "pay": "$30/hr",
-   "posted": "2026-10-21",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [],
-   "status": "open",
-   "title": "Capital Markets Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Capital-Markets-Intern_JR18677",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Colliers",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-26",
    "first_seen": "2026-10-20",
    "function": "Real Estate (general)",
@@ -3921,6 +3880,48 @@
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/EIC-2027-DC-Tysons-Summer-Intern_R340995",
    "v": 9,
    "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Rising junior or senior (3rd or 4th year) college student studying Real Estate, Business Administration, Finance, Economics, Research, Analytics, or a related field",
+   "classes": [
+    2027,
+    2029
+   ],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic brokerage research intern",
+   "group_title": "EIC Brokerage Research Intern",
+   "id": "wd:cw:R341887",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Vancouver, Canada",
+   "misses": 0,
+   "pay": "$20–$23/hr",
+   "posted": "2026-10-27",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Brokerage Research Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Vancouver-Canada/EIC-Brokerage-Research-Intern_R341887",
+   "v": 9,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -4582,6 +4583,47 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ha-Noi---4th-Floor-Building-A--Tien-Bo-Plaza/EIC-Intern---Real-Estate-Valuation-Services--Ha-Noi_R338349",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Leasing / Brokerage",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic leasing tenant representation intern",
+   "group_title": "EIC Leasing Tenant Representation Intern",
+   "id": "wd:cw:R340709",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Ontario, California, USA",
+   "misses": 0,
+   "pay": "$21–$25/hr",
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "EIC Leasing Tenant Representation Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Ontario-California-USA/EIC-Leasing-Tenant-Representation-Intern_R340709",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -6426,7 +6468,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
@@ -6725,7 +6767,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Minneapolis, MN",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-01",
    "region": "US",
@@ -7676,45 +7718,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Real-Estate-Advisory-and-Consulting-Summer-2027-Internship---Washington--DC_REQ541736",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-27",
-   "function": "Valuation / Research",
-   "gpa": null,
-   "group": "JLL|research intern",
-   "group_title": "Research Intern",
-   "id": "wd:jll:REQ534099",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Kuala Lumpur, Malaysia",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-27",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Research Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Research-Intern_REQ534099",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -9236,47 +9239,6 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Morgan Stanley|intern",
-   "group_title": "Intern",
-   "id": "wd:ms:JR045578",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Westport, Connecticut, United States of America",
-   "misses": 0,
-   "pay": "$20/hr",
-   "posted": "2026-10-26",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CT"
-   ],
-   "status": "open",
-   "title": "Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Westport-Connecticut-United-States-of-America/Intern_JR045578",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-25",
    "first_seen": "2026-10-19",
    "function": "Wealth Management",
@@ -9319,35 +9281,35 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-26",
-   "first_seen": "2026-10-23",
+   "first_seen": "2026-10-26",
    "function": "Wealth Management",
    "gpa": null,
    "group": "Morgan Stanley|intern",
    "group_title": "Intern",
-   "id": "wd:ms:JR045882",
+   "id": "wd:ms:JR045578",
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
-   "location": "Oklahoma City, Oklahoma, United States of America",
+   "location": "Westport, Connecticut, United States of America",
    "misses": 1,
-   "pay": null,
-   "posted": "2026-10-23",
+   "pay": "$20/hr",
+   "posted": "2026-10-26",
    "region": "US",
    "regions": [
-    "Southwest"
+    "Northeast"
    ],
    "season": null,
    "season_inferred": false,
    "source": "workday",
    "sponsorship": null,
    "states": [
-    "OK"
+    "CT"
    ],
    "status": "open",
    "title": "Intern",
    "tracks": [
     "wealth"
    ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma-United-States-of-America/Intern_JR045882",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Westport-Connecticut-United-States-of-America/Intern_JR045578",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -9392,6 +9354,49 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Rising senior pursuing a degree in Real Estate, Finance, Business, Economics, Marketing, or a related field, with an anticipated graduation date of Dec 2027 – Jun 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|2027 summer internship",
+   "group_title": "2027 Summer Internship",
+   "id": "or:hdow:250275",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "San Francisco, CA, United States",
+   "misses": 0,
+   "pay": "$19–$21/hr",
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "2027 Summer Internship",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250275",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -9471,49 +9476,6 @@
    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950",
    "v": 9,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Northern Trust",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-21",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "Northern Trust|wealth management intern",
-   "group_title": "Wealth Management Intern",
-   "id": "wd:ntrs:R163472-1",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Atlanta, GA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "GA"
-   ],
-   "status": "open",
-   "title": "Wealth Management Intern - Atlanta",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Wealth-Management-Intern---Atlanta_R163472-1",
-   "v": 9,
-   "weeks": 10,
    "work_mode": null
   },
   {
@@ -9953,7 +9915,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "PA - Pittsburgh (15222)",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-23",
    "region": "US",
@@ -11253,6 +11215,47 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Operations",
+   "gpa": null,
+   "group": "Stifel|operations technical support intern",
+   "group_title": "Operations - Technical Support Intern",
+   "id": "ic:careers-stifel:10133",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "Operations - Technical Support Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10133/operations---technical-support-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
    "first_seen": "2026-10-21",
    "function": "Wealth Management",
    "gpa": null,
@@ -11874,6 +11877,50 @@
    "url": "https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Milwaukee-815-Water/XMLNAME-2027-Corporate-Intern---Wealth-Management_JR106649",
    "v": 9,
    "weeks": 12,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-27",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "id": "wd:baird:R20261025-1",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "IN-Bloomington",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-27",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IN"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Bloomington, IN Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IN-Bloomington/Internship---Private-Wealth-Management--Bloomington--IN-Summer-2027-_R20261025-1",
+   "v": 9,
+   "weeks": null,
    "work_mode": "On-site"
   },
   {
@@ -12845,48 +12892,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "closed_on": "2026-10-24",
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-22",
-   "first_seen": "2026-10-19",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Charles Schwab|2027 financial service support intern",
-   "group_title": "2027 Financial Service & Support Intern",
-   "id": "ic:career-schwab:126236",
-   "last_seen": "2026-10-24",
-   "level": "Undergraduate",
-   "location": "US-NE-Omaha",
-   "misses": 2,
-   "pay": "$22/hr",
-   "posted": "2026-10-19",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NE"
-   ],
-   "status": "closed",
-   "title": "2027 Financial Service & Support Intern - Omaha",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126236/2027-financial-service-%26-support-intern---omaha/job",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "closed_on": "2026-10-16",
    "company": "Charles Schwab",
    "company_type": "Brokerage & Platform",
@@ -13358,6 +13363,46 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344",
    "v": 9,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-21",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "Colliers|capital markets intern",
+   "group_title": "Capital Markets Intern",
+   "id": "wd:colliers:JR18677",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Toronto, Ontario, Canada",
+   "misses": 2,
+   "pay": "$30/hr",
+   "posted": "2026-10-21",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [],
+   "status": "closed",
+   "title": "Capital Markets Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Capital-Markets-Intern_JR18677",
+   "v": 9,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -16155,6 +16200,46 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Valuation / Research",
+   "gpa": null,
+   "group": "JLL|research intern",
+   "group_title": "Research Intern",
+   "id": "wd:jll:REQ534099",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Kuala Lumpur, Malaysia",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Research Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Research-Intern_REQ534099",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-22",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -16920,6 +17005,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-23",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR045882",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Oklahoma City, Oklahoma, United States of America",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OK"
+   ],
+   "status": "closed",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma-United-States-of-America/Intern_JR045882",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-26",
    "company": "Morgan Stanley",
    "company_type": "Global Bank",
@@ -17261,6 +17388,50 @@
    ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/New-York-NY/Wealth-Management-Intern---All-Other-US-Locations_R160763-1",
    "v": 6,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-27",
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "Northern Trust|wealth management intern",
+   "group_title": "Wealth Management Intern",
+   "id": "wd:ntrs:R163472-1",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Atlanta, GA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "GA"
+   ],
+   "status": "closed",
+   "title": "Wealth Management Intern - Atlanta",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Wealth-Management-Intern---Atlanta_R163472-1",
+   "v": 9,
    "weeks": 10,
    "work_mode": null
   },
