@@ -427,49 +427,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Associated Bank (Private Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-23",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Associated Bank (Private Wealth)|2027 corporate intern wealth management",
-   "group_title": "2027 Corporate Intern - Wealth Management",
-   "id": "wd:associatedbank:JR106649",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Milwaukee 815 Water; Green Bay 200 Adams; Chicago 525 Monroe; Minneapolis 80 8th",
-   "misses": 1,
-   "pay": "$17–$27/hr",
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL",
-    "MN",
-    "WI"
-   ],
-   "status": "open",
-   "title": "2027 Corporate Intern - Wealth Management",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Milwaukee-815-Water/XMLNAME-2027-Corporate-Intern---Wealth-Management_JR106649",
-   "v": 9,
-   "weeks": 12,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
    "classes": [
     2028
@@ -916,7 +873,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "IN-Bloomington",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-27",
    "region": "",
@@ -2008,45 +1965,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Barclays",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Barclays|private bank and wealth management summer internship programme 2027 london",
-   "group_title": "Private Bank and Wealth Management Summer Internship Programme 2027 London",
-   "id": "wd:barclays:JR-0000124643",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Canary Wharf, 1 Churchill Place",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-27",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Private Bank and Wealth Management Summer Internship Programme 2027 London",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-London_JR-0000124643",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "To be considered for this programme, you must be pursuing an undergraduate degree with anticipated completion between December 2027 - June 2028.",
    "classes": [
     2028
@@ -2680,6 +2598,92 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management new york",
+   "group_title": "2027 Summer Intern Private Wealth Management New York",
+   "id": "wd:cibc:2620154",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 0,
+   "pay": "$25–$27/hr",
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "2027 Summer Intern Private Wealth Management New York",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-New-York_2620154",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management new york",
+   "group_title": "2027 Summer Intern Private Wealth Management New York",
+   "id": "wd:cibc:2620154-1",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 0,
+   "pay": "$25–$27/hr",
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "2027 Summer Intern Private Wealth Management New York",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-New-York_2620154-1",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2026 and June 2027",
@@ -3765,7 +3769,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Toronto, Ontario, Canada",
-   "misses": 0,
+   "misses": 1,
    "pay": "$30/hr",
    "posted": "2026-10-21",
    "region": "Canada",
@@ -3917,45 +3921,6 @@
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/EIC-2027-DC-Tysons-Summer-Intern_R340995",
    "v": 9,
    "weeks": 8,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Cushman & Wakefield|eic dublin commercial internship",
-   "group_title": "EIC Dublin Commercial Internship",
-   "id": "wd:cw:R337486",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "CW Site - IRL - Dublin - 2 Cumberland Place",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-27",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "EIC Dublin Commercial Internship",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IRL---Dublin---2-Cumberland-Place/EIC-Dublin-Commercial-Internship_R337486",
-   "v": 9,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -5298,43 +5263,6 @@
    "url": "https://us63.dayforcehcm.com/CandidatePortal/en-US/hightower?q=internship",
    "v": 9,
    "weeks": 16,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Hines",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-21",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Hines|internships early careers",
-   "group_title": "Internships & Early Careers",
-   "id": "br:03bc0895528962",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Internships & Early Careers",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://www.hines.com/careers/graduates-and-interns",
-   "v": 9,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -7769,7 +7697,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Kuala Lumpur, Malaysia",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-27",
    "region": "International",
@@ -7869,6 +7797,47 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|transaction management summer 2027 internship",
+   "group_title": "Transaction Management Summer 2027 Internship",
+   "id": "wd:jll:REQ541940",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "open",
+   "title": "Transaction Management Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Transaction-Management-Summer-2027-Internship---Washington--DC_REQ541940",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -9359,7 +9328,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Oklahoma City, Oklahoma, United States of America",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-23",
    "region": "US",
@@ -9523,7 +9492,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Atlanta, GA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-21",
    "region": "US",
@@ -9543,6 +9512,92 @@
     "wealth"
    ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Atlanta-GA/Wealth-Management-Intern---Atlanta_R163472-1",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are pursuing a bachelor’s degree at an accredited college/university with an expected graduation date between December 2027 and Summer 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "Northern Trust|wealth management intern",
+   "group_title": "Wealth Management Intern",
+   "id": "wd:ntrs:R163405-2",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Wilmington, DE",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DE"
+   ],
+   "status": "open",
+   "title": "Wealth Management Intern - Delaware",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Wilmington-DE/Intern_R163405-2",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are pursuing a law degree (JD) at an accredited college/university with an expected graduate date between December 2027 through Summer 2028",
+   "classes": [
+    2028
+   ],
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Risk / Compliance",
+   "gpa": "3.0+",
+   "group": "Northern Trust|wealth management legal intern",
+   "group_title": "Wealth Management Legal Intern",
+   "id": "wd:ntrs:R163721-1",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Wealth Management Legal Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Legal-Intern_R163721-1",
    "v": 9,
    "weeks": 10,
    "work_mode": null
@@ -10074,6 +10129,45 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WELLAND-Ontario-Canada/Financial-Advisor-Intern_R-0000190503",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "id": "wd:rbc:R-0000191330",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "RICHMOND, British Columbia, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000191330",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -11739,6 +11833,50 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "Associated Bank (Private Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-23",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Associated Bank (Private Wealth)|2027 corporate intern wealth management",
+   "group_title": "2027 Corporate Intern - Wealth Management",
+   "id": "wd:associatedbank:JR106649",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Milwaukee 815 Water; Green Bay 200 Adams; Chicago 525 Monroe; Minneapolis 80 8th",
+   "misses": 2,
+   "pay": "$17–$27/hr",
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL",
+    "MN",
+    "WI"
+   ],
+   "status": "closed",
+   "title": "2027 Corporate Intern - Wealth Management",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Milwaukee-815-Water/XMLNAME-2027-Corporate-Intern---Wealth-Management_JR106649",
+   "v": 9,
+   "weeks": 12,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
    "classes": [
     2028
@@ -11992,6 +12130,46 @@
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Geneva-18-20-Chemin-de-Grange-Canal/Private-Bank-and-Wealth-Management-Off-Cycle-Internship-Programme-2027-Geneva_JR-0000124673",
    "v": 8,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "Barclays",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Barclays|private bank and wealth management summer internship programme 2027 london",
+   "group_title": "Private Bank and Wealth Management Summer Internship Programme 2027 London",
+   "id": "wd:barclays:JR-0000124643",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Canary Wharf, 1 Churchill Place",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-27",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Private Bank and Wealth Management Summer Internship Programme 2027 London",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-London_JR-0000124643",
+   "v": 9,
+   "weeks": 10,
    "work_mode": null
   },
   {
@@ -13358,6 +13536,46 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic dublin commercial internship",
+   "group_title": "EIC Dublin Commercial Internship",
+   "id": "wd:cw:R337486",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "CW Site - IRL - Dublin - 2 Cumberland Place",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-27",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "EIC Dublin Commercial Internship",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IRL---Dublin---2-Cumberland-Place/EIC-Dublin-Commercial-Internship_R337486",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- College/University junior or senior",
    "classes": [
     2027,
@@ -13947,6 +14165,44 @@
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "Hines",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-21",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Hines|internships early careers",
+   "group_title": "Internships & Early Careers",
+   "id": "br:03bc0895528962",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Internships & Early Careers",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://www.hines.com/careers/graduates-and-interns",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
   },
   {
    "class_evidence": "Interns participate in a structured series of development opportunities, including interactions with senior leadership and career pathing insights.",
