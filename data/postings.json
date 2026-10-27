@@ -443,7 +443,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Milwaukee 815 Water; Green Bay 200 Adams; Chicago 525 Monroe; Minneapolis 80 8th",
-   "misses": 0,
+   "misses": 1,
    "pay": "$17–$27/hr",
    "posted": "2026-10-23",
    "region": "US",
@@ -1801,6 +1801,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028
+   ],
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "id": "wd:baird:R20261221-2",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "WI-Wausau",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Internship – Private Wealth Management (Wausau, WI Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Wausau/Internship---Private-Wealth-Management--Wausau--WI-Summer-2027-_R20261221-2",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Anticipated graduation date of May 2028 or later",
    "classes": [
     2028
@@ -1981,7 +2024,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Canary Wharf, 1 Churchill Place",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-27",
    "region": "International",
@@ -3893,7 +3936,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "CW Site - IRL - Dublin - 2 Cumberland Place",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-27",
    "region": "International",
@@ -4967,29 +5010,33 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Ten-week internship program for college juniors seeking professional experience.",
+   "classes": [
+    2027,
+    2028,
+    2030
+   ],
    "company": "Edward Jones",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-24",
+   "detail_at": "2026-10-27",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
    "group": "Edward Jones|headquarters internship",
    "group_title": "Headquarters Internship",
    "id": "br:cc009e39e5d37c",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
    "regions": [],
-   "season": null,
-   "season_inferred": false,
+   "season": "Summer 2027",
+   "season_inferred": true,
    "source": "browser",
    "sponsorship": null,
    "states": [],
@@ -5000,7 +5047,7 @@
    ],
    "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/?codes=DIRECT&utm_source=DIRECT",
    "v": 9,
-   "weeks": null,
+   "weeks": 10,
    "work_mode": null
   },
   {
@@ -5270,7 +5317,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-21",
    "region": "",
@@ -7288,47 +7335,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-13",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing intern",
-   "group_title": "Leasing Intern",
-   "id": "wd:jll:REQ541497",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-26",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Leasing Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Intern_REQ541497",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
    "classes": [
     2028
@@ -7742,6 +7748,45 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Real-Estate-Advisory-and-Consulting-Summer-2027-Internship---Washington--DC_REQ541736",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Valuation / Research",
+   "gpa": null,
+   "group": "JLL|research intern",
+   "group_title": "Research Intern",
+   "id": "wd:jll:REQ534099",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Kuala Lumpur, Malaysia",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Research Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Research-Intern_REQ534099",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -10040,45 +10085,6 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-13",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
-   "group_title": "Financial Advisor Intern",
-   "id": "wd:rbc:R-0000190230-1",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "OSHAWA, Ontario, Canada",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-14",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OSHAWA-Ontario-Canada/Financial-Advisor-Intern_R-0000190230-1",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-26",
    "first_seen": "2026-10-20",
    "function": "Advisory / Client Service",
@@ -10154,6 +10160,47 @@
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Chevy-Chase-Maryland-United-States-of-America/Private-Client-Group-Intern_R-0000075215",
    "v": 9,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Raymond James",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-27",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Raymond James|2027 mba internship assistant to the chair executive strategy program",
+   "group_title": "2027 MBA Internship: Assistant to the Chair, Executive Strategy Program",
+   "id": "wd:raymondjames:R-0013364",
+   "last_seen": "2026-10-27",
+   "level": "Graduate/MBA",
+   "location": "Saint Petersburg, Florida - United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "2027 MBA Internship: Assistant to the Chair, Executive Strategy Program (St. Petersburg, FL)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-MBA-Internship--Assistant-to-the-Chair--Executive-Strategy-Program--St-Petersburg--FL-_R-0013364",
+   "v": 9,
+   "weeks": 12,
    "work_mode": null
   },
   {
@@ -11346,45 +11393,6 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/9960/tech-product-development-analyst-intern--summer-2027/job",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "TD (incl. TD Wealth)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-20",
-   "function": "Operations",
-   "gpa": null,
-   "group": "TD (incl. TD Wealth)|wealth operations automation intern co op",
-   "group_title": "Wealth Operations Automation Intern / Co-Op",
-   "id": "wd:td:1512131",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Toronto, Ontario",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Wealth Operations Automation Intern / Co-Op (Winter 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -14799,6 +14807,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-13",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing intern",
+   "group_title": "Leasing Intern",
+   "id": "wd:jll:REQ541497",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Leasing Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Intern_REQ541497",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-13",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -17345,6 +17395,46 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-24",
+   "first_seen": "2026-10-13",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "id": "wd:rbc:R-0000190230-1",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "OSHAWA, Ontario, Canada",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-14",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OSHAWA-Ontario-Canada/Financial-Advisor-Intern_R-0000190230-1",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-15",
    "company": "RBC (incl. RBC Wealth Mgmt & City National)",
    "company_type": "Global Bank",
@@ -18208,6 +18298,46 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "TD (incl. TD Wealth)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-20",
+   "function": "Operations",
+   "gpa": null,
+   "group": "TD (incl. TD Wealth)|wealth operations automation intern co op",
+   "group_title": "Wealth Operations Automation Intern / Co-Op",
+   "id": "wd:td:1512131",
+   "last_seen": "2026-10-26",
+   "level": "Undergraduate",
+   "location": "Toronto, Ontario",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Wealth Operations Automation Intern / Co-Op (Winter 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Current enrolled in a degree-seeking program with expected graduation date between December 2027– June 2028",
