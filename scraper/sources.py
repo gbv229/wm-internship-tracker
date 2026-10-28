@@ -366,12 +366,18 @@ def goldman(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     hdr = {"Content-Type": "application/json", "Accept": "*/*", "Referer": "https://higher.gs.com/",
            "Origin": "https://higher.gs.com", "x-higher-session-id": str(uuid.uuid4())}
     out: dict[str, Job] = {}
-    for term in cfg.get("terms") or ["summer analyst", "intern", "insight", "sophomore", "early"]:
+    # Campus roles ("2028 | Americas | New York | Wealth Management | Summer Analyst") have shown up under
+    # different experience groups over time, so search broadly and let the title filter decide.
+    plans = [(exp, term) for exp in (["EARLY_CAREER", "PROFESSIONAL"], ["CAMPUS"])
+             for term in cfg.get("terms") or ["summer analyst", "intern", "insight", "sophomore", "summer associate"]]
+    for exps, term in plans:
         for page in range(20):
             body = {"operationName": "GetRoles", "query": GS_QUERY, "variables": {"searchQueryInput": {
                 "page": {"pageSize": 50, "pageNumber": page}, "sort": {"sortStrategy": "RELEVANCE", "sortOrder": "DESC"},
-                "filters": [], "experiences": ["EARLY_CAREER"], "searchTerm": term}}}
+                "filters": [], "experiences": exps, "searchTerm": term}}}
             r = s.post(GS_API, json=body, headers=hdr, timeout=TIMEOUT)
+            if exps == ["CAMPUS"] and (r.status_code >= 400 or "errors" in r.text[:200]):
+                break                       # that group doesn't exist (yet); the first one still ran
             r.raise_for_status()
             rs = ((r.json().get("data") or {}).get("roleSearch") or {})
             items = rs.get("items") or []

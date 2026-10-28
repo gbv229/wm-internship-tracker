@@ -50,6 +50,7 @@ companies:
     domain: gs.com
     sources:
       - goldman: {}
+      - page: {url: "https://higher.gs.com/campus"}
 
   - name: J.P. Morgan
     type: Global Bank
