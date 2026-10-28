@@ -142,7 +142,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-28",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 7,
+   "open": 6,
    "sources": [
     {
      "fail_streak": 0,
@@ -378,7 +378,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "dedfc35f4cd5883b",
+     "hash": "d87412a9330e640c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -760,8 +760,8 @@
     },
     {
      "kind": "browser",
-     "listed": 7,
-     "matched": 4,
+     "listed": 6,
+     "matched": 3,
      "ok": true
     }
    ],
@@ -1212,7 +1212,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "a6e9229c9972d6a5",
+     "hash": "10ec7ea96c67afcf",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1776,7 +1776,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1836,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1866,7 +1866,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "aac0cb5fd1ae58cd",
+     "hash": "7895df3a4ca07f1c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1927,7 +1927,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 47,
+     "fail_streak": 48,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1957,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1986,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2898,7 +2898,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-28",
    "name": "JLL",
-   "open": 31,
+   "open": 32,
    "sources": [
     {
      "fail_streak": 0,
@@ -2919,7 +2919,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-28",
    "name": "Cushman & Wakefield",
-   "open": 23,
+   "open": 24,
    "sources": [
     {
      "fail_streak": 0,
@@ -3178,7 +3178,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "4ba713ec6b49f183",
+     "hash": "0d2cf699f4a47230",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,7 +3287,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "d9f57566d5c8f5ab",
+     "hash": "00781bfe5b3eaab6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3706,7 +3706,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "f2b8257853f18f03",
+     "hash": "31fbfac3b73a5ae0",
      "kind": "page",
      "links": [
       "2027 Summer Internship – Acquisitions | https://www.heitman.com/jobs/ofOQAfwd/",
@@ -3856,7 +3856,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3885,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4155,18 +4155,19 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-27",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "a392c2b53b686f48",
+     "hash": "3973e022e93220f9",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4482,7 +4483,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4511,7 +4512,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4663,9 +4664,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-21",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "faf94c24d1599446",
+     "hash": "feca512ca44d356c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5143,9 +5144,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-26",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "e8df42066309645d",
+     "hash": "ba738a67aff56b36",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5195,9 +5196,9 @@
    "open": 8,
    "sources": [
     {
-     "changed_on": "2026-10-27",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "490190b272a9aac6",
+     "hash": "3b7306eb4f328e77",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5205,8 +5206,8 @@
     },
     {
      "kind": "browser",
-     "listed": 8,
-     "matched": 8,
+     "listed": 4,
+     "matched": 4,
      "ok": true
     }
    ],
@@ -5321,7 +5322,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "16e527869dbca5aa",
+     "hash": "fe0c61951d748ec0",
      "kind": "page",
      "links": [],
      "ok": true,
