@@ -2415,7 +2415,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2454,7 +2454,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2493,7 +2493,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "London, UK",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "International",
@@ -2532,7 +2532,7 @@
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
    "location": "Boston, MA",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$35/hr",
    "posted": "2026-10-16",
    "region": "US",
@@ -2638,92 +2638,6 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-New-York_2620154-1",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2026 and June 2027",
-   "classes": [
-    2027
-   ],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "CIBC Private Wealth|summer intern 2027 private wealth management",
-   "group_title": "Summer Intern 2027- Private Wealth Management",
-   "id": "wd:cibc:2618397",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": "$25/hr",
-   "posted": "2026-09-30",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Summer Intern 2027- Private Wealth Management",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2026 and June 2027",
-   "classes": [
-    2027
-   ],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "CIBC Private Wealth|summer intern 2027 private wealth management",
-   "group_title": "Summer Intern 2027- Private Wealth Management",
-   "id": "wd:cibc:2618397-1",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": "$25/hr",
-   "posted": "2026-09-30",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Summer Intern 2027- Private Wealth Management",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397-1",
    "v": 9,
    "weeks": 10,
    "work_mode": "On-site"
@@ -6464,47 +6378,6 @@
    "gpa": null,
    "group": "JLL|business development summer 2027 internship",
    "group_title": "Business Development Summer 2027 Internship",
-   "id": "wd:jll:REQ534216",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Business Development Summer 2027 Internship - Chicago, IL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Development-Summer-2027-Internship---Chicago--IL_REQ534216",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "JLL|business development summer 2027 internship",
-   "group_title": "Business Development Summer 2027 Internship",
    "id": "wd:jll:REQ534213",
    "last_seen": "2026-10-27",
    "level": "Undergraduate",
@@ -6744,49 +6617,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Capital-Markets-Summer-2027-Internship---Miami--FL_REQ530237",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "id": "wd:jll:REQ530234",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Minneapolis, MN",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-01",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Minneapolis, MN",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Capital-Markets-Summer-2027-Internship---Minneapolis--MN_REQ530234",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -9284,47 +9114,6 @@
    "first_seen": "2026-10-26",
    "function": "Wealth Management",
    "gpa": null,
-   "group": "Morgan Stanley|intern",
-   "group_title": "Intern",
-   "id": "wd:ms:JR045578",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "Westport, Connecticut, United States of America",
-   "misses": 1,
-   "pay": "$20/hr",
-   "posted": "2026-10-26",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CT"
-   ],
-   "status": "open",
-   "title": "Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Westport-Connecticut-United-States-of-America/Intern_JR045578",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "function": "Wealth Management",
-   "gpa": null,
    "group": "Morgan Stanley|scaling insights program manager institutional consulting solutions vice president executive director",
    "group_title": "Scaling & Insights Program Manager, Institutional Consulting Solutions - Vice President / Executive Director",
    "id": "wd:ms:PT-JR045641",
@@ -9897,47 +9686,6 @@
    "v": 9,
    "weeks": 10,
    "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "PNC (PNC Private Bank)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "PNC (PNC Private Bank)|realty services undergraduate intern",
-   "group_title": "Realty Services Undergraduate Intern",
-   "id": "wd:pnc:R231491-1",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "PA - Pittsburgh (15222)",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "PA"
-   ],
-   "status": "open",
-   "title": "Realty Services Undergraduate Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Realty-Services-Undergraduate-Intern_R231491-1",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -12505,6 +12253,94 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2026 and June 2027",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-27",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|summer intern 2027 private wealth management",
+   "group_title": "Summer Intern 2027- Private Wealth Management",
+   "id": "wd:cibc:2618397",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": "$25/hr",
+   "posted": "2026-09-30",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Summer Intern 2027- Private Wealth Management",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2026 and June 2027",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-27",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|summer intern 2027 private wealth management",
+   "group_title": "Summer Intern 2027- Private Wealth Management",
+   "id": "wd:cibc:2618397-1",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": "$25/hr",
+   "posted": "2026-09-30",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Summer Intern 2027- Private Wealth Management",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Summer-Intern-2027--Private-Wealth-Management_2618397-1",
+   "v": 9,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- Graduation date of August 2027 or beyond.",
    "classes": [
     2027
@@ -14474,6 +14310,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "JLL|business development summer 2027 internship",
+   "group_title": "Business Development Summer 2027 Internship",
+   "id": "wd:jll:REQ534216",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Business Development Summer 2027 Internship - Chicago, IL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Development-Summer-2027-Internship---Chicago--IL_REQ534216",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-19",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -14729,6 +14607,50 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Indianapolis-IN/Capital-Markets-Summer-2027-Internship---Indianapolis--IN_REQ530233",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-27",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "id": "wd:jll:REQ530234",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Minneapolis, MN",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-01",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Minneapolis, MN",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Capital-Markets-Summer-2027-Internship---Minneapolis--MN_REQ530234",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -17011,6 +16933,48 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "id": "wd:ms:JR045578",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "Westport, Connecticut, United States of America",
+   "misses": 2,
+   "pay": "$20/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CT"
+   ],
+   "status": "closed",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Westport-Connecticut-United-States-of-America/Intern_JR045578",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
    "first_seen": "2026-10-23",
    "function": "Wealth Management",
    "gpa": null,
@@ -17567,6 +17531,48 @@
    "v": 9,
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-27",
+   "company": "PNC (PNC Private Bank)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "PNC (PNC Private Bank)|realty services undergraduate intern",
+   "group_title": "Realty Services Undergraduate Intern",
+   "id": "wd:pnc:R231491-1",
+   "last_seen": "2026-10-27",
+   "level": "Undergraduate",
+   "location": "PA - Pittsburgh (15222)",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "PA"
+   ],
+   "status": "closed",
+   "title": "Realty Services Undergraduate Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Realty-Services-Undergraduate-Intern_R231491-1",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "The programme is designed to provide meaningful responsibility from day one, culminating in the presentation of a strategic growth opportunity or market-based research project to senior business leaders.",
