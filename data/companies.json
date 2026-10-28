@@ -7,11 +7,16 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-28",
    "name": "Morgan Stanley",
-   "open": 2,
+   "open": 6,
    "sources": [
     {
      "fail_streak": 0,
      "kind": "workday",
+     "ok": true
+    },
+    {
+     "fail_streak": 0,
+     "kind": "oleeo",
      "ok": true
     }
    ],
@@ -32,13 +37,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
      "fail_streak": 0,
-     "hash": "b2185d4027bab0ae",
-     "kind": "page",
-     "links": [],
-     "ok": true,
-     "url": "https://higher.gs.com/campus"
+     "kind": "goldman",
+     "ok": true
     },
     {
      "kind": "browser",
@@ -91,13 +92,9 @@
      "ok": true
     },
     {
-     "changed_on": null,
      "fail_streak": 0,
-     "hash": "1035004f51dda000",
-     "kind": "page",
-     "links": [],
-     "ok": true,
-     "url": "https://campus.bankofamerica.com/"
+     "kind": "oleeo",
+     "ok": true
     },
     {
      "kind": "browser",
@@ -378,7 +375,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "776dce32cea9ed56",
+     "hash": "3ee381a9b432c721",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1160,7 +1157,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-10-28",
    "name": "Fidelity Investments",
-   "open": 0,
+   "open": 4,
    "sources": [
     {
      "fail_streak": 0,
@@ -1618,7 +1615,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "c7fefa650cc8f759",
+     "hash": "1ef6da5be3eb02d5",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1776,7 +1773,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1836,7 +1833,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1927,7 +1924,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 49,
+     "fail_streak": 50,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,7 +1954,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1986,7 +1983,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2242,7 +2239,7 @@
    "hq": "San Antonio, TX",
    "last_ok": "2026-10-28",
    "name": "USAA",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -2839,9 +2836,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-27",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "3dd968a49027e5d8",
+     "hash": "7a1f4d189e8eab73",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2876,7 +2873,7 @@
      "kind": "page",
      "links": [],
      "ok": true,
-     "url": "https://careers.cbre.com/en_US/careers"
+     "url": "https://careers.cbre.com/en_US/careers/SearchJobs/intern?jobRecordsPerPage=100"
     },
     {
      "kind": "browser",
@@ -3178,7 +3175,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "545336a5f7333fde",
+     "hash": "f69cda664a9b8d4e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3318,7 +3315,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "cede8d21716ead37",
+     "hash": "aa71ad5fb869e7c1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3856,7 +3853,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3885,7 +3882,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3944,9 +3941,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-22",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "cee548f047beab10",
+     "hash": "355e63a26f7c4a69",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4251,7 +4248,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "8b162169e6867544",
+     "hash": "0d050978f333162a",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -4483,7 +4480,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4512,7 +4509,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 80,
+     "fail_streak": 81,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5322,7 +5319,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "fac2f2f1695cad40",
+     "hash": "6f41925d9a1ab9d5",
      "kind": "page",
      "links": [],
      "ok": true,
