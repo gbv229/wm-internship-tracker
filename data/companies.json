@@ -375,7 +375,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "a0a8319ecd0f648c",
+     "hash": "53baf81d76c9c558",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1773,7 +1773,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1833,7 +1833,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1924,7 +1924,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 51,
+     "fail_streak": 52,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1954,7 +1954,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1983,7 +1983,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3175,7 +3175,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "c0ce4e2529739526",
+     "hash": "ce350bf995634e16",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3315,7 +3315,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3670,11 +3670,12 @@
    "open": 0,
    "sources": [
     {
-     "error": "ConnectionError: HTTPSConnectionPool(host='www.clarionpartners.com', port=443): Max retries exceeded with url: /careers (Caused by NewConnectionError(\"HTTPSConnection(host='www.clarionpartners.com', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-     "fail_streak": 1,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "4d81bae97ffe53ab",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.clarionpartners.com/careers"
     },
     {
@@ -3852,7 +3853,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3881,7 +3882,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4153,7 +4154,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "a392c2b53b686f48",
+     "hash": "3973e022e93220f9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4479,7 +4480,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4508,7 +4509,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 82,
+     "fail_streak": 83,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5318,7 +5319,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "17cf8fae169691ae",
+     "hash": "37c90d562ae5ce84",
      "kind": "page",
      "links": [],
      "ok": true,
