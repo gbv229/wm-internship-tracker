@@ -1,5 +1,8 @@
 name: Review postings (manual)
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      diag_only: {description: 'Diagnostics only', default: '', type: string}
 permissions:
   contents: write
 jobs:
@@ -13,6 +16,9 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: python tools/review.py > review.log 2>&1 || true
+        env:
+          DIAG_ONLY: ${{ github.event.inputs.diag_only }}
+      - run: touch review.json
       - run: |
           git config user.name "review-bot"; git config user.email "review@users.noreply.github.com"
           git checkout --orphan review-out && git rm -rq --cached . && git add review.json review.log && git commit -qm review && git push -f origin review-out

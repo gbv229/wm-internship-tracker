@@ -17,7 +17,28 @@ KEY = re.compile(r"(?i)graduat|class of|sophomore|junior|senior|freshm|first-yea
                  r"summer 20\d\d|20\d\d summer|start date|program dates|weeks?")
 
 
+def gs_diag(s):
+    import uuid
+    hdr = {"Content-Type": "application/json", "Referer": "https://higher.gs.com/", "Origin": "https://higher.gs.com", "x-higher-session-id": str(uuid.uuid4())}
+    fq = ("query GetRoleFilters($filterCategories: [RoleSearchFilterCategoryType!], $experiences: [RoleSearchExperience!]!) "
+          "{ roleSearchFilters(categories: $filterCategories, experiences: $experiences) { filterCategoryType { code } filters { filter count } } }")
+    for exps in (["EARLY_CAREER"], ["PROFESSIONAL"], ["EARLY_CAREER", "PROFESSIONAL"]):
+        r = s.post(sources.GS_API, json={"operationName": "GetRoleFilters", "query": fq, "variables": {"filterCategories": ["EXPERIENCE_LEVEL"], "experiences": exps}}, headers=hdr, timeout=30)
+        print("GSDIAG filters", exps, r.status_code, r.text[:800])
+    for exps, filters in ((["EARLY_CAREER", "PROFESSIONAL"], []), (["EARLY_CAREER", "PROFESSIONAL"], [{"filterCategoryType": "EXPERIENCE_LEVEL", "filters": [{"filter": "Campus"}]}])):
+        body = {"operationName": "GetRoles", "query": sources.GS_QUERY, "variables": {"searchQueryInput": {
+            "page": {"pageSize": 50, "pageNumber": 0}, "sort": {"sortStrategy": "RELEVANCE", "sortOrder": "DESC"},
+            "filters": filters, "experiences": exps, "searchTerm": "summer analyst"}}}
+        r = s.post(sources.GS_API, json=body, headers=hdr, timeout=30)
+        try:
+            items = r.json()["data"]["roleSearch"]["items"]
+            print("GSDIAG roles", exps, filters, r.json()["data"]["roleSearch"]["totalCount"], [i["jobTitle"][:90] for i in items][:50])
+        except Exception:  # noqa: BLE001
+            print("GSDIAG roles ERR", r.status_code, r.text[:600])
+
+
 def diagnostics(s):
+    gs_diag(s)
     for kind, cfg in [("goldman", {}), ("oleeo", {"board": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/", "key": "bofa"}),
                       ("oleeo", {"board": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/jobboard/vacancy/1/adv/", "key": "ms"})]:
         try:
@@ -42,6 +63,9 @@ def main():
     cos = yaml.safe_load((ROOT / "companies.yaml").read_text())["companies"]
     s = sources.session("gbv229/wm-internship-tracker")
     diagnostics(s)
+    import os
+    if os.environ.get("DIAG_ONLY"):
+        return
     out = {}
     for co in cos:
         if not any(p["company"] == co["name"] for p in posts):
