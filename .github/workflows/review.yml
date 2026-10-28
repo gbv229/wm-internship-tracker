@@ -1,0 +1,18 @@
+name: Review postings (manual)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - run: python tools/review.py > review.log 2>&1 || true
+      - run: |
+          git config user.name "review-bot"; git config user.email "review@users.noreply.github.com"
+          git checkout --orphan review-out && git rm -rq --cached . && git add review.json review.log && git commit -qm review && git push -f origin review-out
