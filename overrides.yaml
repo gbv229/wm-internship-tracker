@@ -274,8 +274,7 @@ overrides:
   verified: '2026-10-28'
   source: Posting text, checked by hand 2026-10-28
 - match:
-    company: Fifth Third (Wealth)
-    title_contains: May 2027
+    id: wd:fifththird:R74090
   set:
     classes:
     - 2029

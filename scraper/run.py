@@ -29,7 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 10      # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 11      # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -425,6 +425,9 @@ def main(argv=None):
         p["group_title"] = display
         if p.get("level") == "Graduate/MBA":
             p["classes"] = []            # MBA "graduating 2028" isn't the undergrad Class of 2028
+        elif p.get("classes") and p.get("season") and p["season"][-4:].isdigit():
+            lo = int(p["season"][-4:]) + (1 if p["season"].startswith("Fall") else 0)
+            p["classes"] = [c for c in p["classes"] if lo <= c <= lo + 3] or p["classes"]
         p["hide"] = None if p.get("force_show") else (p.get("force_hide") or parse.hide_reason(p))
     postings = sorted(out.values(), key=lambda p: (p["status"] != "open", p["company"], p["title"]))
     dump(DATA / "postings.json", {"postings": postings})
