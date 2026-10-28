@@ -289,8 +289,8 @@ overrides:
     classes:
     - 2028
     - 2029
-    note: Posting says rising juniors and seniors, but also lists graduation Spring 2027 – Spring 2028. Ask the recruiter if you're
-      a sophomore.
+    note: Posting says rising juniors and seniors, but also lists graduation Spring 2027 – Spring 2028. Ask the recruiter
+      if you're a sophomore.
   verified: '2026-10-28'
   source: Posting text, checked by hand 2026-10-28
 - match:
@@ -311,3 +311,10 @@ overrides:
     note: For current juniors (May 2028 graduates). Deadline Nov 13, 2026.
   verified: '2026-10-28'
   source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:pimco:R106768
+  set:
+    classes:
+    - 2028
+  verified: '2026-10-28'
+  source: 'Report #4'
