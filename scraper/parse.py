@@ -58,12 +58,14 @@ WEALTH_RE = re.compile(
     r"(wealth|private bank|private client|private wealth|financial advis[eo]r|"
     r"financial planning|financial plann?er|client associate|advisor development|"
     r"\bpwm\b|\bwm\b|\bawm\b|family office|trust (and|&) estate|trust management|"
-    r"high[- ]net[- ]worth|\bhnw\b|\buhnw\b|personal trust|investment advis)", re.I)
+    r"high[- ]net[- ]worth|\bhnw\b|\buhnw\b|personal trust|investment advis|investor cent(er|re)|"
+    r"financial (consultant|representative)s?\b)", re.I)
 MBA_RE = re.compile(r"\b(mba|summer associate|graduate (student|program)|master'?s student|ph\.?d)\b", re.I)
 
 
 FULL_TIME_RE = re.compile(r"(?i)\bnew grad|\bfull[- ]time (analyst|associate|program|role|position|hire)|"
-                          r"\b(analyst|associate) development program\b(?!.*\bintern)|\bexperienced hire")
+                          r"\b(analyst|associate) development program\b(?!.*\bintern)|\bexperienced hire|"
+                          r"\bvice president\b|\bmid-?level\b|\bmanaging director\b|\b(program|product|project) manager\b")
 
 
 def is_internship(title: str, text_head: str = "") -> bool:
@@ -423,6 +425,34 @@ def group_key(title: str) -> tuple[str, str]:
     return key, display
 
 
+US_REGION_SET = {"Northeast", "Mid-Atlantic", "Southeast", "Midwest", "Southwest", "West", "US", "Remote"}
+GRAD_TITLE_RE = re.compile(r"(?i)\bmba\b|\bmasters?\b|master'?s|summer associate|\bph\.?d|law student|\bj\.?d\.?\b|"
+                           r"graduate (intern|student|program)|post-?grad")
+# Roles at a tracked firm that aren't wealth management or real estate finance work
+NOT_FIT_RE = re.compile(
+    r"(?i)payroll|information systems|technical support|tech(nology)? product|\bdata analyst|charitable|"
+    r"government relations|human resource|\bhr\b|construction|sustainab|facilities|\blegal\b|procurement|"
+    r"sourcing|military|communications|engineer|cyber|software|\bdeveloper|it support|help ?desk|"
+    r"strategic program support|center of excellence|rotational operations|operations - technical|"
+    r"\boperations (summer )?(\d{4} )?intern|data cent(re|er) operations|marketing|graphic|recruit|"
+    r"business analysis intern|healthcare|power, energy|shareholder advisory|capital solutions|"
+    r"sovereign advisory|global advisory long|restructuring|\bm&a\b|investment banking")
+
+
+def hide_reason(p: dict) -> str | None:
+    """Why a posting is kept off the main list (still in the data, shown with "Show hidden")."""
+    title = p.get("title") or ""
+    if p.get("level") == "Graduate/MBA" or GRAD_TITLE_RE.search(title):
+        return "Graduate / MBA only"
+    regs = p.get("regions") or []
+    if regs and not (set(regs) & US_REGION_SET):
+        return "Outside the US"
+    early = "early" in (p.get("tracks") or [])
+    if NOT_FIT_RE.search(title) and not (early and re.search(r"(?i)sophomore|insight|leadership program", title)):
+        return "Not a wealth / real estate role"
+    return None
+
+
 def is_stale_season(season: str | None, today: date) -> bool:
     """True when a posting's program season has already finished."""
     if not season:
@@ -440,8 +470,19 @@ def is_stale_season(season: str | None, today: date) -> bool:
 SEASON_WORD = r"(summer|fall|autumn|winter|spring)"
 
 
+YEAR_ROUND_RE = re.compile(r"(?i)year[- ]round|academic year|school year|part[- ]time|during the semester")
+_MONTH_SEASON = {1: "Spring", 2: "Spring", 3: "Spring", 4: "Spring", 5: "Summer", 6: "Summer", 7: "Summer",
+                 8: "Summer", 9: "Fall", 10: "Fall", 11: "Fall", 12: "Fall"}
+
+
 def season(title: str, text: str, posted: date | None) -> tuple[str | None, bool]:
-    """Return ("Summer 2027", inferred?)."""
+    """Return ("Summer 2027", inferred?). "Year-round" for programs that run alongside classes."""
+    if YEAR_ROUND_RE.search(title or ""):
+        return "Year-round", False
+    # "Co-Op - January 2027 - May 2027": the start month decides the term
+    m = re.search(MONTH_RE + r"\.?\s*(20\d\d)", title or "", re.I)
+    if m and not re.search(SEASON_WORD, title or "", re.I):
+        return f"{_MONTH_SEASON[MONTHS[_mkey(m.group(1))]]} {m.group(2)}", False
     # graduation sentences ("graduating between December 2027 and Summer 2028")
     # describe the student, not the program, so they're left out here
     body = " ".join(x for x in sentences((text or "")[:4000]) if not GRAD_CONTEXT.search(x))
@@ -463,6 +504,9 @@ def season(title: str, text: str, posted: date | None) -> tuple[str | None, bool
     ty = re.search(r"\b(20\d\d)\b", title or "")
     if ty and re.search(r"(?i)summer|analyst program|internship program", title or ""):
         return f"Summer {ty.group(1)}", False
+    # "2027 Financial Service & Support Intern": a year in an intern title with "summer" in the posting
+    if ty and re.search(r"(?i)\bintern", title or "") and re.search(r"(?i)\bsummer\b", body[:2000]):
+        return f"Summer {ty.group(1)}", True
     m = re.search(r"(?i)\bsummer (analyst|intern|internship|associate)", title or "")
     if m or re.search(r"(?i)\bsummer\b", title or ""):
         return _infer("Summer", posted), True
@@ -535,7 +579,10 @@ def class_years(text: str, season_label: str | None) -> tuple[list[int], str | N
             found.update(_classes_from_window(dates[0], dates[-1]))
         elif len(dates) == 1:
             y, mo = dates[0]
-            found.update(_classes_from_window((y, mo), (y, mo)))
+            if re.search(r"(?i)or later|or after|and beyond|onward|thereafter|no earlier than", sent):
+                found.update(_classes_from_window((y, mo), (y + 4, 8)))
+            else:
+                found.update(_classes_from_window((y, mo), (y, mo)))
         elif not found:
             ys = [int(y) for y in re.findall(r"\b(20[2-3]\d)\b", sent)]
             if 1 <= len(ys) <= 2 and re.search(r"(?i)graduat\w*\s+(in|by|between|from|date)", sent):
@@ -578,11 +625,14 @@ def _class_from_words(text: str, season_label: str) -> tuple[set[int], str | Non
             continue
         hits: set[int] = set()
         s = sent
-        for m in re.finditer(r"(?i)rising (sophomore|junior|senior)s?", s):
-            hits.add(rising[m.group(1).lower()])
-        s = re.sub(r"(?i)rising (sophomore|junior|senior)s?", " ", s)
+        # "rising sophomores, juniors, and seniors": every class word in the list is "rising"
+        rl = r"(?i)rising ((?:sophomore|junior|senior)s?(?:\s*(?:,|and|or|&|/)\s*(?:and\s+|or\s+)?(?:sophomore|junior|senior)s?)*)"
+        for m in re.finditer(rl, s):
+            for w in re.findall(r"(?i)sophomore|junior|senior", m.group(1)):
+                hits.add(rising[w.lower()])
+        s = re.sub(rl, " ", s)
         # senior/junior as job ranks ("senior advisor", "junior analyst") are not class years
-        s = re.sub(r"(?i)\b(senior|junior)\s+(vice|managing|associate|analyst|advisor|adviser|banker|manager|director|leader|partner|staff|management|executive|team|level|role)s?\b", " ", s)
+        s = re.sub(r"(?i)\b(senior|junior)\s+(vice|managing|associate|analyst|advisor|adviser|banker|manager|director|leader|partner|staff|management|executive|team|level|role|stakeholder|leadership|professional|member|colleague|living|housing|care|debt|loan|lender|secured|notes?|bankers?|advisors?)s?\b", " ", s)
         for m in re.finditer(r"(?i)\b(freshm[ae]n|first-year|sophomores?|juniors?|seniors?)\b", s):
             w = m.group(1).lower().rstrip("s")
             w = "freshman" if w.startswith("freshm") else w

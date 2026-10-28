@@ -167,3 +167,22 @@ def test_support_roles_and_stale():
     assert parse.is_internship("Full Time Branch Intern")
     assert parse.is_stale_season("Summer 2025", date(2026, 10, 18))
     assert not parse.is_stale_season("Fall 2026", date(2026, 10, 18))
+
+
+def test_hide_and_class_fixes():
+    cy = parse.class_years
+    assert cy("Our program is for rising sophomores, juniors, and seniors.", "Summer 2027")[0] == [2028, 2029, 2030]
+    assert cy("Crow offers rising juniors and seniors the opportunity to intern.", "Summer 2027")[0] == [2028, 2029]
+    assert cy("The intern will build reports for senior stakeholders.", "Summer 2027")[0] == []
+    assert 2029 in cy("- Anticipated graduation date of December 2026 or later", "Summer 2027")[0]
+    assert parse.season("Wealth Co-Op - FULL TIME January 2027 - May 2027", "", date(2026, 10, 1))[0] == "Spring 2027"
+    assert parse.season("Internship – Wealth Planning (Year-Round)", "", date(2026, 10, 1))[0] == "Year-round"
+    assert parse.season("2027 Financial Service & Support Intern - Denver", "Join us this summer.", date(2026, 10, 1))[0] == "Summer 2027"
+    assert not parse.is_internship("Scaling & Insights Program Manager - Vice President")
+    h = parse.hide_reason
+    assert h({"title": "2027 MBA Internship Program", "level": "Graduate/MBA"}) == "Graduate / MBA only"
+    assert h({"title": "Private Wealth Summer Intern", "regions": ["International"]}) == "Outside the US"
+    assert h({"title": "Payroll Intern- Summer 2027", "regions": ["Midwest"]}) == "Not a wealth / real estate role"
+    assert h({"title": "Private Wealth Summer Intern", "regions": ["Northeast"]}) is None
+    assert h({"title": "Private Wealth Summer Intern", "regions": []}) is None
+    assert h({"title": "US Global Advisory | 2027 Sophomore Leadership Program", "regions": ["US"], "tracks": ["early"]}) is None

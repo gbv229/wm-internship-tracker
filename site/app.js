@@ -22,7 +22,7 @@
   const state = {
     postings: [], firms: [], run: null, track: "wealth", tab: "postings", hidePass: true, newOnly: false,
     cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", region: "US", area: "",
-    sort: "deadline", dir: 1, open: new Set(),
+    sort: "status", dir: 1, open: new Set(), showHidden: false, openFirms: new Set(),
   };
 
   // ---------------------------------------------------------- url state
@@ -64,15 +64,20 @@
   const firmInTrack = (f) => (f.tracks || ["wealth"]).includes(state.track);
 
   const KEYS = ["tab", "track", "cls", "q", "season", "type", "status", "level", "region", "area", "sort", "dir"];
+  const SORT_OPTIONS = [["status", "Apply order: closing soon, then open now"], ["deadline", "Deadline (soonest first)"],
+    ["posted", "Newest first"], ["company", "Firm A–Z"], ["season", "Season"]];
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     KEYS.forEach((k) => { if (p.has(k)) state[k] = k === "dir" ? +p.get(k) : p.get(k); });
     if (p.has("unstated")) state.unstated = p.get("unstated") !== "0";
+    if (p.has("hidden")) state.showHidden = p.get("hidden") === "1";
+    if (!SORT_OPTIONS.some(([v]) => v === state.sort) && !["title", "classes"].includes(state.sort)) state.sort = "status";
   }
   function writeHash() {
     const p = new URLSearchParams();
     KEYS.forEach((k) => p.set(k, state[k]));
     p.set("unstated", state.unstated ? "1" : "0");
+    if (state.showHidden) p.set("hidden", "1");
     history.replaceState(null, "", "#" + p.toString());
   }
 
@@ -304,10 +309,12 @@
     document.querySelectorAll("th button[data-sort]").forEach((b) => b.addEventListener("click", () => {
       const k = b.dataset.sort;
       if (state.sort === k) state.dir *= -1; else { state.sort = k; state.dir = k === "posted" ? -1 : 1; }
+      const fs2 = $("#f-sort"); if (fs2) fs2.value = SORT_OPTIONS.some(([v]) => v === k) ? k : "status";
       update();
     }));
     $("#reset").addEventListener("click", () => {
-      Object.assign(state, { cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", sort: "deadline", dir: 1 });
+      Object.assign(state, { cls: String(AY_END + 2), unstated: true, q: "", season: "upcoming", type: "", status: "active", level: "Undergraduate", sort: "status", dir: 1, showHidden: false });
+      $("#show-hidden").checked = false; $("#f-sort").value = "status";
       state.region = "US"; state.area = "";
       ["q", "season", "type", "status", "level", "region", "area"].forEach((k) => ($("#f-" + k).value = state[k]));
       un.checked = true;
@@ -315,6 +322,12 @@
       update();
     });
     $("#csv").addEventListener("click", downloadCsv);
+    const fs = $("#f-sort");
+    fs.innerHTML = SORT_OPTIONS.map(([v, l]) => `<option value="${v}">${l}</option>`).join("");
+    fs.value = SORT_OPTIONS.some(([v]) => v === state.sort) ? state.sort : "status";
+    fs.addEventListener("change", () => { state.sort = fs.value; state.dir = fs.value === "posted" ? -1 : 1; update(); });
+    const sh = $("#show-hidden"); sh.checked = state.showHidden;
+    sh.addEventListener("change", () => { state.showHidden = sh.checked; update(); });
     $("#hide-pass").addEventListener("change", (e) => { state.hidePass = e.target.checked; render(); });
     $("#new-only").addEventListener("change", (e) => { state.newOnly = e.target.checked; render(); });
     $("#mine-list").addEventListener("click", onTrackerClick);
@@ -325,10 +338,14 @@
     $("#rows").addEventListener("click", (e) => {
       if (onTrackerClick(e)) return;
       if (e.target.closest("a")) return;
+      if (e.target.closest(".report-btn, .report-menu")) return;
+      const fg = e.target.closest("tr.firmgroup"); if (fg) { toggleFirm(fg); return; }
       const tr = e.target.closest("tr.row"); if (!tr) return;
       toggleRow(tr);
     });
     $("#rows").addEventListener("keydown", (e) => {
+      const fg = e.target.closest("tr.firmgroup");
+      if (fg && (e.key === "Enter" || e.key === " ") && e.target === fg) { e.preventDefault(); toggleFirm(fg); return; }
       const tr = e.target.closest("tr.row");
       if (tr && (e.key === "Enter" || e.key === " ") && e.target === tr) { e.preventDefault(); toggleRow(tr); }
     });
@@ -383,6 +400,16 @@
     open ? state.open.add(id) : state.open.delete(id);
   }
 
+  function toggleFirm(fg) {
+    const key = fg.dataset.firm, open = fg.getAttribute("aria-expanded") !== "true";
+    fg.setAttribute("aria-expanded", open);
+    open ? state.openFirms.add(key) : state.openFirms.delete(key);
+    document.querySelectorAll(`#rows tr[data-parent="${CSS.escape(key)}"]`).forEach((r) => {
+      if (r.classList.contains("detail")) r.hidden = !open || !state.open.has(r.previousElementSibling?.dataset.id);
+      else r.hidden = !open;
+    });
+  }
+
   function update() { writeHash(); render(); }
 
   // ------------------------------------------------------------ filter
@@ -391,13 +418,14 @@
     const nowKey = TODAY.getFullYear() * 10 + (TODAY.getMonth() < 2 ? 0 : TODAY.getMonth() < 5 ? 1 : TODAY.getMonth() < 8 ? 2 : 3);
     return state.postings.filter((p) => {
       if (!inTrack(p)) return false;
+      if (p.hide && !state.showHidden) return false;
       if (state.status === "active" && !(p._status === "open" || p._status === "soon")) return false;
       if (state.status === "open" && p._status === "closed") return false;
       if (state.status === "closed" && p._status !== "closed") return false;
-      if (state.level && p.level !== state.level) return false;
+      if (state.level && p.level !== state.level && !(state.showHidden && p.hide)) return false;
       if (state.type && p.company_type !== state.type) return false;
       if (state.area && p.function !== state.area) return false;
-      if (!ignoreRegion && !inRegion(p, state.region)) return false;
+      if (!ignoreRegion && !inRegion(p, state.region) && !(state.showHidden && p.hide && state.region === "US")) return false;
       if (state.season === "upcoming") { if (p.season && seasonKey(p.season) < nowKey) return false; }
       else if (state.season === "unknown") { if (p.season) return false; }
       else if (state.season !== "all" && p.season !== state.season) return false;
@@ -412,8 +440,17 @@
     });
   }
 
+  // apply order: what you can act on now comes first
+  const RANK_LABEL = ["Closing within 2 weeks", "Open now – deadline listed", "Open now – rolling, apply early", "Deadline passed", "Closed"];
+  const rankOf = (p) => ({ soon: 0, open: p._dl ? 1 : 2, past: 3, closed: 4 })[p._status];
   function sorted(list) {
     const k = state.sort, d = state.dir;
+    if (k === "status") {
+      return [...list].sort((a, b) => rankOf(a) - rankOf(b)
+        || (rankOf(a) <= 1 ? a._dl - b._dl : 0)
+        || ((b._posted || b._first || 0) - (a._posted || a._first || 0))
+        || a.company.localeCompare(b.company) || a.title.localeCompare(b.title));
+    }
     const val = (p) => ({
       company: p.company.toLowerCase(), title: p.title.toLowerCase(), season: seasonKey(p.season),
       classes: (p.classes || [])[0] ?? 9999, deadline: p._dl ? +p._dl : null, posted: p._posted ? +p._posted : 0,
@@ -439,7 +476,9 @@
     flat.forEach((p) => { const k = p.group || `${p.company}|${p.title}`; if (!gmap.has(k)) gmap.set(k, []); gmap.get(k).push(p); });
     const list = [...gmap.values()];
     GROUPS = new Map(list.map((g) => [g[0].id, g]));
-    const activeTotal = state.postings.filter(inTrack).filter((p) => p._status === "open" || p._status === "soon").length;
+    const nHidden = state.postings.filter((p) => inTrack(p) && p.hide && (p._status === "open" || p._status === "soon")).length;
+    $("#show-hidden-label").textContent = `Show ${nHidden} hidden ${nHidden === 1 ? "role" : "roles"} (MBA, outside the US, not WM/RE)`;
+    const activeTotal = state.postings.filter(inTrack).filter((p) => !p.hide && (p._status === "open" || p._status === "soon")).length;
     $("#n-postings").textContent = activeTotal;
     $("#result-count").innerHTML = `<b>${list.length}</b> ${list.length === 1 ? "role" : "roles"}` +
       (flat.length > list.length ? ` <span class="muted">(${flat.length} postings across offices)</span>` : "") +
@@ -448,7 +487,7 @@
     renderStats();
     renderMap();
 
-    $("#rows").innerHTML = list.map((g) => rowHtml(g[0], g)).join("");
+    $("#rows").innerHTML = rowsHtml(list);
     refreshTracked();
     const nNew = state.postings.filter((p) => inTrack(p) && p._new && p.status === "open").length;
     $("#new-only-wrap").hidden = FIRST_VISIT || (!nNew && !state.newOnly);
@@ -467,8 +506,7 @@
   const EARLY = { list: [], type: "", field: "", status: "active", q: "" };
   const TYPE_LABEL = { sophomore: "Sophomore program", insight: "Insight program", fellowship: "Fellowship",
     first_year: "First-year program", summer_2028: "Summer 2028 internship", training: "Training", ambassador: "Campus ambassadors" };
-  const TYPE_FILTERS = [["", "All"], ["sophomore", "Sophomore programs"], ["insight", "Insight days & fellowships"],
-    ["summer_2028", "Summer 2028 internships"], ["first_year", "First-year"], ["training", "Training"], ["ambassador", "Ambassadors"]];
+  const TYPE_FILTERS = [["", "All"], ["summer_2028", "Summer 2028 internships"], ["sophomore", "Sophomore programs"], ["insight", "Insight days & fellowships"], ["first_year", "First-year"], ["training", "Training"], ["ambassador", "Ambassadors"]];
   const fmtFull = (d) => fmtDay(d, d.getFullYear() !== TODAY.getFullYear());
   const ymd = (d) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`;
 
@@ -479,6 +517,7 @@
     if (p.status === "closed" || (dl && dl < TODAY))
       return { k: "closed", label: dl ? `${p.deadline_est ? "Likely closed" : "Closed"} ${fmtFull(dl)}` : "Closed" };
     if (op && op > TODAY) return { k: "upcoming", label: `Opens ${fmtFull(op)}${est(p.opens_est)}`, date: op };
+    if (p.spotted) return { k: "open", label: `Open now · spotted ${fmtFull(parseDay(p.spotted))}${dl ? ` · due ${fmtFull(dl)}` : ""}`, date: dl, live: true };
     if (p.status === "open" || (op && !p.opens_est))
       return { k: "open", label: dl ? `Open · due ${fmtFull(dl)}${est(p.deadline_est)}` : "Open now", date: dl };
     if (op && p.opens_est) return { k: "check", label: "Expected to be open – check", date: dl };
@@ -545,7 +584,7 @@
       setTimeout(() => URL.revokeObjectURL(a.href), 1000);
       b.textContent = "Added – open the file";
     });
-    $("#early-note").innerHTML = `Campus ambassadors at J.P. Morgan and Goldman Sachs are picked from past interns, so there's no public application. They're listed so you know to ask during your internship. Programs last researched ${EARLY.researched ? fmtFull(EARLY.researched) : "recently"}; rows marked <span class="pill live">Live posting</span> come straight from firm job boards and update every 30 minutes.`;
+    $("#early-note").innerHTML = `<b>How the watchlist works:</b> every 30 minutes the tracker checks each firm's job board, and a program switches to <span class="pill live">Open now</span> the moment a matching posting appears. Follow the <a href="data/feed-watchlist.xml">"just opened" feed</a> or subscribe to the calendar to hear about it. Campus ambassadors at J.P. Morgan and Goldman Sachs are picked from past interns, so there's no public application. They're listed so you know to ask during your internship. Programs last researched ${EARLY.researched ? fmtFull(EARLY.researched) : "recently"}; rows marked <span class="pill live">Live posting</span> come straight from firm job boards and update every 30 minutes.`;
     renderEarly();
   }
 
@@ -589,7 +628,7 @@
     const evs = earlyEvents(p);
     const next = evs[0];
     const openish = st.k === "open" || st.k === "check";
-    return `<article class="prog st-${st.k}">
+    return `<article class="prog st-${st.k}${st.live ? " is-live" : ""}">
       ${logoHtml(p.firm)}
       <div class="prog-main">
         <div class="prog-top"><span class="prog-firm">${esc(p.firm)}</span><span class="pill">${esc(TYPE_LABEL[p.type] || p.type)}</span>${p.origin === "live" ? '<span class="pill live">Live posting</span>' : ""}</div>
@@ -597,13 +636,15 @@
         ${p.eligibility ? `<p class="prog-elig">${esc(p.eligibility)}</p>` : ""}
         ${p.when || p.notes ? `<p class="prog-when">${esc([p.when, p.notes].filter(Boolean).join(" · "))}</p>` : ""}
         ${p.opens_note || p.deadline_note ? `<p class="prog-why">${esc([p.opens_note, p.deadline_note].filter(Boolean).join(" "))}</p>` : ""}
+        ${p.live?.length ? `<ul class="prog-live"><li class="prog-live-h">Live now on the job board${p.live_count > p.live.length ? ` (${p.live_count} postings, first ${p.live.length} shown)` : ""}:</li>
+          ${p.live.map((l) => `<li><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title)}</a>${l.location ? ` <span class="muted">${esc(l.location)}</span>` : ""}</li>`).join("")}</ul>` : ""}
       </div>
       <div class="prog-side">
         <span class="state">${esc(st.label)}</span>
         <dl class="prog-dates">${dateCell("Opens", op, p.opens_est)}${dateCell("Deadline", dl, p.deadline_est)}</dl>
         ${trackerControls(p.id, "program")}
         <div class="prog-actions">
-          <a class="btn-go" href="${esc(p.link)}" target="_blank" rel="noopener">${openish && p.status !== "invite" ? "Apply" : "Program page"}</a>
+          <a class="btn-go" href="${esc(p.live?.[0]?.url || p.link)}" target="_blank" rel="noopener">${openish && p.status !== "invite" ? "Apply" : "Program page"}</a>
           ${evs.length ? `<button type="button" class="btn-remind" data-id="${esc(p.id)}">Remind me</button>` : ""}
           ${next ? `<a class="gcal" href="${esc(gcalLink(next))}" target="_blank" rel="noopener" title="Add the ${next.kind === "opens" ? "opening date" : "deadline"} to Google Calendar">Google Calendar</a>` : ""}
           ${p.source && p.source !== p.link ? `<a class="src" href="${esc(p.source)}" target="_blank" rel="noopener">Date source</a>` : ""}
@@ -614,7 +655,7 @@
 
   // ------------------------------------------------------- hero stats
   function renderStats() {
-    const act = state.postings.filter((p) => inTrack(p) && (p._status === "open" || p._status === "soon") && p.level === "Undergraduate");
+    const act = state.postings.filter((p) => inTrack(p) && !p.hide && (p._status === "open" || p._status === "soon") && p.level === "Undergraduate");
     const firms = new Set(act.map((p) => p.company)).size;
     const week = act.filter((p) => p._posted && (TODAY - p._posted) / DAY <= 7).length;
     const soph = act.filter((p) => (p.classes || []).includes(AY_END + 2)).length;
@@ -706,12 +747,48 @@
   }
 
   let GROUPS = new Map();
-  function rowHtml(p, members = [p]) {
+  // Section headers in apply order, and one collapsible card for a firm with 3+ roles in a section,
+  // so a firm that posts one role per office doesn't bury everyone else.
+  function rowsHtml(list) {
+    const sections = state.sort === "status";
+    const out = [];
+    let i = 0;
+    while (i < list.length) {
+      const r = sections ? rankOf(list[i][0]) : null;
+      let j = i;
+      while (j < list.length && (!sections || rankOf(list[j][0]) === r)) j++;
+      const chunk = list.slice(i, j);
+      if (sections) out.push(`<tr class="section s-${r}"><th colspan="7" scope="rowgroup">${esc(RANK_LABEL[r])} <span>${chunk.length}</span></th></tr>`);
+      const byFirm = new Map();
+      chunk.forEach((g) => { const f = g[0].company; if (!byFirm.has(f)) byFirm.set(f, []); byFirm.get(f).push(g); });
+      const done = new Set();
+      chunk.forEach((g) => {
+        const f = g[0].company;
+        if (done.has(f)) return;
+        const gs = byFirm.get(f);
+        if (gs.length < 3 || state.q) { out.push(rowHtml(g[0], g)); return; }
+        done.add(f);
+        const key = `${r}|${f}`, open = state.openFirms.has(key);
+        const offices = gs.reduce((n, x) => n + x.length, 0);
+        const titles = gs.map((x) => x[0].group_title || x[0].title);
+        const next = gs.map((x) => x[0]._dl).filter(Boolean).sort((a, b) => a - b)[0];
+        out.push(`<tr class="firmgroup" data-firm="${esc(key)}" tabindex="0" aria-expanded="${open}">
+          <td class="c-company"><div class="firmcell">${logoHtml(f)}<div><span class="firm">${esc(f)}</span><span class="ftype">${esc(g[0].company_type)}</span></div></div></td>
+          <td class="role" colspan="5"><b>${gs.length} roles</b>${offices > gs.length ? ` · ${offices} postings across offices` : ""}${next ? ` · next deadline ${fmtDay(next)}` : ""}
+            <span class="role-meta">${esc(titles.slice(0, 3).join(" · "))}${titles.length > 3 ? ` + ${titles.length - 3} more` : ""}</span></td>
+          <td class="apply"><span class="fg-toggle">${open ? "Hide" : "Show"} roles</span></td></tr>`);
+        gs.forEach((x) => out.push(rowHtml(x[0], x, key, !open)));
+      });
+      i = j;
+    }
+    return out.join("");
+  }
+  function rowHtml(p, members = [p], parent = "", hide = false) {
     const multi = members.length > 1;
     const cls = p.classes || [];
     const elig = cls.length
       ? `<td class="elig">${cls.map((y) => `<span class="pill${state.cls !== "any" && y === +state.cls ? " match" : ""}">${classLabel(y)}</span>`).join("")}</td>`
-      : `<td class="elig unstated">Not stated</td>`;
+      : `<td class="elig unstated" title="The posting doesn't say which class year. Summer analyst programs are usually for rising seniors; open the posting to check.">Not stated</td>`;
     let dl;
     if (p._dl) {
       const n = daysUntil(p._dl);
@@ -726,21 +803,22 @@
     const posted = p._posted ? fmtDay(p._posted, p._posted.getFullYear() !== TODAY.getFullYear()) : "";
     const regs = [...new Set(members.flatMap((m) => regionsOf(m)))].filter((r) => r !== "US");
     const where = multi ? `${members.length} offices${regs.length ? " · " + regs.slice(0, 3).join(", ") + (regs.length > 3 ? "…" : "") : ""}` : fmtLoc(p.location);
-    const meta = [where, p.level === "Graduate/MBA" ? "MBA / graduate" : ""].filter(Boolean).join(" · ");
+    const meta = [where, p.level === "Graduate/MBA" ? "MBA / graduate" : "", p.hide ? `Hidden by default: ${p.hide}` : ""].filter(Boolean).join(" · ");
     const isOpen = state.open.has(p.id);
     const apply = p._status === "closed" && !multi
       ? `<span class="status-closed">Closed ${p.closed_on ? fmtDay(parseDay(p.closed_on)) : ""}</span>`
       : multi ? `<button type="button" class="pick-office" aria-label="Choose an office for ${esc(p.company)}, ${esc(p.group_title || p.title)}">Pick office</button>`
       : `<a href="${esc(p.url)}" target="_blank" rel="noopener" aria-label="Apply: ${esc(p.company)}, ${esc(p.title)} (opens employer site)">Apply</a>`;
-    return `<tr class="row ${p._status === "closed" ? "closed" : ""}" data-id="${esc(p.id)}" tabindex="0" aria-expanded="${isOpen}">
+    const par = parent ? ` data-parent="${esc(parent)}"` : "";
+    return `<tr class="row ${p._status === "closed" ? "closed" : ""}${parent ? " child" : ""}" data-id="${esc(p.id)}"${par} tabindex="0" aria-expanded="${isOpen}"${hide ? " hidden" : ""}>
       <td class="c-company"><div class="firmcell">${logoHtml(p.company)}<div><span class="firm">${esc(p.company)}</span><span class="ftype">${esc(p.company_type)}</span></div></div></td>
       <td class="role">${esc(multi ? p.group_title || p.title : p.title)}${p._new ? '<span class="new">New</span>' : ""}${p.verified ? `<span class="verified" title="Details confirmed by hand on ${esc(p.verified)}">Verified</span>` : ""}${meta ? `<span class="role-meta" title="${esc(p.location)}">${esc(meta)}</span>` : ""}</td>
       <td class="c-season">${p.season ? `<span class="pill">${esc(p.season)}</span>` + (p.season_inferred ? '<span class="est" title="Year estimated from posting date">est.</span>' : "") : '<span class="est">Season not stated</span>'}</td>
       ${elig}${dl}
       <td class="posted">${posted}</td>
-      <td class="apply"><div class="apply-box" data-id="${esc(p.id)}" data-kind="posting">${apply}<button type="button" class="star" data-s="saved" aria-pressed="false">Save</button></div></td>
+      <td class="apply"><div class="apply-box" data-id="${esc(p.id)}" data-kind="posting">${apply}<button type="button" class="star" data-s="saved" aria-pressed="false">Save</button>${reportMenu(p)}</div></td>
     </tr>
-    <tr class="detail" ${isOpen ? "" : "hidden"}><td colspan="7">${detailHtml(p, members)}</td></tr>`;
+    <tr class="detail"${par} ${isOpen && !hide ? "" : "hidden"}><td colspan="7">${detailHtml(p, members)}</td></tr>`;
   }
 
   let FIRM_NOTES = {};
@@ -755,12 +833,30 @@
     </div>`;
   }
 
-  function reportUrl(p) {
+  // "This is wrong": each choice opens a prefilled GitHub issue. Reports from the site owner are
+  // applied automatically (see .github/workflows/fix.yml); others wait for review.
+  const FIX_KINDS = [
+    ["closed", "It's closed / no longer taking applications", null],
+    ["not_fit", "Not a wealth management / real estate role", null],
+    ["duplicate", "Duplicate of another row", null],
+    ["classes", "Wrong class year", "Correct class years, e.g. 2028, 2029"],
+    ["deadline", "Wrong deadline", "Correct deadline as YYYY-MM-DD"],
+    ["season", "Wrong season", "Correct season, e.g. Summer 2027"],
+    ["other", "Something else", "What's wrong"],
+  ];
+  function reportUrl(p, kind = "other") {
     const repo = state.run?.repo && !state.run.repo.startsWith("local") ? state.run.repo : "gbv229/wm-internship-tracker";
-    const body = [`**Posting:** ${p.company} – ${p.title}`, `**Link:** ${p.url}`, `**Posting id:** \`${p.id}\``,
+    const k = FIX_KINDS.find((x) => x[0] === kind) || FIX_KINDS[FIX_KINDS.length - 1];
+    const body = [`**Problem:** ${k[1]}`, `**Posting:** ${p.company} – ${p.title}`, `**Link:** ${p.url}`,
       `**Shown as:** season ${p.season || "not stated"}; eligible ${(p.classes || []).join(", ") || "not stated"}; deadline ${p.deadline || "rolling"}; location ${p.location || "not stated"}`,
-      "", "**What's wrong / correct info:**", "", "**Where you confirmed it (link or source):**", ""].join("\n");
-    return `https://github.com/${repo}/issues/new?${new URLSearchParams({ title: `Fix: ${p.company} – ${p.title}`.slice(0, 120), body, labels: "data fix" })}`;
+      "", ...(k[2] ? [`**${k[2]}:** `, ""] : []), "**Where you confirmed it (link, optional):** ", "",
+      `<!-- fix: ${JSON.stringify({ id: p.id, kind: k[0] })} -->`].join("\n");
+    return `https://github.com/${repo}/issues/new?${new URLSearchParams({ title: `Fix (${k[0]}): ${p.company} – ${p.title}`.slice(0, 120), body, labels: "data fix" })}`;
+  }
+  function reportMenu(p) {
+    return `<details class="report"><summary class="report-btn" title="Tell us what's wrong with this row">Wrong?</summary>
+      <div class="report-menu" role="menu"><p>What's wrong? Opens a short GitHub form.</p>
+      ${FIX_KINDS.map(([k, l]) => `<a role="menuitem" href="${esc(reportUrl(p, k))}" target="_blank" rel="noopener">${esc(l)}</a>`).join("")}</div></details>`;
   }
 
   function officesHtml(members) {
@@ -790,13 +886,13 @@
       <dl class="detail-inner">${items.map(([k, v]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join("")}${ev.join("")}
         ${!items.length && !ev.length ? `<div><dd>No extra details were listed. Open the posting for the full description.</dd></div>` : ""}</dl>
       ${firmNoteHtml(p.company)}
-      <p class="detail-foot"><a href="${esc(reportUrl(p))}" target="_blank" rel="noopener">Report a problem with this role</a> · opens a prefilled GitHub issue</p>
+      <p class="detail-foot">Something off? ${FIX_KINDS.slice(0, 4).map(([k, l]) => `<a href="${esc(reportUrl(p, k))}" target="_blank" rel="noopener">${esc(l)}</a>`).join(" · ")} · <a href="${esc(reportUrl(p, "other"))}" target="_blank" rel="noopener">other</a></p>
     </div>`;
   }
 
   function renderClosing() {
     const soon = state.postings
-      .filter((p) => inTrack(p) && p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && regionsOf(p).some((r) => US_REGIONS.includes(r)))
+      .filter((p) => inTrack(p) && !p.hide && p._dl && p._dl >= TODAY && p._status !== "closed" && p.level === "Undergraduate" && regionsOf(p).some((r) => US_REGIONS.includes(r)))
       .sort((a, b) => a._dl - b._dl)
       .filter((p, i, arr) => arr.findIndex((q) => (q.group || q.id) === (p.group || p.id)) === i)
       .slice(0, 5);
@@ -836,7 +932,7 @@
   function renderFirms() {
     const q = $("#ff-q").value.trim().toLowerCase(), t = $("#ff-type").value, m = $("#ff-mode").value;
     const openCount = {};
-    state.postings.forEach((p) => { if (inTrack(p) && (p._status === "open" || p._status === "soon")) openCount[p.company] = (openCount[p.company] || 0) + 1; });
+    state.postings.forEach((p) => { if (inTrack(p) && !p.hide && (p._status === "open" || p._status === "soon")) openCount[p.company] = (openCount[p.company] || 0) + 1; });
     const list = state.firms.filter(firmInTrack).filter((f) =>
       (!q || `${f.name} ${f.hq} ${f.type}`.toLowerCase().includes(q)) && (!t || f.type === t) &&
       (!m || firmMode(f) === m || (m === "page" && (f.sources || []).some((s) => s.kind === "page")) ))

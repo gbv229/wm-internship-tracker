@@ -1,0 +1,56 @@
+name: Apply data fix
+
+# A "Wrong?" report from the site becomes an override automatically when the site owner opened it,
+# or when the owner adds the "approved" label to someone else's report.
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: fix
+  cancel-in-progress: false
+
+jobs:
+  fix:
+    if: >-
+      (github.event.action == 'opened' && github.event.issue.user.login == github.repository_owner &&
+       contains(github.event.issue.body, '<!-- fix:')) ||
+      (github.event.action == 'labeled' && github.event.label.name == 'approved')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pyyaml
+      - name: Build override
+        id: fix
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          set +e
+          python tools/apply_fix.py > msg.txt
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+      - name: Save
+        if: steps.fix.outputs.code == '0'
+        run: |
+          git config user.name "tracker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add overrides.yaml
+          git commit -m "Data fix from report #${{ github.event.issue.number }}"
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push origin main && break; sleep 5; done
+      - name: Reply
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          if [ "${{ steps.fix.outputs.code }}" = "0" ]; then
+            gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" -F msg.txt && gh issue close "$NUM" -R "$GITHUB_REPOSITORY"
+          else
+            gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" -F msg.txt
+          fi

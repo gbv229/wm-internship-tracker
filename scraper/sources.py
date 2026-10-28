@@ -299,6 +299,97 @@ def _sr_detail(s, url):
     return f
 
 
+# ------------------------------------------------- Oleeo / tal.net campus boards
+# Morgan Stanley and Bank of America list every campus program on a tal.net job
+# board: plain HTML pages of 50 links each.
+_OPP_RE = re.compile(r'(?is)<a[^>]+href="([^"]*/opp/(\d+)-[^"]*)"[^>]*>(.*?)</a>')
+
+
+def oleeo(s: requests.Session, cfg: dict, today: date) -> list[Job]:
+    board = cfg["board"].rstrip("/") + "/"
+    host = re.match(r"https://[^/]+", board).group(0)
+    out: dict[str, Job] = {}
+    for page in range(40):                  # stops early when a page adds nothing new
+        r = s.get(board, params={"start": page * 50} if page else None, timeout=TIMEOUT, headers={"Accept": "text/html"})
+        r.raise_for_status()
+        added = 0
+        for href, oid, inner in _OPP_RE.findall(r.text):
+            title = parse.html_to_text(inner).strip()
+            jid = f"oleeo:{cfg.get('key', host)}:{oid}"
+            if not title or jid in out:
+                continue
+            url = urljoin(host, href)
+            m = re.search(r"\(([^()]{2,60})\)\s*$", title) or re.search(r"\s[-–]\s([A-Z][A-Za-z .,/]{2,40})$", title)
+            out[jid] = Job(source="oleeo", id=jid, title=title, url=url, location=m.group(1) if m else "",
+                           _detail=_page_detail(s, url))
+            added += 1
+        if not added:
+            break
+    return list(out.values())
+
+
+def _page_detail(s, url):
+    def f():
+        r = s.get(url, timeout=TIMEOUT, headers={"Accept": "text/html"})
+        r.raise_for_status()
+        extra = ""
+        m = re.search(r'(?is)<script[^>]+id="__NEXT_DATA__"[^>]*>(.*?)</script>', r.text)
+        if m:                               # Next.js sites (Goldman) keep the description in page data
+            import json as _json
+            def strings(o):
+                if isinstance(o, str):
+                    if len(o) > 120:
+                        yield o
+                elif isinstance(o, dict):
+                    for v in o.values():
+                        yield from strings(v)
+                elif isinstance(o, list):
+                    for v in o:
+                        yield from strings(v)
+            try:
+                extra = "\n".join(parse.html_to_text(x) for x in strings(_json.loads(m.group(1))))
+            except ValueError:
+                extra = ""
+        body = re.sub(r"(?is)<(script|style|nav|header|footer)\b.*?</\1>", " ", r.text)
+        return (extra + "\n" + parse.html_to_text(body)).strip()
+    return f
+
+
+# ------------------------------------------------------------ Goldman Sachs
+GS_API = "https://api-higher.gs.com/gateway/api/v1/graphql"
+GS_QUERY = ("query GetRoles($searchQueryInput: RoleSearchQueryInput!) { roleSearch(searchQueryInput: $searchQueryInput) "
+            "{ totalCount items { roleId jobTitle corporateTitle division locations { primary state country city } } } }")
+
+
+def goldman(s: requests.Session, cfg: dict, today: date) -> list[Job]:
+    import uuid
+    hdr = {"Content-Type": "application/json", "Accept": "*/*", "Referer": "https://higher.gs.com/",
+           "Origin": "https://higher.gs.com", "x-higher-session-id": str(uuid.uuid4())}
+    out: dict[str, Job] = {}
+    for term in cfg.get("terms") or ["summer analyst", "intern", "insight", "sophomore", "early"]:
+        for page in range(20):
+            body = {"operationName": "GetRoles", "query": GS_QUERY, "variables": {"searchQueryInput": {
+                "page": {"pageSize": 50, "pageNumber": page}, "sort": {"sortStrategy": "RELEVANCE", "sortOrder": "DESC"},
+                "filters": [], "experiences": ["EARLY_CAREER"], "searchTerm": term}}}
+            r = s.post(GS_API, json=body, headers=hdr, timeout=TIMEOUT)
+            r.raise_for_status()
+            rs = ((r.json().get("data") or {}).get("roleSearch") or {})
+            items = rs.get("items") or []
+            for it in items:
+                rid = str(it["roleId"])
+                locs = it.get("locations") or []
+                prim = next((l for l in locs if l.get("primary")), locs[0] if locs else {})
+                where = ", ".join(x for x in (prim.get("city"), prim.get("state"), prim.get("country")) if x)
+                if len(locs) > 1:
+                    where += "; " + "; ".join(", ".join(x for x in (l.get("city"), l.get("state")) if x) for l in locs if l is not prim)
+                url = f"https://higher.gs.com/roles/{rid}"
+                out.setdefault(rid, Job(source="goldman", id=f"gs:{rid}", title=(it.get("jobTitle") or "").strip(),
+                                        url=url, location=where, _detail=_page_detail(s, url)))
+            if len(items) < 50 or (page + 1) * 50 >= (rs.get("totalCount") or 0):
+                break
+    return list(out.values())
+
+
 # ---------------------------------------------------------- page watching
 def page_fingerprint(s: requests.Session, url: str) -> tuple[str, list[str]]:
     """Hash of the visible text of a careers page, plus any internship-looking
@@ -317,4 +408,5 @@ def page_fingerprint(s: requests.Session, url: str) -> tuple[str, list[str]]:
 
 
 FETCHERS = {"workday": workday, "oracle": oracle, "greenhouse": greenhouse, "lever": lever,
-            "ashby": ashby, "icims": icims, "smartrecruiters": smartrecruiters}
+            "ashby": ashby, "icims": icims, "smartrecruiters": smartrecruiters, "oleeo": oleeo,
+            "goldman": goldman}

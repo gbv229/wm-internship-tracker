@@ -30,7 +30,7 @@ def write_feeds(postings: list[dict], data: Path, today: date, days: int = 30, l
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     for track, (fname, title) in FEEDS.items():
         items = [p for p in postings if p.get("status") == "open" and track in (p.get("tracks") or [])
-                 and p.get("level", "Undergraduate") == "Undergraduate" and p.get("first_seen")
+                 and p.get("level", "Undergraduate") == "Undergraduate" and p.get("first_seen") and not p.get("hide")
                  and (today - date.fromisoformat(p["first_seen"])).days <= days]
         items.sort(key=lambda p: (p["first_seen"], p["company"]), reverse=True)
         entries = []

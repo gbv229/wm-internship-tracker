@@ -29,7 +29,7 @@ REFRESH_DAYS = 3          # re-read a posting's full text this often (deadlines 
 MAX_DETAILS_PER_RUN = 900 # politeness cap; anything left over is picked up next run
 CLOSE_AFTER_MISSES = 2    # a posting must vanish from 2 successful runs before it's marked closed
 KEEP_CLOSED_DAYS = 400
-PARSER_VERSION = 9       # bump when parse rules change so stored postings are re-read
+PARSER_VERSION = 10      # bump when parse rules change so stored postings are re-read
 
 
 def load_json(p: Path, default):
@@ -240,6 +240,14 @@ def apply_overrides(postings: dict, path: Path) -> int:
                     p["season"], p["season_inferred"] = str(v), False
                 elif k == "note":
                     p["note"] = str(v)
+                elif k == "show":
+                    p["force_show"] = bool(v)
+                elif k == "hide":
+                    p["force_hide"] = str(v)
+                elif k == "status" and str(v) == "closed":
+                    p["status"] = "closed"
+                elif k == "opens":
+                    p["opens"] = str(v)
             if r.get("verified"):
                 p["verified"] = str(r["verified"])
             if r.get("source"):
@@ -415,6 +423,9 @@ def main(argv=None):
         key, display = parse.group_key(p.get("title", ""))
         p["group"] = f"{p['company']}|{key}"
         p["group_title"] = display
+        if p.get("level") == "Graduate/MBA":
+            p["classes"] = []            # MBA "graduating 2028" isn't the undergrad Class of 2028
+        p["hide"] = None if p.get("force_show") else (p.get("force_hide") or parse.hide_reason(p))
     postings = sorted(out.values(), key=lambda p: (p["status"] != "open", p["company"], p["title"]))
     dump(DATA / "postings.json", {"postings": postings})
     dump(DATA / "companies.json", {"companies": status_out})

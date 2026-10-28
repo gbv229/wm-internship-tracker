@@ -8,7 +8,7 @@
 # status: open | upcoming | closed | watch (no date published) | invite (no public application)
 # source: where the date came from (official page preferred).
 #
-# Last researched: 2026-10-18
+# Last researched: 2026-10-28
 
 programs:
 
@@ -835,3 +835,328 @@ programs:
     status: upcoming
     link: https://www.pimco.com/us/en/about-us/careers/students
     source: https://www.extern.com/post/finance-internships-summer-2028-guide
+
+  # ============================================================ Summer 2028 watchlist (added 2026-10-28)
+  # Estimated from Adventis' Class of 2029 timeline or from when this tracker saw last cycle's roles.
+  # The tracker marks each one open as soon as a matching 2028 posting shows up on the firm's job board.
+  - id: truist-2028-wealth
+    firm: Truist (Truist Wealth)
+    program: "2028 Summer Internships (Wealth & Corporate and Investment Banking)"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-01-04
+    opens_est: true
+    opens_note: "Adventis expects Truist's first 2028 summer analyst posting in Dec 2026 – Jan 2027."
+    status: upcoming
+    link: https://careers.truist.com/
+    source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
+
+  - id: stifel-2028
+    firm: Stifel
+    program: "2028 Summer Internships (Private Client & Institutional)"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2026-11-16
+    opens_est: true
+    opens_note: "Adventis expects Stifel's first 2028 summer posting in Nov 2026. Stifel's 2027 branch and advisory internships appeared in Oct 2026."
+    status: upcoming
+    link: https://www.stifel.com/careers
+    source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
+
+  - id: citizens-2028
+    firm: Citizens (Private Wealth)
+    program: "2028 Summer Analyst Programs"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-02-15
+    opens_est: true
+    opens_note: "Adventis expects Citizens' 2028 summer postings in Feb – Mar 2027."
+    status: upcoming
+    link: https://jobs.citizensbank.com/
+    source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
+
+  - id: fifththird-2028
+    firm: Fifth Third (Wealth)
+    program: "2028 Summer Internships (incl. Wealth & Asset Management)"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-02-15
+    opens_est: true
+    opens_note: "Adventis expects Fifth Third's 2028 summer postings in Feb – Mar 2027."
+    status: upcoming
+    link: https://fifththird.wd5.myworkdayjobs.com/53careers
+    source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
+
+  - id: keybank-2028
+    firm: KeyBank
+    program: "2028 Summer Internships (Wealth, Real Estate Capital)"
+    type: summer_2028
+    field: multi
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-02-15
+    opens_est: true
+    opens_note: "Adventis expects KeyBank's 2028 summer postings in Feb – Mar 2027. KeyBank's 2027 roles appeared from Sep 2026."
+    status: upcoming
+    link: https://keybank.wd5.myworkdayjobs.com/External_Career_Site
+    source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
+
+  - id: regions-2028
+    firm: Regions (Private Wealth)
+    program: "2028 Summer Internships"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-02-15
+    opens_est: true
+    opens_note: "Adventis expects Regions' 2028 summer postings in Feb – Mar 2027."
+    status: upcoming
+    link: https://regions.wd5.myworkdayjobs.com/regions_careers
+    source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
+
+  - id: rockefeller-2028
+    firm: Rockefeller Capital Management
+    program: "2028 Summer Analyst Program"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-01-04
+    opens_est: true
+    opens_note: "Adventis lists Rockefeller in its Class of 2029 tracking; its 2027 summer roles appeared in Oct 2026."
+    status: upcoming
+    link: https://rockco.com/careers/
+    source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
+
+  - id: bny-2028-wealth
+    firm: BNY (incl. BNY Wealth)
+    program: "2028 BNY Summer Internship Program – BNY Wealth"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-08-23
+    opens_est: true
+    opens_note: "BNY's 2027 Wealth summer internships were posted around Aug 24, 2026."
+    status: upcoming
+    link: https://www.bny.com/corporate/global/en/careers/students-and-graduates.html
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: ab-2028-pw
+    firm: AllianceBernstein (Bernstein Private Wealth)
+    program: "2028 Private Wealth Summer Intern"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-20
+    opens_est: true
+    opens_note: "Bernstein's 2027 Private Wealth summer internships appeared around late Sep 2026."
+    status: upcoming
+    link: https://abglobal.wd1.myworkdayjobs.com/abcampuscareers
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: baird-2028-pwm
+    firm: Baird
+    program: "2028 Private Wealth Management Internships"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-07
+    opens_est: true
+    opens_note: "Baird's Summer 2027 PWM internships were posted from Sep 2026 (one per branch)."
+    status: upcoming
+    link: https://www.rwbaird.com/careers/
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: rj-2028
+    firm: Raymond James
+    program: "2028 Summer Internships"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-10-04
+    opens_est: true
+    opens_note: "Raymond James's 2027 summer internships appeared in early Oct 2026."
+    status: upcoming
+    link: https://www.raymondjames.com/careers/students
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: lpl-2028
+    firm: LPL Financial
+    program: "2028 Summer Internships"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-13
+    opens_est: true
+    opens_note: "LPL's 2027 internships appeared from mid-Sep 2026."
+    status: upcoming
+    link: https://lplfinancial.wd1.myworkdayjobs.com/university
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: cerity-2028
+    firm: Cerity Partners
+    program: "2028 Wealth Management Summer Internships"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-20
+    opens_est: true
+    opens_note: "Cerity's 2027 wealth internships appeared from late Sep 2026."
+    status: upcoming
+    link: https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: northern-trust-2028
+    firm: Northern Trust
+    program: "2028 Wealth Management Summer Internships"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-13
+    opens_est: true
+    opens_note: "Northern Trust posts its next-summer internships in the fall."
+    status: upcoming
+    link: https://www.northerntrust.com/united-states/about-us/careers/students
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: pnc-2028
+    firm: PNC (PNC Private Bank)
+    program: "2028 Summer Internships (incl. PNC Private Bank)"
+    type: summer_2028
+    field: wealth
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-13
+    opens_est: true
+    opens_note: "PNC posts next-summer internships in the fall; its 2027 roles were still appearing in Oct 2026."
+    status: upcoming
+    link: https://careers.pnc.com/global/en/students
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: jll-2028
+    firm: JLL
+    program: "Summer 2028 Internships (Capital Markets, Leasing, Property Management)"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-13
+    opens_est: true
+    opens_note: "JLL's Summer 2027 internships were posted from mid-Sep 2026, one per office."
+    status: upcoming
+    link: https://www.us.jll.com/en/careers
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: cw-2028
+    firm: Cushman & Wakefield
+    program: "Summer 2028 Internships (Early Identification & Summer Intern Program)"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-13
+    opens_est: true
+    opens_note: "Cushman & Wakefield's Summer 2027 internships appeared from mid-Sep 2026."
+    status: upcoming
+    link: https://www.cushmanwakefield.com/en/united-states/careers
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: newmark-2028
+    firm: Newmark
+    program: "Summer 2028 Internships"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-20
+    opens_est: true
+    opens_note: "Newmark's 2027 summer internships appeared from mid-Sep 2026."
+    status: upcoming
+    link: https://www.nmrk.com/careers
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: eastdil-2028
+    firm: Eastdil Secured
+    program: "2028 Summer Internship Program"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-10-04
+    opens_est: true
+    opens_note: "Eastdil's 2027 program was posted by mid-Oct 2026."
+    status: upcoming
+    link: https://www.eastdilsecured.com/careers
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: berkadia-2028
+    firm: Berkadia
+    program: "2028 Summer Internship Program"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-10-04
+    opens_est: true
+    opens_note: "Berkadia's 2027 program was posted by mid-Oct 2026."
+    status: upcoming
+    link: https://www.berkadia.com/careers/
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: link-2028
+    firm: Link Logistics
+    program: "2028 Summer Internships (Investments, Capital Markets, Asset Management)"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-20
+    opens_est: true
+    opens_note: "Link's 2027 summer internships appeared from late Sep 2026."
+    status: upcoming
+    link: https://www.linklogistics.com/careers/
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: heitman-2028
+    firm: Heitman
+    program: "2028 Summer Internships (Acquisitions, Financial Operations)"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-10-04
+    opens_est: true
+    opens_note: "Heitman's 2027 summer internships were posted by mid-Oct 2026."
+    status: upcoming
+    link: https://www.heitman.com/careers/
+    source: https://gbv229.github.io/wm-internship-tracker/
+
+  - id: pgim-re-2028
+    firm: PGIM Real Estate
+    program: "2028 Real Estate Summer Analyst"
+    type: summer_2028
+    field: real_estate
+    eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
+    when: Summer 2028
+    opens: 2027-09-20
+    opens_est: true
+    opens_note: "PGIM Real Estate's 2027 roles appeared around Sep 21, 2026."
+    status: upcoming
+    link: https://www.pgim.com/careers
+    source: https://gbv229.github.io/wm-internship-tracker/

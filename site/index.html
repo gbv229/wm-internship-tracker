@@ -64,7 +64,7 @@
 <main class="wrap" id="main">
   <nav class="tabs" role="tablist" aria-label="Views">
     <button role="tab" aria-selected="true" aria-controls="panel-postings" id="tab-postings" data-tab="postings">Postings <span class="tab-n" id="n-postings"></span></button>
-    <button role="tab" aria-selected="false" aria-controls="panel-early" id="tab-early" data-tab="early" tabindex="-1">Early programs &amp; Summer 2028 <span class="tab-n" id="n-early"></span></button>
+    <button role="tab" aria-selected="false" aria-controls="panel-early" id="tab-early" data-tab="early" tabindex="-1">Watchlist: Summer 2028 &amp; sophomore programs <span class="tab-n" id="n-early"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-firms" id="tab-firms" data-tab="firms" tabindex="-1">Firms <span class="tab-n" id="n-firms"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-mine" id="tab-mine" data-tab="mine" tabindex="-1">My list <span class="tab-n" id="n-mine"></span></button>
     <button role="tab" aria-selected="false" aria-controls="panel-about" id="tab-about" data-tab="about" tabindex="-1">How it works</button>
@@ -73,7 +73,7 @@
   <!-- ============================== POSTINGS -->
   <section role="tabpanel" id="panel-postings" aria-labelledby="tab-postings">
     <div class="who">
-      <span class="who-label" id="who-label">Show roles open to</span>
+      <span class="who-label" id="who-label">Can I apply? I'm a</span>
       <div class="seg" role="radiogroup" aria-labelledby="who-label" id="class-seg"></div>
       <label class="check"><input type="checkbox" id="f-unstated" checked> Include roles that don't say</label>
     </div>
@@ -131,6 +131,8 @@
       <div class="resultbar-actions">
         <label class="check" id="new-only-wrap" hidden><input type="checkbox" id="new-only"> <span id="new-only-label">Only new since my last visit</span></label>
         <label class="check"><input type="checkbox" id="hide-pass" checked> Hide roles I passed on</label>
+        <label class="check"><input type="checkbox" id="show-hidden"> <span id="show-hidden-label">Show hidden roles</span></label>
+        <label class="sortpick"><span>Sort</span><select id="f-sort"></select></label>
         <button type="button" class="link" id="reset">Reset filters</button>
         <button type="button" class="btn-quiet" id="csv">Download CSV</button>
       </div>
@@ -145,7 +147,7 @@
             <th scope="col"><button data-sort="title">Role</button></th>
             <th scope="col"><button data-sort="season">Season</button></th>
             <th scope="col"><button data-sort="classes">Eligible</button></th>
-            <th scope="col"><button data-sort="deadline" aria-sort="ascending">Deadline</button></th>
+            <th scope="col"><button data-sort="deadline">Deadline</button></th>
             <th scope="col"><button data-sort="posted">Posted</button></th>
             <th scope="col"><span class="sr">Apply</span></th>
           </tr>
@@ -161,8 +163,8 @@
   <section role="tabpanel" id="panel-early" aria-labelledby="tab-early" hidden>
     <div class="early-head">
       <div class="early-intro">
-        <h2>Early programs &amp; Summer 2028</h2>
-        <p>Sophomore programs, insight days, fellowships and Summer 2028 internships, across banks, wealth and asset managers, and real estate firms. Dates marked <span class="est-tag">est.</span> are projected from last year's cycle. Firms rarely announce them in advance, so check the page when the reminder fires.</p>
+        <h2>Watchlist: Summer 2028 &amp; sophomore programs</h2>
+        <p>Big banks open Summer 2028 internships for the Class of 2029 around December–January, regional banks in February–March, and most real estate firms the following fall. Each program here shows when it's expected and flips to <b>Open now</b> as soon as the tracker sees it on the firm's job board. Dates marked <span class="est-tag">est.</span> are projected from last year's cycle.</p>
       </div>
       <div class="cal-box">
         <p class="cal-title">Get every date as a calendar reminder</p>
@@ -256,6 +258,10 @@
         <dd>Read from the title or description. A small <em>est.</em> means the year wasn't stated and was estimated from when the role was posted.</dd>
         <dt>Where</dt>
         <dd>Roles are grouped into US regions from the locations on the posting. A role with offices in several regions shows up under each of them, and remote roles show up under every region. Roles that only say "United States" appear under <em>All of the US</em>.</dd>
+        <dt>Order</dt>
+        <dd>By default roles are listed in apply order: deadlines in the next two weeks first, then open roles with a deadline, then open roles that review on a rolling basis (newest first). A firm with three or more roles in a section is folded into one card. Click it to see them all.</dd>
+        <dt>Hidden roles</dt>
+        <dd>MBA and graduate programs, roles outside the US, and roles at tracked firms that aren't wealth management or real estate work (payroll, IT, HR and so on) are left off the main list. Tick <em>Show hidden roles</em> to see them.</dd>
         <dt>Closed</dt>
         <dd>A role is marked closed once it has disappeared from the firm's careers site on two checks in a row.</dd>
       </dl>
@@ -265,6 +271,7 @@
         <li><a href="data/feed-wealth.xml">Wealth management feed</a></li>
         <li><a href="data/feed-real-estate.xml">Real estate feed</a></li>
         <li><a href="data/feed-early.xml">Sophomore &amp; early programs feed</a></li>
+        <li><a href="data/feed-watchlist.xml">Watchlist: programs that just opened</a> (best one for January)</li>
       </ul>
       <p><b>By email:</b> paste a feed link into a free RSS-to-email service such as Blogtrottr or Feedrabbit and pick daily or instant emails. <b>In Slack or Discord:</b> use the built-in RSS app and paste the link. <b>In a feed reader</b> (Feedly, Inoreader, NetNewsWire): add the link as a new feed.</p>
       <p>For dates rather than new roles, use the calendar subscription on the Early programs tab.</p>
@@ -272,7 +279,7 @@
       <p>"Save" and the status buttons (Applied, Interviewing, Offer…) are stored in your browser only, so they're private and need no account. They won't follow you to another device or a cleared browser, so use "Download CSV" on the My list tab to back up, and "Restore from CSV" to bring the list back.</p>
       <p>"New" marks roles that weren't on the site the last time you opened it in this browser.</p>
       <h3>Fixing mistakes</h3>
-      <p>Every role has a "Report a problem" link that opens a prefilled GitHub issue. Confirmed fixes go into <code>overrides.yaml</code> and show a <span class="verified">Verified</span> mark.</p>
+      <p>Every row has a <b>Wrong?</b> button. Pick what's wrong (closed, wrong class year, not a wealth / real estate role…) and it opens a short prefilled GitHub form. Confirmed fixes go into <code>overrides.yaml</code>, stay fixed on every later update, and show a <span class="verified">Verified</span> mark.</p>
       <h3>What it can't see</h3>
       <p>Firms without a readable job feed are opened in a headless browser every few hours, the way you'd see the page, and any internship or program links are read from there (<em>Read via browser</em> on the Firms tab). A few sites block automated visits; those stay as <em>Page watch</em> with a direct link. Programs posted only on Handshake or a school's career portal won't appear here.</p>
       <p>This is an independent student project and isn't affiliated with any firm listed. Always confirm details on the employer's posting before applying.</p>

@@ -23,8 +23,9 @@ EXTRA_DOMAINS = {
     "Lincoln International": "lincolninternational.com", "Girls Who Invest": "girlswhoinvest.org", "Citi": "citi.com",
 }
 US_REGIONS = {"Northeast", "Mid-Atlantic", "Southeast", "Midwest", "Southwest", "West", "Remote", "US"}
-TEXT_FIELDS = {"firm", "program", "eligibility", "when", "opens_note", "deadline_note", "notes", "link", "source"}
+TEXT_FIELDS = {"detect", "firm", "program", "eligibility", "when", "opens_note", "deadline_note", "notes", "link", "source"}
 SITE = "https://gbv229.github.io/wm-internship-tracker/"
+RESEARCHED = "2026-10-28"
 
 
 def _d(v):
@@ -88,6 +89,94 @@ def live_programs(postings: list[dict], companies: list[dict]) -> list[dict]:
             "origin": "live", "first_seen": p.get("first_seen"), "region": p.get("regions") or [],
         })
     return out
+
+
+def _firm_key(name: str) -> str:
+    n = re.sub(r"\(.*?\)", "", name or "").split("/")[0]
+    return re.sub(r"[^a-z0-9]+", " ", n.lower()).strip()
+
+
+def same_firm(a: str, b: str) -> bool:
+    ka, kb = _firm_key(a), _firm_key(b)
+    return bool(ka and kb) and (ka == kb or ka.startswith(kb + " ") or kb.startswith(ka + " "))
+
+
+def _field_ok(field: str, tracks: list[str]) -> bool:
+    if field == "wealth":
+        return "wealth" in tracks
+    if field == "real_estate":
+        return "real_estate" in tracks
+    return bool(tracks)
+
+
+def detect_live(curated: list[dict], postings: list[dict]) -> set[str]:
+    """Mark watchlist entries open when a matching posting is live on the firm's job board.
+    Returns the urls used, so they aren't listed twice."""
+    used: set[str] = set()
+    opens = [p for p in postings if p.get("status") == "open" and p.get("level") != "Graduate/MBA"
+             and not (p.get("regions") and not set(p["regions"]) & US_REGIONS)]
+    for rec in curated:
+        if rec.get("status") in ("closed", "invite"):
+            continue
+        pat = rec.get("detect")
+        if not pat and rec["type"] != "summer_2028":
+            continue
+        hits = []
+        for p in opens:
+            if not same_firm(rec["firm"], p["company"]):
+                continue
+            if pat:
+                ok = re.search(pat, p["title"], re.I)
+            else:
+                ok = (p.get("season") == "Summer 2028" or re.search(r"\b2028\b", p["title"])) \
+                    and _field_ok(rec["field"], p.get("tracks") or []) and not re.search(r"(?i)full[- ]time", p["title"])
+            if ok:
+                hits.append(p)
+        if not hits:
+            continue
+        hits.sort(key=lambda p: (p.get("first_seen") or "", p["title"]))
+        first = min((p.get("first_seen") or p.get("posted") or "") for p in hits) or None
+        rec["live"] = [{"title": p["title"], "url": p["url"], "location": p.get("location") or "",
+                        "first_seen": p.get("first_seen"), "deadline": p.get("deadline")} for p in hits[:12]]
+        rec["live_count"] = len(hits)
+        rec["status"] = "open"
+        rec["spotted"] = first
+        if first:
+            rec["opens"], rec["opens_est"] = first, False
+            rec["opens_note"] = f"Spotted on the firm's job board on {first}."
+        dls = sorted(p["deadline"] for p in hits if p.get("deadline"))
+        if dls:
+            rec["deadline"], rec["deadline_est"] = dls[0], False
+        used.update(p["url"] for p in hits)
+    return used
+
+
+def write_watch_feed(programs: list[dict], data: Path):
+    """Atom feed: one entry each time a watchlist program is spotted open."""
+    from xml.sax.saxutils import escape
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    items = sorted((p for p in programs if p.get("spotted")), key=lambda p: p["spotted"], reverse=True)[:100]
+    entries = []
+    for p in items:
+        ts = f"{p['spotted']}T12:00:00Z"
+        url = (p.get("live") or [{}])[0].get("url") or p["link"]
+        entries.append(f"""  <entry>
+    <id>urn:wm-internship-tracker:watch:{escape(p['id'])}</id>
+    <title>Now open: {escape(p['firm'])} – {escape(p['program'])}</title>
+    <link rel="alternate" href="{escape(url, {'"': '&quot;'})}"/>
+    <updated>{ts}</updated>
+    <summary>{escape(f"{p.get('live_count', 1)} posting(s) live. {p.get('eligibility') or ''}")}</summary>
+  </entry>""")
+    (data / "feed-watchlist.xml").write_text(f"""<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>{SITE}data/feed-watchlist.xml</id>
+  <title>Watchlist: programs that just opened</title>
+  <link rel="alternate" href="{SITE}#tab=early"/>
+  <link rel="self" href="{SITE}data/feed-watchlist.xml"/>
+  <updated>{now}</updated>
+{chr(10).join(entries)}
+</feed>
+""")
 
 
 # ------------------------------------------------------------------ ics
@@ -174,12 +263,14 @@ def write_firm_notes(root: Path, data: Path, companies: list[dict]):
 def build(root: Path, data: Path, postings: list[dict], companies: list[dict], today: date):
     write_firm_notes(root, data, companies)
     curated = load_curated(root / "early_programs.yaml", companies)
+    used = detect_live(curated, postings)
     live = live_programs(postings, companies)
     # don't list a live posting twice if the curated entry links to it
-    curated_links = {p["link"] for p in curated}
+    curated_links = {p["link"] for p in curated} | used
     live = [p for p in live if p["link"] not in curated_links]
     programs = curated + live
-    (data / "early_programs.json").write_text(json.dumps({"programs": programs, "researched": "2026-10-18"},
+    (data / "early_programs.json").write_text(json.dumps({"programs": programs, "researched": RESEARCHED},
                                                          indent=1, ensure_ascii=False) + "\n")
     write_ics(programs, data / "early-programs.ics", today)
+    write_watch_feed(programs, data)
     return programs

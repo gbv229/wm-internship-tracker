@@ -38,6 +38,7 @@ companies:
     domain: morganstanley.com
     sources:
       - workday: {host: ms.wd5.myworkdayjobs.com, tenant: ms, site: External}
+      - oleeo: {board: "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/jobboard/vacancy/1/adv/", key: ms}
     verified: true
 
   - name: Goldman Sachs
@@ -48,7 +49,7 @@ companies:
     careers: https://higher.gs.com/campus
     domain: gs.com
     sources:
-      - page: {url: "https://higher.gs.com/campus"}
+      - goldman: {}
 
   - name: J.P. Morgan
     type: Global Bank
@@ -70,7 +71,7 @@ companies:
     domain: bankofamerica.com
     sources:
       - workday: {host: ghr.wd1.myworkdayjobs.com, tenant: ghr, site: us-emplsv}
-      - page: {url: "https://campus.bankofamerica.com/"}
+      - oleeo: {board: "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/", key: bofa}
     verified: true
 
   - name: Wells Fargo
@@ -1157,7 +1158,7 @@ companies:
     careers: https://careers.cbre.com/en_US/careers
     domain: cbre.com
     sources:
-      - page: {url: "https://careers.cbre.com/en_US/careers"}
+      - page: {url: "https://careers.cbre.com/en_US/careers/SearchJobs/intern?jobRecordsPerPage=100"}
 
   - name: JLL
     type: CRE Services & Brokerage
