@@ -2783,8 +2783,12 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cambridge Investment Research",
    "company_type": "Brokerage & Platform",
    "deadline": null,
@@ -2801,6 +2805,7 @@
    "level": "Undergraduate",
    "location": "Phoenix, AZ",
    "misses": 0,
+   "note": "Open to current undergraduate or graduate students. 11-week paid summer program, May 17 – July 30.",
    "pay": "$17–$26/hr",
    "posted": "2026-10-19",
    "region": "US",
@@ -2821,12 +2826,18 @@
    ],
    "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Intern_R-2025-238",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 11,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -2843,6 +2854,7 @@
    "level": "Undergraduate",
    "location": "Louisville, KY",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -2863,12 +2875,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -2885,6 +2903,7 @@
    "level": "Undergraduate",
    "location": "New York City, NY",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -2905,12 +2924,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Central-Solutions-Strategy-Analyst-Internship_R919",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -2927,6 +2952,7 @@
    "level": "Undergraduate",
    "location": "New York City, NY; West Conshohocken, PA",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -2948,6 +2974,8 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Financial-Planning-Analyst-Internship_R931",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
@@ -2996,8 +3024,12 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3014,6 +3046,7 @@
    "level": "Undergraduate",
    "location": "New York City, NY",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3034,12 +3067,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3056,6 +3095,7 @@
    "level": "Undergraduate",
    "location": "Boston, MA",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3076,12 +3116,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Summer-2027-Wealth-Management-Intern_R927",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3098,6 +3144,7 @@
    "level": "Undergraduate",
    "location": "Louisville, KY",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3118,12 +3165,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Wealth-Management-Intern_R838-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3140,6 +3193,7 @@
    "level": "Undergraduate",
    "location": "Cincinnati, OH",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3160,12 +3214,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Wealth-Management-Intern_R882",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3182,6 +3242,7 @@
    "level": "Undergraduate",
    "location": "Elizabethtown, KY",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3202,12 +3263,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Elizabethtown-KY/Summer-2027-Wealth-Management-Internship_R888",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3224,6 +3291,7 @@
    "level": "Undergraduate",
    "location": "Bowling Green, KY",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3244,12 +3312,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R920",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3266,6 +3340,7 @@
    "level": "Undergraduate",
    "location": "Bowling Green, KY",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3286,12 +3361,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R889-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3308,6 +3389,7 @@
    "level": "Undergraduate",
    "location": "Norfolk, VA",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -3328,12 +3410,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Norfolk-VA/Wealth-Management-Intern_R869",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3350,6 +3438,7 @@
    "level": "Undergraduate",
    "location": "Albany Office",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-10-08",
    "region": "",
@@ -3370,12 +3459,18 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Albany-Office/Wealth-Management-Internship_R911",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -3392,6 +3487,7 @@
    "level": "Undergraduate",
    "location": "Santa Barbara, CA",
    "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": "$25/hr",
    "posted": "2026-10-14",
    "region": "US",
@@ -3412,6 +3508,8 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Santa-Barbara-CA/Wealth-Management-Internship_R985",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
@@ -3832,9 +3930,9 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "Crow Holdings Capital Real Estate offers rising juniors and seniors the opportunity to participate in a comprehensive Summer Internship Program across multiple investment functions, including Investor Relations and Investor Coverage.",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
-    2027,
+    2028,
     2029
    ],
    "company": "Crow Holdings",
@@ -3853,6 +3951,7 @@
    "level": "Undergraduate",
    "location": "",
    "misses": 0,
+   "note": "For rising juniors and seniors.",
    "pay": null,
    "posted": "2026-10-16",
    "region": "US",
@@ -3873,14 +3972,16 @@
    ],
    "url": "https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/",
    "v": 9,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": "Anticipated graduation date: Spring 2027 – Spring 2028",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
-    2027,
-    2028
+    2028,
+    2029
    ],
    "company": "Cushman & Wakefield",
    "company_type": "CRE Services & Brokerage",
@@ -3898,6 +3999,7 @@
    "level": "Undergraduate",
    "location": "Washington, District of Columbia, USA; CW Site - USA - VA - Tysons Corner - 1775 Tysons Boulevard, #1250",
    "misses": 0,
+   "note": "Posting says rising juniors and seniors, but also lists graduation Spring 2027 – Spring 2028. Ask the recruiter if you're a sophomore.",
    "pay": "$20–$23/hr",
    "posted": "2026-10-20",
    "region": "US",
@@ -3921,6 +4023,8 @@
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Washington-District-of-Columbia-USA/EIC-2027-DC-Tysons-Summer-Intern_R340995",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 8,
    "work_mode": null
   },
@@ -5133,11 +5237,9 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Ten-week internship program for college juniors seeking professional experience.",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
-    2027,
-    2028,
-    2030
+    2028
    ],
    "company": "Edward Jones",
    "company_type": "Brokerage & Platform",
@@ -5155,6 +5257,7 @@
    "level": "Undergraduate",
    "location": "",
    "misses": 0,
+   "note": "Ten-week headquarters internship for college juniors.",
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -5171,11 +5274,13 @@
    ],
    "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/?codes=DIRECT&utm_source=DIRECT",
    "v": 9,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5195,6 +5300,7 @@
    "level": "Undergraduate",
    "location": "Albany, NY",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5215,11 +5321,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Albany-NY/Intern--Investor-Center---Albany--NY_2135878-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5239,6 +5347,7 @@
    "level": "Undergraduate",
    "location": "Boston, MA",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5259,11 +5368,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Investor-Center---Boston--MA_2135876",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5283,6 +5394,7 @@
    "level": "Undergraduate",
    "location": "Bridgewater, NJ",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5303,11 +5415,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Bridgewater-NJ/Intern--Investor-Center---Bridgewater--NJ_2135884-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5327,6 +5441,7 @@
    "level": "Undergraduate",
    "location": "West Hartford, CT; 48 West Putnam Ave, Greenwich CT; 1261 Post Rd, Fairfield CT; 869 WASHINGTON BLVD, STAMFORD, CT; 265 Church St, New Haven CT",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5349,11 +5464,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/West-Hartford-CT/Intern--Investor-Center---CT_2135935",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5373,6 +5490,7 @@
    "level": "Undergraduate",
    "location": "127 Perimeter Center West, Dunwoody GA",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": null,
    "posted": "2026-10-26",
    "region": "",
@@ -5393,11 +5511,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/127-Perimeter-Center-West-Dunwoody-GA/Intern--Investor-Center---Dunwoody--GA_2135716-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5417,6 +5537,7 @@
    "level": "Undergraduate",
    "location": "Irvine, CA",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-16",
    "region": "US",
@@ -5437,11 +5558,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Irvine-CA/Intern--Investor-Center---Irvine--CA_2135806-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5461,6 +5584,7 @@
    "level": "Undergraduate",
    "location": "Manalapan, NJ",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5481,11 +5605,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Manalapan-NJ/Intern--Investor-Center---Manalapan--NJ_2135887-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5505,6 +5631,7 @@
    "level": "Undergraduate",
    "location": "501 ROUTE 73 SOUTH, SUITE N, Marlton NJ",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "",
@@ -5525,11 +5652,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/501-ROUTE-73-SOUTH-SUITE-N-Marlton-NJ/Intern--Investor-Center---Marlton--NJ_2135889-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5549,6 +5678,7 @@
    "level": "Undergraduate",
    "location": "Millburn, NJ",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5569,11 +5699,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Millburn-NJ/Intern--Investor-Center---Millburn--NJ_2135881-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5593,6 +5725,7 @@
    "level": "Undergraduate",
    "location": "Morristown, NJ",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5613,11 +5746,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Morristown-NJ/Intern--Investor-Center---Morristown--NJ_2135883-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5637,6 +5772,7 @@
    "level": "Undergraduate",
    "location": "320 Park Ave, New York NY",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5657,11 +5793,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/320-Park-Ave-New-York-NY/Intern--Investor-Center---New-York--NY_2135877",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5681,6 +5819,7 @@
    "level": "Undergraduate",
    "location": "Paramus, NJ",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5701,11 +5840,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Paramus-NJ/Intern--Investor-Center---Paramus--NJ_2135873-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5725,6 +5866,7 @@
    "level": "Undergraduate",
    "location": "2780 MONROE AVE SUITE 201, ROCHESTER, NY",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -5745,11 +5887,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/2780-MONROE-AVE-SUITE-201-ROCHESTER-NY/Intern--Investor-Center---Rochester--NY_2135880-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5769,6 +5913,7 @@
    "level": "Undergraduate",
    "location": "Tampa, FL",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": null,
    "posted": "2026-10-14",
    "region": "US",
@@ -5789,11 +5934,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Tampa-FL/Intern--Investor-Center---Tampa--FL_2135954-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5813,6 +5960,7 @@
    "level": "Undergraduate",
    "location": "900 North Orlando Ave, Winter Park FL",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": null,
    "posted": "2026-10-12",
    "region": "",
@@ -5833,11 +5981,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/900-North-Orlando-Ave-Winter-Park-FL/Intern--Investor-Center---Winter-Park--FL_2135952-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Undergraduate students in your junior year of college",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5857,6 +6007,7 @@
    "level": "Undergraduate",
    "location": "6363 TOPANGA CANYON BOULEVARD, WOODLAND HILLS CA",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-16",
    "region": "",
@@ -5877,11 +6028,13 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/6363-TOPANGA-CANYON-BOULEVARD-WOODLAND-HILLS-CA/Intern--Investor-Center---Woodland-Hills--CA_2135924-2",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Must be a rising Sophomore or Junior currently enrolled in an accredited degree program",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2029,
     2030
@@ -5902,6 +6055,7 @@
    "level": "Undergraduate",
    "location": "Cincinnati, OH",
    "misses": 0,
+   "note": "Must be a rising sophomore or junior, so this fits the Class of 2029.",
    "pay": null,
    "posted": "2026-10-21",
    "region": "US",
@@ -5922,12 +6076,17 @@
    ],
    "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Wealth-and-Asset-Management-Co-Op----FULL-TIME--May-2027-August-2027_R74090",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2029,
+    2030
+   ],
    "company": "Fifth Third (Wealth)",
    "company_type": "Regional Bank",
    "deadline": null,
@@ -5944,6 +6103,7 @@
    "level": "Undergraduate",
    "location": "Cincinnati, OH",
    "misses": 0,
+   "note": "Must be a rising sophomore or junior, so this fits the Class of 2029.",
    "pay": null,
    "posted": "2026-10-21",
    "region": "US",
@@ -5964,11 +6124,303 @@
    ],
    "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Wealth-and-Asset-Management-Co-Op---FULL-TIME-January-2027---May-2027_R74059",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
   {
-   "class_evidence": "A current junior (graduation date of May 2028) who is fueled by collaboration, able to listen and make quick decisions and thrive in a goal-oriented environment.",
+   "class_evidence": null,
+   "classes": [],
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 americas dallas metro area asset and wealth management quantitative strats summer analyst",
+   "group_title": "2027 | Americas | Dallas Metro Area | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "hide": null,
+   "id": "gs:171532_GS_CAMPUS",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "Dallas, TX, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "goldman",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "2027 | Americas | Dallas Metro Area | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/171532_GS_CAMPUS",
+   "v": 10,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 americas new york city area asset and wealth management quantitative strats summer analyst",
+   "group_title": "2027 | Americas | New York City Area | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "hide": null,
+   "id": "gs:171550_GS_CAMPUS",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "New York, NY, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "goldman",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "2027 | Americas | New York City Area | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/171550_GS_CAMPUS",
+   "v": 10,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 americas new york city area asset and wealth management quantitative strats summer associate",
+   "group_title": "2027 | Americas | New York City Area | Asset and Wealth Management Quantitative Strats | Summer Associate",
+   "hide": "Graduate / MBA only",
+   "id": "gs:171552_GS_CAMPUS",
+   "last_seen": "2026-10-28",
+   "level": "Graduate/MBA",
+   "location": "New York, NY, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "goldman",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "2027 | Americas | New York City Area | Asset and Wealth Management Quantitative Strats | Summer Associate",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/171552_GS_CAMPUS",
+   "v": 10,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 americas salt lake city asset and wealth management quantitative strats summer analyst",
+   "group_title": "2027 | Americas | Salt Lake City | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "hide": null,
+   "id": "gs:171549_GS_CAMPUS",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "Salt Lake City, UT, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "goldman",
+   "sponsorship": null,
+   "states": [
+    "UT"
+   ],
+   "status": "open",
+   "title": "2027 | Americas | Salt Lake City | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/171549_GS_CAMPUS",
+   "v": 10,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 americas wilmington wealth management tax and trust services summer analyst",
+   "group_title": "2027 | Americas | Wilmington | Wealth Management, Tax and Trust Services | Summer Analyst",
+   "hide": null,
+   "id": "gs:155814_GS_CAMPUS",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "DE, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "goldman",
+   "sponsorship": null,
+   "states": [
+    "DE"
+   ],
+   "status": "open",
+   "title": "2027 | Americas | Wilmington | Wealth Management, Tax and Trust Services | Summer Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/155814_GS_CAMPUS",
+   "v": 10,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 emea london asset and wealth management quantitative strats summer analyst",
+   "group_title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "hide": "Outside the US",
+   "id": "gs:175421_GS_CAMPUS",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "London, Greater London, England, United Kingdom",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "goldman",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/175421_GS_CAMPUS",
+   "v": 10,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Goldman Sachs",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Goldman Sachs|2027 emea london asset and wealth management quantitative strats summer associate",
+   "group_title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Associate",
+   "hide": "Graduate / MBA only",
+   "id": "gs:175423_GS_CAMPUS",
+   "last_seen": "2026-10-28",
+   "level": "Graduate/MBA",
+   "location": "London, Greater London, England, United Kingdom",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "goldman",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Associate",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://higher.gs.com/roles/175423_GS_CAMPUS",
+   "v": 10,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028
    ],
@@ -5988,6 +6440,7 @@
    "level": "Undergraduate",
    "location": "New York; Bethlehem",
    "misses": 0,
+   "note": "For current juniors (May 2028 graduates). Deadline Nov 13, 2026.",
    "pay": "$20–$35/hr",
    "posted": "2026-10-09",
    "region": "US",
@@ -6008,6 +6461,8 @@
    ],
    "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Client-Solutions-and-Wealth-Management_R000110301",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
@@ -6452,10 +6907,9 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Rising senior or grad student pursuing a bachelor’s or master’s degree from an accredited university in Finance, Real Estate, Business, Economics, Statistics, Mathematics, Computer Science, or other related fields with an expected graduation date between…",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
-    2028,
-    2029
+    2028
    ],
    "company": "Invitation Homes",
    "company_type": "Developer & Operator",
@@ -6473,6 +6927,7 @@
    "level": "Undergraduate",
    "location": "Dallas, TX- HQ",
    "misses": 0,
+   "note": "Posting asks for rising seniors (its graduation window has a typo).",
    "pay": "$18–$31/hr",
    "posted": "2026-10-14",
    "region": "US",
@@ -6493,6 +6948,8 @@
    ],
    "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Acquistions_R5938",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
@@ -10014,9 +10471,8 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Link is looking for actively enrolled juniors rising into their senior year who are interested in gaining hands-on experience in real estate investments .",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
-    2027,
     2028
    ],
    "company": "Link Logistics",
@@ -10035,6 +10491,7 @@
    "level": "Undergraduate",
    "location": "New York, New York; CA - Irvine; Chicago, Illinois; Atlanta, Georgia",
    "misses": 0,
+   "note": "For juniors rising into senior year.",
    "pay": "$45/hr",
    "posted": "2026-10-19",
    "region": "US",
@@ -10061,6 +10518,8 @@
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Investments-Analyst-Summer-Intern_JR101854",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
@@ -10307,7 +10766,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5eca1f36e6f9/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4f26608962d1/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 10,
    "weeks": 10,
    "work_mode": null
@@ -10501,13 +10960,14 @@
    "level": "Undergraduate",
    "location": "Wilmington, DE",
    "misses": 0,
+   "note": "Ten-week summer internship; graduation Dec 2027 – Summer 2028.",
    "pay": null,
    "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Mid-Atlantic"
    ],
-   "season": null,
+   "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
    "sponsorship": "No sponsorship",
@@ -10521,6 +10981,8 @@
    ],
    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Wilmington-DE/Intern_R163405-2",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
@@ -10649,8 +11111,12 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "PIMCO",
    "company_type": "Asset Manager",
    "deadline": null,
@@ -10667,6 +11133,7 @@
    "level": "Undergraduate",
    "location": "New York, NY USA",
    "misses": 0,
+   "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -10687,12 +11154,18 @@
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Growth-Markets-Analyst--US_R106759-1",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "PIMCO",
    "company_type": "Asset Manager",
    "deadline": null,
@@ -10709,6 +11182,7 @@
    "level": "Undergraduate",
    "location": "Austin, TX USA",
    "misses": 0,
+   "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -10729,12 +11203,18 @@
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Internal-Sales-Analyst--US_R106758",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "PIMCO",
    "company_type": "Asset Manager",
    "deadline": null,
@@ -10751,6 +11231,7 @@
    "level": "Undergraduate",
    "location": "New York, NY USA",
    "misses": 0,
+   "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -10771,12 +11252,18 @@
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Alternatives-Analyst--US_R106760",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "PIMCO",
    "company_type": "Asset Manager",
    "deadline": null,
@@ -10793,6 +11280,7 @@
    "level": "Undergraduate",
    "location": "New York, NY USA; Newport Beach, CA USA",
    "misses": 0,
+   "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -10815,6 +11303,8 @@
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
@@ -10865,8 +11355,12 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "PIMCO",
    "company_type": "Asset Manager",
    "deadline": null,
@@ -10883,6 +11377,7 @@
    "level": "Undergraduate",
    "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
    "misses": 0,
+   "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -10907,6 +11402,8 @@
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Client-Group-Analyst--US-_R106768",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
   },
@@ -11155,8 +11652,8 @@
    "classes": [],
    "company": "RBC (incl. RBC Wealth Mgmt & City National)",
    "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
+   "deadline": "2023-12-29",
+   "deadline_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "detail_at": "2026-10-28",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
@@ -11169,6 +11666,7 @@
    "level": "Undergraduate",
    "location": "Chevy Chase, Maryland, United States of America; San Francisco, California, United States of America; Milwaukee, Wisconsin, United States of America",
    "misses": 0,
+   "note": "This listing is still up but its application deadline was Dec 29, 2023, so it's likely stale.",
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -11193,6 +11691,8 @@
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Chevy-Chase-Maryland-United-States-of-America/Private-Client-Group-Intern_R-0000075215",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
@@ -12398,13 +12898,14 @@
    "level": "Undergraduate",
    "location": "Minneapolis, MN",
    "misses": 0,
+   "note": "4-week paid fellowship, June 14 – July 9, for the Class of 2029. Fellows interview for a Summer 2028 internship.",
    "pay": "$21–$28/hr",
    "posted": "2026-10-19",
    "region": "US",
    "regions": [
     "Midwest"
    ],
-   "season": null,
+   "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
    "sponsorship": null,
@@ -12418,6 +12919,8 @@
    ],
    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Discover-Us--Finance---Banking-Fellowship_2026-0032523",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 4,
    "work_mode": null
   },
@@ -14895,9 +15398,9 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "The 10-week Fidelity Intern Program ( we lovingly call it our FIDTERN Program ) is our world-class opportunity for college juniors looking to explore and learn more about Fidelity's business and culture through a cohesive program experience.",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
-    2027
+    2028
    ],
    "closed_on": "2026-10-28",
    "company": "Fidelity Investments",
@@ -14916,6 +15419,7 @@
    "level": "Undergraduate",
    "location": "Garden City, NY",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-12",
    "region": "US",
@@ -14936,13 +15440,15 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Garden-City-NY/Intern--Investor-Center---Long-Island--NY_2136090",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "Remote"
   },
   {
-   "class_evidence": "The 10-week Fidelity Intern Program ( we lovingly call it our FIDTERN Program ) is our world-class opportunity for college juniors looking to explore and learn more about Fidelity's business and culture through a cohesive program experience.",
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
-    2026
+    2028
    ],
    "closed_on": "2026-10-28",
    "company": "Fidelity Investments",
@@ -14961,6 +15467,7 @@
    "level": "Undergraduate",
    "location": "152 Endicott Street, Danvers MA",
    "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-09-28",
    "region": "",
@@ -14981,6 +15488,8 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/152-Endicott-Street-Danvers-MA/Intern--Investor-Center---Northern-New-England_2118153",
    "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "Remote"
   },
