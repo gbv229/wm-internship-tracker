@@ -21,7 +21,8 @@ MONTHS = {
 MONTH_RE = (r"(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|"
             r"aug(?:ust)?|sept?(?:ember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)")
 SEASONS = ["Winter", "Spring", "Summer", "Fall"]
-GRAD_CONTEXT = re.compile(r"(?i)graduat|class of|degree (completion|conferral)|expected to complete|complete (your|their) degree|receive (your|their) degree")
+GRAD_CONTEXT = re.compile(r"(?i)graduat|class of|degree (completion|conferral)|expected to complete|complete (your|their) degree|receive (your|their) degree|"
+                          r"degree candidates?\b")
 
 
 # --------------------------------------------------------------------- text
@@ -594,6 +595,14 @@ def class_years(text: str, season_label: str | None) -> tuple[list[int], str | N
     if not found and season_label:
         found, ev = _class_from_words(text, season_label)
         evidence = evidence or ev
+    if found and season_label:
+        # nobody in a program can graduate before it or be more than a rising sophomore
+        try:
+            s_name, s_year = season_label.split()
+            lo = int(s_year) + (1 if s_name == "Fall" else 0)
+            found = {c for c in found if lo <= c <= lo + 3} or found
+        except ValueError:
+            pass
     return sorted(found), _trim(evidence)
 
 
@@ -619,12 +628,24 @@ def _class_from_words(text: str, season_label: str) -> tuple[set[int], str | Non
     found: set[int] = set()
     evidence = None
     for sent in sentences(text):
+        # "with 2-3 years completed" / "completed at least two years": by the program start
+        m = re.search(r"(?i)(?:(\d|two|three)(?:\s*(?:-|–|to|or)\s*(\d|three|four))?\s+years?\s+(?:of\s+\w+\s+)?completed|"
+                      r"completed\s+(?:at\s+least\s+)?(\d|two|three)\s+(?:full\s+)?years)", sent)
+        if m and s_name == "Summer":
+            words = {"two": 2, "three": 3, "four": 4}
+            n = lambda x: int(words.get(x.lower(), x)) if x else None  # noqa: E731
+            a = n(m.group(1) or m.group(3))
+            b = n(m.group(2)) or (3 if re.search(r"(?i)at least", sent) else a)
+            if a and 1 <= a <= 3:
+                found |= {ay_end + 4 - k for k in range(a, min(b, 3) + 1)}
+                evidence = evidence or sent
+                continue
         if not re.search(r"(?i)freshm|first-year|sophomore|junior|senior", sent):
             continue
         if not re.search(r"(?i)student|undergrad|candidate|year|standing|applicant|eligib|program|intern|college|university|rising|currently", sent):
             continue
         hits: set[int] = set()
-        s = sent
+        s = re.sub(r"(?i)\bjuniors?,? rising into (their |the )?senior year", "rising senior", sent)
         # "rising sophomores, juniors, and seniors": every class word in the list is "rising"
         rl = r"(?i)rising ((?:sophomore|junior|senior)s?(?:\s*(?:,|and|or|&|/)\s*(?:and\s+|or\s+)?(?:sophomore|junior|senior)s?)*)"
         for m in re.finditer(rl, s):

@@ -186,3 +186,11 @@ def test_hide_and_class_fixes():
     assert h({"title": "Private Wealth Summer Intern", "regions": ["Northeast"]}) is None
     assert h({"title": "Private Wealth Summer Intern", "regions": []}) is None
     assert h({"title": "US Global Advisory | 2027 Sophomore Leadership Program", "regions": ["US"], "tracks": ["early"]}) is None
+
+
+def test_review_fixes():
+    cy = parse.class_years
+    assert cy("- December 2027 through May/June 2028 Bachelor’s degree candidates in finance", "Summer 2027")[0] == [2028]
+    assert cy("- Anticipated graduation date of December 2027 or later", "Summer 2027")[0] == [2028, 2029, 2030]
+    assert cy("- Actively pursuing a bachelor's degree, with 2-3 years completed majoring in business.", "Summer 2027")[0] == [2028, 2029]
+    assert cy("- Current junior rising into senior year at an accredited four-year institution.", "Summer 2027")[0] == [2028]

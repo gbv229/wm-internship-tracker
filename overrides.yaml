@@ -20,4 +20,295 @@
 #     verified: 2027-01-05
 #     source: https://www.morganstanley.com/people-opportunities/students-graduates
 
-overrides: []
+overrides:
+- match:
+    id: wd:pimco:R106759-1
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:pimco:R106758
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:pimco:R106760
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:pimco:R106770
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:pimco:R106768
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R918-1
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R919
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R931
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R943
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R927
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R838-1
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R882
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R888
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R920
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R889-1
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R869
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R911
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    id: wd:ceritypartners:R985
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: 'The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.'
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Cambridge Investment Research
+    title_contains: Investment Analyst Intern
+  set:
+    classes:
+    - 2028
+    - 2029
+    - 2030
+    note: Open to current undergraduate or graduate students. 11-week paid summer program, May 17 – July 30.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Invitation Homes
+    title_contains: Acquistions
+  set:
+    classes:
+    - 2028
+    note: Posting asks for rising seniors (its graduation window has a typo).
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Link Logistics
+    title_contains: Investments Analyst
+  set:
+    classes:
+    - 2028
+    note: For juniors rising into senior year.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Northern Trust
+    title_contains: Wealth Management Intern - Delaware
+  set:
+    season: Summer 2027
+    note: Ten-week summer internship; graduation Dec 2027 – Summer 2028.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: U.S. Bank (Private Wealth)
+    title_contains: Discover Us
+  set:
+    season: Summer 2027
+    note: 4-week paid fellowship, June 14 – July 9, for the Class of 2029. Fellows interview for a Summer 2028 internship.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: RBC (incl. RBC Wealth Mgmt & City National)
+    title_contains: Private Client Group Intern
+  set:
+    deadline: '2023-12-29'
+    note: This listing is still up but its application deadline was Dec 29, 2023, so it's likely stale.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Edward Jones
+    title_contains: Headquarters Internship
+  set:
+    classes:
+    - 2028
+    note: Ten-week headquarters internship for college juniors.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Crow Holdings
+    title_contains: Investor Relations
+  set:
+    classes:
+    - 2028
+    - 2029
+    note: For rising juniors and seniors.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Fifth Third (Wealth)
+    title_contains: May 2027
+  set:
+    classes:
+    - 2029
+    - 2030
+    note: Must be a rising sophomore or junior, so this fits the Class of 2029.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Cushman & Wakefield
+    title_contains: DC/Tysons
+  set:
+    classes:
+    - 2028
+    - 2029
+    note: Posting says rising juniors and seniors, but also lists graduation Spring 2027 – Spring 2028. Ask the recruiter if you're
+      a sophomore.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Fidelity Investments
+    title_contains: Investor Center
+  set:
+    classes:
+    - 2028
+    note: 10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
+- match:
+    company: Guardian Life
+    title_contains: Client Solutions and Wealth Management
+  set:
+    classes:
+    - 2028
+    note: For current juniors (May 2028 graduates). Deadline Nov 13, 2026.
+  verified: '2026-10-28'
+  source: Posting text, checked by hand 2026-10-28
