@@ -10803,47 +10803,6 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-26",
-   "first_seen": "2026-10-26",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Stifel|branch intern",
-   "group_title": "Branch Intern",
-   "id": "ic:careers-stifel:10098",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "US-MO-O'Fallon",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-26",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "open",
-   "title": "Branch Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-stifel.icims.com/jobs/10098/branch-intern/job",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Stifel",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-10-27",
    "first_seen": "2026-10-21",
    "function": "Technology / Data",
@@ -11038,129 +10997,6 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/10133/operations---technical-support-intern--summer-2027/job",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Stifel",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-21",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Stifel|payroll intern",
-   "group_title": "Payroll Intern",
-   "id": "ic:careers-stifel:9966",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "US-MO-Saint Louis",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "open",
-   "title": "Payroll Intern- Summer 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-stifel.icims.com/jobs/9966/payroll-intern--summer-2027/job",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Stifel",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-21",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Stifel|platform strategy intern",
-   "group_title": "Platform Strategy Intern",
-   "id": "ic:careers-stifel:9918",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "US-MO-Saint Louis",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "open",
-   "title": "Platform Strategy Intern- Summer 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-stifel.icims.com/jobs/9918/platform-strategy-intern--summer-2027/job",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Stifel",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-21",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Stifel|platform strategy client reporting intern",
-   "group_title": "Platform Strategy-Client Reporting Intern",
-   "id": "ic:careers-stifel:9919",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "US-MO-Saint Louis",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "open",
-   "title": "Platform Strategy-Client Reporting Intern- Summer 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-stifel.icims.com/jobs/9919/platform-strategy-client-reporting-intern--summer-2027/job",
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
@@ -18772,6 +18608,174 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-28",
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-26",
+   "first_seen": "2026-10-26",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|branch intern",
+   "group_title": "Branch Intern",
+   "id": "ic:careers-stifel:10098",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "US-MO-O'Fallon",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "closed",
+   "title": "Branch Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10098/branch-intern/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-28",
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|payroll intern",
+   "group_title": "Payroll Intern",
+   "id": "ic:careers-stifel:9966",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "closed",
+   "title": "Payroll Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9966/payroll-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-28",
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|platform strategy intern",
+   "group_title": "Platform Strategy Intern",
+   "id": "ic:careers-stifel:9918",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "closed",
+   "title": "Platform Strategy Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9918/platform-strategy-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-28",
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|platform strategy client reporting intern",
+   "group_title": "Platform Strategy-Client Reporting Intern",
+   "id": "ic:careers-stifel:9919",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "US-MO-Saint Louis",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "closed",
+   "title": "Platform Strategy-Client Reporting Intern- Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/9919/platform-strategy-client-reporting-intern--summer-2027/job",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
