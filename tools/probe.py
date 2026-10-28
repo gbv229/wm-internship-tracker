@@ -26,7 +26,7 @@ async def render(url, pat):
     async with async_playwright() as p:
         b = await p.chromium.launch(); pg = await b.new_page(user_agent=UA)
         reqs = []
-        pg.on("request", lambda r: reqs.append((r.method, r.url, (r.post_data or "")[:300])) if r.resource_type in ("xhr", "fetch") else None)
+        pg.on("request", lambda r: reqs.append((r.method, r.url, "")) if r.resource_type in ("xhr", "fetch") else None)
         try:
             await pg.goto(url, wait_until="networkidle", timeout=60000); await pg.wait_for_timeout(4000)
         except Exception as e: print("RENDER", url, "ERR", e)
@@ -38,18 +38,17 @@ async def render(url, pat):
         txt = await pg.inner_text("body"); print("   BODY", re.sub(r"\s+", " ", txt)[:1500])
         await b.close()
 
-wd("ms.wd5.myworkdayjobs.com", "ms", "External"); wd("ms.wd5.myworkdayjobs.com", "ms", "External", "summer analyst")
-wd("fmr.wd1.myworkdayjobs.com", "fmr", "targeted"); wd("fmr.wd1.myworkdayjobs.com", "fmr", "fidelitycareers")
-wd("vanguard.wd5.myworkdayjobs.com", "vanguard", "vanguard_external")
-wd("wf.wd1.myworkdayjobs.com", "wf", "WellsFargoJobs", "intern")
-wd("ghr.wd1.myworkdayjobs.com", "ghr", "us-emplsv"); wd("ghr.wd1.myworkdayjobs.com", "ghr", "Lateral-US")
-for site in ["UBS_Graduate_Jobs", "UBS_Experienced_Professionals", "Graduates_and_Interns"]:
-    wd("ubs.wd3.myworkdayjobs.com", "ubs", site)
-get("https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/")
-get("https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/")
-get("https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/")
-asyncio.run(render("https://higher.gs.com/results?EXPERIENCE_LEVEL=Campus&page=1&sort=RELEVANCE", r"/roles/"))
-asyncio.run(render("https://campus.bankofamerica.com/careers/", r"(?i)tal\.net|apply|program"))
-asyncio.run(render("https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg", r"(?i)tal\.net|jobboard|opportunit"))
-asyncio.run(render("https://careers.cbre.com/en_US/careers/SearchJobs/intern", r"(?i)JobDetail"))
-asyncio.run(render("https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6017#keyWordSearch=intern", r"(?i)jobdetail|job"))
+def feed(url):
+    try:
+        r = S.get(url, timeout=30); print(f"FEED {url} -> {r.status_code} {len(r.text)}b items={r.text.count('<item')}")
+        print(r.text[:1500])
+        for t in re.findall(r"<title>(.*?)</title>", r.text)[:400]:
+            if re.search(r"(?i)wealth|merrill|private bank|real estate|sophomore|insight|summer analyst.*(us|new york|charlotte)|2028", t): print("   T", t)
+    except Exception as e: print("FEED ERR", e)
+feed("https://bankcampuscareers.tal.net/vx/mobile-0/candidate/jobboard/vacancy/1/feed")
+feed("https://morganstanley.tal.net/vx/mobile-0/candidate/jobboard/vacancy/1/feed")
+feed("https://morganstanley.tal.net/vx/mobile-0/brand-2/candidate/jobboard/vacancy/1/feed")
+get("https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/jobboard/vacancy/1/adv/?start=50")
+for u in ["https://higher.gs.com/results?EXPERIENCE_LEVEL=Campus&page=1&sort=RELEVANCE", "https://careers.cbre.com/en_US/careers/SearchJobs/intern", "https://campus.bankofamerica.com/opportunities.html"]:
+    try: asyncio.run(render(u, r"(?i)/roles/|JobDetail|tal\.net"))
+    except Exception as e: print("RENDER ERR", u, e)
