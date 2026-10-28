@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "a8d614c28b0b3f83",
+     "hash": "87227477fde6b8a9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -965,9 +965,10 @@
    "open": 9,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1624,7 +1625,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "c7fefa650cc8f759",
+     "hash": "b5c57fcf398fe772",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1782,7 +1783,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1843,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1933,7 +1934,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 54,
+     "fail_streak": 55,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1964,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://www.fisherinvestments.com/en-us/careers"
@@ -1992,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2847,7 +2848,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "372e34cac319fdea",
+     "hash": "3dd968a49027e5d8",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3029,7 +3030,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "f9c8c821c97556d3",
+     "hash": "f47da16d5aa76f43",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3184,7 +3185,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "6157c5f77f8a4752",
+     "hash": "4fe5e22fc95f8fb4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3324,7 +3325,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "a0edecf16e1073b2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3862,7 +3863,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3891,7 +3892,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4489,7 +4490,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4518,7 +4519,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 85,
+     "fail_streak": 86,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5328,7 +5329,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "bec02181307a62c3",
+     "hash": "019e48ff5362efe8",
      "kind": "page",
      "links": [],
      "ok": true,
