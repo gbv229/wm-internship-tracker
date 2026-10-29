@@ -3616,6 +3616,46 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Citi (incl. Citi Private Bank)|citi global wealth summer analyst",
+   "group_title": "Citi Global Wealth, Summer Analyst",
+   "hide": "Outside the US",
+   "id": "wd:citi:26994853",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "Geneva  Switzerland",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-29",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Citi Global Wealth, Summer Analyst, Geneva - Switzerland, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- You are in your penultimate year of university pursuing a degree in any discipline (graduating between Dec 2027 - June 2028),",
    "classes": [
     2028
@@ -8223,7 +8263,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-28",
    "region": "US",
@@ -8863,6 +8903,46 @@
     "wealth"
    ],
    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Manulife-Co-op-Program----Business---Investment-Advisory--General-Accounts-Investment---January-2027-Intake_JR26091510",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "John Hancock (Manulife)",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "John Hancock (Manulife)|summer intern 2027 private wealth",
+   "group_title": "Summer Intern 2027 - Private Wealth",
+   "hide": "Outside the US",
+   "id": "wd:manulife:JR26080650",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "Montreal, Quebec",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-29",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Summer Intern 2027 - Private Wealth",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Summer-Intern-2027---Private-Wealth_JR26080650",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -10484,7 +10564,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-e8b7088ad2fc/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-61f39068e0e5/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -12721,6 +12801,86 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Wilmington Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Wilmington Trust|gcm intern",
+   "group_title": "GCM Intern",
+   "hide": "Outside the US",
+   "id": "wd:mtb:R91261",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "London, United Kingdom",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-29",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "GCM Intern - UK",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91261",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Wilmington Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Wilmington Trust|gcm intern",
+   "group_title": "GCM Intern",
+   "hide": "Outside the US",
+   "id": "wd:mtb:R91262",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "London, United Kingdom",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-29",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "GCM Intern - UK",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91262",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Graduation date of December 2027 or May/June 2028",
    "classes": [
     2028
@@ -14244,47 +14404,6 @@
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/XMLNAME-2025-Wealth-Management-Summer-Internship--Dubai--UAE--UAE-Nationals-preferred-_25820546",
    "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-28",
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Citi (incl. Citi Private Bank)|citi global wealth summer analyst",
-   "group_title": "Citi Global Wealth, Summer Analyst",
-   "hide": "Outside the US",
-   "id": "wd:citi:26994853",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "Geneva  Switzerland",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-27",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "Citi Global Wealth, Summer Analyst, Geneva - Switzerland, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
-   "v": 9,
    "weeks": 10,
    "work_mode": null
   },

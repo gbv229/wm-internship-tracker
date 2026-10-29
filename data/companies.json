@@ -148,7 +148,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-29",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 6,
+   "open": 7,
    "sources": [
     {
      "fail_streak": 0,
@@ -250,19 +250,22 @@
    "open": 7,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 401 Client Error: Unauthorized for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/RBCEARLYTALENT1/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 401 Client Error: Unauthorized for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/ExternalPrivatePostingStudents/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 401 Client Error: Unauthorized for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/rbcglobal1/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -384,7 +387,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "9a68026b127fe2e5",
+     "hash": "47fa9bac04f86952",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -644,7 +647,7 @@
    "hq": "Wilmington, DE",
    "last_ok": "2026-10-29",
    "name": "Wilmington Trust",
-   "open": 0,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -1624,7 +1627,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "c7fefa650cc8f759",
+     "hash": "1ef6da5be3eb02d5",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1782,7 +1785,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 88,
+     "fail_streak": 89,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1845,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 88,
+     "fail_streak": 89,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1870,9 +1873,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-28",
+     "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "7895df3a4ca07f1c",
+     "hash": "36dab527d44a328f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1933,7 +1936,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 57,
+     "fail_streak": 58,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1994,7 +1997,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 88,
+     "fail_streak": 89,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3030,11 +3033,11 @@
    "sources": [
     {
      "changed_on": "2026-10-28",
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='www.marcusmillichap.com', port=443): Max retries exceeded with url: /careers (Caused by ResponseError('too many 500 error responses'))",
+     "fail_streak": 1,
      "hash": "f9c8c821c97556d3",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.marcusmillichap.com/careers"
     },
     {
@@ -3186,7 +3189,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "d13a59f3a9d884de",
+     "hash": "1068655860131e8e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3295,7 +3298,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "752db367236ed1fd",
+     "hash": "207537d5303d04f6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3326,7 +3329,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "a0edecf16e1073b2",
+     "hash": "c715a6508fc0d3d6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3864,7 +3867,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 88,
+     "fail_streak": 89,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3893,7 +3896,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 88,
+     "fail_streak": 89,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4163,18 +4166,19 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-28",
+     "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "a392c2b53b686f48",
+     "hash": "3973e022e93220f9",
      "kind": "page",
      "links": [],
      "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4290,9 +4294,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-28",
+     "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "f1642e8c13679d6b",
+     "hash": "ecedc4b9df4a7670",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4490,7 +4494,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 88,
+     "fail_streak": 89,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4519,7 +4523,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 88,
+     "fail_streak": 89,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4876,7 +4880,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-10-29",
    "name": "John Hancock (Manulife)",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "fail_streak": 0,
@@ -5329,7 +5333,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "60cdf21b5098aaa3",
+     "hash": "aaa6a18d8c7bcd33",
      "kind": "page",
      "links": [],
      "ok": true,
