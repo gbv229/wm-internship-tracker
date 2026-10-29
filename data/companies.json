@@ -15,10 +15,9 @@
      "ok": true
     },
     {
-     "error": "HTTPError: 530 Server Error: <none> for url: https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/jobboard/vacancy/1/adv/",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "oleeo",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -102,10 +101,9 @@
      "ok": true
     },
     {
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='bankcampuscareers.tal.net', port=443): Max retries exceeded with url: /vx/lang-en-GB/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bankcampuscareers.tal.net', port=443) at 0x7f08b8b73e00>, 'Connectio",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "oleeo",
-     "ok": false
+     "ok": true
     },
     {
      "kind": "browser",
@@ -386,7 +384,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "d20983b8cf9334e0",
+     "hash": "eea13dbc68be3f7f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1168,7 +1166,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-10-29",
    "name": "Fidelity Investments",
-   "open": 18,
+   "open": 19,
    "sources": [
     {
      "fail_streak": 0,
@@ -1228,8 +1226,8 @@
     },
     {
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
+     "listed": 1,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -1626,7 +1624,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "2b705b96b8ff4690",
+     "hash": "ce8dd476db43a11f",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1784,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 90,
+     "fail_streak": 91,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1844,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 90,
+     "fail_streak": 91,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1874,7 +1872,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "36dab527d44a328f",
+     "hash": "b0289c771933fd93",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1935,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 59,
+     "fail_streak": 60,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1965,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1995,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 90,
+     "fail_streak": 91,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2850,7 +2848,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "bea9c87c26ac1cb6",
+     "hash": "3dd968a49027e5d8",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2928,7 +2926,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-29",
    "name": "Cushman & Wakefield",
-   "open": 24,
+   "open": 22,
    "sources": [
     {
      "fail_streak": 0,
@@ -3187,7 +3185,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "aced4eb6a0a951d0",
+     "hash": "597809a6e421e6fb",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3296,7 +3294,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "cab0115ccff78eeb",
+     "hash": "7f9de9ac213e4987",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3327,7 +3325,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "6d72b30e47d599b5",
+     "hash": "c6aa589384699d14",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3617,9 +3615,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-27",
+     "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "cf66afdd67651798",
+     "hash": "4b144abf8ff80348",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3865,7 +3863,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 90,
+     "fail_streak": 91,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3894,7 +3892,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 90,
+     "fail_streak": 91,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4191,7 +4189,7 @@
    "hq": "Dallas, TX",
    "last_ok": "2026-10-29",
    "name": "Invitation Homes",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -4491,7 +4489,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 90,
+     "fail_streak": 91,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4520,7 +4518,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 90,
+     "fail_streak": 91,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4581,7 +4579,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "50e8f1ccb0b5d74a",
+     "hash": "4ed8dcaf2fb4dbea",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5201,7 +5199,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-29",
    "name": "Homrich Berg",
-   "open": 4,
+   "open": 2,
    "sources": [
     {
      "changed_on": "2026-10-29",
@@ -5330,7 +5328,7 @@
     {
      "changed_on": "2026-10-29",
      "fail_streak": 0,
-     "hash": "9b0fa69951bf3471",
+     "hash": "ef2ef3e3e85b2e84",
      "kind": "page",
      "links": [],
      "ok": true,
