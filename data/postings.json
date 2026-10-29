@@ -2631,6 +2631,94 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "• Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management chicago",
+   "group_title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "hide": null,
+   "id": "wd:cibc:2620150",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": "$25/hr",
+   "posted": "2026-10-29",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern--Private-Wealth-Management-Chicago_2620150",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "• Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management chicago",
+   "group_title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "hide": null,
+   "id": "wd:cibc:2620150-1",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": "$25/hr",
+   "posted": "2026-10-29",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern--Private-Wealth-Management-Chicago_2620150-1",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
    "classes": [
     2028
@@ -4310,7 +4398,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "District 1, Vietnam",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-28",
    "region": "",
@@ -4630,7 +4718,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "District 1, Vietnam",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-28",
    "region": "",
@@ -4750,7 +4838,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "CW Site - VNM - Ha Noi - 4th Floor, Building A – Tien Bo Plaza",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-09",
    "region": "",
@@ -5232,7 +5320,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "note": "Ten-week headquarters internship for college juniors.",
    "pay": null,
    "posted": "2026-10-16",
@@ -5862,6 +5950,53 @@
     "wealth"
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Tampa-FL/Intern--Investor-Center---Tampa--FL_2135954-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center upper east side",
+   "group_title": "Intern, Investor Center - Upper East Side",
+   "hide": null,
+   "id": "wd:fmr:2137697",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": "$20–$32/hr",
+   "posted": "2026-10-29",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "Intern, Investor Center - Upper East Side, NY",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/New-York-NY/Intern--Investor-Center---Upper-East-Side--NY_2137697",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -6615,7 +6750,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": "$27/hr",
    "posted": "2026-10-16",
    "region": "",
@@ -6653,7 +6788,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "",
@@ -6693,7 +6828,7 @@
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "Dallas, TX- HQ",
-   "misses": 0,
+   "misses": 1,
    "note": "Posting asks for rising seniors (its graduation window has a typo).",
    "pay": "$18–$31/hr",
    "posted": "2026-10-14",
@@ -8252,20 +8387,20 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-28",
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
    "function": "Leasing / Brokerage",
    "gpa": null,
    "group": "JLL|leasing summer 2027 internship",
    "group_title": "Leasing Summer 2027 Internship",
    "hide": null,
-   "id": "wd:jll:REQ539556",
+   "id": "wd:jll:REQ539373",
    "last_seen": "2026-10-29",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
-   "posted": "2026-10-28",
+   "posted": "2026-10-29",
    "region": "US",
    "regions": [
     "Midwest"
@@ -8282,7 +8417,7 @@
    "tracks": [
     "real_estate"
    ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Summer-2027-Internship---Chicago--IL_REQ539556",
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Summer-2027-Internship---Chicago--IL_REQ539373",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -10831,6 +10966,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "company": "Northwestern Mutual",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "Northwestern Mutual|investment operations internship",
+   "group_title": "Investment Operations Internship",
+   "hide": "Not a wealth / real estate role",
+   "id": "wd:northwesternmutual:JR-46300",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "Milwaukee, WI Corporate",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-29",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Fall 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Investment Operations Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Operations-Internship_JR-46300",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "company": "PGIM Real Estate",
    "company_type": "RE Investment Manager",
    "deadline": null,
@@ -11359,46 +11536,6 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000191330",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-15",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
-   "group_title": "Financial Advisor Intern",
-   "hide": "Outside the US",
-   "id": "wd:rbc:R-0000190234",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "HALTON HILLS, Ontario, Canada",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-15",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALTON-HILLS-Ontario-Canada/Financial-Advisor-Intern_R-0000190234",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -17194,6 +17331,49 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-10-29",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539556",
+   "last_seen": "2026-10-29",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Chicago, IL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Summer-2027-Internship---Chicago--IL_REQ539556",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-13",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -19796,6 +19976,47 @@
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CRE--Operations-Intern--4-Months-_R-0000187541-3",
    "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-29",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-15",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "hide": "Outside the US",
+   "id": "wd:rbc:R-0000190234",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "HALTON HILLS, Ontario, Canada",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALTON-HILLS-Ontario-Canada/Financial-Advisor-Intern_R-0000190234",
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
