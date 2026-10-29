@@ -2103,7 +2103,7 @@
     "real_estate"
    ],
    "url": "https://issuu.com/berkadiamarketing/docs/berkadia_summer_internship_program?fr=sYmNjNTU0MDI4ODA",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -2114,7 +2114,7 @@
    "company_type": "CRE Finance & Lending",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -2141,7 +2141,7 @@
     "real_estate"
    ],
    "url": "https://berkadia.com/careers/commercial-real-estate-jobs/?keyword=intern",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -2519,7 +2519,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Investments",
    "gpa": null,
@@ -2548,7 +2548,7 @@
     "wealth"
    ],
    "url": "https://brownadvisory.wd1.myworkdayjobs.com/en-US/Brown-Interns/job/London-UK/Fixed-Income-Research-Summer-Analyst_JR1820",
-   "v": 9,
+   "v": 11,
    "weeks": 8,
    "work_mode": "On-site"
   },
@@ -2559,24 +2559,22 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Investments",
    "gpa": null,
    "group": "Brown Advisory|marylebone partners portfolio management summer analyst",
    "group_title": "Marylebone Partners Portfolio Management Summer Analyst",
-   "hide": "Outside the US",
+   "hide": null,
    "id": "br:103a7e156aceb5",
    "last_seen": "2026-10-28",
    "level": "Undergraduate",
-   "location": "London, UK",
+   "location": "",
    "misses": 0,
    "pay": null,
    "posted": "2026-10-16",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
+   "region": "",
+   "regions": [],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "browser",
@@ -2588,9 +2586,9 @@
     "wealth"
    ],
    "url": "https://brownadvisory.wd1.myworkdayjobs.com/en-US/Brown-Interns/job/London-UK/Marleybone-Partners-Portfolio-Management-Summer-Analyst_JR1825",
-   "v": 9,
-   "weeks": 8,
-   "work_mode": "On-site"
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
   },
   {
    "class_evidence": null,
@@ -2599,7 +2597,7 @@
    "company_type": "Private Bank & Trust",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -2628,51 +2626,9 @@
     "wealth"
    ],
    "url": "https://brownadvisory.wd1.myworkdayjobs.com/en-US/Brown-Interns/job/London-UK/Private-Client-Portfolio-Management-Summer-Analyst_JR1818",
-   "v": 9,
+   "v": 11,
    "weeks": 8,
    "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Brown Advisory",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": "3.0+",
-   "group": "Brown Advisory|strategic advisory co op",
-   "group_title": "Strategic Advisory Co-op",
-   "hide": null,
-   "id": "br:7a559c21b69403",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "Boston, MA",
-   "misses": 1,
-   "pay": "$20–$35/hr",
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "Strategic Advisory Co-op",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://brownadvisory.wd1.myworkdayjobs.com/en-US/Brown-Interns/job/Boston-MA/Strategic-Advisory-Co-op_JR1804",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
   },
   {
    "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
@@ -3836,7 +3792,7 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-17",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -3863,7 +3819,7 @@
     "wealth"
    ],
    "url": "https://jobs.citizensbank.com/Citizens-Private-Bank-Internship",
-   "v": 9,
+   "v": 11,
    "weeks": 10,
    "work_mode": null
   },
@@ -3919,7 +3875,7 @@
    "company_type": "RE Investment Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Acquisitions / Investments",
    "gpa": null,
@@ -3951,7 +3907,7 @@
     "real_estate"
    ],
    "url": "https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/",
-   "v": 9,
+   "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
@@ -5185,7 +5141,7 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -5212,7 +5168,7 @@
     "real_estate"
    ],
    "url": "https://www.eastdilsecured.com/summer-internship-program/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -5225,7 +5181,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -5242,8 +5198,8 @@
    "posted": "2026-10-16",
    "region": "",
    "regions": [],
-   "season": "Summer 2027",
-   "season_inferred": true,
+   "season": null,
+   "season_inferred": false,
    "source": "browser",
    "sponsorship": null,
    "states": [],
@@ -5253,10 +5209,10 @@
     "wealth"
    ],
    "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/?codes=DIRECT&utm_source=DIRECT",
-   "v": 9,
+   "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -5444,53 +5400,6 @@
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/West-Hartford-CT/Intern--Investor-Center---CT_2135935",
    "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Fidelity Investments|intern investor center dunwoody",
-   "group_title": "Intern, Investor Center - Dunwoody",
-   "hide": null,
-   "id": "wd:fmr:2135716-1",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "127 Perimeter Center West, Dunwoody GA",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": null,
-   "posted": "2026-10-26",
-   "region": "",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "GA"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - Dunwoody, GA",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/127-Perimeter-Center-West-Dunwoody-GA/Intern--Investor-Center---Dunwoody--GA_2135716-1",
-   "v": 10,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
@@ -6449,7 +6358,7 @@
    "company_type": "RE Investment Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Acquisitions / Investments",
    "gpa": null,
@@ -6480,7 +6389,7 @@
     "real_estate"
    ],
    "url": "https://www.heitman.com/jobs/ofOQAfwd/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -6493,7 +6402,7 @@
    "company_type": "RE Investment Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Asset / Property Management",
    "gpa": null,
@@ -6524,7 +6433,7 @@
     "real_estate"
    ],
    "url": "https://www.heitman.com/jobs/osIQAfwk/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": "Hybrid"
   },
@@ -6537,7 +6446,7 @@
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -6549,7 +6458,7 @@
    "level": "Undergraduate",
    "location": "",
    "misses": 0,
-   "pay": "$34–$38/hr (≈ $70k–$80k/yr)",
+   "pay": "$48–$72/hr (≈ $100k–$150k/yr)",
    "posted": "2026-10-16",
    "region": "",
    "regions": [],
@@ -6564,7 +6473,7 @@
     "wealth"
    ],
    "url": "https://us63.dayforcehcm.com/CandidatePortal/en-US/hightower?q=internship",
-   "v": 9,
+   "v": 11,
    "weeks": 16,
    "work_mode": null
   },
@@ -6577,7 +6486,7 @@
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -6604,7 +6513,7 @@
     "wealth"
    ],
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4494500",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": "Remote"
   },
@@ -6615,7 +6524,7 @@
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -6642,85 +6551,7 @@
     "wealth"
    ],
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4494500",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Must be a rising senior pursuing a bachelor’s degree from an accredited college or university (required).",
-   "classes": [
-    2028
-   ],
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|advisory intern",
-   "group_title": "Advisory Intern",
-   "hide": null,
-   "id": "br:2714be7dfd23cb",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": "$30/hr",
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Advisory Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4494473",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Remote"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|advisory intern",
-   "group_title": "Advisory Intern",
-   "hide": null,
-   "id": "br:41545fc7d725d5",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Advisory Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4494473",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -6733,7 +6564,7 @@
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -6760,7 +6591,7 @@
     "wealth"
    ],
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4499430",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": "Remote"
   },
@@ -6771,7 +6602,7 @@
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -6798,85 +6629,7 @@
     "wealth"
    ],
    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4499430",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Must be a rising senior, working towards a bachelor’s degree from an accredited college or university (required)",
-   "classes": [
-    2028
-   ],
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|client service intern",
-   "group_title": "Client Service Intern",
-   "hide": null,
-   "id": "br:03e8d901b64ae8",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": "$27/hr",
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Client Service Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4496342",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Remote"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|client service intern",
-   "group_title": "Client Service Intern",
-   "hide": null,
-   "id": "br:c7967b3849421a",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Client Service Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4496342",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -8025,7 +7778,7 @@
    "last_seen": "2026-10-28",
    "level": "Undergraduate",
    "location": "Irvine, CA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -8202,7 +7955,7 @@
    "last_seen": "2026-10-28",
    "level": "Undergraduate",
    "location": "San Francisco, CA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-28",
    "region": "US",
@@ -8541,6 +8294,48 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539556",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Chicago, IL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Leasing-Summer-2027-Internship---Chicago--IL_REQ539556",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
    "classes": [
     2028
@@ -8644,7 +8439,7 @@
    "last_seen": "2026-10-28",
    "level": "Undergraduate",
    "location": "Lynchburg, VA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-28",
    "region": "US",
@@ -9245,6 +9040,46 @@
    "work_mode": "Hybrid"
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Julius Baer",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Julius Baer|intern dcfo p bs 100 fixed term contract of 5 6 months julius baer s intern programme",
+   "group_title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme]",
+   "hide": "Outside the US",
+   "id": "wd:juliusbaer:r-20015-1",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "Zurich",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme] (f/m/d)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---DCFO-P-BS-100-----Fixed-Term-Contract-of-5-6-months---Julius-Baer-s-Intern-Programme---f-m-d-_r-20015-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
    "classes": [
     2028
@@ -9284,7 +9119,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Atlanta-GA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Atlanta-ICG_R-41553",
-   "v": 10,
+   "v": 11,
    "weeks": 5,
    "work_mode": null
   },
@@ -9328,7 +9163,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
-   "v": 10,
+   "v": 11,
    "weeks": 5,
    "work_mode": null
   },
@@ -9372,7 +9207,7 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
-   "v": 10,
+   "v": 11,
    "weeks": 5,
    "work_mode": null
   },
@@ -9504,7 +9339,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
-   "v": 10,
+   "v": 11,
    "weeks": 5,
    "work_mode": null
   },
@@ -9548,7 +9383,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Erie-PA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Erie--PA_R-41223",
-   "v": 10,
+   "v": 11,
    "weeks": 5,
    "work_mode": null
   },
@@ -9636,7 +9471,7 @@
     "wealth"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225",
-   "v": 10,
+   "v": 11,
    "weeks": 5,
    "work_mode": null
   },
@@ -10779,7 +10614,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c0860c4b5de8/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-fd9600cc0143/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -11368,11 +11203,9 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "class_evidence": "Confirmed by hand (Report #4).",
    "classes": [
-    2028,
-    2029,
-    2030
+    2028
    ],
    "company": "PIMCO",
    "company_type": "Asset Manager",
@@ -11416,7 +11249,7 @@
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Client-Group-Analyst--US-_R106768",
    "v": 11,
    "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "verified_source": "Report #4",
    "weeks": 10,
    "work_mode": null
   },
@@ -11846,7 +11679,7 @@
    "company_type": "Investment Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -11875,7 +11708,7 @@
     "wealth"
    ],
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-global-advisory-long-term-internship--singapore/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -11886,7 +11719,7 @@
    "company_type": "Investment Bank",
    "deadline": "2026-10-26",
    "deadline_evidence": "Deadline to apply: 26 October 2026",
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -11915,7 +11748,7 @@
     "wealth"
    ],
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-off-cycle-internship-denmark-team/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -11928,7 +11761,7 @@
    "company_type": "Investment Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -11955,7 +11788,7 @@
     "early"
    ],
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/?taxonomy_1155=724",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -11966,7 +11799,7 @@
    "company_type": "Investment Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -11993,7 +11826,7 @@
     "early"
    ],
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/early-insights/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -12004,7 +11837,7 @@
    "company_type": "Investment Bank",
    "deadline": "2027-01-04",
    "deadline_evidence": "The deadline for submission of applications is January 4th 2027 and interviews will start in January.",
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -12031,7 +11864,7 @@
     "wealth"
    ],
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/ga-long-term-internship-sovereign-advisory-juilletseptembre-2027/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -12044,7 +11877,7 @@
    "company_type": "Investment Bank",
    "deadline": "2027-05-20",
    "deadline_evidence": "Current enrollment in an undergraduate degree program with an anticipated graduation date no later than May 2029",
-   "detail_at": "2026-10-26",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-20",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -12074,7 +11907,7 @@
     "early"
    ],
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/us-global-advisory--2027-sophomore-leadership-program2/",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -12167,15 +12000,15 @@
   {
    "class_evidence": "Silvercrest’s Summer Internship Program is both an education and experiential opportunity for rising sophomores, juniors, and seniors.",
    "classes": [
-    2027,
     2028,
+    2029,
     2030
    ],
    "company": "Silvercrest Asset Management",
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Investments",
    "gpa": null,
@@ -12206,7 +12039,7 @@
     "wealth"
    ],
    "url": "https://www.silvercrestgroup.com/careers/investment-management-intern-summer-2027/",
-   "v": 9,
+   "v": 11,
    "weeks": 10,
    "work_mode": null
   },
@@ -12219,7 +12052,7 @@
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -12250,22 +12083,22 @@
     "wealth"
    ],
    "url": "https://www.silvercrestgroup.com/careers/milwaukee-intern-2027/",
-   "v": 9,
+   "v": 11,
    "weeks": 10,
    "work_mode": null
   },
   {
    "class_evidence": "Silvercrest’s Summer Internship Program is both an education and experiential opportunity for rising sophomores, juniors, and seniors.",
    "classes": [
-    2027,
     2028,
+    2029,
     2030
    ],
    "company": "Silvercrest Asset Management",
    "company_type": "Independent RIA",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Investments",
    "gpa": null,
@@ -12296,7 +12129,7 @@
     "wealth"
    ],
    "url": "https://www.silvercrestgroup.com/careers/ocio-intern-summer-2027/",
-   "v": 9,
+   "v": 11,
    "weeks": 10,
    "work_mode": null
   },
@@ -12307,7 +12140,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -12338,7 +12171,7 @@
     "wealth"
    ],
    "url": "https://www.stephens.com/careers/students-and-graduates/private-wealth-management-internship",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -12944,7 +12777,7 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-27",
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
@@ -12971,7 +12804,7 @@
     "early"
    ],
    "url": "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html",
-   "v": 9,
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -13673,6 +13506,49 @@
     "early"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-EMEA-Future-Leaders-Spring-Insight-Programme_45529",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-28",
+   "company": "Brown Advisory",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": "3.0+",
+   "group": "Brown Advisory|strategic advisory co op",
+   "group_title": "Strategic Advisory Co-op",
+   "hide": null,
+   "id": "br:7a559c21b69403",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "Boston, MA",
+   "misses": 2,
+   "pay": "$20–$35/hr",
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "Strategic Advisory Co-op",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://brownadvisory.wd1.myworkdayjobs.com/en-US/Brown-Interns/job/Boston-MA/Strategic-Advisory-Co-op_JR1804",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -15424,6 +15300,54 @@
    "first_seen": "2026-10-28",
    "function": "Investments",
    "gpa": null,
+   "group": "Fidelity Investments|intern investor center dunwoody",
+   "group_title": "Intern, Investor Center - Dunwoody",
+   "hide": null,
+   "id": "wd:fmr:2135716-1",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "127 Perimeter Center West, Dunwoody GA",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - Dunwoody, GA",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/127-Perimeter-Center-West-Dunwoody-GA/Intern--Investor-Center---Dunwoody--GA_2135716-1",
+   "v": 10,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-28",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Investments",
+   "gpa": null,
    "group": "Fidelity Investments|intern investor center long island",
    "group_title": "Intern, Investor Center - Long Island",
    "hide": null,
@@ -15804,6 +15728,166 @@
     "real_estate"
    ],
    "url": "https://www.hines.com/careers/graduates-and-interns",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Must be a rising senior pursuing a bachelor’s degree from an accredited college or university (required).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-28",
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|advisory intern",
+   "group_title": "Advisory Intern",
+   "hide": null,
+   "id": "br:2714be7dfd23cb",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": "$30/hr",
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Advisory Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4494473",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Remote"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-28",
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|advisory intern",
+   "group_title": "Advisory Intern",
+   "hide": null,
+   "id": "br:41545fc7d725d5",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Advisory Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4494473",
+   "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Must be a rising senior, working towards a bachelor’s degree from an accredited college or university (required)",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-28",
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|client service intern",
+   "group_title": "Client Service Intern",
+   "hide": null,
+   "id": "br:03e8d901b64ae8",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": "$27/hr",
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Client Service Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4496342",
+   "v": 9,
+   "weeks": null,
+   "work_mode": "Remote"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-28",
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-27",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|client service intern",
+   "group_title": "Client Service Intern",
+   "hide": null,
+   "id": "br:c7967b3849421a",
+   "last_seen": "2026-10-28",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Client Service Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4496342",
    "v": 9,
    "weeks": null,
    "work_mode": null
@@ -18049,47 +18133,6 @@
    ],
    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GWAM-Financial-Planning---Analysis_JR26081175",
    "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-12",
-   "company": "Julius Baer",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Julius Baer|intern dcfo p bs 100 fixed term contract of 5 6 months julius baer s intern programme",
-   "group_title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme]",
-   "hide": "Outside the US",
-   "id": "wd:juliusbaer:r-20015-1",
-   "last_seen": "2026-10-11",
-   "level": "Undergraduate",
-   "location": "Zurich",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-01",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme] (f/m/d)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern---DCFO-P-BS-100-----Fixed-Term-Contract-of-5-6-months---Julius-Baer-s-Intern-Programme---f-m-d-_r-20015-1",
-   "v": 6,
    "weeks": null,
    "work_mode": null
   },

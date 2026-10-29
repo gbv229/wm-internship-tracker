@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "87227477fde6b8a9",
+     "hash": "316faa752632894e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -410,7 +410,7 @@
    "hq": "Zurich",
    "last_ok": "2026-10-28",
    "name": "Julius Baer",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -751,7 +751,7 @@
    "hq": "Baltimore, MD",
    "last_ok": "2026-10-28",
    "name": "Brown Advisory",
-   "open": 4,
+   "open": 3,
    "sources": [
     {
      "changed_on": "2026-10-27",
@@ -965,10 +965,9 @@
    "open": 9,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1167,7 +1166,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-10-28",
    "name": "Fidelity Investments",
-   "open": 18,
+   "open": 17,
    "sources": [
     {
      "fail_streak": 0,
@@ -1783,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1811,9 +1810,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-27",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "a4027fa4c536925e",
+     "hash": "4cafe986c0406add",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1843,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1934,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 55,
+     "fail_streak": 56,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,10 +1962,12 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fisherinvestments.com/en-us/careers",
-     "fail_streak": 86,
+     "changed_on": null,
+     "fail_streak": 0,
+     "hash": "16e06dfbcded2d35",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.fisherinvestments.com/en-us/careers"
     },
     {
@@ -1993,7 +1994,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2848,7 +2849,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "3dd968a49027e5d8",
+     "hash": "bea9c87c26ac1cb6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2905,7 +2906,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-28",
    "name": "JLL",
-   "open": 32,
+   "open": 33,
    "sources": [
     {
      "fail_streak": 0,
@@ -3030,7 +3031,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3185,7 +3186,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "4fe5e22fc95f8fb4",
+     "hash": "3ab2266b6815e37d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3294,7 +3295,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "00781bfe5b3eaab6",
+     "hash": "70c7c16775cf0fc4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3326,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "a0edecf16e1073b2",
+     "hash": "cede8d21716ead37",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3416,9 +3417,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-23",
+     "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "795489dd46c09fb5",
+     "hash": "cdff131b9b517e0d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3863,7 +3864,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3892,7 +3893,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4171,10 +4172,9 @@
      "url": "https://www.coniferllc.com/careers/"
     },
     {
+     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4490,7 +4490,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4519,7 +4519,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5153,7 +5153,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "ba738a67aff56b36",
+     "hash": "bf62d1200011bbc2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5200,7 +5200,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-10-28",
    "name": "Homrich Berg",
-   "open": 8,
+   "open": 4,
    "sources": [
     {
      "changed_on": "2026-10-28",
@@ -5329,7 +5329,7 @@
     {
      "changed_on": "2026-10-28",
      "fail_streak": 0,
-     "hash": "019e48ff5362efe8",
+     "hash": "7bbe38ba1daa645a",
      "kind": "page",
      "links": [],
      "ok": true,
