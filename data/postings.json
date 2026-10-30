@@ -192,50 +192,6 @@
    "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
    "group_title": "Private Wealth Summer Intern",
    "hide": null,
-   "id": "wd:abglobal:R0019826",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Los Angeles, California",
-   "misses": 0,
-   "pay": "$34–$34/hr (≈ $72k–$72k/yr)",
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Private Wealth Summer Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Los-Angeles-California/Private-Wealth-Summer-Intern_R0019826",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "AllianceBernstein (Bernstein Private Wealth)",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
-   "group_title": "Private Wealth Summer Intern",
-   "hide": null,
    "id": "wd:abglobal:R0019819",
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
@@ -260,50 +216,6 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Washington-DC/Private-Wealth-Summer-Intern_R0019819",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "AllianceBernstein (Bernstein Private Wealth)",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
-   "group_title": "Private Wealth Summer Intern",
-   "hide": null,
-   "id": "wd:abglobal:R0019818",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "San Francisco, California",
-   "misses": 0,
-   "pay": "$37–$37/hr (≈ $78k–$78k/yr)",
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Private Wealth Summer Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/San-Francisco-California/Private-Wealth-Summer-Intern_R0019818",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -436,6 +348,94 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Private-Wealth-Summer-Intern_R0019815",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
+   "group_title": "Private Wealth Summer Intern",
+   "hide": null,
+   "id": "wd:abglobal:R0019826",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Los Angeles, California",
+   "misses": 1,
+   "pay": "$34–$34/hr (≈ $72k–$72k/yr)",
+   "posted": "2026-09-28",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Private Wealth Summer Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Los-Angeles-California/Private-Wealth-Summer-Intern_R0019826",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
+   "group_title": "Private Wealth Summer Intern",
+   "hide": null,
+   "id": "wd:abglobal:R0019818",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "San Francisco, California",
+   "misses": 1,
+   "pay": "$37–$37/hr (≈ $78k–$78k/yr)",
+   "posted": "2026-09-28",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Private Wealth Summer Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/San-Francisco-California/Private-Wealth-Summer-Intern_R0019818",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -3932,51 +3932,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- College/University junior or senior",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic gos central summer intern",
-   "group_title": "EIC GOS Central Summer Intern",
-   "hide": null,
-   "id": "wd:cw:R333458",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Client Site - USA - MO - St. Louis - 575 Maryville Centre Drive",
-   "misses": 1,
-   "pay": "$18–$21/hr",
-   "posted": "2026-10-28",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "open",
-   "title": "EIC GOS Central Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Cushman & Wakefield",
@@ -4504,6 +4459,46 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-10-28",
+   "first_seen": "2026-10-21",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic intern real estate consulting",
+   "group_title": "EIC Intern - Real Estate Consulting",
+   "hide": "Outside the US",
+   "id": "wd:cw:R323176",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "District 1, Vietnam",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-09-28",
+   "region": "",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "EIC Intern - Real Estate Consulting, Ho Chi Minh City",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/District-1-Vietnam/EIC-Intern---Real-Estate-Consulting--Ho-Chi-Minh-City_R323176",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -4652,48 +4647,6 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ha-Noi---4th-Floor-Building-A--Tien-Bo-Plaza/EIC-Intern---Real-Estate-Valuation-Services--Ha-Noi_R338349",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-27",
-   "function": "Leasing / Brokerage",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic leasing tenant representation intern",
-   "group_title": "EIC Leasing Tenant Representation Intern",
-   "hide": null,
-   "id": "wd:cw:R340709",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Ontario, California, USA",
-   "misses": 1,
-   "pay": "$21–$25/hr",
-   "posted": "2026-10-27",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "EIC Leasing Tenant Representation Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Ontario-California-USA/EIC-Leasing-Tenant-Representation-Intern_R340709",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -5842,53 +5795,6 @@
     "wealth"
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Tampa-FL/Intern--Investor-Center---Tampa--FL_2135954-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-29",
-   "first_seen": "2026-10-29",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Fidelity Investments|intern investor center upper east side",
-   "group_title": "Intern, Investor Center - Upper East Side",
-   "hide": null,
-   "id": "wd:fmr:2137697",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": "$20–$32/hr",
-   "posted": "2026-10-29",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - Upper East Side, NY",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/New-York-NY/Intern--Investor-Center---Upper-East-Side--NY_2137697",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -7810,7 +7716,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Overland Park, KS",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-30",
    "region": "US",
@@ -10023,7 +9929,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5f1feb48477b/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-78bbbdd2eb47/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -10740,46 +10646,6 @@
     "wealth"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000191330",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-19",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
-   "group_title": "Financial Advisor Intern",
-   "hide": "Outside the US",
-   "id": "wd:rbc:R-0000190503",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "WELLAND, Ontario, Canada",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-19",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WELLAND-Ontario-Canada/Financial-Advisor-Intern_R-0000190503",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -14481,6 +14347,52 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- College/University junior or senior",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic gos central summer intern",
+   "group_title": "EIC GOS Central Summer Intern",
+   "hide": null,
+   "id": "wd:cw:R333458",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Client Site - USA - MO - St. Louis - 575 Maryville Centre Drive",
+   "misses": 2,
+   "pay": "$18–$21/hr",
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "closed",
+   "title": "EIC GOS Central Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-23",
@@ -14608,47 +14520,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "closed_on": "2026-10-29",
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-21",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Cushman & Wakefield|eic intern real estate consulting",
-   "group_title": "EIC Intern - Real Estate Consulting",
-   "hide": "Outside the US",
-   "id": "wd:cw:R323176",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "District 1, Vietnam",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-28",
-   "region": "",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "EIC Intern - Real Estate Consulting, Ho Chi Minh City",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/District-1-Vietnam/EIC-Intern---Real-Estate-Consulting--Ho-Chi-Minh-City_R323176",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "closed_on": "2026-10-09",
    "company": "Cushman & Wakefield",
    "company_type": "CRE Services & Brokerage",
@@ -14684,6 +14555,49 @@
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ho-Chi-Minh---District-1-9-11-Ton-Duc-Thang-Street-Sai-Gon-Ward/EIC-Intern---Retail-Leasing--HCMC_R332443",
    "v": 5,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-30",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-27",
+   "function": "Leasing / Brokerage",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic leasing tenant representation intern",
+   "group_title": "EIC Leasing Tenant Representation Intern",
+   "hide": null,
+   "id": "wd:cw:R340709",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Ontario, California, USA",
+   "misses": 2,
+   "pay": "$21–$25/hr",
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "EIC Leasing Tenant Representation Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Ontario-California-USA/EIC-Leasing-Tenant-Representation-Intern_R340709",
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -14960,6 +14874,54 @@
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "Remote"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center upper east side",
+   "group_title": "Intern, Investor Center - Upper East Side",
+   "hide": null,
+   "id": "wd:fmr:2137697",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": "$20–$32/hr",
+   "posted": "2026-10-29",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - Upper East Side, NY",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/New-York-NY/Intern--Investor-Center---Upper-East-Side--NY_2137697",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
@@ -20045,6 +20007,47 @@
     "real_estate"
    ],
    "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Financing-Specialist-Commercial-Financial-Services-Real-Estate-Student-Intern_R-0000187364",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-30",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-19",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "hide": "Outside the US",
+   "id": "wd:rbc:R-0000190503",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "WELLAND, Ontario, Canada",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/WELLAND-Ontario-Canada/Financial-Advisor-Intern_R-0000190503",
    "v": 11,
    "weeks": null,
    "work_mode": null
