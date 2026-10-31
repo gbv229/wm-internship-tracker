@@ -353,270 +353,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
-   "classes": [
-    2028
-   ],
-   "company": "BNY (incl. BNY Wealth)",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
-   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
-   "hide": null,
-   "id": "or:eofe:81955",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Atlanta, GA, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-08",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "GA"
-   ],
-   "status": "open",
-   "title": "2027 BNY Summer Internship Program – BNY Wealth (Atlanta, GA)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81955",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
-   "classes": [
-    2028
-   ],
-   "company": "BNY (incl. BNY Wealth)",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
-   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
-   "hide": null,
-   "id": "or:eofe:81320",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Boston, MA, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-08-24",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "2027 BNY Summer Internship Program – BNY Wealth (Boston, MA)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81320",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
-   "classes": [
-    2028
-   ],
-   "company": "BNY (incl. BNY Wealth)",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
-   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
-   "hide": null,
-   "id": "or:eofe:81954",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Dallas, TX, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-08",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 BNY Summer Internship Program – BNY Wealth (Dallas, TX)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81954",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
-   "classes": [
-    2028
-   ],
-   "company": "BNY (incl. BNY Wealth)",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
-   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
-   "hide": null,
-   "id": "or:eofe:81316",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "New York, NY, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-08-24",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 BNY Summer Internship Program – BNY Wealth (New York, NY)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81316",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
-   "classes": [
-    2028
-   ],
-   "company": "BNY (incl. BNY Wealth)",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
-   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
-   "hide": null,
-   "id": "or:eofe:81956",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Philadelphia, PA, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-08",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "PA"
-   ],
-   "status": "open",
-   "title": "2027 BNY Summer Internship Program – BNY Wealth (Philadelphia, PA)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81956",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
-   "classes": [
-    2028
-   ],
-   "company": "BNY (incl. BNY Wealth)",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
-   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
-   "hide": null,
-   "id": "or:eofe:81319",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Pittsburgh, PA, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-08",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "PA"
-   ],
-   "status": "open",
-   "title": "2027 BNY Summer Internship Program – BNY Wealth (Pittsburgh, PA)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81319",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "BXP (Boston Properties)",
@@ -6316,6 +6052,44 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Hines",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-30",
+   "first_seen": "2026-10-21",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Hines|internships early careers",
+   "group_title": "Internships & Early Careers",
+   "hide": null,
+   "id": "br:03bc0895528962",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Internships & Early Careers",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://www.hines.com/careers/graduates-and-interns",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Must be a rising senior pursuing a bachelor’s degree from an accredited college or university (required).",
    "classes": [
     2028
@@ -7205,51 +6979,6 @@
    "v": 11,
    "weeks": 10,
    "work_mode": null
-  },
-  {
-   "class_evidence": "• Actively pursuing a bachelor's or master's degree, with 2-3 years completed majoring in Business, Real Estate, Operations Management, Professional Sales, Marketing, Finance, or Accounting",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "JLL|business development summer 2027 internship",
-   "group_title": "Business Development Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ534213",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Dallas, TX",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Business Development Summer 2027 Internship - Dallas, TX",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Business-Development-Summer-2027-Internship---Dallas--TX_REQ534213",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
@@ -9603,48 +9332,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- You have graduated from university or able to take the time off to commit for a full-time internship role for 6 months from January 2027 if you are currently in study",
-   "classes": [
-    2027
-   ],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "function": "Acquisitions / Investments",
-   "gpa": null,
-   "group": "Morgan Stanley|2027 investment management off cycle internship real estate investing",
-   "group_title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing",
-   "hide": "Outside the US",
-   "id": "oleeo:ms:22191",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Milan",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-28",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "oleeo",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Milan)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22191-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Milan/en-GB",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Morgan Stanley",
@@ -9680,46 +9367,6 @@
     "real_estate"
    ],
    "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22354-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "function": "Acquisitions / Investments",
-   "gpa": null,
-   "group": "Morgan Stanley|2027 investment management off cycle internship real estate investing",
-   "group_title": "2027 Investment Management Off-cycle Internship - Real Estate Investing",
-   "hide": "Outside the US",
-   "id": "oleeo:ms:22231",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Madrid",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-28",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "oleeo",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 Investment Management Off-cycle Internship - Real Estate Investing (Madrid)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -9799,7 +9446,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d813c1b4670c/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7e1c84833890/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -12181,6 +11828,276 @@
    "v": 9,
    "weeks": 12,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "BNY (incl. BNY Wealth)",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
+   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
+   "hide": null,
+   "id": "or:eofe:81955",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Atlanta, GA, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "closed",
+   "title": "2027 BNY Summer Internship Program – BNY Wealth (Atlanta, GA)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81955",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "BNY (incl. BNY Wealth)",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
+   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
+   "hide": null,
+   "id": "or:eofe:81320",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Boston, MA, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-08-24",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "2027 BNY Summer Internship Program – BNY Wealth (Boston, MA)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81320",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "BNY (incl. BNY Wealth)",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
+   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
+   "hide": null,
+   "id": "or:eofe:81954",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Dallas, TX, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 BNY Summer Internship Program – BNY Wealth (Dallas, TX)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81954",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "BNY (incl. BNY Wealth)",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
+   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
+   "hide": null,
+   "id": "or:eofe:81316",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "New York, NY, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-08-24",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 BNY Summer Internship Program – BNY Wealth (New York, NY)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81316",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "BNY (incl. BNY Wealth)",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
+   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
+   "hide": null,
+   "id": "or:eofe:81956",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Philadelphia, PA, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "PA"
+   ],
+   "status": "closed",
+   "title": "2027 BNY Summer Internship Program – BNY Wealth (Philadelphia, PA)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81956",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "BNY (incl. BNY Wealth)",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "BNY (incl. BNY Wealth)|2027 bny summer internship program bny wealth",
+   "group_title": "2027 BNY Summer Internship Program – BNY Wealth",
+   "hide": null,
+   "id": "or:eofe:81319",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Pittsburgh, PA, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-08",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "PA"
+   ],
+   "status": "closed",
+   "title": "2027 BNY Summer Internship Program – BNY Wealth (Pittsburgh, PA)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81319",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
@@ -15195,45 +15112,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-27",
-   "company": "Hines",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-21",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Hines|internships early careers",
-   "group_title": "Internships & Early Careers",
-   "hide": null,
-   "id": "br:03bc0895528962",
-   "last_seen": "2026-10-27",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "Internships & Early Careers",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://www.hines.com/careers/graduates-and-interns",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Must be a rising senior pursuing a bachelor’s degree from an accredited college or university (required).",
    "classes": [
     2028
@@ -15786,6 +15664,52 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Development-Summer-2027-Internship---Chicago--IL_REQ534216",
    "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "• Actively pursuing a bachelor's or master's degree, with 2-3 years completed majoring in Business, Real Estate, Operations Management, Professional Sales, Marketing, Finance, or Accounting",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-10-30",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "JLL|business development summer 2027 internship",
+   "group_title": "Business Development Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ534213",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Business Development Summer 2027 Internship - Dallas, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Business-Development-Summer-2027-Internship---Dallas--TX_REQ534213",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -19049,6 +18973,90 @@
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Financial-Planning---Analysis-Summer-Intern_JR101856",
    "v": 9,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You have graduated from university or able to take the time off to commit for a full-time internship role for 6 months from January 2027 if you are currently in study",
+   "classes": [
+    2027
+   ],
+   "closed_on": "2026-10-30",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Acquisitions / Investments",
+   "gpa": null,
+   "group": "Morgan Stanley|2027 investment management off cycle internship real estate investing",
+   "group_title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing",
+   "hide": "Outside the US",
+   "id": "oleeo:ms:22191",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Milan",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oleeo",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Milan)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22191-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Milan/en-GB",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-30",
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "function": "Acquisitions / Investments",
+   "gpa": null,
+   "group": "Morgan Stanley|2027 investment management off cycle internship real estate investing",
+   "group_title": "2027 Investment Management Off-cycle Internship - Real Estate Investing",
+   "hide": "Outside the US",
+   "id": "oleeo:ms:22231",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Madrid",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oleeo",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 Investment Management Off-cycle Internship - Real Estate Investing (Madrid)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   },
   {

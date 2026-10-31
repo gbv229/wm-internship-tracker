@@ -7,7 +7,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-30",
    "name": "Morgan Stanley",
-   "open": 6,
+   "open": 4,
    "sources": [
     {
      "fail_streak": 0,
@@ -42,17 +42,16 @@
      "ok": true
     },
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='higher.gs.com', port=443): Max retries exceeded with url: /campus (Caused by ResponseError('too many 502 error responses'))",
+     "fail_streak": 1,
      "hash": "b2185d4027bab0ae",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://higher.gs.com/campus"
     },
     {
      "kind": "browser",
-     "listed": 19,
+     "listed": 0,
      "matched": 0,
      "ok": true
     }
@@ -384,7 +383,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "e9475af52f17f253",
+     "hash": "9acab45bf7fede83",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -602,7 +601,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-10-30",
    "name": "BNY (incl. BNY Wealth)",
-   "open": 6,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -1782,7 +1781,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1841,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1933,7 +1932,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 65,
+     "fail_streak": 66,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1962,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 7,
+     "fail_streak": 8,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1992,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2753,9 +2752,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-23",
+     "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "fb6fd49d8d997ce9",
+     "hash": "84cad0ea159c6a1e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2905,7 +2904,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-30",
    "name": "JLL",
-   "open": 21,
+   "open": 20,
    "sources": [
     {
      "fail_streak": 0,
@@ -3030,7 +3029,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3185,7 +3184,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "304019af4708ea96",
+     "hash": "207a4421faf884ad",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3294,7 +3293,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "2c91da9ed1a13110",
+     "hash": "2c65e0c10c66cf9e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3324,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "b299c1cc78d2f63a",
+     "hash": "6d72b30e47d599b5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3859,19 +3858,19 @@
    "hq": "Houston, TX",
    "last_ok": "2026-10-30",
    "name": "Hines",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
     },
     {
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
+     "listed": 1,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -3892,7 +3891,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4164,7 +4163,7 @@
     {
      "changed_on": "2026-10-30",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "a392c2b53b686f48",
      "kind": "page",
      "ok": false,
@@ -4489,7 +4488,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4518,7 +4517,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5028,7 +5027,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "e68bf9cf46f6a574",
+     "hash": "e5a8f630f0ba2d71",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5328,7 +5327,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "53563bb5e6dec35c",
+     "hash": "de4cff28ce97b291",
      "kind": "page",
      "links": [],
      "ok": true,
