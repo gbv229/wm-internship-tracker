@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "43ebac859577c771",
+     "hash": "e9475af52f17f253",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1782,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 95,
+     "fail_streak": 96,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 95,
+     "fail_streak": 96,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1933,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 64,
+     "fail_streak": 65,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 6,
+     "fail_streak": 7,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 95,
+     "fail_streak": 96,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2422,7 +2422,7 @@
    "hq": "Nashville, TN",
    "last_ok": "2026-10-30",
    "name": "AllianceBernstein (Bernstein Private Wealth)",
-   "open": 10,
+   "open": 8,
    "sources": [
     {
      "fail_streak": 0,
@@ -2905,7 +2905,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-10-30",
    "name": "JLL",
-   "open": 22,
+   "open": 21,
    "sources": [
     {
      "fail_streak": 0,
@@ -3185,7 +3185,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "426db4e692c989e6",
+     "hash": "304019af4708ea96",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3325,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "c715a6508fc0d3d6",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3863,7 +3863,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 95,
+     "fail_streak": 96,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3892,7 +3892,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 95,
+     "fail_streak": 96,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4164,7 +4164,7 @@
     {
      "changed_on": "2026-10-30",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "a392c2b53b686f48",
      "kind": "page",
      "ok": false,
@@ -4489,7 +4489,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 95,
+     "fail_streak": 96,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4518,7 +4518,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 95,
+     "fail_streak": 96,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5028,7 +5028,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "e5a8f630f0ba2d71",
+     "hash": "e68bf9cf46f6a574",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5328,7 +5328,7 @@
     {
      "changed_on": "2026-10-30",
      "fail_streak": 0,
-     "hash": "3718455eb20b2381",
+     "hash": "53563bb5e6dec35c",
      "kind": "page",
      "links": [],
      "ok": true,

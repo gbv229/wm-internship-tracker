@@ -353,94 +353,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "AllianceBernstein (Bernstein Private Wealth)",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
-   "group_title": "Private Wealth Summer Intern",
-   "hide": null,
-   "id": "wd:abglobal:R0019826",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Los Angeles, California",
-   "misses": 1,
-   "pay": "$34–$34/hr (≈ $72k–$72k/yr)",
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Private Wealth Summer Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Los-Angeles-California/Private-Wealth-Summer-Intern_R0019826",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "AllianceBernstein (Bernstein Private Wealth)",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
-   "group_title": "Private Wealth Summer Intern",
-   "hide": null,
-   "id": "wd:abglobal:R0019818",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "San Francisco, California",
-   "misses": 1,
-   "pay": "$37–$37/hr (≈ $78k–$78k/yr)",
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Private Wealth Summer Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/San-Francisco-California/Private-Wealth-Summer-Intern_R0019818",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Graduating in Dec 2027 or May 2028 (U.S.)",
    "classes": [
     2028
@@ -460,7 +372,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Atlanta, GA, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
@@ -504,7 +416,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Boston, MA, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-08-24",
    "region": "US",
@@ -548,7 +460,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Dallas, TX, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
@@ -592,7 +504,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "New York, NY, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-08-24",
    "region": "US",
@@ -636,7 +548,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Philadelphia, PA, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
@@ -680,7 +592,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Pittsburgh, PA, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-08",
    "region": "US",
@@ -7315,7 +7227,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Dallas, TX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
@@ -7694,48 +7606,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-30",
-   "first_seen": "2026-10-30",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing intern",
-   "group_title": "Leasing Intern",
-   "hide": null,
-   "id": "wd:jll:REQ545493",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Overland Park, KS",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-30",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "KS"
-   ],
-   "status": "open",
-   "title": "Leasing Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Overland-Park-KS/Leasing-Intern_REQ545493",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -9752,7 +9622,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Milan",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-28",
    "region": "International",
@@ -9832,7 +9702,7 @@
    "last_seen": "2026-10-30",
    "level": "Undergraduate",
    "location": "Madrid",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-28",
    "region": "International",
@@ -9929,7 +9799,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-78bbbdd2eb47/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d813c1b4670c/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -12034,6 +11904,96 @@
     "wealth"
    ],
    "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91262",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
+   "group_title": "Private Wealth Summer Intern",
+   "hide": null,
+   "id": "wd:abglobal:R0019826",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Los Angeles, California",
+   "misses": 2,
+   "pay": "$34–$34/hr (≈ $72k–$72k/yr)",
+   "posted": "2026-09-28",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Private Wealth Summer Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Los-Angeles-California/Private-Wealth-Summer-Intern_R0019826",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-10-30",
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-28",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
+   "group_title": "Private Wealth Summer Intern",
+   "hide": null,
+   "id": "wd:abglobal:R0019818",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "San Francisco, California",
+   "misses": 2,
+   "pay": "$37–$37/hr (≈ $78k–$78k/yr)",
+   "posted": "2026-09-28",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Private Wealth Summer Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/San-Francisco-California/Private-Wealth-Summer-Intern_R0019818",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -16924,6 +16884,49 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Pittsburgh-PA/JLL-Real-Estate-Capital-Asset-Management-Capital-Markets-Summer-2027-Internship---Pittsburgh--PA_REQ530211",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-10-30",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing intern",
+   "group_title": "Leasing Intern",
+   "hide": null,
+   "id": "wd:jll:REQ545493",
+   "last_seen": "2026-10-30",
+   "level": "Undergraduate",
+   "location": "Overland Park, KS",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-30",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "KS"
+   ],
+   "status": "closed",
+   "title": "Leasing Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Overland-Park-KS/Leasing-Intern_REQ545493",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
