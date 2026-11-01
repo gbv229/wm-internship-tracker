@@ -2995,48 +2995,6 @@
    "group": "Charles Schwab|2027 financial service support intern",
    "group_title": "2027 Financial Service & Support Intern",
    "hide": null,
-   "id": "ic:career-schwab:126235",
-   "last_seen": "2026-11-01",
-   "level": "Undergraduate",
-   "location": "US-IN-Indianapolis",
-   "misses": 1,
-   "pay": "$22/hr",
-   "posted": "2026-10-19",
-   "region": "International",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "IN"
-   ],
-   "status": "open",
-   "title": "2027 Financial Service & Support Intern - Indianapolis",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126235/2027-financial-service-%26-support-intern---indianapolis/job",
-   "v": 11,
-   "weeks": 2,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-31",
-   "first_seen": "2026-10-19",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Charles Schwab|2027 financial service support intern",
-   "group_title": "2027 Financial Service & Support Intern",
-   "hide": null,
    "id": "ic:career-schwab:126236",
    "last_seen": "2026-11-01",
    "level": "Undergraduate",
@@ -4675,7 +4633,7 @@
    "last_seen": "2026-11-01",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "note": "Ten-week headquarters internship for college juniors.",
    "pay": null,
    "posted": "2026-10-16",
@@ -6242,7 +6200,7 @@
    "last_seen": "2026-11-01",
    "level": "Undergraduate",
    "location": "Athens, Attica, Greece",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-08-31",
    "region": "",
@@ -6907,6 +6865,50 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-11-01",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets analyst summer 2027 internship",
+   "group_title": "Capital Markets Analyst Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530571",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "Salt Lake City, UT",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "UT"
+   ],
+   "status": "open",
+   "title": "Capital Markets Analyst Summer 2027 Internship - Salt Lake City, UT",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Capital-Markets-Analyst-Summer-2027-Internship---Salt-Lake-City--UT_REQ530571",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-31",
    "first_seen": "2026-10-08",
    "function": "Capital Markets / Investment Sales",
@@ -6951,6 +6953,50 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-11-01",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530231",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Capital Markets Summer 2027 Internship - Chicago, IL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Capital-Markets-Summer-2027-Internship---Chicago--IL_REQ530231",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-31",
    "first_seen": "2026-10-08",
    "function": "Capital Markets / Investment Sales",
@@ -6982,6 +7028,50 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Capital-Markets-Summer-2027-Internship---Jacksonville--FL_REQ532423",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-01",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530237",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "Miami, FL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Capital Markets Summer 2027 Internship - Miami, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Capital-Markets-Summer-2027-Internship---Miami--FL_REQ530237",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -7071,6 +7161,94 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Capital-Markets-Summer-2027-Internship---Portland--OR_REQ530226",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-01",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530207-1",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "San Diego, CA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Capital Markets Summer 2027 Internship - San Diego, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Capital-Markets-Summer-2027-Internship---San-Diego--CA_REQ530207-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-01",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530230",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "open",
+   "title": "Capital Markets Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Capital-Markets-Summer-2027-Internship---Washington--DC_REQ530230",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -7177,6 +7355,50 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-11-01",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|hotels and hospitality summer 2027 internship",
+   "group_title": "Hotels and Hospitality Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ531742",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Hotels and Hospitality Summer 2027 Internship - Chicago, IL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Hotels-and-Hospitality-Summer-2027-Internship---Chicago--IL_REQ531742",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Must have completed at least 3 years of college.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-10-31",
    "first_seen": "2026-10-15",
    "function": "Real Estate (general)",
@@ -7253,6 +7475,50 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-01",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|nnn lease summer 2027 internship",
+   "group_title": "NNN Lease Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530555",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "NNN Lease Summer 2027 Internship - Dallas, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Capital-Markets-Summer-2027-Internship---Dallas--TX_REQ530555",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -9324,7 +9590,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ff3c340af048/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-39c07bd303e4/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -13112,6 +13378,49 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-01",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-10-31",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|2027 financial service support intern",
+   "group_title": "2027 Financial Service & Support Intern",
+   "hide": null,
+   "id": "ic:career-schwab:126235",
+   "last_seen": "2026-11-01",
+   "level": "Undergraduate",
+   "location": "US-IN-Indianapolis",
+   "misses": 2,
+   "pay": "$22/hr",
+   "posted": "2026-10-19",
+   "region": "International",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "IN"
+   ],
+   "status": "closed",
+   "title": "2027 Financial Service & Support Intern - Indianapolis",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126235/2027-financial-service-%26-support-intern---indianapolis/job",
+   "v": 11,
+   "weeks": 2,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-16",
    "company": "Charles Schwab",
    "company_type": "Brokerage & Platform",
@@ -15387,51 +15696,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-30",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets analyst summer 2027 internship",
-   "group_title": "Capital Markets Analyst Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ530571",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "Salt Lake City, UT",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "UT"
-   ],
-   "status": "closed",
-   "title": "Capital Markets Analyst Summer 2027 Internship - Salt Lake City, UT",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Salt-Lake-City-UT/Capital-Markets-Analyst-Summer-2027-Internship---Salt-Lake-City--UT_REQ530571",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-19",
@@ -15659,51 +15923,6 @@
    "classes": [
     2028
    ],
-   "closed_on": "2026-10-30",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ530231",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-30",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "closed",
-   "title": "Capital Markets Summer 2027 Internship - Chicago, IL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Capital-Markets-Summer-2027-Internship---Chicago--IL_REQ530231",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
    "closed_on": "2026-10-22",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -15741,51 +15960,6 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Indianapolis-IN/Capital-Markets-Summer-2027-Internship---Indianapolis--IN_REQ530233",
    "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-30",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ530237",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "Miami, FL",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "FL"
-   ],
-   "status": "closed",
-   "title": "Capital Markets Summer 2027 Internship - Miami, FL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Capital-Markets-Summer-2027-Internship---Miami--FL_REQ530237",
-   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -15884,51 +16058,6 @@
    "classes": [
     2028
    ],
-   "closed_on": "2026-10-30",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ530207-1",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "San Diego, CA",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "closed",
-   "title": "Capital Markets Summer 2027 Internship - San Diego, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Capital-Markets-Summer-2027-Internship---San-Diego--CA_REQ530207-1",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
    "closed_on": "2026-10-29",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -16011,51 +16140,6 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Tampa--FL_REQ532419",
    "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-29",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ530230",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "Washington, DC",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "DC"
-   ],
-   "status": "closed",
-   "title": "Capital Markets Summer 2027 Internship - Washington, DC",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Capital-Markets-Summer-2027-Internship---Washington--DC_REQ530230",
-   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -16222,51 +16306,6 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ho-Chi-Minh-City-Vietnam/Facilities-Admin-Intern_REQ544665",
    "v": 9,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Must have completed at least 3 years of college.",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-29",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|hotels and hospitality summer 2027 internship",
-   "group_title": "Hotels and Hospitality Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ531742",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "closed",
-   "title": "Hotels and Hospitality Summer 2027 Internship - Chicago, IL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Hotels-and-Hospitality-Summer-2027-Internship---Chicago--IL_REQ531742",
-   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -17686,51 +17725,6 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Leasing-Summer-2027-Internship---Washington--DC_REQ539928",
    "v": 6,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-30",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|nnn lease summer 2027 internship",
-   "group_title": "NNN Lease Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ530555",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "Dallas, TX",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-02",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TX"
-   ],
-   "status": "closed",
-   "title": "NNN Lease Summer 2027 Internship - Dallas, TX",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Capital-Markets-Summer-2027-Internship---Dallas--TX_REQ530555",
-   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
