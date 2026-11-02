@@ -3513,7 +3513,7 @@
    "last_seen": "2026-11-02",
    "level": "Undergraduate",
    "location": "Prague, Czech Republic",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-07",
    "region": "International",
@@ -3553,7 +3553,7 @@
    "last_seen": "2026-11-02",
    "level": "Undergraduate",
    "location": "Warsaw, Poland",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-01",
    "region": "International",
@@ -3593,7 +3593,7 @@
    "last_seen": "2026-11-02",
    "level": "Undergraduate",
    "location": "Prague, Czech Republic",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-01",
    "region": "International",
@@ -4273,7 +4273,7 @@
    "last_seen": "2026-11-02",
    "level": "Undergraduate",
    "location": "CW Site - ESP - Barcelona - Av. Diagonal 545, Floor 7th",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-26",
    "region": "",
@@ -4915,7 +4915,7 @@
    "last_seen": "2026-11-02",
    "level": "Undergraduate",
    "location": "Cary, NC",
-   "misses": 0,
+   "misses": 1,
    "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": null,
    "posted": "2026-10-30",
@@ -5312,6 +5312,53 @@
     "wealth"
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/2780-MONROE-AVE-SUITE-201-ROCHESTER-NY/Intern--Investor-Center---Rochester--NY_2135880-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center sarasota",
+   "group_title": "Intern, Investor Center - Sarasota",
+   "hide": null,
+   "id": "wd:fmr:2135958-2",
+   "last_seen": "2026-11-02",
+   "level": "Undergraduate",
+   "location": "Sarasota, FL",
+   "misses": 0,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": null,
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Intern, Investor Center - Sarasota, FL",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Sarasota-FL/Intern--Investor-Center---Sarasota--FL_2135958-2",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -6044,6 +6091,84 @@
    "work_mode": null
   },
   {
+   "class_evidence": "Must be a rising senior pursuing a bachelor’s degree from an accredited college or university (required).",
+   "classes": [
+    2028
+   ],
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-02",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|advisory intern",
+   "group_title": "Advisory Intern",
+   "hide": null,
+   "id": "br:2714be7dfd23cb",
+   "last_seen": "2026-11-02",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": "$30/hr",
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Advisory Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4494473",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "Remote"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-02",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|advisory intern",
+   "group_title": "Advisory Intern",
+   "hide": null,
+   "id": "br:41545fc7d725d5",
+   "last_seen": "2026-11-02",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Advisory Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4494473",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Expected graduation date of December 2027 through June 2028",
    "classes": [],
    "company": "J.P. Morgan",
@@ -6160,7 +6285,7 @@
    "last_seen": "2026-11-02",
    "level": "Undergraduate",
    "location": "Jackson, WY, United States",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-18",
    "region": "US",
@@ -7232,7 +7357,7 @@
    "last_seen": "2026-11-02",
    "level": "Undergraduate",
    "location": "Bertrange, LUX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-02",
    "region": "International",
@@ -7633,6 +7758,94 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
+   "v": 11,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-02",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "hide": null,
+   "id": "wd:keybank:R-42276",
+   "last_seen": "2026-11-02",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 0,
+   "pay": "$27/hr",
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "2027 Summer Real Estate Capital Internship - Dallas",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
+   "v": 11,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-02",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "hide": null,
+   "id": "wd:keybank:R-42000",
+   "last_seen": "2026-11-02",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 0,
+   "pay": "$27/hr",
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "open",
+   "title": "2027 Summer Real Estate Capital Internship - Denver CDLI",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
    "v": 11,
    "weeks": 5,
    "work_mode": null
@@ -8958,7 +9171,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8b01cc7d7c92/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15bfe8faf865/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9265,6 +9478,48 @@
     "wealth"
    ],
    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Operations-Internship_JR-46300",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Northwestern Mutual",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Northwestern Mutual|investment strategy analyst intern",
+   "group_title": "Investment Strategy Analyst Intern",
+   "hide": null,
+   "id": "wd:northwesternmutual:JR-46324",
+   "last_seen": "2026-11-02",
+   "level": "Undergraduate",
+   "location": "Milwaukee, WI Corporate",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "open",
+   "title": "Investment Strategy Analyst Intern, Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Strategy-Analyst-Intern--Summer-2027_JR-46324",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -14462,86 +14717,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Must be a rising senior pursuing a bachelor’s degree from an accredited college or university (required).",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-28",
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|advisory intern",
-   "group_title": "Advisory Intern",
-   "hide": null,
-   "id": "br:2714be7dfd23cb",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 2,
-   "pay": "$30/hr",
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "Advisory Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4494473",
-   "v": 9,
-   "weeks": null,
-   "work_mode": "Remote"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-28",
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-27",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|advisory intern",
-   "group_title": "Advisory Intern",
-   "hide": null,
-   "id": "br:41545fc7d725d5",
-   "last_seen": "2026-10-28",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "Advisory Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4494473",
-   "v": 9,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Must be a rising senior, working towards a bachelor’s degree from an accredited college or university (required)",
    "classes": [
     2028
@@ -18117,96 +18292,6 @@
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
    "v": 8,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-30",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "hide": null,
-   "id": "wd:keybank:R-42276",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "Dallas, TX",
-   "misses": 2,
-   "pay": "$27/hr",
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "closed",
-   "title": "2027 Summer Real Estate Capital Internship - Dallas",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
-   "v": 11,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-10-23",
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "hide": null,
-   "id": "wd:keybank:R-42000",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "Denver, CO",
-   "misses": 2,
-   "pay": "$27/hr",
-   "posted": "2026-09-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "closed",
-   "title": "2027 Summer Real Estate Capital Internship - Denver CDLI",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
-   "v": 9,
    "weeks": 5,
    "work_mode": null
   },
