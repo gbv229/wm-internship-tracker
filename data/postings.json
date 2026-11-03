@@ -1,50 +1,6 @@
 {
  "postings": [
   {
-   "class_evidence": "- December 2027 through May/June 2028 Bachelor’s degree candidates in computer science, engineering, math, finance, economics, business, or liberal arts",
-   "classes": [
-    2028
-   ],
-   "company": "AllianceBernstein (Bernstein Private Wealth)",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.3+",
-   "group": "AllianceBernstein (Bernstein Private Wealth)|business analyst summer intern",
-   "group_title": "Business Analyst Summer Intern",
-   "hide": null,
-   "id": "wd:abglobal:R0019767",
-   "last_seen": "2026-11-03",
-   "level": "Undergraduate",
-   "location": "Nashville, Tennessee",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-04",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TN"
-   ],
-   "status": "open",
-   "title": "Business Analyst Summer Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Business-Analyst-Summer-Intern_R0019767",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- May or June 2028 Bachelor’s degree candidates in business, finance, economics, math, computer science, engineering, or liberal arts",
    "classes": [
     2028
@@ -2213,6 +2169,94 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- University or college student majoring in Business Administration, Economics, Finance, or a related field with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management atlanta",
+   "group_title": "2027 Summer Intern Private Wealth Management Atlanta",
+   "hide": null,
+   "id": "wd:cibc:2620157",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Atlanta, GA",
+   "misses": 0,
+   "pay": "$25/hr",
+   "posted": "2026-11-03",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "open",
+   "title": "2027 Summer Intern Private Wealth Management Atlanta",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Atlanta-GA/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-Atlanta_2620157",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- University or college student majoring in Business Administration, Economics, Finance, or a related field with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management atlanta",
+   "group_title": "2027 Summer Intern Private Wealth Management Atlanta",
+   "hide": null,
+   "id": "wd:cibc:2620157-1",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Atlanta, GA",
+   "misses": 0,
+   "pay": "$25/hr",
+   "posted": "2026-11-03",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "open",
+   "title": "2027 Summer Intern Private Wealth Management Atlanta",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Atlanta-GA/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-Atlanta_2620157-1",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
    "classes": [
     2028
@@ -2446,6 +2490,50 @@
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": "2026-11-30",
+   "deadline_evidence": "The application deadline is November 30, 2026.",
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Cerity Partners|cerity partners ventures college externship",
+   "group_title": "Cerity Partners Ventures College | Externship",
+   "hide": null,
+   "id": "wd:ceritypartners:R1015",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Pennsylvania  - Remote",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-03",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Remote"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "PA"
+   ],
+   "status": "open",
+   "title": "Cerity Partners Ventures College | Externship",
+   "tracks": [
+    "wealth",
+    "early"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Pennsylvania----Remote/Cerity-Partners-Ventures-College---Externship_R1015",
+   "v": 11,
+   "weeks": 12,
+   "work_mode": "Remote"
   },
   {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
@@ -3498,6 +3586,51 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- College/University junior or senior",
+   "classes": [
+    2027,
+    2028
+   ],
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic gos central summer intern",
+   "group_title": "EIC GOS Central Summer Intern",
+   "hide": null,
+   "id": "wd:cw:R333458",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Client Site - USA - MO - St. Louis - 575 Maryville Centre Drive",
+   "misses": 0,
+   "pay": "$18–$21/hr",
+   "posted": "2026-11-03",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MO"
+   ],
+   "status": "open",
+   "title": "EIC GOS Central Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "company": "Cushman & Wakefield",
@@ -4265,46 +4398,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Deutsche Bank|intern client service emerging europe",
-   "group_title": "Intern, Client Service - Emerging Europe",
-   "hide": "Outside the US",
-   "id": "wd:db:R0450623",
-   "last_seen": "2026-11-03",
-   "level": "Undergraduate",
-   "location": "Zürich Prime Tower",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-19",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Intern, Client Service - Emerging Europe (f/m/x)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Prime-Tower/Intern--Client-Service---Emerging-Europe--f-m-x-_R0450623",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Deutsche Bank",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
    "first_seen": "2026-11-03",
    "function": "Wealth Management",
    "gpa": null,
@@ -4545,20 +4638,20 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-03",
-   "first_seen": "2026-11-03",
+   "first_seen": "2026-10-16",
    "function": "Wealth Management",
    "gpa": null,
    "group": "Edward Jones|headquarters internship",
    "group_title": "Headquarters Internship",
    "hide": null,
-   "id": "br:bef515d00ef1a7",
+   "id": "br:cc009e39e5d37c",
    "last_seen": "2026-11-03",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "note": "Ten-week headquarters internship for college juniors.",
    "pay": null,
-   "posted": "2026-11-03",
+   "posted": "2026-10-16",
    "region": "",
    "regions": [],
    "season": "Summer 2027",
@@ -4571,7 +4664,7 @@
    "tracks": [
     "wealth"
    ],
-   "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/",
+   "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/?codes=DIRECT&utm_source=DIRECT",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -4788,7 +4881,7 @@
    "last_seen": "2026-11-03",
    "level": "Undergraduate",
    "location": "Highland Park, IL",
-   "misses": 0,
+   "misses": 1,
    "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-11-03",
@@ -5995,6 +6088,51 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Rising senior or grad student pursuing a bachelor’s or master’s degree from an accredited university in Finance, Real Estate, Business, Economics, Statistics, Mathematics, Computer Science, or other related fields with an expected graduation date between…",
+   "classes": [
+    2028,
+    2029
+   ],
+   "company": "Invitation Homes",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-13",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "Invitation Homes|intern construction lending",
+   "group_title": "Intern, Construction Lending",
+   "hide": "Not a wealth / real estate role",
+   "id": "wd:invitationhomes:R5958",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Dallas, TX- HQ",
+   "misses": 0,
+   "pay": "$18–$31/hr",
+   "posted": "2026-11-03",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Intern, Construction Lending",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Construction-Lending_R5958",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Expected graduation date of December 2027 through June 2028",
    "classes": [],
    "company": "J.P. Morgan",
@@ -6088,6 +6226,51 @@
    "v": 11,
    "weeks": 9,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Actively pursuing a bachelor's or master's degree, with 2–3 years completed, majoring in Engineering, Construction Management, Real Estate, Architecture, Facilities Management, or a related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|amgen pds summer 2027 internship thousand oaks",
+   "group_title": "AMGEN PDS Summer 2027 Internship - Thousand Oaks",
+   "hide": null,
+   "id": "wd:jll:REQ543221",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Thousand Oaks, CA",
+   "misses": 0,
+   "pay": "$23–$27/hr",
+   "posted": "2026-11-03",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "AMGEN PDS Summer 2027 Internship - Thousand Oaks, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Thousand-Oaks-CA/AMGEN-PDS-Summer-2027-Internship---Thousand-Oaks--CA_REQ543221",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
@@ -6730,7 +6913,7 @@
    "last_seen": "2026-11-03",
    "level": "Undergraduate",
    "location": "Kuala Lumpur, Malaysia",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-03",
    "region": "International",
@@ -6770,7 +6953,7 @@
    "last_seen": "2026-11-03",
    "level": "Undergraduate",
    "location": "Gurugram, HR",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-03",
    "region": "International",
@@ -6788,48 +6971,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Intern-India_REQ541905",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-02",
-   "first_seen": "2026-11-02",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship",
-   "group_title": "Leasing Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ540051",
-   "last_seen": "2026-11-03",
-   "level": "Undergraduate",
-   "location": "Irvine, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-02",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Irvine, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Irvine-CA/Leasing-Summer-2027-Internship---Irvine--CA_REQ540051",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -8945,7 +9086,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-fb7be1ad0dd4/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4defd8f62978/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9715,6 +9856,46 @@
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Dallas-Texas-United-States-of-America/XMLNAME-2028-Capital-Markets--Real-Estate-Capital-Partners-Summer-Analyst_R-0000191700",
    "v": 11,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "hide": "Outside the US",
+   "id": "wd:rbc:R-0000170232",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "PRINCE ALBERT, Saskatchewan, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-03",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PRINCE-ALBERT-Saskatchewan-Canada/Financial-advisor-intern_R-0000170232",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -10697,48 +10878,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-03",
-   "first_seen": "2026-10-12",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Stifel|branch intern",
-   "group_title": "Branch Intern",
-   "hide": null,
-   "id": "ic:careers-stifel:10027",
-   "last_seen": "2026-11-03",
-   "level": "Undergraduate",
-   "location": "US-WI-Mequon",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-12",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "WI"
-   ],
-   "status": "open",
-   "title": "Branch Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-stifel.icims.com/jobs/10027/branch-intern/job",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Stifel",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -10931,6 +11070,51 @@
     "wealth"
    ],
    "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91262",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- December 2027 through May/June 2028 Bachelor’s degree candidates in computer science, engineering, math, finance, economics, business, or liberal arts",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-03",
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.3+",
+   "group": "AllianceBernstein (Bernstein Private Wealth)|business analyst summer intern",
+   "group_title": "Business Analyst Summer Intern",
+   "hide": null,
+   "id": "wd:abglobal:R0019767",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Nashville, Tennessee",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-04",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TN"
+   ],
+   "status": "closed",
+   "title": "Business Analyst Summer Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Business-Analyst-Summer-Intern_R0019767",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -13782,52 +13966,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- College/University junior or senior",
-   "classes": [
-    2027,
-    2028
-   ],
-   "closed_on": "2026-10-30",
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic gos central summer intern",
-   "group_title": "EIC GOS Central Summer Intern",
-   "hide": null,
-   "id": "wd:cw:R333458",
-   "last_seen": "2026-10-30",
-   "level": "Undergraduate",
-   "location": "Client Site - USA - MO - St. Louis - 575 Maryville Centre Drive",
-   "misses": 2,
-   "pay": "$18–$21/hr",
-   "posted": "2026-10-28",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MO"
-   ],
-   "status": "closed",
-   "title": "EIC GOS Central Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-11-02",
@@ -14292,6 +14430,47 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-03",
+   "company": "Deutsche Bank",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Deutsche Bank|intern client service emerging europe",
+   "group_title": "Intern, Client Service - Emerging Europe",
+   "hide": "Outside the US",
+   "id": "wd:db:R0450623",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Zürich Prime Tower",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-19",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Intern, Client Service - Emerging Europe (f/m/x)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Prime-Tower/Intern--Client-Service---Emerging-Europe--f-m-x-_R0450623",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-26",
    "company": "Digital Realty",
    "company_type": "REIT",
@@ -14340,21 +14519,21 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-10-31",
-   "first_seen": "2026-10-16",
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-11-03",
    "function": "Wealth Management",
    "gpa": null,
    "group": "Edward Jones|headquarters internship",
    "group_title": "Headquarters Internship",
    "hide": null,
-   "id": "br:cc009e39e5d37c",
-   "last_seen": "2026-11-02",
+   "id": "br:bef515d00ef1a7",
+   "last_seen": "2026-11-03",
    "level": "Undergraduate",
    "location": "",
    "misses": 2,
    "note": "Ten-week headquarters internship for college juniors.",
    "pay": null,
-   "posted": "2026-10-16",
+   "posted": "2026-11-03",
    "region": "",
    "regions": [],
    "season": "Summer 2027",
@@ -14367,7 +14546,7 @@
    "tracks": [
     "wealth"
    ],
-   "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/?codes=DIRECT&utm_source=DIRECT",
+   "url": "https://careers.edwardjones.com/career-areas/students-and-recent-grads/",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -15399,52 +15578,6 @@
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Rising senior or grad student pursuing a bachelor’s or master’s degree from an accredited university in Finance, Real Estate, Business, Economics, Statistics, Mathematics, Computer Science, or other related fields with an expected graduation date between…",
-   "classes": [
-    2028,
-    2029
-   ],
-   "closed_on": "2026-10-26",
-   "company": "Invitation Homes",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-24",
-   "first_seen": "2026-10-13",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "Invitation Homes|intern construction lending",
-   "group_title": "Intern, Construction Lending",
-   "hide": "Not a wealth / real estate role",
-   "id": "wd:invitationhomes:R5958",
-   "last_seen": "2026-10-26",
-   "level": "Undergraduate",
-   "location": "Dallas, TX- HQ",
-   "misses": 2,
-   "pay": "$18–$31/hr",
-   "posted": "2026-10-24",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "closed",
-   "title": "Intern, Construction Lending",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern--Construction-Lending_R5958",
-   "v": 9,
    "weeks": 10,
    "work_mode": null
   },
@@ -17661,6 +17794,49 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Fort-Worth-TX/Leasing-Summer-2027-Internship---Fort-Worth--TX_REQ539589",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-03",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ540051",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "Irvine, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Irvine, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Irvine-CA/Leasing-Summer-2027-Internship---Irvine--CA_REQ540051",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -21360,6 +21536,49 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/10030/advisory-services-intern--summer-2027/job",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-03",
+   "company": "Stifel",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-12",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Stifel|branch intern",
+   "group_title": "Branch Intern",
+   "hide": null,
+   "id": "ic:careers-stifel:10027",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "US-WI-Mequon",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-12",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "closed",
+   "title": "Branch Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-stifel.icims.com/jobs/10027/branch-intern/job",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
