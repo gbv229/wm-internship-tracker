@@ -71,7 +71,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-02",
    "name": "J.P. Morgan",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "2795152e4fa0e556",
+     "hash": "69e17620cd628831",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1166,7 +1166,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-02",
    "name": "Fidelity Investments",
-   "open": 19,
+   "open": 18,
    "sources": [
     {
      "fail_streak": 0,
@@ -1624,7 +1624,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "314463c104690186",
+     "hash": "bf43a3509f44cc6d",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1782,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 109,
+     "fail_streak": 110,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 109,
+     "fail_streak": 110,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1872,7 +1872,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "e3fd0d38b9cd41f4",
+     "hash": "45a604181622ee9d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1901,9 +1901,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-30",
+     "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "bfee770e06f09f9f",
+     "hash": "9881c8fe1c181690",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1933,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 109,
+     "fail_streak": 110,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2848,7 +2848,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "3dd968a49027e5d8",
+     "hash": "caa8a89c01a33396",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2926,7 +2926,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-02",
    "name": "Cushman & Wakefield",
-   "open": 23,
+   "open": 19,
    "sources": [
     {
      "fail_streak": 0,
@@ -3121,9 +3121,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-19",
+     "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "77d1d0c74bc26064",
+     "hash": "5ab67224d3d6a9ae",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3185,7 +3185,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "8dc6e2d036d65d87",
+     "hash": "286a6b53185e6165",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3325,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "cede8d21716ead37",
+     "hash": "6d72b30e47d599b5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3808,20 +3808,18 @@
    "open": 1,
    "sources": [
     {
-     "changed_on": "2026-10-27",
+     "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "0aa803381619dd40",
+     "hash": "da5f821e6e12fed7",
      "kind": "page",
-     "links": [
-      "Investor Relations & Investor Coverage Summer Analyst\n Crow Holdings Capital\n dallas , | https://www.crowholdings.com/career/investor-relations-investor-coverage-summer-analyst/"
-     ],
+     "links": [],
      "ok": true,
      "url": "https://www.crowholdings.com/careers/"
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -3863,7 +3861,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 109,
+     "fail_streak": 110,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3892,7 +3890,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 109,
+     "fail_streak": 110,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3953,7 +3951,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "cee548f047beab10",
+     "hash": "355e63a26f7c4a69",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4164,7 +4162,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 11,
+     "fail_streak": 12,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4257,7 +4255,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "fdc039b96e921440",
+     "hash": "91cf0f7d2a2e1005",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -4489,7 +4487,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 109,
+     "fail_streak": 110,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4518,7 +4516,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 109,
+     "fail_streak": 110,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4672,7 +4670,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "4f94d9b883239720",
+     "hash": "00b4cbc37ac931df",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5028,7 +5026,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "9736beff5a837604",
+     "hash": "74865eceae2a1099",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5328,7 +5326,7 @@
     {
      "changed_on": "2026-11-02",
      "fail_streak": 0,
-     "hash": "dd6ef341973599c2",
+     "hash": "bc773480959764c8",
      "kind": "page",
      "links": [],
      "ok": true,
