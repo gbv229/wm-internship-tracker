@@ -5,7 +5,7 @@
    "domain": "morganstanley.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Morgan Stanley",
    "open": 4,
    "sources": [
@@ -32,7 +32,7 @@
    "domain": "gs.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Goldman Sachs",
    "open": 7,
    "sources": [
@@ -69,7 +69,7 @@
    "domain": "jpmorgan.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "J.P. Morgan",
    "open": 2,
    "sources": [
@@ -91,7 +91,7 @@
    "domain": "bankofamerica.com",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Bank of America / Merrill",
    "open": 0,
    "sources": [
@@ -124,7 +124,7 @@
    "domain": "wellsfargo.com",
    "focus": "mixed",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Wells Fargo",
    "open": 0,
    "sources": [
@@ -146,7 +146,7 @@
    "domain": "citi.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Citi (incl. Citi Private Bank)",
    "open": 7,
    "sources": [
@@ -168,7 +168,7 @@
    "domain": "ubs.com",
    "focus": "mixed",
    "hq": "Zurich / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "UBS",
    "open": 1,
    "sources": [
@@ -203,7 +203,7 @@
    "domain": "barclays.com",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Barclays",
    "open": 2,
    "sources": [
@@ -224,7 +224,7 @@
    "domain": "db.com",
    "focus": "mixed",
    "hq": "Frankfurt / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Deutsche Bank",
    "open": 6,
    "sources": [
@@ -245,7 +245,7 @@
    "domain": "rbc.com",
    "focus": "mixed",
    "hq": "Toronto / Minneapolis",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
    "open": 5,
    "sources": [
@@ -277,7 +277,7 @@
    "domain": "td.com",
    "focus": "mixed",
    "hq": "Toronto / Cherry Hill, NJ",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "TD (incl. TD Wealth)",
    "open": 0,
    "sources": [
@@ -299,7 +299,7 @@
    "domain": "cibc.com",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "CIBC Private Wealth",
    "open": 6,
    "sources": [
@@ -325,7 +325,7 @@
    "domain": "santander.com",
    "focus": "mixed",
    "hq": "Madrid / Boston",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Santander (Private Banking)",
    "open": 0,
    "sources": [
@@ -346,7 +346,7 @@
    "domain": "hsbc.com",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "HSBC",
    "open": 0,
    "sources": [
@@ -377,14 +377,14 @@
    "domain": "bmo.com",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "BMO (incl. BMO Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-03",
+     "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "2994d5237e0b33e5",
+     "hash": "79e240a9b5a9d15e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -408,7 +408,7 @@
    "domain": "juliusbaer.com",
    "focus": "wealth",
    "hq": "Zurich",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Julius Baer",
    "open": 1,
    "sources": [
@@ -429,7 +429,7 @@
    "domain": "jefferies.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Jefferies (Private Wealth)",
    "open": 0,
    "sources": [
@@ -451,7 +451,7 @@
    "domain": "lazard.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Lazard (Lazard Wealth Management)",
    "open": 9,
    "sources": [
@@ -472,7 +472,7 @@
    "domain": "rothschildandco.com",
    "focus": "mixed",
    "hq": "Paris / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Rothschild & Co (Wealth Mgmt)",
    "open": 8,
    "sources": [
@@ -506,7 +506,7 @@
    "domain": "evercore.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Evercore Wealth Management",
    "open": 0,
    "sources": [
@@ -537,7 +537,7 @@
    "domain": "williamblair.com",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "William Blair (Private Wealth)",
    "open": 0,
    "sources": [
@@ -558,7 +558,7 @@
    "domain": "pipersandler.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Piper Sandler",
    "open": 0,
    "sources": [
@@ -579,7 +579,7 @@
    "domain": "northerntrust.com",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Northern Trust",
    "open": 2,
    "sources": [
@@ -600,7 +600,7 @@
    "domain": "bny.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "BNY (incl. BNY Wealth)",
    "open": 0,
    "sources": [
@@ -621,7 +621,7 @@
    "domain": "bbh.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Brown Brothers Harriman",
    "open": 0,
    "sources": [
@@ -642,7 +642,7 @@
    "domain": "wilmingtontrust.com",
    "focus": "wealth",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Wilmington Trust",
    "open": 2,
    "sources": [
@@ -663,7 +663,7 @@
    "domain": "fiduciarytrust.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Fiduciary Trust International (Franklin)",
    "open": 0,
    "sources": [
@@ -684,7 +684,7 @@
    "domain": "bessemertrust.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Bessemer Trust",
    "open": 0,
    "sources": [
@@ -718,7 +718,7 @@
    "domain": "glenmede.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Glenmede",
    "open": 0,
    "sources": [
@@ -749,7 +749,7 @@
    "domain": "brownadvisory.com",
    "focus": "wealth",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Brown Advisory",
    "open": 0,
    "sources": [
@@ -782,7 +782,7 @@
    "domain": "firstcitizens.com",
    "focus": "mixed",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "First Citizens (Wealth)",
    "open": 0,
    "sources": [
@@ -813,7 +813,7 @@
    "domain": "pnc.com",
    "focus": "mixed",
    "hq": "Pittsburgh, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "PNC (PNC Private Bank)",
    "open": 0,
    "sources": [
@@ -835,7 +835,7 @@
    "domain": "truist.com",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Truist (Truist Wealth)",
    "open": 0,
    "sources": [
@@ -857,7 +857,7 @@
    "domain": "usbank.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "U.S. Bank (Private Wealth)",
    "open": 1,
    "sources": [
@@ -879,7 +879,7 @@
    "domain": "mtb.com",
    "focus": "mixed",
    "hq": "Buffalo, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "M&T Bank (Wealth)",
    "open": 0,
    "sources": [
@@ -906,7 +906,7 @@
    "domain": "citizensbank.com",
    "focus": "mixed",
    "hq": "Providence, RI",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Citizens (Private Wealth)",
    "open": 1,
    "sources": [
@@ -938,7 +938,7 @@
    "domain": "53.com",
    "focus": "mixed",
    "hq": "Cincinnati, OH",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Fifth Third (Wealth)",
    "open": 2,
    "sources": [
@@ -960,7 +960,7 @@
    "domain": "key.com",
    "focus": "mixed",
    "hq": "Cleveland, OH",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "KeyBank",
    "open": 10,
    "sources": [
@@ -982,7 +982,7 @@
    "domain": "huntington.com",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Huntington (Private Bank)",
    "open": 0,
    "sources": [
@@ -1004,7 +1004,7 @@
    "domain": "regions.com",
    "focus": "mixed",
    "hq": "Birmingham, AL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Regions (Private Wealth)",
    "open": 0,
    "sources": [
@@ -1026,7 +1026,7 @@
    "domain": "associatedbank.com",
    "focus": "mixed",
    "hq": "Green Bay, WI",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Associated Bank (Private Wealth)",
    "open": 0,
    "sources": [
@@ -1047,7 +1047,7 @@
    "domain": "frostbank.com",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Frost (Private Wealth)",
    "open": 0,
    "sources": [
@@ -1068,7 +1068,7 @@
    "domain": "fultonbank.com",
    "focus": "mixed",
    "hq": "Lancaster, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Fulton Bank (Fulton Private Bank)",
    "open": 0,
    "sources": [
@@ -1100,7 +1100,7 @@
    "domain": "univest.net",
    "focus": "mixed",
    "hq": "Souderton, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Univest (Wealth)",
    "open": 0,
    "sources": [
@@ -1131,7 +1131,7 @@
    "domain": "wsfsbank.com",
    "focus": "mixed",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "WSFS / Bryn Mawr Trust",
    "open": 0,
    "sources": [
@@ -1164,7 +1164,7 @@
    "domain": "fidelity.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Fidelity Investments",
    "open": 16,
    "sources": [
@@ -1190,9 +1190,9 @@
    "domain": "schwab.com",
    "focus": "wealth",
    "hq": "Westlake, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Charles Schwab",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -1211,7 +1211,7 @@
    "domain": "edwardjones.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Edward Jones",
    "open": 1,
    "sources": [
@@ -1242,7 +1242,7 @@
    "domain": "raymondjames.com",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Raymond James",
    "open": 1,
    "sources": [
@@ -1268,7 +1268,7 @@
    "domain": "ameriprise.com",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Ameriprise Financial",
    "open": 0,
    "sources": [
@@ -1289,7 +1289,7 @@
    "domain": "lpl.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "LPL Financial",
    "open": 5,
    "sources": [
@@ -1315,7 +1315,7 @@
    "domain": "stifel.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Stifel",
    "open": 3,
    "sources": [
@@ -1336,7 +1336,7 @@
    "domain": "rwbaird.com",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Baird",
    "open": 27,
    "sources": [
@@ -1357,7 +1357,7 @@
    "domain": "rockco.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Rockefeller Capital Management",
    "open": 0,
    "sources": [
@@ -1378,7 +1378,7 @@
    "domain": "oppenheimer.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Oppenheimer & Co.",
    "open": 0,
    "sources": [
@@ -1409,7 +1409,7 @@
    "domain": "janney.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Janney Montgomery Scott",
    "open": 0,
    "sources": [
@@ -1440,7 +1440,7 @@
    "domain": "dadavidson.com",
    "focus": "wealth",
    "hq": "Great Falls, MT",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "D.A. Davidson",
    "open": 0,
    "sources": [
@@ -1471,7 +1471,7 @@
    "domain": "stephens.com",
    "focus": "mixed",
    "hq": "Little Rock, AR",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Stephens",
    "open": 1,
    "sources": [
@@ -1502,7 +1502,7 @@
    "domain": "hilltopsecurities.com",
    "focus": "mixed",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Hilltop Securities",
    "open": 0,
    "sources": [
@@ -1533,7 +1533,7 @@
    "domain": "joincambridge.com",
    "focus": "wealth",
    "hq": "Fairfield, IA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Cambridge Investment Research",
    "open": 1,
    "sources": [
@@ -1554,7 +1554,7 @@
    "domain": "osaic.com",
    "focus": "wealth",
    "hq": "Phoenix, AZ",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Osaic",
    "open": 0,
    "sources": [
@@ -1575,7 +1575,7 @@
    "domain": "cetera.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Cetera Financial Group",
    "open": 0,
    "sources": [
@@ -1596,7 +1596,7 @@
    "domain": "seic.com",
    "focus": "mixed",
    "hq": "Oaks, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "SEI",
    "open": 0,
    "sources": [
@@ -1617,14 +1617,14 @@
    "domain": "creativeplanning.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Creative Planning",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-03",
+     "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "5a114bb8a909321e",
+     "hash": "8c57de2f91d7a758",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1651,7 +1651,7 @@
    "domain": "captrust.com",
    "focus": "wealth",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "CAPTRUST",
    "open": 0,
    "sources": [
@@ -1672,7 +1672,7 @@
    "domain": "ceritypartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Cerity Partners",
    "open": 15,
    "sources": [
@@ -1693,7 +1693,7 @@
    "domain": "focusfinancialpartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Focus Financial Partners",
    "open": 0,
    "sources": [
@@ -1714,7 +1714,7 @@
    "domain": "mariner.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Mariner",
    "open": 0,
    "sources": [
@@ -1745,7 +1745,7 @@
    "domain": "cressetcapital.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Cresset",
    "open": 0,
    "sources": [
@@ -1776,13 +1776,13 @@
    "domain": "hightoweradvisors.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Hightower Advisors",
    "open": 1,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 114,
+     "fail_streak": 115,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1805,7 +1805,7 @@
    "domain": "wealthenhancement.com",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Wealth Enhancement Group",
    "open": 0,
    "sources": [
@@ -1836,13 +1836,13 @@
    "domain": "sanctuarywealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Sanctuary Wealth",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 114,
+     "fail_streak": 115,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1865,7 +1865,7 @@
    "domain": "carsongroup.com",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Carson Group",
    "open": 0,
    "sources": [
@@ -1896,7 +1896,7 @@
    "domain": "merceradvisors.com",
    "focus": "wealth",
    "hq": "Denver, CO",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Mercer Advisors",
    "open": 0,
    "sources": [
@@ -1927,13 +1927,13 @@
    "domain": "edelmanfinancialengines.com",
    "focus": "wealth",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Edelman Financial Engines",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 83,
+     "fail_streak": 84,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1957,13 +1957,13 @@
    "domain": "fisherinvestments.com",
    "focus": "wealth",
    "hq": "Plano, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Fisher Investments",
    "open": 0,
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 25,
+     "fail_streak": 26,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1987,13 +1987,13 @@
    "domain": "savantwealth.com",
    "focus": "wealth",
    "hq": "Rockford, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Savant Wealth Management",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 114,
+     "fail_streak": 115,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2016,7 +2016,7 @@
    "domain": "dynastyfinancial.com",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Dynasty Financial Partners",
    "open": 0,
    "sources": [
@@ -2047,7 +2047,7 @@
    "domain": "silvercrestgroup.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Silvercrest Asset Management",
    "open": 3,
    "sources": [
@@ -2078,7 +2078,7 @@
    "domain": "northwesternmutual.com",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Northwestern Mutual",
    "open": 2,
    "sources": [
@@ -2120,7 +2120,7 @@
    "domain": "massmutual.com",
    "focus": "mixed",
    "hq": "Springfield, MA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "MassMutual",
    "open": 0,
    "sources": [
@@ -2142,7 +2142,7 @@
    "domain": "guardianlife.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Guardian Life",
    "open": 1,
    "sources": [
@@ -2163,7 +2163,7 @@
    "domain": "prudential.com",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Prudential Financial",
    "open": 0,
    "sources": [
@@ -2184,7 +2184,7 @@
    "domain": "thrivent.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Thrivent",
    "open": 0,
    "sources": [
@@ -2205,7 +2205,7 @@
    "domain": "securian.com",
    "focus": "mixed",
    "hq": "St. Paul, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Securian Financial",
    "open": 0,
    "sources": [
@@ -2226,7 +2226,7 @@
    "domain": "nationwide.com",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Nationwide",
    "open": 0,
    "sources": [
@@ -2247,7 +2247,7 @@
    "domain": "usaa.com",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "USAA",
    "open": 0,
    "sources": [
@@ -2268,7 +2268,7 @@
    "domain": "newyorklife.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "New York Life",
    "open": 0,
    "sources": [
@@ -2302,7 +2302,7 @@
    "domain": "principal.com",
    "focus": "mixed",
    "hq": "Des Moines, IA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Principal Financial Group",
    "open": 0,
    "sources": [
@@ -2336,7 +2336,7 @@
    "domain": "lincolnfinancial.com",
    "focus": "mixed",
    "hq": "Radnor, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Lincoln Financial",
    "open": 0,
    "sources": [
@@ -2372,7 +2372,7 @@
    "domain": "vanguard.com",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Vanguard",
    "open": 0,
    "sources": [
@@ -2393,7 +2393,7 @@
    "domain": "blackrock.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "BlackRock",
    "open": 2,
    "sources": [
@@ -2420,7 +2420,7 @@
    "domain": "alliancebernstein.com",
    "focus": "mixed",
    "hq": "Nashville, TN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "AllianceBernstein (Bernstein Private Wealth)",
    "open": 7,
    "sources": [
@@ -2446,7 +2446,7 @@
    "domain": "troweprice.com",
    "focus": "mixed",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "T. Rowe Price",
    "open": 0,
    "sources": [
@@ -2467,7 +2467,7 @@
    "domain": "capitalgroup.com",
    "focus": "mixed",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Capital Group",
    "open": 0,
    "sources": [
@@ -2488,7 +2488,7 @@
    "domain": "franklintempleton.com",
    "focus": "mixed",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Franklin Templeton",
    "open": 0,
    "sources": [
@@ -2509,7 +2509,7 @@
    "domain": "invesco.com",
    "focus": "mixed",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Invesco",
    "open": 0,
    "sources": [
@@ -2536,7 +2536,7 @@
    "domain": "nb.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Neuberger Berman (Private Wealth)",
    "open": 0,
    "sources": [
@@ -2557,7 +2557,7 @@
    "domain": "dimensional.com",
    "focus": "mixed",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Dimensional Fund Advisors",
    "open": 0,
    "sources": [
@@ -2578,7 +2578,7 @@
    "domain": "wellington.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Wellington Management",
    "open": 0,
    "sources": [
@@ -2599,7 +2599,7 @@
    "domain": "statestreet.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "State Street",
    "open": 1,
    "sources": [
@@ -2620,7 +2620,7 @@
    "domain": "tiaa.org",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "TIAA / Nuveen",
    "open": 0,
    "sources": [
@@ -2642,7 +2642,7 @@
    "domain": "pimco.com",
    "focus": "mixed",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "PIMCO",
    "open": 6,
    "sources": [
@@ -2663,7 +2663,7 @@
    "domain": "blackstone.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Blackstone",
    "open": 6,
    "sources": [
@@ -2685,7 +2685,7 @@
    "domain": "orion.com",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Orion",
    "open": 0,
    "sources": [
@@ -2706,7 +2706,7 @@
    "domain": "addepar.com",
    "focus": "wealth",
    "hq": "Mountain View, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Addepar",
    "open": 0,
    "sources": [
@@ -2727,7 +2727,7 @@
    "domain": "range.com",
    "focus": "wealth",
    "hq": "McLean, VA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Range",
    "open": 0,
    "sources": [
@@ -2748,7 +2748,7 @@
    "domain": "wealthfront.com",
    "focus": "wealth",
    "hq": "Palo Alto, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Wealthfront",
    "open": 0,
    "sources": [
@@ -2779,7 +2779,7 @@
    "domain": "betterment.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Betterment",
    "open": 0,
    "sources": [
@@ -2810,7 +2810,7 @@
    "domain": "altruist.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Altruist",
    "open": 0,
    "sources": [
@@ -2841,7 +2841,7 @@
    "domain": "farther.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Farther",
    "open": 0,
    "sources": [
@@ -2872,7 +2872,7 @@
    "domain": "cbre.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "CBRE (incl. Trammell Crow Company)",
    "open": 0,
    "sources": [
@@ -2903,9 +2903,9 @@
    "domain": "jll.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "JLL",
-   "open": 28,
+   "open": 27,
    "sources": [
     {
      "fail_streak": 0,
@@ -2924,7 +2924,7 @@
    "domain": "cushmanwakefield.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Cushman & Wakefield",
    "open": 21,
    "sources": [
@@ -2945,7 +2945,7 @@
    "domain": "colliers.com",
    "focus": "real_estate",
    "hq": "Toronto / Seattle",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Colliers",
    "open": 1,
    "sources": [
@@ -2966,7 +2966,7 @@
    "domain": "nmrk.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Newmark",
    "open": 3,
    "sources": [
@@ -2987,7 +2987,7 @@
    "domain": "avisonyoung.com",
    "focus": "real_estate",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Avison Young",
    "open": 0,
    "sources": [
@@ -3023,7 +3023,7 @@
    "domain": "marcusmillichap.com",
    "focus": "real_estate",
    "hq": "Calabasas, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Marcus & Millichap",
    "open": 0,
    "sources": [
@@ -3054,7 +3054,7 @@
    "domain": "eastdilsecured.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Eastdil Secured",
    "open": 1,
    "sources": [
@@ -3085,7 +3085,7 @@
    "domain": "savills.com",
    "focus": "real_estate",
    "hq": "London / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Savills",
    "open": 0,
    "sources": [
@@ -3116,7 +3116,7 @@
    "domain": "kidder.com",
    "focus": "real_estate",
    "hq": "Seattle, WA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Kidder Mathews",
    "open": 0,
    "sources": [
@@ -3147,7 +3147,7 @@
    "domain": "lee-associates.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Lee & Associates",
    "open": 0,
    "sources": [
@@ -3178,14 +3178,14 @@
    "domain": "altusgroup.com",
    "focus": "real_estate",
    "hq": "Toronto / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Altus Group (ARGUS)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-03",
+     "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "3bd106dca47520cb",
+     "hash": "07471547ba193b53",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3209,7 +3209,7 @@
    "domain": "costargroup.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "CoStar Group",
    "open": 0,
    "sources": [
@@ -3235,7 +3235,7 @@
    "domain": "trepp.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Trepp",
    "open": 0,
    "sources": [
@@ -3266,7 +3266,7 @@
    "domain": "walkerdunlop.com",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Walker & Dunlop",
    "open": 0,
    "sources": [
@@ -3287,7 +3287,7 @@
    "domain": "berkadia.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Berkadia",
    "open": 2,
    "sources": [
@@ -3318,14 +3318,14 @@
    "domain": "greystone.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Greystone",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-03",
+     "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "cede8d21716ead37",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3349,7 +3349,7 @@
    "domain": "northmarq.com",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Northmarq",
    "open": 0,
    "sources": [
@@ -3380,7 +3380,7 @@
    "domain": "trimont.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Trimont",
    "open": 0,
    "sources": [
@@ -3411,7 +3411,7 @@
    "domain": "arbor.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Arbor Realty Trust",
    "open": 0,
    "sources": [
@@ -3442,7 +3442,7 @@
    "domain": "fanniemae.com",
    "focus": "mixed",
    "hq": "Washington, DC",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Fannie Mae (Multifamily)",
    "open": 0,
    "sources": [
@@ -3463,7 +3463,7 @@
    "domain": "freddiemac.com",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Freddie Mac (Multifamily)",
    "open": 0,
    "sources": [
@@ -3484,7 +3484,7 @@
    "domain": "capitalone.com",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Capital One (Commercial Real Estate)",
    "open": 0,
    "sources": [
@@ -3505,7 +3505,7 @@
    "domain": "firstam.com",
    "focus": "mixed",
    "hq": "Santa Ana, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "First American",
    "open": 0,
    "sources": [
@@ -3526,7 +3526,7 @@
    "domain": "brookfield.com",
    "focus": "mixed",
    "hq": "New York / Toronto",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Brookfield",
    "open": 0,
    "sources": [
@@ -3547,7 +3547,7 @@
    "domain": "pgim.com",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "PGIM Real Estate",
    "open": 2,
    "sources": [
@@ -3568,7 +3568,7 @@
    "domain": "aresmgmt.com",
    "focus": "mixed",
    "hq": "Los Angeles / New York",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Ares Management (Real Estate)",
    "open": 0,
    "sources": [
@@ -3589,7 +3589,7 @@
    "domain": "apollo.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Apollo (Real Estate)",
    "open": 0,
    "sources": [
@@ -3610,7 +3610,7 @@
    "domain": "kkr.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "KKR (Real Estate)",
    "open": 0,
    "sources": [
@@ -3641,7 +3641,7 @@
    "domain": "starwoodcapital.com",
    "focus": "real_estate",
    "hq": "Miami Beach, FL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Starwood Capital Group",
    "open": 0,
    "sources": [
@@ -3675,7 +3675,7 @@
    "domain": "clarionpartners.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Clarion Partners",
    "open": 0,
    "sources": [
@@ -3706,7 +3706,7 @@
    "domain": "heitman.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Heitman",
    "open": 2,
    "sources": [
@@ -3741,7 +3741,7 @@
    "domain": "harrisonst.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Harrison Street",
    "open": 0,
    "sources": [
@@ -3772,7 +3772,7 @@
    "domain": "bridgeig.com",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Bridge Investment Group",
    "open": 0,
    "sources": [
@@ -3803,7 +3803,7 @@
    "domain": "crowholdings.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Crow Holdings",
    "open": 0,
    "sources": [
@@ -3834,7 +3834,7 @@
    "domain": "linklogistics.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Link Logistics",
    "open": 5,
    "sources": [
@@ -3855,21 +3855,21 @@
    "domain": "hines.com",
    "focus": "real_estate",
    "hq": "Houston, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Hines",
    "open": 1,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 114,
+     "fail_streak": 115,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -3884,13 +3884,13 @@
    "domain": "tishmanspeyer.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Tishman Speyer",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 114,
+     "fail_streak": 115,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3913,7 +3913,7 @@
    "domain": "related.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Related Companies",
    "open": 0,
    "sources": [
@@ -3944,7 +3944,7 @@
    "domain": "lpc.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Lincoln Property Company",
    "open": 0,
    "sources": [
@@ -3975,7 +3975,7 @@
    "domain": "greystar.com",
    "focus": "real_estate",
    "hq": "Charleston, SC",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Greystar",
    "open": 0,
    "sources": [
@@ -4009,7 +4009,7 @@
    "domain": "cortland.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Cortland",
    "open": 0,
    "sources": [
@@ -4030,7 +4030,7 @@
    "domain": "gables.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Gables Residential",
    "open": 0,
    "sources": [
@@ -4051,7 +4051,7 @@
    "domain": "ryancompanies.com",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Ryan Companies",
    "open": 2,
    "sources": [
@@ -4072,7 +4072,7 @@
    "domain": "jbgsmith.com",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "JBG SMITH",
    "open": 0,
    "sources": [
@@ -4103,7 +4103,7 @@
    "domain": "rxr.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "RXR",
    "open": 0,
    "sources": [
@@ -4124,7 +4124,7 @@
    "domain": "morgan-properties.com",
    "focus": "real_estate",
    "hq": "King of Prussia, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Morgan Properties",
    "open": 0,
    "sources": [
@@ -4162,7 +4162,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 16,
+     "fail_streak": 17,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4185,7 +4185,7 @@
    "domain": "invh.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Invitation Homes",
    "open": 1,
    "sources": [
@@ -4206,7 +4206,7 @@
    "domain": "lennar.com",
    "focus": "real_estate",
    "hq": "Miami, FL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Lennar",
    "open": 0,
    "sources": [
@@ -4227,7 +4227,7 @@
    "domain": "pultegroup.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "PulteGroup",
    "open": 0,
    "sources": [
@@ -4248,7 +4248,7 @@
    "domain": "drhorton.com",
    "focus": "real_estate",
    "hq": "Arlington, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "D.R. Horton",
    "open": 0,
    "sources": [
@@ -4282,7 +4282,7 @@
    "domain": "prologis.com",
    "focus": "real_estate",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Prologis",
    "open": 0,
    "sources": [
@@ -4313,7 +4313,7 @@
    "domain": "simon.com",
    "focus": "real_estate",
    "hq": "Indianapolis, IN",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Simon Property Group",
    "open": 0,
    "sources": [
@@ -4334,7 +4334,7 @@
    "domain": "bxp.com",
    "focus": "real_estate",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "BXP (Boston Properties)",
    "open": 1,
    "sources": [
@@ -4355,7 +4355,7 @@
    "domain": "realtyincome.com",
    "focus": "real_estate",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Realty Income",
    "open": 2,
    "sources": [
@@ -4376,7 +4376,7 @@
    "domain": "digitalrealty.com",
    "focus": "real_estate",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Digital Realty",
    "open": 0,
    "sources": [
@@ -4397,7 +4397,7 @@
    "domain": "extraspace.com",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Extra Space Storage",
    "open": 0,
    "sources": [
@@ -4418,7 +4418,7 @@
    "domain": "essex.com",
    "focus": "real_estate",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Essex Property Trust",
    "open": 0,
    "sources": [
@@ -4439,7 +4439,7 @@
    "domain": "rexfordindustrial.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Rexford Industrial",
    "open": 0,
    "sources": [
@@ -4460,7 +4460,7 @@
    "domain": "hudsonpacificproperties.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Hudson Pacific Properties",
    "open": 0,
    "sources": [
@@ -4481,13 +4481,13 @@
    "domain": "eqr.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Equity Residential",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 114,
+     "fail_streak": 115,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4510,13 +4510,13 @@
    "domain": "avalonbay.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "AvalonBay",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 114,
+     "fail_streak": 115,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4539,7 +4539,7 @@
    "domain": "vno.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Vornado Realty Trust",
    "open": 0,
    "sources": [
@@ -4570,7 +4570,7 @@
    "domain": "slgreen.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "SL Green",
    "open": 0,
    "sources": [
@@ -4601,7 +4601,7 @@
    "domain": "kimcorealty.com",
    "focus": "real_estate",
    "hq": "Jericho, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Kimco Realty",
    "open": 0,
    "sources": [
@@ -4632,7 +4632,7 @@
    "domain": "brixmor.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Brixmor Property Group",
    "open": 0,
    "sources": [
@@ -4663,7 +4663,7 @@
    "domain": "federalrealty.com",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Federal Realty",
    "open": 0,
    "sources": [
@@ -4694,7 +4694,7 @@
    "domain": "brandywinerealty.com",
    "focus": "real_estate",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Brandywine Realty Trust",
    "open": 0,
    "sources": [
@@ -4725,7 +4725,7 @@
    "domain": "welltower.com",
    "focus": "real_estate",
    "hq": "Toledo, OH",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Welltower",
    "open": 0,
    "sources": [
@@ -4756,7 +4756,7 @@
    "domain": "ventasreit.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Ventas",
    "open": 0,
    "sources": [
@@ -4787,7 +4787,7 @@
    "domain": "publicstorage.com",
    "focus": "real_estate",
    "hq": "Glendale, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Public Storage",
    "open": 0,
    "sources": [
@@ -4808,7 +4808,7 @@
    "domain": "americancentury.com",
    "focus": "mixed",
    "hq": "Kansas City, MO",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "American Century Investments",
    "open": 0,
    "sources": [
@@ -4829,7 +4829,7 @@
    "domain": "voya.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Voya Financial",
    "open": 0,
    "sources": [
@@ -4850,7 +4850,7 @@
    "domain": "corebridgefinancial.com",
    "focus": "mixed",
    "hq": "Houston, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Corebridge Financial",
    "open": 0,
    "sources": [
@@ -4871,7 +4871,7 @@
    "domain": "johnhancock.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "John Hancock (Manulife)",
    "open": 2,
    "sources": [
@@ -4892,7 +4892,7 @@
    "domain": "countryfinancial.com",
    "focus": "mixed",
    "hq": "Bloomington, IL",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "COUNTRY Financial",
    "open": 0,
    "sources": [
@@ -4913,7 +4913,7 @@
    "domain": "firsteagle.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "First Eagle Investments",
    "open": 0,
    "sources": [
@@ -4934,7 +4934,7 @@
    "domain": "wealth.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Wealth.com",
    "open": 0,
    "sources": [
@@ -4955,7 +4955,7 @@
    "domain": "pennmutual.com",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Penn Mutual",
    "open": 0,
    "sources": [
@@ -4988,7 +4988,7 @@
    "domain": "kestrafinancial.com",
    "focus": "wealth",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Kestra Financial",
    "open": 0,
    "sources": [
@@ -5019,7 +5019,7 @@
    "domain": "aspiriant.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Aspiriant",
    "open": 0,
    "sources": [
@@ -5050,7 +5050,7 @@
    "domain": "pathstone.com",
    "focus": "wealth",
    "hq": "Englewood, NJ",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Pathstone",
    "open": 0,
    "sources": [
@@ -5081,7 +5081,7 @@
    "domain": "wealthspire.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Wealthspire Advisors",
    "open": 0,
    "sources": [
@@ -5112,7 +5112,7 @@
    "domain": "beaconpointe.com",
    "focus": "wealth",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Beacon Pointe Advisors",
    "open": 0,
    "sources": [
@@ -5143,7 +5143,7 @@
    "domain": "buckinghamstrategicwealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Buckingham Strategic Wealth",
    "open": 0,
    "sources": [
@@ -5174,7 +5174,7 @@
    "domain": "monetagroup.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Moneta",
    "open": 0,
    "sources": [
@@ -5195,7 +5195,7 @@
    "domain": "homrichberg.com",
    "focus": "wealth",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Homrich Berg",
    "open": 4,
    "sources": [
@@ -5226,7 +5226,7 @@
    "domain": "sequoia-financial.com",
    "focus": "wealth",
    "hq": "Akron, OH",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Sequoia Financial Group",
    "open": 0,
    "sources": [
@@ -5257,7 +5257,7 @@
    "domain": "bleakley.com",
    "focus": "wealth",
    "hq": "Fairfield, NJ",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Bleakley Financial Group",
    "open": 0,
    "sources": [
@@ -5288,7 +5288,7 @@
    "domain": "cnbank.com",
    "focus": "mixed",
    "hq": "Canandaigua, NY",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Canandaigua National Bank (Wealth)",
    "open": 0,
    "sources": [
@@ -5319,14 +5319,14 @@
    "domain": "synovus.com",
    "focus": "mixed",
    "hq": "Columbus, GA",
-   "last_ok": "2026-11-03",
+   "last_ok": "2026-11-04",
    "name": "Synovus (Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-03",
+     "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "eb82cc475707c7eb",
+     "hash": "7543dba3ccc7b198",
      "kind": "page",
      "links": [],
      "ok": true,
