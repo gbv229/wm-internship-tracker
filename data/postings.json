@@ -3450,6 +3450,48 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|summer intern 2027",
+   "group_title": "Summer Intern 2027",
+   "hide": null,
+   "id": "wd:colliers:JR18746-1",
+   "last_seen": "2026-11-04",
+   "level": "Undergraduate",
+   "location": "Atlanta, Georgia, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-04",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "GA"
+   ],
+   "status": "open",
+   "title": "Summer Intern 2027",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Atlanta-Georgia-United-States-of-America/Summer-Intern-2027_JR18746-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028,
@@ -5847,44 +5889,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Hines",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-21",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Hines|internships early careers",
-   "group_title": "Internships & Early Careers",
-   "hide": null,
-   "id": "br:03bc0895528962",
-   "last_seen": "2026-11-03",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Internships & Early Careers",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://www.hines.com/careers/graduates-and-interns",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "Homrich Berg",
    "company_type": "Independent RIA",
    "deadline": null,
@@ -6057,7 +6061,7 @@
    "last_seen": "2026-11-04",
    "level": "Undergraduate",
    "location": "Dallas, TX- HQ",
-   "misses": 0,
+   "misses": 1,
    "pay": "$18–$31/hr",
    "posted": "2026-11-03",
    "region": "US",
@@ -8911,7 +8915,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-715d1baae928/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-fc57fe6c33ba/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9104,7 +9108,7 @@
    "last_seen": "2026-11-04",
    "level": "Undergraduate",
    "location": "Wilmington, DE",
-   "misses": 0,
+   "misses": 1,
    "note": "Ten-week summer internship; graduation Dec 2027 – Summer 2028.",
    "pay": null,
    "posted": "2026-10-27",
@@ -9850,6 +9854,50 @@
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduating December 2027 or Spring 2028",
+   "classes": [
+    2028
+   ],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|summer 2027 us wealth management internship",
+   "group_title": "Summer 2027 US Wealth Management Internship",
+   "hide": null,
+   "id": "wd:rbc:R-0000187999-2",
+   "last_seen": "2026-11-04",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 0,
+   "pay": "$20–$30/hr",
+   "posted": "2026-11-04",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "open",
+   "title": "Summer 2027 US Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-2",
+   "v": 11,
+   "weeks": 10,
    "work_mode": null
   },
   {
@@ -10757,7 +10805,7 @@
    "last_seen": "2026-11-04",
    "level": "Undergraduate",
    "location": "Denver, CO",
-   "misses": 0,
+   "misses": 1,
    "pay": "$23–$30/hr",
    "posted": "2026-10-26",
    "region": "US",
@@ -15117,6 +15165,45 @@
    "v": 9,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-04",
+   "company": "Hines",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-21",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Hines|internships early careers",
+   "group_title": "Internships & Early Careers",
+   "hide": null,
+   "id": "br:03bc0895528962",
+   "last_seen": "2026-11-03",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Internships & Early Careers",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://www.hines.com/careers/graduates-and-interns",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
   },
   {
    "class_evidence": "Must be a rising senior, working towards a bachelor’s degree from an accredited college or university (required)",
