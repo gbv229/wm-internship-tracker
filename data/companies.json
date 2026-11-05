@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "8313f16b7457b970",
+     "hash": "16f0310587b8ce70",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1507,11 +1507,12 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
-     "fail_streak": 2,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "141ec77912857372",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.hilltopsecurities.com/careers/"
     },
     {
@@ -1673,7 +1674,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-04",
    "name": "Cerity Partners",
-   "open": 15,
+   "open": 14,
    "sources": [
     {
      "fail_streak": 0,
@@ -1781,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 117,
+     "fail_streak": 118,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1841,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 117,
+     "fail_streak": 118,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1871,7 +1872,7 @@
     {
      "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "088c858bbd16d39e",
+     "hash": "14aa42db3c2742e3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1900,9 +1901,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-03",
+     "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "75d00e426a263ca3",
+     "hash": "fa0ed9a766f453bf",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1932,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 86,
+     "fail_streak": 87,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1962,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 28,
+     "fail_streak": 29,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1992,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 117,
+     "fail_streak": 118,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2785,7 +2786,7 @@
     {
      "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "ce9581b3043d56b5",
+     "hash": "9f0c143f5cffba36",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2847,7 +2848,7 @@
     {
      "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "dbd6bc7404a0c1f0",
+     "hash": "526209b7df60d6b4",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3184,7 +3185,7 @@
     {
      "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "ba628f84d64487f7",
+     "hash": "bca52b6cbd46f9c7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3835,7 +3836,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-04",
    "name": "Link Logistics",
-   "open": 5,
+   "open": 3,
    "sources": [
     {
      "fail_streak": 0,
@@ -3860,15 +3861,15 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 117,
+     "fail_streak": 118,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
     },
     {
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
+     "listed": 0,
+     "matched": 0,
      "ok": true
     }
    ],
@@ -3889,7 +3890,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 117,
+     "fail_streak": 118,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4154,23 +4155,24 @@
    "domain": "coniferllc.com",
    "focus": "real_estate",
    "hq": "Rochester, NY",
-   "last_ok": "2026-10-31",
+   "last_ok": "2026-11-04",
    "name": "Conifer Realty",
    "open": 0,
    "sources": [
     {
      "changed_on": "2026-10-31",
-     "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 19,
+     "fail_streak": 0,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
-     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -4486,7 +4488,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 117,
+     "fail_streak": 118,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4515,7 +4517,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 117,
+     "fail_streak": 118,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5325,7 +5327,7 @@
     {
      "changed_on": "2026-11-04",
      "fail_streak": 0,
-     "hash": "d853f6e7992e538c",
+     "hash": "eaa6773ac86e78a7",
      "kind": "page",
      "links": [],
      "ok": true,
