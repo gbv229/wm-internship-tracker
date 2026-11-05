@@ -4281,7 +4281,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "CW Site - FRA - Neuilly-Sur-Seine - 185-189 avenue Charles de Gaulle",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-04",
    "region": "",
@@ -4499,6 +4499,46 @@
     "wealth"
    ],
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Luxembourg-2-Blvd-K-Adenauer/Intern--Luxembourg_R0454927",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Deutsche Bank",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Deutsche Bank|o a swiss coverage intern",
+   "group_title": "O&A Swiss Coverage Intern",
+   "hide": "Outside the US",
+   "id": "wd:db:R0453418",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Zürich Uraniastrasse 9",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-05",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "O&A Swiss Coverage Intern (f/m/x)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Uraniastrasse-9/O-A-Swiss-Coverage-Intern--f-m-x-_R0453418",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -5642,7 +5682,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "Amsterdam, Noord-Holland, Netherlands",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -5882,7 +5922,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "Madrid, Comunidad de Madrid, Spain",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -6149,6 +6189,46 @@
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "HSBC",
+   "company_type": "Global Bank",
+   "deadline": "2026-11-20",
+   "deadline_evidence": "Closing Date: Fri Nov 20, 2026",
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "HSBC|corporate and institutional banking spring insight programme",
+   "group_title": "Corporate and Institutional Banking - Spring Insight Programme",
+   "hide": "Outside the US",
+   "id": "br:120ba97e7e5633",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "London, GB, E14 5HQ",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-05",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Spring 2027",
+   "season_inferred": true,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Corporate and Institutional Banking - Spring Insight Programme",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Corporate-and-Institutional-Banking-Spring-Insight-Programme-E14-5HQ/1376330157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -7037,7 +7117,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "Johor Bahru, Malaysia",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-05",
    "region": "",
@@ -7569,7 +7649,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "San Diego, CA; Chicago, IL; Austin, TX; Washington, DC",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-08",
    "region": "US",
@@ -7704,7 +7784,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "New York, NY",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-09",
    "region": "US",
@@ -8927,7 +9007,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "France",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-09-02",
    "region": "International",
@@ -9204,7 +9284,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f5314788d629/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a7c3c37b7c19/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9420,53 +9500,6 @@
    "v": 11,
    "weeks": 10,
    "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of May 2028 or later",
-   "classes": [
-    2028,
-    2029,
-    2030,
-    2031
-   ],
-   "company": "Northwestern Mutual",
-   "company_type": "Insurance & Planning",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-04",
-   "first_seen": "2026-10-29",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "Northwestern Mutual|investment operations internship",
-   "group_title": "Investment Operations Internship",
-   "hide": "Not a wealth / real estate role",
-   "id": "wd:northwesternmutual:JR-46300",
-   "last_seen": "2026-11-04",
-   "level": "Undergraduate",
-   "location": "Milwaukee, WI Corporate",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-30",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Fall 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "WI"
-   ],
-   "status": "open",
-   "title": "Investment Operations Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Operations-Internship_JR-46300",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -10680,6 +10713,90 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Ryan Companies",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Ryan Companies|vdc intern",
+   "group_title": "VDC Intern",
+   "hide": null,
+   "id": "wd:ryancompanies:R-102324",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Phoenix",
+   "misses": 0,
+   "pay": "$20–$25/hr",
+   "posted": "2026-11-05",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "open",
+   "title": "VDC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Phoenix/VDC-Intern_R-102324",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Ryan Companies",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Ryan Companies|vdc intern",
+   "group_title": "VDC Intern",
+   "hide": null,
+   "id": "wd:ryancompanies:R-102325",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Minneapolis",
+   "misses": 0,
+   "pay": "$20–$25/hr",
+   "posted": "2026-11-05",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "open",
+   "title": "VDC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/VDC-Intern_R-102325",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Silvercrest’s Summer Internship Program is both an education and experiential opportunity for rising sophomores, juniors, and seniors.",
    "classes": [
     2028,
@@ -11023,6 +11140,46 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/9734/full-time-branch-intern/job",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "TD (incl. TD Wealth)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "TD (incl. TD Wealth)|financial planning delivery excellence intern co op",
+   "group_title": "Financial Planning Delivery Excellence Intern/Co-Op",
+   "hide": "Outside the US",
+   "id": "wd:td:1503307",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Toronto, Ontario",
+   "misses": 0,
+   "pay": "$23–$33/hr (≈ $48k–$68k/yr)",
+   "posted": "2026-11-05",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Planning Delivery Excellence Intern/Co-Op (Winter 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Financial-Planning-Delivery-Excellence-Intern-Co-Op--Winter-2027-_R_1503307",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -20631,6 +20788,54 @@
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of May 2028 or later",
+   "classes": [
+    2028,
+    2029,
+    2030,
+    2031
+   ],
+   "closed_on": "2026-11-05",
+   "company": "Northwestern Mutual",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-04",
+   "first_seen": "2026-10-29",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "Northwestern Mutual|investment operations internship",
+   "group_title": "Investment Operations Internship",
+   "hide": "Not a wealth / real estate role",
+   "id": "wd:northwesternmutual:JR-46300",
+   "last_seen": "2026-11-04",
+   "level": "Undergraduate",
+   "location": "Milwaukee, WI Corporate",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-30",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Fall 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "closed",
+   "title": "Investment Operations Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Operations-Internship_JR-46300",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "- Candidates must be enrolled in an accredited bachelor’s degree program graduating between December 2028 and May 2029",
