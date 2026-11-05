@@ -3115,6 +3115,48 @@
   {
    "class_evidence": null,
    "classes": [],
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Charles Schwab|2027 retail investor services intern",
+   "group_title": "2027 Retail Investor Services Intern",
+   "hide": null,
+   "id": "ic:career-schwab:126260",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "US-TX-Austin | US-TX-Westlake",
+   "misses": 0,
+   "pay": "$31/hr",
+   "posted": "2026-11-05",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "2027 Retail Investor Services Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126260/2027-retail-investor-services-intern/job",
+   "v": 11,
+   "weeks": 9,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "company": "Citi (incl. Citi Private Bank)",
    "company_type": "Global Bank",
    "deadline": null,
@@ -4259,46 +4301,6 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ha-Noi---4th-Floor-Building-A--Tien-Bo-Plaza/EIC-Intern---Real-Estate-Valuation-Services--Ha-Noi_R338349",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Valuation / Research",
-   "gpa": null,
-   "group": "Cushman & Wakefield|eic valuation advisory hospitality intern",
-   "group_title": "EIC Valuation & Advisory Hospitality Intern",
-   "hide": "Outside the US",
-   "id": "wd:cw:R336064-1",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "CW Site - FRA - Neuilly-Sur-Seine - 185-189 avenue Charles de Gaulle",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-04",
-   "region": "",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "EIC Valuation & Advisory Hospitality Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---FRA---Neuilly-Sur-Seine---185-189-avenue-Charles-de-Gaulle/EIC-Valuation---Advisory-Hospitality-Intern_R336064-1",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -5682,7 +5684,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "Amsterdam, Noord-Holland, Netherlands",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -5922,7 +5924,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "Madrid, Comunidad de Madrid, Spain",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -7100,46 +7102,6 @@
    "work_mode": "Remote"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|hse internship",
-   "group_title": "HSE Internship",
-   "hide": "Outside the US",
-   "id": "wd:jll:REQ547215",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "Johor Bahru, Malaysia",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-05",
-   "region": "",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "HSE Internship",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/HSE-Internship_REQ547215",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Must have completed at least 3 years of college.",
    "classes": [
     2028
@@ -7629,57 +7591,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "• Actively pursuing a bachelor's degree, with 2-3 years completed majoring in finance, real estate, economics, business, or related field",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|public institutions advisory summer 2027 internship",
-   "group_title": "Public Institutions Advisory Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ534204",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "San Diego, CA; Chicago, IL; Austin, TX; Washington, DC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic",
-    "Midwest",
-    "Southwest",
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA",
-    "DC",
-    "IL",
-    "TX"
-   ],
-   "status": "open",
-   "title": "Public Institutions Advisory Summer 2027 Internship",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Public-Institutions-Advisory-Summer-2027-Internship---San-Diego--CA_REQ534204",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "JLL",
@@ -7762,48 +7673,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Strategic-Program-Support-Summer-2027-Internship---San-Francisco--CA_REQ534203",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-09",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|sustainability operations summer 2027 internship",
-   "group_title": "Sustainability Operations Summer 2027 Internship",
-   "hide": "Not a wealth / real estate role",
-   "id": "wd:jll:REQ540054",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-09",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Sustainability Operations Summer 2027 Internship - New York, NY",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -8990,46 +8859,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Lazard (Lazard Wealth Management)",
-   "company_type": "Investment Bank",
-   "deadline": "2026-09-20",
-   "deadline_evidence": "Interested applicants should apply by submitting their curriculum vitae and cover letter before the 20 th of September 2026.",
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Lazard (Lazard Wealth Management)|march 2027 internship offer sovereign advisory group",
-   "group_title": "March 2027 – Internship offer - Sovereign Advisory Group",
-   "hide": "Outside the US",
-   "id": "or:icbpjb:6481",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "France",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-02",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Spring 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "March 2027 – Internship offer - Sovereign Advisory Group – Paris",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6481",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Current junior, or rising senior, enrolled at an accredited four-year institution.",
    "classes": [
     2028
@@ -9049,7 +8878,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "Dallas, Texas; Sacramento, California; CA - Irvine; Atlanta, Georgia",
-   "misses": 0,
+   "misses": 1,
    "pay": "$30/hr",
    "posted": "2026-10-21",
    "region": "US",
@@ -9141,7 +8970,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "New York, New York; CA - Irvine; Dallas, Texas",
-   "misses": 0,
+   "misses": 1,
    "pay": "$30/hr",
    "posted": "2026-10-04",
    "region": "US",
@@ -9284,7 +9113,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a7c3c37b7c19/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c24a10e223d6/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9887,7 +9716,7 @@
    "last_seen": "2026-11-05",
    "level": "Undergraduate",
    "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
-   "misses": 0,
+   "misses": 1,
    "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
    "pay": null,
    "posted": "2026-10-04",
@@ -14710,6 +14539,47 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-05",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Valuation / Research",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic valuation advisory hospitality intern",
+   "group_title": "EIC Valuation & Advisory Hospitality Intern",
+   "hide": "Outside the US",
+   "id": "wd:cw:R336064-1",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "CW Site - FRA - Neuilly-Sur-Seine - 185-189 avenue Charles de Gaulle",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-04",
+   "region": "",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "EIC Valuation & Advisory Hospitality Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---FRA---Neuilly-Sur-Seine---185-189-avenue-Charles-de-Gaulle/EIC-Valuation---Advisory-Hospitality-Intern_R336064-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-11-02",
    "company": "Cushman & Wakefield",
    "company_type": "CRE Services & Brokerage",
@@ -17529,6 +17399,47 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-05",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|hse internship",
+   "group_title": "HSE Internship",
+   "hide": "Outside the US",
+   "id": "wd:jll:REQ547215",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Johor Bahru, Malaysia",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-05",
+   "region": "",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "HSE Internship",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/HSE-Internship_REQ547215",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-21",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -19157,6 +19068,58 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "• Actively pursuing a bachelor's degree, with 2-3 years completed majoring in finance, real estate, economics, business, or related field",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-05",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|public institutions advisory summer 2027 internship",
+   "group_title": "Public Institutions Advisory Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ534204",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "San Diego, CA; Chicago, IL; Austin, TX; Washington, DC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-08",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic",
+    "Midwest",
+    "Southwest",
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA",
+    "DC",
+    "IL",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Public Institutions Advisory Summer 2027 Internship",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Public-Institutions-Advisory-Summer-2027-Internship---San-Diego--CA_REQ534204",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-11-02",
@@ -19276,6 +19239,49 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Petaling-Jaya-Malaysia/Specialist--Intern_REQ542979",
    "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-05",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-09",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|sustainability operations summer 2027 internship",
+   "group_title": "Sustainability Operations Summer 2027 Internship",
+   "hide": "Not a wealth / real estate role",
+   "id": "wd:jll:REQ540054",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-09",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Sustainability Operations Summer 2027 Internship - New York, NY",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sustainability-Operations-Summer-2027-Internship---New-York--NY_REQ540054",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -19887,6 +19893,47 @@
    ],
    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6691",
    "v": 5,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-05",
+   "company": "Lazard (Lazard Wealth Management)",
+   "company_type": "Investment Bank",
+   "deadline": "2026-09-20",
+   "deadline_evidence": "Interested applicants should apply by submitting their curriculum vitae and cover letter before the 20 th of September 2026.",
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Lazard (Lazard Wealth Management)|march 2027 internship offer sovereign advisory group",
+   "group_title": "March 2027 – Internship offer - Sovereign Advisory Group",
+   "hide": "Outside the US",
+   "id": "or:icbpjb:6481",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "France",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-02",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Spring 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "March 2027 – Internship offer - Sovereign Advisory Group – Paris",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6481",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
