@@ -1247,7 +1247,7 @@
    "last_seen": "2026-11-06",
    "level": "Undergraduate",
    "location": "AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-07",
    "region": "",
@@ -1431,7 +1431,7 @@
    "last_seen": "2026-11-06",
    "level": "Undergraduate",
    "location": "AZ-Tucson",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-07",
    "region": "",
@@ -5340,53 +5340,6 @@
    "first_seen": "2026-10-28",
    "function": "Investments",
    "gpa": null,
-   "group": "Fidelity Investments|intern investor center",
-   "group_title": "Intern, Investor Center",
-   "hide": null,
-   "id": "wd:fmr:2135954-1",
-   "last_seen": "2026-11-06",
-   "level": "Undergraduate",
-   "location": "Tampa, FL",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": null,
-   "posted": "2026-10-14",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - Tampa, FL",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Tampa-FL/Intern--Investor-Center---Tampa--FL_2135954-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-06",
-   "first_seen": "2026-10-28",
-   "function": "Investments",
-   "gpa": null,
    "group": "Fidelity Investments|intern investor center winter park",
    "group_title": "Intern, Investor Center - Winter Park",
    "hide": null,
@@ -8926,7 +8879,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ab641eb292a3/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-17568a9be93a/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9763,6 +9716,46 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "function": "Technology / Data",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|o 2027 wealth management winter data analyst",
+   "group_title": "o\t2027 Wealth Management, Winter Data Analyst",
+   "hide": "Outside the US",
+   "id": "wd:rbc:R-0000192288",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "TORONTO, Ontario, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-06",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "o\t2027 Wealth Management, Winter Data Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Year of Study : The program is primarily open to undergraduate students in their junior and senior years, though some opportunities may be available for sophomores.",
    "classes": [
     2027,
@@ -9934,6 +9927,48 @@
     "real_estate"
    ],
    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Rockefeller Capital Management",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Rockefeller Capital Management|summer analyst core platforms",
+   "group_title": "Summer Analyst - Core Platforms",
+   "hide": null,
+   "id": "ic:careers-rcm:5575",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "US-NJ-Hamilton",
+   "misses": 0,
+   "pay": "$38/hr",
+   "posted": "2026-10-08",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "open",
+   "title": "Summer Analyst - Core Platforms",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers-rcm.icims.com/jobs/5575/summer-analyst---core-platforms/job",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -10352,37 +10387,79 @@
    "company_type": "Developer & Operator",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-05",
-   "first_seen": "2026-11-05",
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-11-06",
    "function": "Real Estate (general)",
    "gpa": null,
    "group": "Ryan Companies|vdc intern",
    "group_title": "VDC Intern",
    "hide": null,
-   "id": "wd:ryancompanies:R-102324",
+   "id": "wd:ryancompanies:R-102314",
    "last_seen": "2026-11-06",
    "level": "Undergraduate",
-   "location": "Phoenix",
+   "location": "Chicago",
    "misses": 0,
    "pay": "$20–$25/hr",
-   "posted": "2026-11-05",
-   "region": "",
+   "posted": "2026-11-06",
+   "region": "US",
    "regions": [
-    "Southwest"
+    "Midwest"
    ],
    "season": "Summer 2027",
    "season_inferred": true,
    "source": "workday",
    "sponsorship": null,
    "states": [
-    "AZ"
+    "IL"
    ],
    "status": "open",
    "title": "VDC Intern",
    "tracks": [
     "real_estate"
    ],
-   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Phoenix/VDC-Intern_R-102324",
+   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Chicago/VDC-Intern_R-102314",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Ryan Companies",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Ryan Companies|vdc intern",
+   "group_title": "VDC Intern",
+   "hide": null,
+   "id": "wd:ryancompanies:R-102315",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "Atlanta",
+   "misses": 0,
+   "pay": "$20–$25/hr",
+   "posted": "2026-11-06",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "open",
+   "title": "VDC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Atlanta/VDC-Intern_R-102315",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -10425,6 +10502,48 @@
     "real_estate"
    ],
    "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/VDC-Intern_R-102325",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Ryan Companies",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Ryan Companies|vdc intern",
+   "group_title": "VDC Intern",
+   "hide": null,
+   "id": "wd:ryancompanies:R-102324",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "Phoenix",
+   "misses": 1,
+   "pay": "$20–$25/hr",
+   "posted": "2026-11-05",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "open",
+   "title": "VDC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Phoenix/VDC-Intern_R-102324",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -14960,6 +15079,54 @@
     "wealth"
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Sarasota-FL/Intern--Investor-Center---Sarasota--FL_2135958-2",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-06",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-10-28",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center",
+   "group_title": "Intern, Investor Center",
+   "hide": null,
+   "id": "wd:fmr:2135954-1",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "Tampa, FL",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": null,
+   "posted": "2026-10-14",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - Tampa, FL",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Tampa-FL/Intern--Investor-Center---Tampa--FL_2135954-1",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -22155,49 +22322,6 @@
     "wealth"
    ],
    "url": "https://careers-rcm.icims.com/jobs/5404/summer-analyst---business-finance/job",
-   "v": 9,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-10-23",
-   "company": "Rockefeller Capital Management",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-21",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Rockefeller Capital Management|summer analyst core platforms",
-   "group_title": "Summer Analyst - Core Platforms",
-   "hide": null,
-   "id": "ic:careers-rcm:5575",
-   "last_seen": "2026-10-23",
-   "level": "Undergraduate",
-   "location": "US-NJ-Hamilton",
-   "misses": 2,
-   "pay": "$38/hr",
-   "posted": "2026-10-08",
-   "region": "",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "closed",
-   "title": "Summer Analyst - Core Platforms",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers-rcm.icims.com/jobs/5575/summer-analyst---core-platforms/job",
    "v": 9,
    "weeks": 10,
    "work_mode": null
