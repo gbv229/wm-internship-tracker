@@ -348,7 +348,7 @@
    "hq": "London / New York",
    "last_ok": "2026-11-06",
    "name": "HSBC",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "changed_on": "2026-11-05",
@@ -361,8 +361,8 @@
     },
     {
      "kind": "browser",
-     "listed": 13,
-     "matched": 2,
+     "listed": 15,
+     "matched": 3,
      "ok": true
     }
    ],
@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-06",
      "fail_streak": 0,
-     "hash": "2e67631f8712932a",
+     "hash": "f8634a48f9636e8a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -644,7 +644,7 @@
    "hq": "Wilmington, DE",
    "last_ok": "2026-11-06",
    "name": "Wilmington Trust",
-   "open": 2,
+   "open": 4,
    "sources": [
     {
      "fail_streak": 0,
@@ -1244,7 +1244,7 @@
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-11-06",
    "name": "Raymond James",
-   "open": 1,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -1782,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1870,9 +1870,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-05",
+     "changed_on": "2026-11-06",
      "fail_streak": 0,
-     "hash": "0b73e7f58724acaa",
+     "hash": "7895df3a4ca07f1c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1933,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 92,
+     "fail_streak": 93,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 34,
+     "fail_streak": 35,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2905,7 +2905,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-06",
    "name": "JLL",
-   "open": 25,
+   "open": 21,
    "sources": [
     {
      "fail_streak": 0,
@@ -3185,7 +3185,7 @@
     {
      "changed_on": "2026-11-06",
      "fail_streak": 0,
-     "hash": "22dfab2280400407",
+     "hash": "b40a19576693c880",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3861,7 +3861,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3890,7 +3890,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4162,7 +4162,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4487,7 +4487,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4516,7 +4516,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4873,7 +4873,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-06",
    "name": "John Hancock (Manulife)",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -5086,9 +5086,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-29",
+     "changed_on": "2026-11-06",
      "fail_streak": 0,
-     "hash": "fd2158ce2046608b",
+     "hash": "4ec41d3212bce4b2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5326,7 +5326,7 @@
     {
      "changed_on": "2026-11-06",
      "fail_streak": 0,
-     "hash": "e66530f284badc87",
+     "hash": "61f24737584c9bdb",
      "kind": "page",
      "links": [],
      "ok": true,

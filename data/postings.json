@@ -5347,7 +5347,7 @@
    "last_seen": "2026-11-06",
    "level": "Undergraduate",
    "location": "Tampa, FL",
-   "misses": 0,
+   "misses": 1,
    "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": null,
    "posted": "2026-10-14",
@@ -6284,6 +6284,46 @@
     "early"
    ],
    "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Corporate-and-Institutional-Banking-Spring-Insight-Programme-E14-5HQ/1376330157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "We’re looking for students graduating in 2029, who already have some coding skills and want to keep developing them.",
+   "classes": [
+    2029
+   ],
+   "company": "HSBC",
+   "company_type": "Global Bank",
+   "deadline": "2026-12-02",
+   "deadline_evidence": "Closing Date: Wed Dec 02, 2026",
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "HSBC|sheffield tech insight programme",
+   "group_title": "Sheffield Tech Insight Programme",
+   "hide": null,
+   "id": "br:6650052667e3f8",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-06",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Sheffield Tech Insight Programme",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Sheffield-Tech-Insight-Programme-S1-4NB/1376923057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -7281,51 +7321,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|industrial property management summer 2027 internship",
-   "group_title": "Industrial Property Management Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ540471",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "Denver, CO",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-06",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CO"
-   ],
-   "status": "open",
-   "title": "Industrial Property Management Summer 2027 Internship - Denver, CO",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
    "classes": [
     2028
@@ -7407,141 +7402,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cambridge-MA/Operations-Summer-2027-Internship---Cambridge--MA_REQ541934",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|property management summer 2027 internship",
-   "group_title": "Property Management Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ540473",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "Minneapolis, MN",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-06",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Property Management Summer 2027 Internship -  Minneapolis, MN",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Property-Management-Summer-2027-Internship----Minneapolis--MN_REQ540473",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|property management summer 2027 internship",
-   "group_title": "Property Management Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ540219",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "Dallas, TX",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-06",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Property Management Summer 2027 Internship - Dallas, TX",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Property-Management-Summer-2027-Internship---Dallas--TX_REQ540219",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|property management summer 2027 internship",
-   "group_title": "Property Management Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ540467",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-06",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Property Management Summer 2027 Internship - New York, NY",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Property-Management-Summer-2027-Internship---New-York--NY_REQ540467",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -7851,48 +7711,6 @@
    "v": 11,
    "weeks": null,
    "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "John Hancock (Manulife)",
-   "company_type": "Insurance & Planning",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-23",
-   "function": "Investments",
-   "gpa": null,
-   "group": "John Hancock (Manulife)|winter co op 2027 global wealth asset management operations",
-   "group_title": "Winter Co-op 2027 – Global Wealth & Asset Management Operations",
-   "hide": null,
-   "id": "wd:manulife:JR26100464",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "Boston, Massachusetts",
-   "misses": 1,
-   "pay": "$21–$27/hr (≈ $43k–$57k/yr)",
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "Winter Co-op 2027 – Global Wealth & Asset Management Operations",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Winter-Co-op-2027---Global-Wealth---Asset-Management-Operations_JR26100464",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
@@ -9108,7 +8926,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-351b9b21c813/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ab641eb292a3/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9743,6 +9561,46 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-06",
+   "first_seen": "2026-10-22",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "hide": "Outside the US",
+   "id": "wd:rbc:R-0000184478",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "HAMILTON, Ontario, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-06",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HAMILTON-Ontario-Canada/Financial-Advisor_R-0000184478",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
    "first_seen": "2026-11-03",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -9905,47 +9763,49 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Graduating December 2027 or Spring 2028",
+   "class_evidence": "Year of Study : The program is primarily open to undergraduate students in their junior and senior years, though some opportunities may be available for sophomores.",
    "classes": [
-    2028
+    2027,
+    2028,
+    2029
    ],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-04",
-   "first_seen": "2026-11-04",
+   "company": "Raymond James",
+   "company_type": "Brokerage & Platform",
+   "deadline": "2026-09-30",
+   "deadline_evidence": "- Application Deadline: The deadline to apply is September 30, 2026.",
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-11-06",
    "function": "Wealth Management",
    "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|summer 2027 us wealth management internship",
-   "group_title": "Summer 2027 US Wealth Management Internship",
+   "group": "Raymond James|2027 clark capital mentoring internship program",
+   "group_title": "2027 Clark Capital Mentoring/Internship Program",
    "hide": null,
-   "id": "wd:rbc:R-0000187999-2",
-   "last_seen": "2026-11-05",
+   "id": "wd:raymondjames:R-0012697",
+   "last_seen": "2026-11-06",
    "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "misses": 1,
-   "pay": "$20–$30/hr",
-   "posted": "2026-11-04",
+   "location": "PA - Philadelphia - 1650 Market Street Floor 53",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-06",
    "region": "US",
    "regions": [
-    "Midwest"
+    "Northeast"
    ],
    "season": "Summer 2027",
    "season_inferred": false,
    "source": "workday",
    "sponsorship": null,
    "states": [
-    "MN"
+    "PA"
    ],
    "status": "open",
-   "title": "Summer 2027 US Wealth Management Internship",
+   "title": "2027 Clark Capital Mentoring/Internship Program",
    "tracks": [
     "wealth"
    ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-2",
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
    "v": 11,
-   "weeks": 10,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -10991,6 +10851,86 @@
     "early"
    ],
    "url": "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Wilmington Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Wilmington Trust|gcm intern",
+   "group_title": "GCM Intern",
+   "hide": "Outside the US",
+   "id": "wd:mtb:R91264",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "Dublin, Ireland",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-06",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "GCM Intern - Ireland",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/Dublin-Ireland/GCM-Intern---Ireland_R91264",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Wilmington Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Wilmington Trust|gcm intern",
+   "group_title": "GCM Intern",
+   "hide": "Outside the US",
+   "id": "wd:mtb:R91263",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "Dublin, Ireland",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-06",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "GCM Intern - Ireland",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/Dublin-Ireland/GCM-Intern---Ireland_R91263",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -17470,6 +17410,52 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-06",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|industrial property management summer 2027 internship",
+   "group_title": "Industrial Property Management Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ540471",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-06",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "Industrial Property Management Summer 2027 Internship - Denver, CO",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Industrial-Property-Management-Summer-2027-Internship---Denver--CO_REQ540471",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-11-03",
@@ -19012,6 +18998,144 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-06",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|property management summer 2027 internship",
+   "group_title": "Property Management Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ540473",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Minneapolis, MN",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-06",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Property Management Summer 2027 Internship -  Minneapolis, MN",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Property-Management-Summer-2027-Internship----Minneapolis--MN_REQ540473",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-06",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|property management summer 2027 internship",
+   "group_title": "Property Management Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ540219",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-06",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Property Management Summer 2027 Internship - Dallas, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Property-Management-Summer-2027-Internship---Dallas--TX_REQ540219",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-06",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|property management summer 2027 internship",
+   "group_title": "Property Management Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ540467",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-06",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Property Management Summer 2027 Internship - New York, NY",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Property-Management-Summer-2027-Internship---New-York--NY_REQ540467",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "• Actively pursuing a bachelor's degree, with 2-3 years completed majoring in finance, real estate, economics, business, or related field",
    "classes": [
     2028,
@@ -19310,6 +19434,49 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-06",
+   "company": "John Hancock (Manulife)",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-23",
+   "function": "Investments",
+   "gpa": null,
+   "group": "John Hancock (Manulife)|winter co op 2027 global wealth asset management operations",
+   "group_title": "Winter Co-op 2027 – Global Wealth & Asset Management Operations",
+   "hide": null,
+   "id": "wd:manulife:JR26100464",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Boston, Massachusetts",
+   "misses": 2,
+   "pay": "$21–$27/hr (≈ $43k–$57k/yr)",
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "Winter Co-op 2027 – Global Wealth & Asset Management Operations",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Winter-Co-op-2027---Global-Wealth---Asset-Management-Operations_JR26100464",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
@@ -21454,47 +21621,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "closed_on": "2026-10-30",
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-10-28",
-   "first_seen": "2026-10-22",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
-   "group_title": "Financial Advisor Intern",
-   "hide": "Outside the US",
-   "id": "wd:rbc:R-0000184478",
-   "last_seen": "2026-10-29",
-   "level": "Undergraduate",
-   "location": "HAMILTON, Ontario, Canada",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-22",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "closed",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HAMILTON-Ontario-Canada/Financial-Advisor_R-0000184478",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "closed_on": "2026-10-29",
    "company": "RBC (incl. RBC Wealth Mgmt & City National)",
    "company_type": "Global Bank",
@@ -21613,6 +21739,51 @@
    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RICHMOND-British-Columbia-Canada/Financial-Advisor-Intern_R-0000186438",
    "v": 6,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Graduating December 2027 or Spring 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-06",
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-04",
+   "first_seen": "2026-11-04",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|summer 2027 us wealth management internship",
+   "group_title": "Summer 2027 US Wealth Management Internship",
+   "hide": null,
+   "id": "wd:rbc:R-0000187999-2",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 2,
+   "pay": "$20–$30/hr",
+   "posted": "2026-11-04",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 US Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-2",
+   "v": 11,
+   "weeks": 10,
    "work_mode": null
   },
   {
