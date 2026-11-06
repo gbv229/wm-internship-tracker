@@ -8859,54 +8859,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Current junior, or rising senior, enrolled at an accredited four-year institution.",
-   "classes": [
-    2028
-   ],
-   "company": "Link Logistics",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "Link Logistics|asset management summer intern",
-   "group_title": "Asset Management Summer Intern",
-   "hide": null,
-   "id": "wd:linklogistics:JR101862",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "Dallas, Texas; Sacramento, California; CA - Irvine; Atlanta, Georgia",
-   "misses": 1,
-   "pay": "$30/hr",
-   "posted": "2026-10-21",
-   "region": "US",
-   "regions": [
-    "Southeast",
-    "Southwest",
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA",
-    "GA",
-    "TX"
-   ],
-   "status": "open",
-   "title": "Asset Management Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/Dallas-Texas/Asset-Management-Summer-Intern_JR101862",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Currently pursuing a bachelor’s degree in Finance, Accounting, Real Estate or a related field, with an expected graduation date between December 2027 and June 2028.",
    "classes": [
     2028
@@ -8946,54 +8898,6 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/Chicago-Illinois/Credit-Risk-Summer-Intern_JR101898",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Current junior, undergraduate student at an accredited four-year institution; must be actively enrolled at the time of consideration.",
-   "classes": [
-    2028
-   ],
-   "company": "Link Logistics",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "Link Logistics|development summer intern",
-   "group_title": "Development Summer Intern",
-   "hide": null,
-   "id": "wd:linklogistics:JR101857",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "New York, New York; CA - Irvine; Dallas, Texas",
-   "misses": 1,
-   "pay": "$30/hr",
-   "posted": "2026-10-04",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southwest",
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA",
-    "NY",
-    "TX"
-   ],
-   "status": "open",
-   "title": "Development Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9113,7 +9017,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c24a10e223d6/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04f62dd34e4e/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9693,57 +9597,6 @@
    ],
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Family-Capital-Analyst--US-_R106771",
    "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Report #4).",
-   "classes": [
-    2028
-   ],
-   "company": "PIMCO",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": "3.2+",
-   "group": "PIMCO|2027 summer intern global wealth management private client group analyst",
-   "group_title": "2027 Summer Intern – Global Wealth Management, Private Client Group Analyst",
-   "hide": null,
-   "id": "wd:pimco:R106768",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
-   "misses": 1,
-   "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
-   "pay": null,
-   "posted": "2026-10-04",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southwest",
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA",
-    "NY",
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 Summer Intern – Global Wealth Management, Private Client Group Analyst, US",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Client-Group-Analyst--US-_R106768",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Report #4",
    "weeks": 10,
    "work_mode": null
   },
@@ -19938,6 +19791,55 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Current junior, or rising senior, enrolled at an accredited four-year institution.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-05",
+   "company": "Link Logistics",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "Link Logistics|asset management summer intern",
+   "group_title": "Asset Management Summer Intern",
+   "hide": null,
+   "id": "wd:linklogistics:JR101862",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Dallas, Texas; Sacramento, California; CA - Irvine; Atlanta, Georgia",
+   "misses": 2,
+   "pay": "$30/hr",
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Southeast",
+    "Southwest",
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA",
+    "GA",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Asset Management Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/Dallas-Texas/Asset-Management-Summer-Intern_JR101862",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- A current junior (rising senior) at an accredited four-year institution.",
    "classes": [
     2028
@@ -20023,6 +19925,55 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Debt-Capital-Markets-Summer-Intern_JR101853",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Current junior, undergraduate student at an accredited four-year institution; must be actively enrolled at the time of consideration.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-05",
+   "company": "Link Logistics",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "Link Logistics|development summer intern",
+   "group_title": "Development Summer Intern",
+   "hide": null,
+   "id": "wd:linklogistics:JR101857",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "New York, New York; CA - Irvine; Dallas, Texas",
+   "misses": 2,
+   "pay": "$30/hr",
+   "posted": "2026-10-04",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest",
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA",
+    "NY",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Development Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -20972,6 +20923,58 @@
    ],
    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Real-Estate--Sophomore-Externship-Program_R-124904",
    "v": 9,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Report #4).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-05",
+   "company": "PIMCO",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-03",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": "3.2+",
+   "group": "PIMCO|2027 summer intern global wealth management private client group analyst",
+   "group_title": "2027 Summer Intern – Global Wealth Management, Private Client Group Analyst",
+   "hide": null,
+   "id": "wd:pimco:R106768",
+   "last_seen": "2026-11-05",
+   "level": "Undergraduate",
+   "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
+   "misses": 2,
+   "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
+   "pay": null,
+   "posted": "2026-10-04",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest",
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA",
+    "NY",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Intern – Global Wealth Management, Private Client Group Analyst, US",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Client-Group-Analyst--US-_R106768",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Report #4",
    "weeks": 10,
    "work_mode": null
   },
