@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-07",
      "fail_streak": 0,
-     "hash": "72f13014c34dff5d",
+     "hash": "76184651c5f8f499",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1315,15 +1315,14 @@
    "domain": "stifel.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "name": "Stifel",
    "open": 3,
    "sources": [
     {
-     "error": "HTTPError: 520 Server Error: Unknown for url: https://careers-stifel.icims.com/jobs/search?ss=1&searchKeyword=intern&in_iframe=1&pr=0",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "icims",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1783,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 127,
+     "fail_streak": 128,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1843,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 127,
+     "fail_streak": 128,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1871,9 +1870,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-06",
+     "changed_on": "2026-11-07",
      "fail_streak": 0,
-     "hash": "9dd4319d11ee59d1",
+     "hash": "d9eb081e02236e3e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1934,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 96,
+     "fail_streak": 97,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1964,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 38,
+     "fail_streak": 39,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1994,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 127,
+     "fail_streak": 128,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -3186,7 +3185,7 @@
     {
      "changed_on": "2026-11-07",
      "fail_streak": 0,
-     "hash": "0ad8b494dd4fdacd",
+     "hash": "b7de0e789ed598b8",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3676,22 +3675,24 @@
    "domain": "clarionpartners.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-06",
+   "last_ok": "2026-11-07",
    "name": "Clarion Partners",
    "open": 0,
    "sources": [
     {
-     "error": "RetryError: HTTPSConnectionPool(host='www.clarionpartners.com', port=443): Max retries exceeded with url: /careers (Caused by ResponseError('too many 503 error responses'))",
-     "fail_streak": 1,
+     "changed_on": null,
+     "fail_streak": 0,
      "hash": "4d81bae97ffe53ab",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.clarionpartners.com/careers"
     },
     {
-     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.clarionpartners.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3860,7 +3861,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 127,
+     "fail_streak": 128,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3889,7 +3890,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 127,
+     "fail_streak": 128,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4161,7 +4162,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4486,7 +4487,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 127,
+     "fail_streak": 128,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4515,7 +4516,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 127,
+     "fail_streak": 128,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4574,9 +4575,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-02",
+     "changed_on": "2026-11-07",
      "fail_streak": 0,
-     "hash": "4ed8dcaf2fb4dbea",
+     "hash": "50e8f1ccb0b5d74a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4993,17 +4994,16 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.kestrafinancial.com', port=443): Max retries exceeded with url: /careers (Caused by ResponseError('too many 500 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "6dcdba76d50eb7dd",
      "kind": "page",
      "ok": false,
      "url": "https://www.kestrafinancial.com/careers"
     },
     {
+     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.kestrafinancial.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -5324,7 +5324,7 @@
     {
      "changed_on": "2026-11-07",
      "fail_streak": 0,
-     "hash": "c61b0346177e823e",
+     "hash": "1ceecc08266d5174",
      "kind": "page",
      "links": [],
      "ok": true,
