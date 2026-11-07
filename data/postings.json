@@ -1243,52 +1243,6 @@
    "group": "Baird|internship private wealth management",
    "group_title": "Internship – Private Wealth Management",
    "hide": null,
-   "id": "wd:baird:R20261107-2",
-   "last_seen": "2026-11-06",
-   "level": "Undergraduate",
-   "location": "AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-07",
-   "region": "",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "AZ"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Phoenix, AZ Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-06",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
-   "hide": null,
    "id": "wd:baird:R20261019-1",
    "last_seen": "2026-11-06",
    "level": "Undergraduate",
@@ -1405,52 +1359,6 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-06",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
-   "hide": null,
-   "id": "wd:baird:R20261108-1",
-   "last_seen": "2026-11-06",
-   "level": "Undergraduate",
-   "location": "AZ-Tucson",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-07",
-   "region": "",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "AZ"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Tucson, AZ Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -8879,7 +8787,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-17568a9be93a/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0e7ad9261c77/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -10507,48 +10415,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Ryan Companies",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-05",
-   "first_seen": "2026-11-05",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Ryan Companies|vdc intern",
-   "group_title": "VDC Intern",
-   "hide": null,
-   "id": "wd:ryancompanies:R-102324",
-   "last_seen": "2026-11-06",
-   "level": "Undergraduate",
-   "location": "Phoenix",
-   "misses": 1,
-   "pay": "$20–$25/hr",
-   "posted": "2026-11-05",
-   "region": "",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "AZ"
-   ],
-   "status": "open",
-   "title": "VDC Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Phoenix/VDC-Intern_R-102324",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Silvercrest’s Summer Internship Program is both an education and experiential opportunity for rising sophomores, juniors, and seniors.",
    "classes": [
     2028,
@@ -11992,6 +11858,100 @@
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Private-Wealth-Management--Louisville--KY-Summer-2027-_R2026954-1",
    "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-06",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "hide": null,
+   "id": "wd:baird:R20261107-2",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-07",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Phoenix, AZ Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-06",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-06",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "hide": null,
+   "id": "wd:baird:R20261108-1",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "AZ-Tucson",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-07",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Tucson, AZ Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1",
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -22627,6 +22587,49 @@
    "url": "https://careers-rcm.icims.com/jobs/5405/summer-analyst---wealth-planning/job",
    "v": 9,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-06",
+   "company": "Ryan Companies",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-05",
+   "first_seen": "2026-11-05",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Ryan Companies|vdc intern",
+   "group_title": "VDC Intern",
+   "hide": null,
+   "id": "wd:ryancompanies:R-102324",
+   "last_seen": "2026-11-06",
+   "level": "Undergraduate",
+   "location": "Phoenix",
+   "misses": 2,
+   "pay": "$20–$25/hr",
+   "posted": "2026-11-05",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "closed",
+   "title": "VDC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Phoenix/VDC-Intern_R-102324",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   },
   {
