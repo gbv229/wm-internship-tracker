@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-08",
      "fail_streak": 0,
-     "hash": "5f21df02f74dee4b",
+     "hash": "815dacea8060c6f9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1225,10 +1225,9 @@
      "url": "https://careers.edwardjones.com/"
     },
     {
+     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://careers.edwardjones.com/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 1,
-     "matched": 1,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1699,7 +1698,7 @@
    "sources": [
     {
      "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/focusfinancialpartners/jobs?content=true",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "greenhouse",
      "ok": false
     }
@@ -1783,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 134,
+     "fail_streak": 135,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1843,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 134,
+     "fail_streak": 135,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1934,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 103,
+     "fail_streak": 104,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1964,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 45,
+     "fail_streak": 46,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1994,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 134,
+     "fail_streak": 135,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2670,7 +2669,7 @@
    "sources": [
     {
      "error": "HTTPError: 401 Client Error: Unauthorized for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3187,7 +3186,7 @@
     {
      "changed_on": "2026-11-08",
      "fail_streak": 0,
-     "hash": "8c4091fac811fb6b",
+     "hash": "37f514a0750a17af",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3327,7 +3326,7 @@
     {
      "changed_on": "2026-11-08",
      "fail_streak": 0,
-     "hash": "cede8d21716ead37",
+     "hash": "a0edecf16e1073b2",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3863,7 +3862,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 134,
+     "fail_streak": 135,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3892,7 +3891,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 134,
+     "fail_streak": 135,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4163,18 +4162,17 @@
    "sources": [
     {
      "changed_on": "2026-10-31",
-     "fail_streak": 0,
+     "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
+     "fail_streak": 1,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
+     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4490,7 +4488,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 134,
+     "fail_streak": 135,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4519,7 +4517,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 134,
+     "fail_streak": 135,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -5329,7 +5327,7 @@
     {
      "changed_on": "2026-11-08",
      "fail_streak": 0,
-     "hash": "b2e66cdd9b52d646",
+     "hash": "fce15ee76d926d44",
      "kind": "page",
      "links": [],
      "ok": true,
