@@ -1,6 +1,128 @@
 {
  "postings": [
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Addepar",
+   "company_type": "Wealthtech",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Technology / Data",
+   "gpa": null,
+   "group": "Addepar|data projects intern",
+   "group_title": "Data Projects Intern",
+   "hide": "Outside the US",
+   "id": "gh:addepar1:8935678002",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Edinburgh, UK",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "greenhouse",
+   "sponsorship": "No sponsorship",
+   "states": [],
+   "status": "open",
+   "title": "Data Projects Intern - Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8935678002",
+   "v": 11,
+   "weeks": 12,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Addepar",
+   "company_type": "Wealthtech",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Addepar|portfolio data analyst intern",
+   "group_title": "Portfolio Data Analyst Intern",
+   "hide": "Outside the US",
+   "id": "gh:addepar1:8910310002",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Edinburgh, UK",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "greenhouse",
+   "sponsorship": "No sponsorship",
+   "states": [],
+   "status": "open",
+   "title": "Portfolio Data Analyst Intern - Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002",
+   "v": 11,
+   "weeks": 12,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Addepar",
+   "company_type": "Wealthtech",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Addepar|product intern",
+   "group_title": "Product Intern",
+   "hide": null,
+   "id": "gh:addepar1:8927575002",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "greenhouse",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "Product Intern - Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927575002",
+   "v": 11,
+   "weeks": 12,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- May or June 2028 Bachelor’s degree candidates in business, finance, economics, math, computer science, engineering, or liberal arts",
    "classes": [
     2028
@@ -260,50 +382,6 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Philadelphia-Pennsylvania/Private-Wealth-Summer-Intern_R0019816",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "AllianceBernstein (Bernstein Private Wealth)",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.0+",
-   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
-   "group_title": "Private Wealth Summer Intern",
-   "hide": null,
-   "id": "wd:abglobal:R0019815",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Nashville, Tennessee",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-10",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TN"
-   ],
-   "status": "open",
-   "title": "Private Wealth Summer Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Private-Wealth-Summer-Intern_R0019815",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -2568,7 +2646,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "New York City, NY",
-   "misses": 0,
+   "misses": 1,
    "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-10-10",
@@ -2596,6 +2674,48 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management intern",
+   "group_title": "Summer 2027 Wealth Management Intern",
+   "hide": null,
+   "id": "wd:ceritypartners:R956",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Grand Rapids, MI",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MI"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Wealth Management Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Grand-Rapids-MI/Summer-2027-Wealth-Management-Intern_R956",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028,
@@ -2617,7 +2737,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Boston, MA",
-   "misses": 0,
+   "misses": 1,
    "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
    "pay": null,
    "posted": "2026-10-10",
@@ -3005,7 +3125,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "US-NE-Omaha",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-10",
    "region": "",
@@ -3131,7 +3251,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Bertrange  Luxembourg",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-10",
    "region": "International",
@@ -3171,7 +3291,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Geneva  Switzerland",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-30",
    "region": "International",
@@ -4637,7 +4757,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "",
-   "misses": 1,
+   "misses": 0,
    "note": "Ten-week headquarters internship for college juniors.",
    "pay": null,
    "posted": "2026-10-16",
@@ -4680,7 +4800,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Albany, NY",
-   "misses": 0,
+   "misses": 1,
    "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
    "pay": "$20–$32/hr",
    "posted": "2026-10-13",
@@ -5591,7 +5711,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Amsterdam, Noord-Holland, Netherlands",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -5671,7 +5791,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Dubai, United Arab Emirates",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -7146,7 +7266,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Paris, FRA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-10",
    "region": "International",
@@ -7250,6 +7370,51 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cambridge-MA/Operations-Summer-2027-Internship---Cambridge--MA_REQ541934",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in Business or Engineering.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "JLL|project development services summer 2027 internship",
+   "group_title": "Project & Development Services Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ544847",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Nashville, TN",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TN"
+   ],
+   "status": "open",
+   "title": "Project & Development Services Summer 2027 Internship - Nashville, TN",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Nashville-TN/Project---Development-Services-Summer-2027-Internship---Nashville--TN_REQ544847",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -7654,50 +7819,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-09",
-   "first_seen": "2026-10-19",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "hide": null,
-   "id": "wd:keybank:R-41553",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Atlanta, GA",
-   "misses": 1,
-   "pay": "$27/hr",
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "GA"
-   ],
-   "status": "open",
-   "title": "2027 Summer Real Estate Capital Internship - Atlanta ICG",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Atlanta-GA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Atlanta-ICG_R-41553",
-   "v": 11,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -7728,50 +7849,6 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
-   "v": 11,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-08",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "hide": null,
-   "id": "wd:keybank:R-42276",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Dallas, TX",
-   "misses": 1,
-   "pay": "$27/hr",
-   "posted": "2026-11-02",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 Summer Real Estate Capital Internship - Dallas",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
    "v": 11,
    "weeks": 5,
    "work_mode": null
@@ -8723,7 +8800,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Chicago, Illinois",
-   "misses": 0,
+   "misses": 1,
    "pay": "$30/hr",
    "posted": "2026-10-10",
    "region": "US",
@@ -8944,7 +9021,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3ca03a358bd/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13bf63dd84cb/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9137,7 +9214,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Chicago, IL",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-28",
    "region": "US",
@@ -9762,7 +9839,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "PA - Philadelphia - 1650 Market Street Floor 53",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-07",
    "region": "US",
@@ -9956,46 +10033,6 @@
    "url": "https://careers-rcm.icims.com/jobs/5575/summer-analyst---core-platforms/job",
    "v": 11,
    "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Rothschild & Co (Wealth Mgmt)",
-   "company_type": "Investment Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Rothschild & Co (Wealth Mgmt)|2026 global advisory long term internship",
-   "group_title": "2026 - Global Advisory Long Term Internship",
-   "hide": "Outside the US",
-   "id": "br:d85e324a081cc6",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2026 - Global Advisory Long Term Internship - Riyadh",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-advisory-long-term-internship-riyadh/",
-   "v": 11,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -10943,7 +10980,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Toronto, Ontario",
-   "misses": 0,
+   "misses": 1,
    "pay": "$23–$33/hr (≈ $48k–$68k/yr)",
    "posted": "2026-11-05",
    "region": "Canada",
@@ -10964,6 +11001,48 @@
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Thrivent",
+   "company_type": "Insurance & Planning",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Thrivent|financial services field internship allison park",
+   "group_title": "Financial Services Field Internship - Allison Park",
+   "hide": null,
+   "id": "wd:thrivent:REQ-48389-1",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Allison Park - PA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "PA"
+   ],
+   "status": "open",
+   "title": "Financial Services Field Internship - Allison Park, PA",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Allison-Park---PA/Financial-Services-Field-Internship---Allison-Park--PA_REQ-48389-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
   },
   {
    "class_evidence": null,
@@ -11084,86 +11163,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Wilmington Trust",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-10",
-   "first_seen": "2026-10-29",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Wilmington Trust|gcm intern",
-   "group_title": "GCM Intern",
-   "hide": "Outside the US",
-   "id": "wd:mtb:R91261",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "London, United Kingdom",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-30",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "GCM Intern - UK",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91261",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Wilmington Trust",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-10",
-   "first_seen": "2026-10-29",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Wilmington Trust|gcm intern",
-   "group_title": "GCM Intern",
-   "hide": "Outside the US",
-   "id": "wd:mtb:R91262",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "London, United Kingdom",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-30",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "GCM Intern - UK",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91262",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- December 2027 through May/June 2028 Bachelor’s degree candidates in computer science, engineering, math, finance, economics, business, or liberal arts",
    "classes": [
     2028
@@ -11204,6 +11203,51 @@
     "wealth"
    ],
    "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Business-Analyst-Summer-Intern_R0019767",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Bachelor’s degree candidates graduating between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-10",
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.0+",
+   "group": "AllianceBernstein (Bernstein Private Wealth)|private wealth summer intern",
+   "group_title": "Private Wealth Summer Intern",
+   "hide": null,
+   "id": "wd:abglobal:R0019815",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Nashville, Tennessee",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-10",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TN"
+   ],
+   "status": "closed",
+   "title": "Private Wealth Summer Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Private-Wealth-Summer-Intern_R0019815",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -19993,6 +20037,51 @@
    "classes": [
     2028
    ],
+   "closed_on": "2026-11-10",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-19",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "hide": null,
+   "id": "wd:keybank:R-41553",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Atlanta, GA",
+   "misses": 2,
+   "pay": "$27/hr",
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "GA"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Real Estate Capital Internship - Atlanta ICG",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Atlanta-GA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Atlanta-ICG_R-41553",
+   "v": 11,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
    "closed_on": "2026-10-16",
    "company": "KeyBank",
    "company_type": "Regional Bank",
@@ -20030,6 +20119,51 @@
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boston-MA/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Boston-IPG_R-41558",
    "v": 8,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-10",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-08",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "hide": null,
+   "id": "wd:keybank:R-42276",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 2,
+   "pay": "$27/hr",
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Real Estate Capital Internship - Dallas",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
+   "v": 11,
    "weeks": 5,
    "work_mode": null
   },
@@ -22932,6 +23066,47 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "Rothschild & Co (Wealth Mgmt)",
+   "company_type": "Investment Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Rothschild & Co (Wealth Mgmt)|2026 global advisory long term internship",
+   "group_title": "2026 - Global Advisory Long Term Internship",
+   "hide": "Outside the US",
+   "id": "br:d85e324a081cc6",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2026 - Global Advisory Long Term Internship - Riyadh",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-advisory-long-term-internship-riyadh/",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-20",
    "company": "Simon Property Group",
    "company_type": "REIT",
@@ -23801,6 +23976,88 @@
    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Commercial-Real-Estate-Analyst_R-571086-1",
    "v": 11,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "Wilmington Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Wilmington Trust|gcm intern",
+   "group_title": "GCM Intern",
+   "hide": "Outside the US",
+   "id": "wd:mtb:R91261",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "London, United Kingdom",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-30",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "GCM Intern - UK",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91261",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "Wilmington Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Wilmington Trust|gcm intern",
+   "group_title": "GCM Intern",
+   "hide": "Outside the US",
+   "id": "wd:mtb:R91262",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "London, United Kingdom",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-30",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "GCM Intern - UK",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/London-United-Kingdom/GCM-Intern---UK_R91262",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   }
  ]
