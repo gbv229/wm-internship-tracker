@@ -52,7 +52,7 @@
     },
     {
      "kind": "browser",
-     "listed": 0,
+     "listed": 17,
      "matched": 0,
      "ok": true
     }
@@ -101,10 +101,9 @@
      "ok": true
     },
     {
-     "error": "ConnectTimeout: HTTPSConnectionPool(host='bankcampuscareers.tal.net', port=443): Max retries exceeded with url: /vx/lang-en-GB/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bankcampuscareers.tal.net', port=443) at 0x7fbffc1e37d0>, 'Connectio",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "oleeo",
-     "ok": false
+     "ok": true
     },
     {
      "kind": "browser",
@@ -248,7 +247,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-11-09",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 7,
+   "open": 6,
    "sources": [
     {
      "fail_streak": 0,
@@ -280,7 +279,7 @@
    "hq": "Toronto / Cherry Hill, NJ",
    "last_ok": "2026-11-09",
    "name": "TD (incl. TD Wealth)",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -385,7 +384,7 @@
     {
      "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "03c940fc9a0ee582",
+     "hash": "548ce8a93797ab05",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -963,7 +962,7 @@
    "hq": "Cleveland, OH",
    "last_ok": "2026-11-09",
    "name": "KeyBank",
-   "open": 10,
+   "open": 11,
    "sources": [
     {
      "fail_streak": 0,
@@ -1076,7 +1075,7 @@
     {
      "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "df5da83e2379eb59",
+     "hash": "606b6c7e2b5cab93",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1625,7 +1624,7 @@
     {
      "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "644d3a0203335e0a",
+     "hash": "fcf5e278bd8707b8",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1783,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 137,
+     "fail_streak": 138,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1843,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 137,
+     "fail_streak": 138,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1934,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 106,
+     "fail_streak": 107,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1964,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 48,
+     "fail_streak": 49,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1994,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 137,
+     "fail_streak": 138,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2542,10 +2541,9 @@
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3187,7 +3185,7 @@
     {
      "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "0b0e0aded1750334",
+     "hash": "6668ad9cdef5ced9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3296,7 +3294,7 @@
     {
      "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "0464cafdee174517",
+     "hash": "f53e2215c7747b29",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3327,7 +3325,7 @@
     {
      "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "45d748f45dca166f",
+     "hash": "60cd192fc0e4ef71",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3863,7 +3861,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 137,
+     "fail_streak": 138,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3892,7 +3890,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 137,
+     "fail_streak": 138,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4055,7 +4053,7 @@
    "hq": "Minneapolis, MN",
    "last_ok": "2026-11-09",
    "name": "Ryan Companies",
-   "open": 5,
+   "open": 7,
    "sources": [
     {
      "fail_streak": 0,
@@ -4164,7 +4162,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4489,7 +4487,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 137,
+     "fail_streak": 138,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4518,7 +4516,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 137,
+     "fail_streak": 138,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4670,9 +4668,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-06",
+     "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "00b4cbc37ac931df",
+     "hash": "b89bee37afd0712d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4701,9 +4699,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
+     "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "1f224a8045b1a754",
+     "hash": "c947dc09613ef55b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4875,7 +4873,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-09",
    "name": "John Hancock (Manulife)",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -5119,9 +5117,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-05",
+     "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "a5402788ca73a558",
+     "hash": "0cb1cf9544eb459e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5328,7 +5326,7 @@
     {
      "changed_on": "2026-11-09",
      "fail_streak": 0,
-     "hash": "80985d72ea762911",
+     "hash": "276070ce71ed9d5e",
      "kind": "page",
      "links": [],
      "ok": true,
