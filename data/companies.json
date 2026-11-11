@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "40ca72bbce9a7d71",
+     "hash": "d9ad1867a482f1ff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1082,9 +1082,10 @@
      "url": "https://www.fultonbank.com/About-Fulton-Bank/Careers"
     },
     {
-     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fultonbank.com/About-Fulton-Bank/Careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 1,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -1215,9 +1216,9 @@
    "open": 1,
    "sources": [
     {
-     "changed_on": "2026-11-09",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "c98ece805f6f8244",
+     "hash": "460d4b9448eb1dc3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1623,7 +1624,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "303563cdadd677cf",
+     "hash": "28c17d3f549adbb0",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1673,7 +1674,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-11",
    "name": "Cerity Partners",
-   "open": 13,
+   "open": 14,
    "sources": [
     {
      "fail_streak": 0,
@@ -1781,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 143,
+     "fail_streak": 144,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1841,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 143,
+     "fail_streak": 144,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1871,7 +1872,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "456f25b82829358c",
+     "hash": "e7b7c8b88ab2e0f3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1900,9 +1901,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-05",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "fb79b9009ff7672b",
+     "hash": "fb205afc33c9fae0",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1932,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 112,
+     "fail_streak": 113,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1962,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 54,
+     "fail_streak": 55,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1992,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 143,
+     "fail_streak": 144,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2752,9 +2753,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "5ba5dee139c6256e",
+     "hash": "54a91cade2386360",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2847,7 +2848,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "310d6cb8fb5781e4",
+     "hash": "b059924f2d75dfa3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2904,7 +2905,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-11",
    "name": "JLL",
-   "open": 21,
+   "open": 23,
    "sources": [
     {
      "fail_streak": 0,
@@ -2925,7 +2926,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-11",
    "name": "Cushman & Wakefield",
-   "open": 20,
+   "open": 19,
    "sources": [
     {
      "fail_streak": 0,
@@ -2946,7 +2947,7 @@
    "hq": "Toronto / Seattle",
    "last_ok": "2026-11-11",
    "name": "Colliers",
-   "open": 2,
+   "open": 8,
    "sources": [
     {
      "fail_streak": 0,
@@ -2967,7 +2968,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-11",
    "name": "Newmark",
-   "open": 3,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -3036,9 +3037,10 @@
      "url": "https://www.marcusmillichap.com/careers"
     },
     {
-     "error": "TimeoutError: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.marcusmillichap.com/careers\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "ok": false
+     "listed": 0,
+     "matched": 0,
+     "ok": true
     }
    ],
    "tracks": [
@@ -3183,7 +3185,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "5bb54bc618b10a6c",
+     "hash": "9fb35a04f3e1f637",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3290,9 +3292,9 @@
    "open": 2,
    "sources": [
     {
-     "changed_on": "2026-11-09",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "f53e2215c7747b29",
+     "hash": "b21084638602b51e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3321,9 +3323,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "b299c1cc78d2f63a",
+     "hash": "63811a728378e800",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3743,9 +3745,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-12",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "c629d0d9146e5686",
+     "hash": "0275ba14afc5f254",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3833,7 +3835,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-11",
    "name": "Link Logistics",
-   "open": 0,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -3858,7 +3860,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 143,
+     "fail_streak": 144,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3887,7 +3889,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 143,
+     "fail_streak": 144,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4159,7 +4161,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4484,7 +4486,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 143,
+     "fail_streak": 144,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4513,7 +4515,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 143,
+     "fail_streak": 144,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4636,7 +4638,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -5021,9 +5023,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-04",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "74865eceae2a1099",
+     "hash": "6ad80bf84e91701a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5323,7 +5325,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "ab102bb9e67c0702",
+     "hash": "55770fe9e85ef589",
      "kind": "page",
      "links": [],
      "ok": true,

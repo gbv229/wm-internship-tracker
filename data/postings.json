@@ -2625,6 +2625,55 @@
    "work_mode": null
   },
   {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 outsourced cio internship",
+   "group_title": "Summer 2027 Outsourced CIO Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R943",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "New York City, NY",
+   "misses": 0,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-10",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "open",
+   "title": "Summer 2027 Outsourced CIO Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "company": "Cerity Partners",
@@ -3350,6 +3399,258 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|summer intern",
+   "group_title": "Summer Intern",
+   "hide": null,
+   "id": "wd:colliers:JR18872",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Boston, Massachusetts, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "MA"
+   ],
+   "status": "open",
+   "title": "Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Boston-Massachusetts-United-States-of-America/Summer-Intern_JR18872",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|summer intern",
+   "group_title": "Summer Intern",
+   "hide": null,
+   "id": "wd:colliers:JR18870",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Rosemont, Illinois, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Rosemont-Illinois-United-States-of-America/Summer-Intern_JR18870",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|summer intern",
+   "group_title": "Summer Intern",
+   "hide": null,
+   "id": "wd:colliers:JR18869",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Orlando, Florida, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Orlando-Florida-United-States-of-America/Summer-Intern_JR18869",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|summer intern",
+   "group_title": "Summer Intern",
+   "hide": null,
+   "id": "wd:colliers:JR18868",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Miami, Florida, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Miami-Florida-United-States-of-America/Summer-Intern_JR18868",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|summer intern",
+   "group_title": "Summer Intern",
+   "hide": null,
+   "id": "wd:colliers:JR18867",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Nashville, Tennessee, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TN"
+   ],
+   "status": "open",
+   "title": "Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Nashville-Tennessee-United-States-of-America/Summer-Intern_JR18867",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|summer intern",
+   "group_title": "Summer Intern",
+   "hide": null,
+   "id": "wd:colliers:JR18866",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Charlotte, North Carolina, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NC"
+   ],
+   "status": "open",
+   "title": "Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Charlotte-North-Carolina-United-States-of-America/Summer-Intern_JR18866",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-11-10",
    "first_seen": "2026-11-04",
    "function": "Real Estate (general)",
@@ -3555,46 +3856,6 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R336024",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-10",
-   "first_seen": "2026-11-10",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Cushman & Wakefield|eic intern",
-   "group_title": "EIC Intern",
-   "hide": "Outside the US",
-   "id": "wd:cw:R324636",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Gurgaon, India",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-10",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "EIC Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R324636",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -5521,10 +5782,10 @@
    "group_title": "2027 | EMEA | Dubai | Wealth Management, Private Wealth Management | Seasonal/Off-Cycle Internship",
    "hide": "Outside the US",
    "id": "gs:170881_GS_CAMPUS",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "level": "Undergraduate",
    "location": "Dubai, United Arab Emirates",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -6977,6 +7238,90 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Hotels-and-Hospitality-Summer-2027-Internship---Miami--FL_REQ542763",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship richmond",
+   "group_title": "Leasing Summer 2027 Internship - Richmond",
+   "hide": null,
+   "id": "wd:jll:REQ546397",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Richmond, VA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "VA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Richmond, VA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Leasing-Summer-2027-Internship---Richmond--VA_REQ546397",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship sacramento",
+   "group_title": "Leasing Summer 2027 Internship - Sacramento",
+   "hide": null,
+   "id": "wd:jll:REQ546470",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "Sacramento, CA",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Sacramento, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sacramento-CA/Leasing-Summer-2027-Internship---Sacramento--CA_REQ546470",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -8474,6 +8819,52 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Current junior, undergraduate student at an accredited four-year institution; must be actively enrolled at the time of consideration.",
+   "classes": [
+    2028
+   ],
+   "company": "Link Logistics",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-10-08",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "Link Logistics|development summer intern",
+   "group_title": "Development Summer Intern",
+   "hide": null,
+   "id": "wd:linklogistics:JR101857",
+   "last_seen": "2026-11-11",
+   "level": "Undergraduate",
+   "location": "New York, New York; Dallas, Texas",
+   "misses": 0,
+   "pay": "$30/hr",
+   "posted": "2026-11-11",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY",
+    "TX"
+   ],
+   "status": "open",
+   "title": "Development Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- You have graduated from university or able to take the time off to commit for a full-time internship role for 6 months from January 2027 if you are currently in study",
    "classes": [
     2027
@@ -8670,7 +9061,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba4fe2527494/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ef5cb40c02b8/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -8713,90 +9104,6 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Rising senior pursuing a degree in Real Estate, Finance, Business, Economics, Marketing, or a related field, with an anticipated graduation date of Dec 2027 – Jun 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Newmark",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-27",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Newmark|2027 summer internship",
-   "group_title": "2027 Summer Internship",
-   "hide": null,
-   "id": "or:hdow:250275",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "San Francisco, CA, United States",
-   "misses": 1,
-   "pay": "$19–$21/hr",
-   "posted": "2026-10-28",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "2027 Summer Internship",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250275",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Newmark",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": null,
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Newmark|intern gerald eve",
-   "group_title": "Intern - Gerald Eve",
-   "hide": "Outside the US",
-   "id": "or:hdow:250017",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Hyderabad, Telangana, India",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-23",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Intern - Gerald Eve",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250017",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -12676,56 +12983,6 @@
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 outsourced cio internship",
-   "group_title": "Summer 2027 Outsourced CIO Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R943",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "New York City, NY",
-   "misses": 2,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-10",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "closed",
-   "title": "Summer 2027 Outsourced CIO Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "closed_on": "2026-11-10",
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
    "group": "Cerity Partners|summer 2027 wealth management intern",
    "group_title": "Summer 2027 Wealth Management Intern",
    "hide": null,
@@ -14241,6 +14498,47 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/EIC-Hospitality-intern---Capital-Markets_R337039",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-11",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic intern",
+   "group_title": "EIC Intern",
+   "hide": "Outside the US",
+   "id": "wd:cw:R324636",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Gurgaon, India",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "EIC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R324636",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -20669,55 +20967,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Current junior, undergraduate student at an accredited four-year institution; must be actively enrolled at the time of consideration.",
-   "classes": [
-    2028
-   ],
-   "closed_on": "2026-11-05",
-   "company": "Link Logistics",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-03",
-   "first_seen": "2026-10-08",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "Link Logistics|development summer intern",
-   "group_title": "Development Summer Intern",
-   "hide": null,
-   "id": "wd:linklogistics:JR101857",
-   "last_seen": "2026-11-05",
-   "level": "Undergraduate",
-   "location": "New York, New York; CA - Irvine; Dallas, Texas",
-   "misses": 2,
-   "pay": "$30/hr",
-   "posted": "2026-10-04",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southwest",
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA",
-    "NY",
-    "TX"
-   ],
-   "status": "closed",
-   "title": "Development Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Link is looking for actively enrolled juniors (rising seniors) who would be interested in gaining hands-on experience with institutional real estate finance at portfolio scale.",
    "classes": [
     2028
@@ -21165,6 +21414,51 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Rising senior pursuing a degree in Real Estate, Finance, Business, Economics, Marketing, or a related field, with an anticipated graduation date of Dec 2027 – Jun 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-11",
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-27",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|2027 summer internship",
+   "group_title": "2027 Summer Internship",
+   "hide": null,
+   "id": "or:hdow:250275",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "San Francisco, CA, United States",
+   "misses": 2,
+   "pay": "$19–$21/hr",
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Internship",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250275",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-20",
@@ -21205,6 +21499,47 @@
    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250258",
    "v": 9,
    "weeks": 16,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-11",
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": null,
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|intern gerald eve",
+   "group_title": "Intern - Gerald Eve",
+   "hide": "Outside the US",
+   "id": "or:hdow:250017",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Hyderabad, Telangana, India",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-23",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Intern - Gerald Eve",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250017",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   },
   {
