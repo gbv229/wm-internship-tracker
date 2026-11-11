@@ -2625,55 +2625,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 outsourced cio internship",
-   "group_title": "Summer 2027 Outsourced CIO Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R943",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "New York City, NY",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-10",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Outsourced CIO Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Cerity Partners",
@@ -2712,55 +2663,6 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Grand-Rapids-MI/Summer-2027-Wealth-Management-Intern_R956",
    "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management intern",
-   "group_title": "Summer 2027 Wealth Management Intern",
-   "hide": null,
-   "id": "wd:ceritypartners:R927",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Boston, MA",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-10",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Summer-2027-Wealth-Management-Intern_R927",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
@@ -3115,48 +3017,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-10",
-   "first_seen": "2026-11-10",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Charles Schwab|2027 charles schwab workplace services internship",
-   "group_title": "2027 Charles Schwab Workplace Services Internship",
-   "hide": null,
-   "id": "ic:career-schwab:126214",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "US-NE-Omaha",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-10",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "NE"
-   ],
-   "status": "open",
-   "title": "2027 Charles Schwab Workplace Services Internship - Omaha 1",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126214/2027-charles-schwab-workplace-services-internship---omaha-1/job",
-   "v": 11,
-   "weeks": 9,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-10",
    "first_seen": "2026-11-04",
    "function": "Wealth Management",
    "gpa": null,
@@ -3232,86 +3092,6 @@
    "v": 11,
    "weeks": 9,
    "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Citi (incl. Citi Private Bank)|citi global wealth summer analyst",
-   "group_title": "Citi Global Wealth, Summer Analyst",
-   "hide": "Outside the US",
-   "id": "wd:citi:26994961",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Bertrange  Luxembourg",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-10",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Citi Global Wealth, Summer Analyst, Bertrange - Luxembourg 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Citi (incl. Citi Private Bank)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-10",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Citi (incl. Citi Private Bank)|citi global wealth summer analyst",
-   "group_title": "Citi Global Wealth, Summer Analyst",
-   "hide": "Outside the US",
-   "id": "wd:citi:26994853",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Geneva  Switzerland",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-30",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Citi Global Wealth, Summer Analyst, Geneva - Switzerland, 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
   },
   {
    "class_evidence": "- You are in your penultimate year of university pursuing a degree in any discipline (graduating between Dec 2027 - June 2028),",
@@ -4796,53 +4576,6 @@
    "group": "Fidelity Investments|intern investor center",
    "group_title": "Intern, Investor Center",
    "hide": null,
-   "id": "wd:fmr:2135878-1",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Albany, NY",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": "$20–$32/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - Albany, NY",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Albany-NY/Intern--Investor-Center---Albany--NY_2135878-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-28",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Fidelity Investments|intern investor center",
-   "group_title": "Intern, Investor Center",
-   "hide": null,
    "id": "wd:fmr:2135876",
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
@@ -5711,7 +5444,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Amsterdam, Noord-Holland, Netherlands",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -5791,7 +5524,7 @@
    "last_seen": "2026-11-10",
    "level": "Undergraduate",
    "location": "Dubai, United Arab Emirates",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -7244,46 +6977,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Hotels-and-Hospitality-Summer-2027-Internship---Miami--FL_REQ542763",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-10",
-   "first_seen": "2026-11-10",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|intern debt structured finance",
-   "group_title": "Intern - Debt & Structured Finance",
-   "hide": "Outside the US",
-   "id": "wd:jll:REQ543367",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Paris, FRA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-10",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Intern - Debt & Structured Finance",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Paris-FRA/Intern---Debt---Structured-Finance_REQ543367",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -8781,50 +8474,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Currently pursuing a bachelor’s degree in Finance, Accounting, Real Estate or a related field, with an expected graduation date between December 2027 and June 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "Link Logistics",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-08",
-   "function": "Lending / Mortgage",
-   "gpa": null,
-   "group": "Link Logistics|credit risk summer intern",
-   "group_title": "Credit Risk Summer Intern",
-   "hide": null,
-   "id": "wd:linklogistics:JR101898",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Chicago, Illinois",
-   "misses": 1,
-   "pay": "$30/hr",
-   "posted": "2026-10-10",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Credit Risk Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/Chicago-Illinois/Credit-Risk-Summer-Intern_JR101898",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- You have graduated from university or able to take the time off to commit for a full-time internship role for 6 months from January 2027 if you are currently in study",
    "classes": [
     2027
@@ -9021,7 +8670,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13bf63dd84cb/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4cdfffe858bc/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -9192,50 +8841,6 @@
    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950",
    "v": 11,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- You are pursuing a law degree (JD) at an accredited college/university with an expected graduate date between December 2027 through Summer 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Northern Trust",
-   "company_type": "Private Bank & Trust",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-10-27",
-   "function": "Risk / Compliance",
-   "gpa": "3.0+",
-   "group": "Northern Trust|wealth management legal intern",
-   "group_title": "Wealth Management Legal Intern",
-   "hide": "Not a wealth / real estate role",
-   "id": "wd:ntrs:R163721-1",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-28",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Wealth Management Legal Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Legal-Intern_R163721-1",
-   "v": 11,
-   "weeks": 10,
    "work_mode": null
   },
   {
@@ -9814,52 +9419,6 @@
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Year of Study : The program is primarily open to undergraduate students in their junior and senior years, though some opportunities may be available for sophomores.",
-   "classes": [
-    2027,
-    2028,
-    2029
-   ],
-   "company": "Raymond James",
-   "company_type": "Brokerage & Platform",
-   "deadline": "2026-09-30",
-   "deadline_evidence": "- Application Deadline: The deadline to apply is September 30, 2026.",
-   "detail_at": "2026-11-09",
-   "first_seen": "2026-11-06",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Raymond James|2027 clark capital mentoring internship program",
-   "group_title": "2027 Clark Capital Mentoring/Internship Program",
-   "hide": null,
-   "id": "wd:raymondjames:R-0012697",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "PA - Philadelphia - 1650 Market Street Floor 53",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-07",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "PA"
-   ],
-   "status": "open",
-   "title": "2027 Clark Capital Mentoring/Internship Program",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
-   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -10958,46 +10517,6 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/9734/full-time-branch-intern/job",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "TD (incl. TD Wealth)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-08",
-   "first_seen": "2026-11-05",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "TD (incl. TD Wealth)|financial planning delivery excellence intern co op",
-   "group_title": "Financial Planning Delivery Excellence Intern/Co-Op",
-   "hide": "Outside the US",
-   "id": "wd:td:1503307",
-   "last_seen": "2026-11-10",
-   "level": "Undergraduate",
-   "location": "Toronto, Ontario",
-   "misses": 1,
-   "pay": "$23–$33/hr (≈ $48k–$68k/yr)",
-   "posted": "2026-11-05",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Planning Delivery Excellence Intern/Co-Op (Winter 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Financial-Planning-Delivery-Excellence-Intern-Co-Op--Winter-2027-_R_1503307",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -13142,6 +12661,106 @@
    "work_mode": null
   },
   {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-10",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 outsourced cio internship",
+   "group_title": "Summer 2027 Outsourced CIO Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R943",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "New York City, NY",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-10",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Outsourced CIO Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-10",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management intern",
+   "group_title": "Summer 2027 Wealth Management Intern",
+   "hide": null,
+   "id": "wd:ceritypartners:R927",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Boston, MA",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-10",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Boston-MA/Summer-2027-Wealth-Management-Intern_R927",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-26",
@@ -13362,6 +12981,49 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Charles Schwab|2027 charles schwab workplace services internship",
+   "group_title": "2027 Charles Schwab Workplace Services Internship",
+   "hide": null,
+   "id": "ic:career-schwab:126214",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "US-NE-Omaha",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "NE"
+   ],
+   "status": "closed",
+   "title": "2027 Charles Schwab Workplace Services Internship - Omaha 1",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126214/2027-charles-schwab-workplace-services-internship---omaha-1/job",
+   "v": 11,
+   "weeks": 9,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -13707,6 +13369,88 @@
     "wealth"
    ],
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/XMLNAME-2025-Wealth-Management-Summer-Internship--Dubai--UAE--UAE-Nationals-preferred-_25820546",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Citi (incl. Citi Private Bank)|citi global wealth summer analyst",
+   "group_title": "Citi Global Wealth, Summer Analyst",
+   "hide": "Outside the US",
+   "id": "wd:citi:26994961",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Bertrange  Luxembourg",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-10",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Citi Global Wealth, Summer Analyst, Bertrange - Luxembourg 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "Citi (incl. Citi Private Bank)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Citi (incl. Citi Private Bank)|citi global wealth summer analyst",
+   "group_title": "Citi Global Wealth, Summer Analyst",
+   "hide": "Outside the US",
+   "id": "wd:citi:26994853",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Geneva  Switzerland",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-30",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Citi Global Wealth, Summer Analyst, Geneva - Switzerland, 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -15006,6 +14750,54 @@
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-10",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-28",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center",
+   "group_title": "Intern, Investor Center",
+   "hide": null,
+   "id": "wd:fmr:2135878-1",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Albany, NY",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": "$20–$32/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - Albany, NY",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Albany-NY/Intern--Investor-Center---Albany--NY_2135878-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
@@ -17971,6 +17763,47 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|intern debt structured finance",
+   "group_title": "Intern - Debt & Structured Finance",
+   "hide": "Outside the US",
+   "id": "wd:jll:REQ543367",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Paris, FRA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Intern - Debt & Structured Finance",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Paris-FRA/Intern---Debt---Structured-Finance_REQ543367",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-11-03",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -20746,6 +20579,51 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Currently pursuing a bachelor’s degree in Finance, Accounting, Real Estate or a related field, with an expected graduation date between December 2027 and June 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-10",
+   "company": "Link Logistics",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-08",
+   "function": "Lending / Mortgage",
+   "gpa": null,
+   "group": "Link Logistics|credit risk summer intern",
+   "group_title": "Credit Risk Summer Intern",
+   "hide": null,
+   "id": "wd:linklogistics:JR101898",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Chicago, Illinois",
+   "misses": 2,
+   "pay": "$30/hr",
+   "posted": "2026-10-10",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Credit Risk Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/Chicago-Illinois/Credit-Risk-Summer-Intern_JR101898",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Link is looking for actively enrolled juniors (rising seniors) who are interested in helping identify assets for potential financing, constructing loan models, drafting loan marketing materials and executing new financing transactions.",
    "classes": [
     2028
@@ -21561,6 +21439,51 @@
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- You are pursuing a law degree (JD) at an accredited college/university with an expected graduate date between December 2027 through Summer 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-10",
+   "company": "Northern Trust",
+   "company_type": "Private Bank & Trust",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-10-27",
+   "function": "Risk / Compliance",
+   "gpa": "3.0+",
+   "group": "Northern Trust|wealth management legal intern",
+   "group_title": "Wealth Management Legal Intern",
+   "hide": "Not a wealth / real estate role",
+   "id": "wd:ntrs:R163721-1",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-28",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Wealth Management Legal Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Wealth-Management-Legal-Intern_R163721-1",
+   "v": 11,
    "weeks": 10,
    "work_mode": null
   },
@@ -22579,6 +22502,53 @@
    ],
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2026-Fall-Virtual-Sophomore-Program--Investment-Banking-Bootcamp-for-2028-Summer-Analyst-Opportunities_R-0013018",
    "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Year of Study : The program is primarily open to undergraduate students in their junior and senior years, though some opportunities may be available for sophomores.",
+   "classes": [
+    2027,
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-10",
+   "company": "Raymond James",
+   "company_type": "Brokerage & Platform",
+   "deadline": "2026-09-30",
+   "deadline_evidence": "- Application Deadline: The deadline to apply is September 30, 2026.",
+   "detail_at": "2026-11-09",
+   "first_seen": "2026-11-06",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Raymond James|2027 clark capital mentoring internship program",
+   "group_title": "2027 Clark Capital Mentoring/Internship Program",
+   "hide": null,
+   "id": "wd:raymondjames:R-0012697",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "PA - Philadelphia - 1650 Market Street Floor 53",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-07",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "PA"
+   ],
+   "status": "closed",
+   "title": "2027 Clark Capital Mentoring/Internship Program",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -23702,6 +23672,47 @@
     "wealth"
    ],
    "url": "https://careers-stifel.icims.com/jobs/9960/tech-product-development-analyst-intern--summer-2027/job",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-10",
+   "company": "TD (incl. TD Wealth)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-08",
+   "first_seen": "2026-11-05",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "TD (incl. TD Wealth)|financial planning delivery excellence intern co op",
+   "group_title": "Financial Planning Delivery Excellence Intern/Co-Op",
+   "hide": "Outside the US",
+   "id": "wd:td:1503307",
+   "last_seen": "2026-11-10",
+   "level": "Undergraduate",
+   "location": "Toronto, Ontario",
+   "misses": 2,
+   "pay": "$23–$33/hr (≈ $48k–$68k/yr)",
+   "posted": "2026-11-05",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Financial Planning Delivery Excellence Intern/Co-Op (Winter 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Financial-Planning-Delivery-Excellence-Intern-Co-Op--Winter-2027-_R_1503307",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"

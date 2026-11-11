@@ -148,7 +148,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-10",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 7,
+   "open": 5,
    "sources": [
     {
      "fail_streak": 0,
@@ -279,7 +279,7 @@
    "hq": "Toronto / Cherry Hill, NJ",
    "last_ok": "2026-11-10",
    "name": "TD (incl. TD Wealth)",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-10",
      "fail_streak": 0,
-     "hash": "ac49b7af03868c1f",
+     "hash": "10c53dfc6f71cb24",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -581,7 +581,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-10",
    "name": "Northern Trust",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -1031,9 +1031,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1166,7 +1167,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-10",
    "name": "Fidelity Investments",
-   "open": 15,
+   "open": 14,
    "sources": [
     {
      "fail_streak": 0,
@@ -1192,7 +1193,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-11-10",
    "name": "Charles Schwab",
-   "open": 3,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -1244,7 +1245,7 @@
    "hq": "St. Petersburg, FL",
    "last_ok": "2026-11-10",
    "name": "Raymond James",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -1507,12 +1508,11 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.hilltopsecurities.com/insight/qa-with-beth-davis-director-and-human-resources-business-partner/",
+     "fail_streak": 1,
      "hash": "141ec77912857372",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.hilltopsecurities.com/careers/"
     },
     {
@@ -1624,7 +1624,7 @@
     {
      "changed_on": "2026-11-10",
      "fail_streak": 0,
-     "hash": "5a3f5aec15a00e1a",
+     "hash": "0b44b85b9cf40da5",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1674,7 +1674,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-10",
    "name": "Cerity Partners",
-   "open": 15,
+   "open": 13,
    "sources": [
     {
      "fail_streak": 0,
@@ -1782,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 141,
+     "fail_streak": 142,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 141,
+     "fail_streak": 142,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1933,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 110,
+     "fail_streak": 111,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 52,
+     "fail_streak": 53,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 141,
+     "fail_streak": 142,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2905,7 +2905,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-10",
    "name": "JLL",
-   "open": 22,
+   "open": 21,
    "sources": [
     {
      "fail_streak": 0,
@@ -3185,7 +3185,7 @@
     {
      "changed_on": "2026-11-10",
      "fail_streak": 0,
-     "hash": "6ec3abcc6f075b03",
+     "hash": "d612c6337c046d95",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3325,7 @@
     {
      "changed_on": "2026-11-10",
      "fail_streak": 0,
-     "hash": "aa71ad5fb869e7c1",
+     "hash": "b299c1cc78d2f63a",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3835,7 +3835,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-10",
    "name": "Link Logistics",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -3860,7 +3860,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 141,
+     "fail_streak": 142,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3889,7 +3889,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 141,
+     "fail_streak": 142,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4161,7 +4161,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4486,7 +4486,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 141,
+     "fail_streak": 142,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4515,7 +4515,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 141,
+     "fail_streak": 142,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4637,11 +4637,11 @@
    "sources": [
     {
      "changed_on": "2026-11-05",
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
+     "fail_streak": 1,
      "hash": "4464396dbc99c744",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.brixmor.com/careers"
     },
     {
@@ -5149,7 +5149,7 @@
     {
      "changed_on": "2026-11-10",
      "fail_streak": 0,
-     "hash": "669ebc0c41c5dfac",
+     "hash": "0d70afc789f708e5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5325,7 +5325,7 @@
     {
      "changed_on": "2026-11-10",
      "fail_streak": 0,
-     "hash": "83fc3cffee51c81a",
+     "hash": "c6915ee77e3cf830",
      "kind": "page",
      "links": [],
      "ok": true,
