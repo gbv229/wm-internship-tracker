@@ -71,7 +71,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-12",
    "name": "J.P. Morgan",
-   "open": 2,
+   "open": 3,
    "sources": [
     {
      "fail_streak": 0,
@@ -226,7 +226,7 @@
    "hq": "Frankfurt / New York",
    "last_ok": "2026-11-12",
    "name": "Deutsche Bank",
-   "open": 7,
+   "open": 8,
    "sources": [
     {
      "fail_streak": 0,
@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "c78595bfbf50f7d2",
+     "hash": "bfd19dc67c6890ff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1166,7 +1166,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-12",
    "name": "Fidelity Investments",
-   "open": 14,
+   "open": 15,
    "sources": [
     {
      "fail_streak": 0,
@@ -1338,7 +1338,7 @@
    "hq": "Milwaukee, WI",
    "last_ok": "2026-11-12",
    "name": "Baird",
-   "open": 24,
+   "open": 26,
    "sources": [
     {
      "fail_streak": 0,
@@ -1445,9 +1445,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-26",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "dffec77c43123b6f",
+     "hash": "35008f2bdec37641",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1622,9 +1622,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-11",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "28c17d3f549adbb0",
+     "hash": "b7e2bfc053392c1e",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1782,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 146,
+     "fail_streak": 147,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 146,
+     "fail_streak": 147,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1872,7 +1872,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "abdb7572faa50916",
+     "hash": "539971c9326ce6b9",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1933,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 115,
+     "fail_streak": 116,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 57,
+     "fail_streak": 58,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 146,
+     "fail_streak": 147,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2848,7 +2848,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "3bba756026cab8d6",
+     "hash": "a2b2f1824ef44fff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3185,7 +3185,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "15610ab871956205",
+     "hash": "6dd97815fe369b52",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3294,7 +3294,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "c7ba06a291cbd604",
+     "hash": "72d7d1caf98d67e6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3325,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "bc32f4411b331b64",
+     "hash": "0f98559821c0f72d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3416,9 +3416,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "e9ec87534790f629",
+     "hash": "ad8086e1a1b0b489",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3711,21 +3711,20 @@
    "open": 2,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "e9fb74c87d7abaa9",
+     "hash": "ca380f96c797a6f4",
      "kind": "page",
      "links": [
-      "2027 Summer Internship – Acquisitions | https://www.heitman.com/jobs/ofOQAfwd/",
-      "2027 Summer Internship – Financial Operations & Analysis | https://www.heitman.com/jobs/osIQAfwk/"
+      "2027 Summer Internship – Acquisitions | https://www.heitman.com/jobs/ofOQAfwd/"
      ],
      "ok": true,
      "url": "https://www.heitman.com/careers/"
     },
     {
      "kind": "browser",
-     "listed": 2,
-     "matched": 2,
+     "listed": 1,
+     "matched": 1,
      "ok": true
     }
    ],
@@ -3860,7 +3859,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 146,
+     "fail_streak": 147,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3889,7 +3888,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 146,
+     "fail_streak": 147,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4161,7 +4160,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 6,
+     "fail_streak": 7,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4486,7 +4485,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 146,
+     "fail_streak": 147,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4515,7 +4514,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 146,
+     "fail_streak": 147,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4638,7 +4637,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4872,7 +4871,7 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-12",
    "name": "John Hancock (Manulife)",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -5199,9 +5198,9 @@
    "open": 4,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "0dc05fc0f04f83c9",
+     "hash": "b099aa4877ffbaa1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5209,8 +5208,8 @@
     },
     {
      "kind": "browser",
-     "listed": 4,
-     "matched": 4,
+     "listed": 2,
+     "matched": 2,
      "ok": true
     }
    ],
@@ -5230,9 +5229,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "ca14ced4a05a714b",
+     "hash": "fb8695e651c9cec5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5325,7 +5324,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "33ac348d94f5245a",
+     "hash": "79ef59c140a49f8d",
      "kind": "page",
      "links": [],
      "ok": true,
