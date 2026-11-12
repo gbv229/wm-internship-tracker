@@ -208,9 +208,10 @@
    "open": 2,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 520 Server Error: <none> for url: https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -384,7 +385,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "d9ad1867a482f1ff",
+     "hash": "b94b930905806917",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1782,7 +1783,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 144,
+     "fail_streak": 145,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1843,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 144,
+     "fail_streak": 145,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1933,7 +1934,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 113,
+     "fail_streak": 114,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1964,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 55,
+     "fail_streak": 56,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1994,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 144,
+     "fail_streak": 145,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2848,7 +2849,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "b059924f2d75dfa3",
+     "hash": "a2b2f1824ef44fff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3185,7 +3186,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "9fb35a04f3e1f637",
+     "hash": "c55a816f2f7174ff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3294,7 +3295,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "b21084638602b51e",
+     "hash": "6058224f957a64d6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3860,7 +3861,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 144,
+     "fail_streak": 145,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3889,7 +3890,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 144,
+     "fail_streak": 145,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4161,7 +4162,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 4,
+     "fail_streak": 5,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4486,7 +4487,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 144,
+     "fail_streak": 145,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4515,7 +4516,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 144,
+     "fail_streak": 145,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4638,7 +4639,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4667,9 +4668,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "fde0b95968f13a50",
+     "hash": "f8c6f7d51e9d5e70",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5325,7 +5326,7 @@
     {
      "changed_on": "2026-11-11",
      "fail_streak": 0,
-     "hash": "55770fe9e85ef589",
+     "hash": "da3345a1b2cad698",
      "kind": "page",
      "links": [],
      "ok": true,
