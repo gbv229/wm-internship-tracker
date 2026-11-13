@@ -2587,6 +2587,48 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|partner development internship",
+   "group_title": "Partner Development Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R1041",
+   "last_seen": "2026-11-13",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-13",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Partner Development Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Chicago-IL/Partner-Development-Internship_R1041",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028,
@@ -3080,7 +3122,7 @@
    "last_seen": "2026-11-13",
    "level": "Undergraduate",
    "location": "US-TX-Austin | US-TX-Westlake",
-   "misses": 0,
+   "misses": 1,
    "pay": "$31/hr",
    "posted": "2026-11-05",
    "region": "",
@@ -7141,7 +7183,7 @@
    "last_seen": "2026-11-13",
    "level": "Undergraduate",
    "location": "Dallas, TX",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-02",
    "region": "US",
@@ -7598,50 +7640,6 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-KeyBank-Corporate-Real-Estate-Summer-Internship---Cleveland--OH_R-42994",
-   "v": 11,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-13",
-   "first_seen": "2026-11-10",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "hide": null,
-   "id": "wd:keybank:R-43108",
-   "last_seen": "2026-11-13",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": "$27/hr",
-   "posted": "2026-11-10",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 Summer Real Estate Capital Internship - New York City CMG",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---New-York-City-CMG_R-43108",
    "v": 11,
    "weeks": 5,
    "work_mode": null
@@ -8728,7 +8726,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d56a9c0da825/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3dd0e953b88/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -8919,7 +8917,7 @@
    "last_seen": "2026-11-13",
    "level": "Undergraduate",
    "location": "New York, NY USA",
-   "misses": 0,
+   "misses": 1,
    "note": "Open to any undergraduate who will still be enrolled in Fall 2027, so sophomores can apply.",
    "pay": null,
    "posted": "2026-10-13",
@@ -20568,6 +20566,51 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
+   "v": 11,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-13",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-13",
+   "first_seen": "2026-11-10",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "hide": null,
+   "id": "wd:keybank:R-43108",
+   "last_seen": "2026-11-13",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": "$27/hr",
+   "posted": "2026-11-10",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Real Estate Capital Internship - New York City CMG",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---New-York-City-CMG_R-43108",
    "v": 11,
    "weeks": 5,
    "work_mode": null
