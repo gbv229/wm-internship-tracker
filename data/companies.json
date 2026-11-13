@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "bfd19dc67c6890ff",
+     "hash": "bf20bf38bfdaf31d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1138,7 +1138,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "aacb95ca8ded1154",
+     "hash": "2e6ce116835254bf",
      "kind": "page",
      "links": [
       "A Summer of Storytelling: Sadie Herr’s WSFS Communications Internship | https://www.wsfsbank.com/resources/a-summer-of-storytelling-sadie-herrs-wsfs-communications-internship/"
@@ -1192,7 +1192,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-11-12",
    "name": "Charles Schwab",
-   "open": 1,
+   "open": 2,
    "sources": [
     {
      "fail_streak": 0,
@@ -1624,7 +1624,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "b7e2bfc053392c1e",
+     "hash": "7456b616b6d5bd8c",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1719,9 +1719,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-05",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "e13ccbe7cc8c5eaf",
+     "hash": "ad37fd9ac1fa68f0",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1782,7 +1782,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 147,
+     "fail_streak": 148,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1810,9 +1810,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-05",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "88fc45fcdbe31c64",
+     "hash": "b64974cdfddceb9d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1842,7 +1842,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 147,
+     "fail_streak": 148,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1933,7 +1933,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 116,
+     "fail_streak": 117,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1963,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 58,
+     "fail_streak": 59,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1993,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 147,
+     "fail_streak": 148,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2815,9 +2815,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-10-13",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "40120a04e0ec99b2",
+     "hash": "76babef0dcc78df5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2848,7 +2848,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "a2b2f1824ef44fff",
+     "hash": "07a97f35a479c611",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2905,7 +2905,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-12",
    "name": "JLL",
-   "open": 23,
+   "open": 21,
    "sources": [
     {
      "fail_streak": 0,
@@ -3185,7 +3185,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "6dd97815fe369b52",
+     "hash": "d331443ebc804f6d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3325,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "0f98559821c0f72d",
+     "hash": "1acbe555e7695bf7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3708,7 +3708,7 @@
    "hq": "Chicago, IL",
    "last_ok": "2026-11-12",
    "name": "Heitman",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "changed_on": "2026-11-12",
@@ -3859,7 +3859,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 147,
+     "fail_streak": 148,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3888,7 +3888,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 147,
+     "fail_streak": 148,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4160,7 +4160,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 7,
+     "fail_streak": 8,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4485,7 +4485,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 147,
+     "fail_streak": 148,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4514,7 +4514,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 147,
+     "fail_streak": 148,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4637,7 +4637,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 6,
+     "fail_streak": 7,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4666,9 +4666,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-11",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "f8c6f7d51e9d5e70",
+     "hash": "6d02429e3c45161c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5022,9 +5022,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-11",
+     "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "6ad80bf84e91701a",
+     "hash": "74865eceae2a1099",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5195,7 +5195,7 @@
    "hq": "Atlanta, GA",
    "last_ok": "2026-11-12",
    "name": "Homrich Berg",
-   "open": 4,
+   "open": 2,
    "sources": [
     {
      "changed_on": "2026-11-12",
@@ -5324,7 +5324,7 @@
     {
      "changed_on": "2026-11-12",
      "fail_streak": 0,
-     "hash": "79ef59c140a49f8d",
+     "hash": "0cf5f8ea498cde1e",
      "kind": "page",
      "links": [],
      "ok": true,
