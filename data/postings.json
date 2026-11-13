@@ -1828,48 +1828,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "Eligibility : Students enrolled in analytics, computational finance, financial engineering, mathematics and/or a quantitative-disciplined master’s program and graduating between September 2027 and July 2028 with relevant pre-master’s work experience",
-   "classes": [],
-   "company": "BlackRock",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-12",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "BlackRock|2027 quantitative masters internship program sales relationship management institutional wealth",
-   "group_title": "2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth",
-   "hide": "Graduate / MBA only",
-   "id": "wd:blackrock:R266475",
-   "last_seen": "2026-11-12",
-   "level": "Graduate/MBA",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Blackstone’s Future Leaders Program is open to students graduating from end-2028 to mid-2029, who are interested in exploring a career in the financial services industry.",
    "classes": [
     2028,
@@ -2284,94 +2242,6 @@
     "wealth"
    ],
    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Atlanta-GA/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-Atlanta_2620157-1",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-12",
-   "first_seen": "2026-10-27",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "CIBC Private Wealth|2027 summer intern private wealth management new york",
-   "group_title": "2027 Summer Intern Private Wealth Management New York",
-   "hide": null,
-   "id": "wd:cibc:2620154",
-   "last_seen": "2026-11-12",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": "$27–$31/hr",
-   "posted": "2026-10-27",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 Summer Intern Private Wealth Management New York",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-New-York_2620154",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-12",
-   "first_seen": "2026-10-27",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "CIBC Private Wealth|2027 summer intern private wealth management new york",
-   "group_title": "2027 Summer Intern Private Wealth Management New York",
-   "hide": null,
-   "id": "wd:cibc:2620154-1",
-   "last_seen": "2026-11-12",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": "$27–$31/hr",
-   "posted": "2026-10-27",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 Summer Intern Private Wealth Management New York",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-New-York_2620154-1",
    "v": 11,
    "weeks": 10,
    "work_mode": "On-site"
@@ -5565,96 +5435,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2029,
-    2030
-   ],
-   "company": "Fifth Third (Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-12",
-   "first_seen": "2026-10-21",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "Fifth Third (Wealth)|wealth and asset management co op full time may 2027 august 2027",
-   "group_title": "Wealth and Asset Management Co-Op  - FULL TIME  May 2027-August 2027",
-   "hide": null,
-   "id": "wd:fifththird:R74090",
-   "last_seen": "2026-11-12",
-   "level": "Undergraduate",
-   "location": "Cincinnati, OH",
-   "misses": 1,
-   "note": "Must be a rising sophomore or junior, so this fits the Class of 2029.",
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "open",
-   "title": "Wealth and Asset Management Co-Op  - FULL TIME  May 2027-August 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Wealth-and-Asset-Management-Co-Op----FULL-TIME--May-2027-August-2027_R74090",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Fifth Third (Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-12",
-   "first_seen": "2026-10-21",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "Fifth Third (Wealth)|wealth and asset management co op full time january 2027 may 2027",
-   "group_title": "Wealth and Asset Management Co-Op - FULL TIME January 2027 - May 2027",
-   "hide": null,
-   "id": "wd:fifththird:R74059",
-   "last_seen": "2026-11-12",
-   "level": "Undergraduate",
-   "location": "Cincinnati, OH",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-21",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Spring 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "open",
-   "title": "Wealth and Asset Management Co-Op - FULL TIME January 2027 - May 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Wealth-and-Asset-Management-Co-Op---FULL-TIME-January-2027---May-2027_R74059",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Goldman Sachs",
@@ -7831,94 +7611,6 @@
    "company_type": "Regional Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-12",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "hide": null,
-   "id": "wd:keybank:R-42077",
-   "last_seen": "2026-11-12",
-   "level": "Undergraduate",
-   "location": "Cleveland, OH",
-   "misses": 1,
-   "pay": "$23/hr",
-   "posted": "2026-10-13",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "open",
-   "title": "2027 Summer Real Estate Capital Internship - Cleveland",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
-   "v": 11,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-11",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "KeyBank|2027 summer real estate capital internship",
-   "group_title": "2027 Summer Real Estate Capital Internship",
-   "hide": null,
-   "id": "wd:keybank:R-42000",
-   "last_seen": "2026-11-12",
-   "level": "Undergraduate",
-   "location": "Denver, CO",
-   "misses": 1,
-   "pay": "$27/hr",
-   "posted": "2026-11-02",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "open",
-   "title": "2027 Summer Real Estate Capital Internship - Denver CDLI",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
-   "v": 11,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
-   "classes": [
-    2028
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-13",
    "first_seen": "2026-11-10",
    "function": "Real Estate (general)",
@@ -7930,7 +7622,7 @@
    "last_seen": "2026-11-13",
    "level": "Undergraduate",
    "location": "New York, NY",
-   "misses": 0,
+   "misses": 1,
    "pay": "$27/hr",
    "posted": "2026-11-10",
    "region": "US",
@@ -9036,7 +8728,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5db2b64b1804/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d56a9c0da825/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -12044,6 +11736,49 @@
    "work_mode": null
   },
   {
+   "class_evidence": "Eligibility : Students enrolled in analytics, computational finance, financial engineering, mathematics and/or a quantitative-disciplined master’s program and graduating between September 2027 and July 2028 with relevant pre-master’s work experience",
+   "classes": [],
+   "closed_on": "2026-11-13",
+   "company": "BlackRock",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-12",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "BlackRock|2027 quantitative masters internship program sales relationship management institutional wealth",
+   "group_title": "2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth",
+   "hide": "Graduate / MBA only",
+   "id": "wd:blackrock:R266475",
+   "last_seen": "2026-11-12",
+   "level": "Graduate/MBA",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-26",
@@ -12375,6 +12110,96 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-13",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-12",
+   "first_seen": "2026-10-27",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management new york",
+   "group_title": "2027 Summer Intern Private Wealth Management New York",
+   "hide": null,
+   "id": "wd:cibc:2620154",
+   "last_seen": "2026-11-12",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": "$27–$31/hr",
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Intern Private Wealth Management New York",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-New-York_2620154",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-13",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-12",
+   "first_seen": "2026-10-27",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management new york",
+   "group_title": "2027 Summer Intern Private Wealth Management New York",
+   "hide": null,
+   "id": "wd:cibc:2620154-1",
+   "last_seen": "2026-11-12",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": "$27–$31/hr",
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Intern Private Wealth Management New York",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/XMLNAME-2027-Summer-Intern-Private-Wealth-Management-New-York_2620154-1",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
@@ -15555,6 +15380,98 @@
    ],
    "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Marketing-Externship-Summer-2027_R71876",
    "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-13",
+   "company": "Fifth Third (Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-12",
+   "first_seen": "2026-10-21",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "Fifth Third (Wealth)|wealth and asset management co op full time may 2027 august 2027",
+   "group_title": "Wealth and Asset Management Co-Op  - FULL TIME  May 2027-August 2027",
+   "hide": null,
+   "id": "wd:fifththird:R74090",
+   "last_seen": "2026-11-12",
+   "level": "Undergraduate",
+   "location": "Cincinnati, OH",
+   "misses": 2,
+   "note": "Must be a rising sophomore or junior, so this fits the Class of 2029.",
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "closed",
+   "title": "Wealth and Asset Management Co-Op  - FULL TIME  May 2027-August 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Wealth-and-Asset-Management-Co-Op----FULL-TIME--May-2027-August-2027_R74090",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-13",
+   "company": "Fifth Third (Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-12",
+   "first_seen": "2026-10-21",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "Fifth Third (Wealth)|wealth and asset management co op full time january 2027 may 2027",
+   "group_title": "Wealth and Asset Management Co-Op - FULL TIME January 2027 - May 2027",
+   "hide": null,
+   "id": "wd:fifththird:R74059",
+   "last_seen": "2026-11-12",
+   "level": "Undergraduate",
+   "location": "Cincinnati, OH",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-21",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Spring 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "closed",
+   "title": "Wealth and Asset Management Co-Op - FULL TIME January 2027 - May 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Wealth-and-Asset-Management-Co-Op---FULL-TIME-January-2027---May-2027_R74059",
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -20525,6 +20442,51 @@
    "classes": [
     2028
    ],
+   "closed_on": "2026-11-13",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-12",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "hide": null,
+   "id": "wd:keybank:R-42077",
+   "last_seen": "2026-11-12",
+   "level": "Undergraduate",
+   "location": "Cleveland, OH",
+   "misses": 2,
+   "pay": "$23/hr",
+   "posted": "2026-10-13",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Real Estate Capital Internship - Cleveland",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
+   "v": 11,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
    "closed_on": "2026-11-10",
    "company": "KeyBank",
    "company_type": "Regional Bank",
@@ -20561,6 +20523,51 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Dallas-TX/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Dallas_R-42276",
+   "v": 11,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Must have completed at least two years toward a four-year, undergraduate degree program with coursework in finance, real estate or a related field with an anticipated graduation in or before May of 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-13",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "KeyBank|2027 summer real estate capital internship",
+   "group_title": "2027 Summer Real Estate Capital Internship",
+   "hide": null,
+   "id": "wd:keybank:R-42000",
+   "last_seen": "2026-11-12",
+   "level": "Undergraduate",
+   "location": "Denver, CO",
+   "misses": 2,
+   "pay": "$27/hr",
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Real Estate Capital Internship - Denver CDLI",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
    "v": 11,
    "weeks": 5,
    "work_mode": null
