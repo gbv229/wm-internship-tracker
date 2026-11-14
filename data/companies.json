@@ -96,10 +96,9 @@
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
      "fail_streak": 0,
@@ -125,15 +124,14 @@
    "domain": "wellsfargo.com",
    "focus": "mixed",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Wells Fargo",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -148,15 +146,14 @@
    "domain": "citi.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 4,
+   "open": 5,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -250,7 +247,7 @@
    "hq": "Toronto / Minneapolis",
    "last_ok": "2026-11-14",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "open": 5,
+   "open": 4,
    "sources": [
     {
      "fail_streak": 0,
@@ -387,7 +384,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "3dcabc4ef5f319a7",
+     "hash": "451fbaab6646e6be",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -582,15 +579,14 @@
    "domain": "northerntrust.com",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Northern Trust",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -817,15 +813,14 @@
    "domain": "pnc.com",
    "focus": "mixed",
    "hq": "Pittsburgh, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "PNC (PNC Private Bank)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -840,15 +835,14 @@
    "domain": "truist.com",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Truist (Truist Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -863,15 +857,14 @@
    "domain": "usbank.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "U.S. Bank (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -945,15 +938,14 @@
    "domain": "53.com",
    "focus": "mixed",
    "hq": "Cincinnati, OH",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Fifth Third (Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1018,7 +1010,7 @@
    "sources": [
     {
      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "workday",
      "ok": false
     }
@@ -1035,15 +1027,14 @@
    "domain": "associatedbank.com",
    "focus": "mixed",
    "hq": "Green Bay, WI",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Associated Bank (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1174,21 +1165,19 @@
    "domain": "fidelity.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Fidelity Investments",
-   "open": 12,
+   "open": 14,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1254,21 +1243,19 @@
    "domain": "raymondjames.com",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Raymond James",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1282,15 +1269,14 @@
    "domain": "ameriprise.com",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Ameriprise Financial",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1351,15 +1337,14 @@
    "domain": "rwbaird.com",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Baird",
    "open": 26,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1570,15 +1555,14 @@
    "domain": "osaic.com",
    "focus": "wealth",
    "hq": "Phoenix, AZ",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Osaic",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1613,15 +1597,14 @@
    "domain": "seic.com",
    "focus": "mixed",
    "hq": "Oaks, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "SEI",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1800,7 +1783,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 154,
+     "fail_streak": 155,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1860,7 +1843,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 154,
+     "fail_streak": 155,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1890,7 +1873,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "ab08905cea2734f5",
+     "hash": "fae126671ceba0e3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1951,7 +1934,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 123,
+     "fail_streak": 124,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1981,7 +1964,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 65,
+     "fail_streak": 66,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -2011,7 +1994,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 154,
+     "fail_streak": 155,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2138,15 +2121,14 @@
    "domain": "massmutual.com",
    "focus": "mixed",
    "hq": "Springfield, MA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "MassMutual",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2163,7 +2145,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-14",
    "name": "Guardian Life",
-   "open": 1,
+   "open": 0,
    "sources": [
     {
      "fail_streak": 0,
@@ -2188,7 +2170,7 @@
    "sources": [
     {
      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "workday",
      "ok": false
     }
@@ -2246,15 +2228,14 @@
    "domain": "nationwide.com",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Nationwide",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2268,15 +2249,14 @@
    "domain": "usaa.com",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "USAA",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2394,15 +2374,14 @@
    "domain": "vanguard.com",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Vanguard",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2416,21 +2395,19 @@
    "domain": "blackrock.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "BlackRock",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2445,21 +2422,19 @@
    "domain": "alliancebernstein.com",
    "focus": "mixed",
    "hq": "Nashville, TN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "AllianceBernstein (Bernstein Private Wealth)",
    "open": 6,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2494,15 +2469,14 @@
    "domain": "capitalgroup.com",
    "focus": "mixed",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Capital Group",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2516,15 +2490,14 @@
    "domain": "franklintempleton.com",
    "focus": "mixed",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Franklin Templeton",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 520 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/invitation-only/jobs",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2538,21 +2511,19 @@
    "domain": "invesco.com",
    "focus": "mixed",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Invesco",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2630,15 +2601,14 @@
    "domain": "statestreet.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "State Street",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2652,15 +2622,14 @@
    "domain": "tiaa.org",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "TIAA / Nuveen",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2675,15 +2644,14 @@
    "domain": "pimco.com",
    "focus": "mixed",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "PIMCO",
-   "open": 4,
+   "open": 3,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2719,15 +2687,14 @@
    "domain": "orion.com",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Orion",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2883,7 +2850,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "a2b2f1824ef44fff",
+     "hash": "3bba756026cab8d6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2938,15 +2905,14 @@
    "domain": "jll.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "JLL",
    "open": 21,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2960,15 +2926,14 @@
    "domain": "cushmanwakefield.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Cushman & Wakefield",
    "open": 19,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3222,7 +3187,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "0cbf5068afcaa0a1",
+     "hash": "5c0bd8330b7ac38e",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3246,21 +3211,19 @@
    "domain": "costargroup.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "CoStar Group",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3364,7 +3327,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "bc32f4411b331b64",
+     "hash": "6b7a9a824b4d3002",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3481,15 +3444,14 @@
    "domain": "fanniemae.com",
    "focus": "mixed",
    "hq": "Washington, DC",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Fannie Mae (Multifamily)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3545,15 +3507,14 @@
    "domain": "firstam.com",
    "focus": "mixed",
    "hq": "Santa Ana, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "First American",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3594,7 +3555,7 @@
    "sources": [
     {
      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "workday",
      "ok": false
     }
@@ -3610,15 +3571,14 @@
    "domain": "aresmgmt.com",
    "focus": "mixed",
    "hq": "Los Angeles / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Ares Management (Real Estate)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3902,7 +3862,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 154,
+     "fail_streak": 155,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3931,7 +3891,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 154,
+     "fail_streak": 155,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4203,7 +4163,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4247,15 +4207,14 @@
    "domain": "lennar.com",
    "focus": "real_estate",
    "hq": "Miami, FL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Lennar",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4269,15 +4228,14 @@
    "domain": "pultegroup.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "PulteGroup",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4356,15 +4314,14 @@
    "domain": "simon.com",
    "focus": "real_estate",
    "hq": "Indianapolis, IN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Simon Property Group",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4531,7 +4488,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 154,
+     "fail_streak": 155,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4560,7 +4517,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 154,
+     "fail_streak": 155,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4683,7 +4640,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 13,
+     "fail_streak": 14,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4894,15 +4851,14 @@
    "domain": "corebridgefinancial.com",
    "focus": "mixed",
    "hq": "Houston, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Corebridge Financial",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 3,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -5371,7 +5327,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "8146403a219e0ac4",
+     "hash": "fdf635abce9aa65b",
      "kind": "page",
      "links": [],
      "ok": true,
