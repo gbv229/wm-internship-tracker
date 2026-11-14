@@ -3105,48 +3105,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Charles Schwab",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-11",
-   "first_seen": "2026-11-05",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Charles Schwab|2027 retail investor services intern",
-   "group_title": "2027 Retail Investor Services Intern",
-   "hide": null,
-   "id": "ic:career-schwab:126260",
-   "last_seen": "2026-11-13",
-   "level": "Undergraduate",
-   "location": "US-TX-Austin | US-TX-Westlake",
-   "misses": 1,
-   "pay": "$31/hr",
-   "posted": "2026-11-05",
-   "region": "",
-   "regions": [
-    "Southwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "icims",
-   "sponsorship": null,
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 Retail Investor Services Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://career-schwab.icims.com/jobs/126260/2027-retail-investor-services-intern/job",
-   "v": 11,
-   "weeks": 9,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- You are in your penultimate year of university pursuing a degree in any discipline (graduating between Dec 2027 - June 2028),",
    "classes": [
     2028
@@ -8726,7 +8684,7 @@
    "tracks": [
     "early"
    ],
-   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3dd0e953b88/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b3912077e44f/candidate/so/pm/1/pl/1/opp/20895-2027-Sustainable-Finance-Fellowship-Program/en-GB",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -13248,6 +13206,49 @@
    "url": "https://career-schwab.icims.com/jobs/126247/2027-ria-intern/job",
    "v": 11,
    "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-13",
+   "company": "Charles Schwab",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-11",
+   "first_seen": "2026-11-05",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Charles Schwab|2027 retail investor services intern",
+   "group_title": "2027 Retail Investor Services Intern",
+   "hide": null,
+   "id": "ic:career-schwab:126260",
+   "last_seen": "2026-11-13",
+   "level": "Undergraduate",
+   "location": "US-TX-Austin | US-TX-Westlake",
+   "misses": 2,
+   "pay": "$31/hr",
+   "posted": "2026-11-05",
+   "region": "",
+   "regions": [
+    "Southwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "icims",
+   "sponsorship": null,
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 Retail Investor Services Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://career-schwab.icims.com/jobs/126260/2027-retail-investor-services-intern/job",
+   "v": 11,
+   "weeks": 9,
    "work_mode": "On-site"
   },
   {

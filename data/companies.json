@@ -10,9 +10,10 @@
    "open": 6,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "fail_streak": 0,
@@ -96,9 +97,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/us-emplsv/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "fail_streak": 0,
@@ -148,12 +150,13 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-13",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 5,
+   "open": 4,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -384,7 +387,7 @@
     {
      "changed_on": "2026-11-13",
      "fail_streak": 0,
-     "hash": "1be42ae8a9e3b78b",
+     "hash": "fadecb638d2426f1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -584,9 +587,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -626,9 +630,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/BBH/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -647,9 +652,10 @@
    "open": 2,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/wtexternal/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -668,9 +674,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/Primary-External-1/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -818,9 +825,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -840,9 +848,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -862,9 +871,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -884,14 +894,16 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/Campus/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/MTB/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -943,9 +955,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://fifththird.wd5.myworkdayjobs.com/wday/cxs/fifththird/53careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -965,9 +978,10 @@
    "open": 7,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/External_Career_Site/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1009,9 +1023,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/regions_careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1031,9 +1046,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1052,9 +1068,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://frostbank.wd5.myworkdayjobs.com/wday/cxs/frostbank/External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1166,17 +1183,19 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-13",
    "name": "Fidelity Investments",
-   "open": 14,
+   "open": 12,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/targeted/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1192,7 +1211,7 @@
    "hq": "Westlake, TX",
    "last_ok": "2026-11-13",
    "name": "Charles Schwab",
-   "open": 2,
+   "open": 1,
    "sources": [
     {
      "fail_streak": 0,
@@ -1247,14 +1266,16 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1273,9 +1294,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1294,14 +1316,16 @@
    "open": 5,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/university/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1341,9 +1365,10 @@
    "open": 26,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://baird.wd1.myworkdayjobs.com/wday/cxs/baird/careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1559,9 +1584,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://advisorgroup.wd1.myworkdayjobs.com/wday/cxs/advisorgroup/advisor_career_site/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1601,9 +1627,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://seic.wd1.myworkdayjobs.com/wday/cxs/seic/SEI_Global_Services/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1782,7 +1809,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 151,
+     "fail_streak": 152,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1812,7 +1839,7 @@
     {
      "changed_on": "2026-11-13",
      "fail_streak": 0,
-     "hash": "88fc45fcdbe31c64",
+     "hash": "a5445d730e738275",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1842,7 +1869,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 151,
+     "fail_streak": 152,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1901,9 +1928,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-11",
+     "changed_on": "2026-11-13",
      "fail_streak": 0,
-     "hash": "fb205afc33c9fae0",
+     "hash": "bcc000a8092c5b3d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1933,7 +1960,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 120,
+     "fail_streak": 121,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1990,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 62,
+     "fail_streak": 63,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +2020,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 151,
+     "fail_streak": 152,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2083,9 +2110,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://northwesternmutual.wd5.myworkdayjobs.com/wday/cxs/northwesternmutual/corporate-careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "changed_on": null,
@@ -2125,9 +2153,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://massmutual.wd1.myworkdayjobs.com/wday/cxs/massmutual/MMCareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2147,9 +2176,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://guardianlife.wd5.myworkdayjobs.com/wday/cxs/guardianlife/guardian-life-careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2168,9 +2198,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2189,9 +2220,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://thrivent.wd5.myworkdayjobs.com/wday/cxs/thrivent/external/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2231,9 +2263,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2252,9 +2285,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/USAAJOBSWD/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2377,9 +2411,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2398,14 +2433,16 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Early_Careers_Program/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2425,14 +2462,16 @@
    "open": 6,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/abcampuscareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2451,9 +2490,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2472,9 +2512,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2493,9 +2534,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/invitation-only/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2514,14 +2556,16 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZearlycareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2541,9 +2585,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://nb.wd1.myworkdayjobs.com/wday/cxs/nb/NBCareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2562,9 +2607,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/dfa_careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2583,9 +2629,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/Campus/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2604,9 +2651,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2625,9 +2673,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2647,9 +2696,10 @@
    "open": 4,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2668,9 +2718,10 @@
    "open": 6,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2690,9 +2741,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://orionadvisor.wd1.myworkdayjobs.com/wday/cxs/orionadvisor/Orion_Careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2908,9 +2960,10 @@
    "open": 21,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2929,9 +2982,10 @@
    "open": 19,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/external/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3185,7 +3239,7 @@
     {
      "changed_on": "2026-11-13",
      "fail_streak": 0,
-     "hash": "704d0a877abfd238",
+     "hash": "965c9e286a0fc1e6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3214,14 +3268,16 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/Costar_Campus/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/CoStarCareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3271,9 +3327,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://walkerdunlop.wd1.myworkdayjobs.com/wday/cxs/walkerdunlop/WD/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3292,9 +3349,9 @@
    "open": 2,
    "sources": [
     {
-     "changed_on": "2026-11-12",
+     "changed_on": "2026-11-13",
      "fail_streak": 0,
-     "hash": "72d7d1caf98d67e6",
+     "hash": "3c15fe3ff992d35d",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3325,7 +3382,7 @@
     {
      "changed_on": "2026-11-13",
      "fail_streak": 0,
-     "hash": "0f98559821c0f72d",
+     "hash": "63811a728378e800",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3447,9 +3504,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3468,9 +3526,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://freddiemac.wd5.myworkdayjobs.com/wday/cxs/freddiemac/External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3510,9 +3569,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://firstam.wd1.myworkdayjobs.com/wday/cxs/firstam/firstamericancareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3531,9 +3591,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3552,9 +3613,10 @@
    "open": 2,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/pgim_careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3573,9 +3635,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://aresmgmt.wd1.myworkdayjobs.com/wday/cxs/aresmgmt/External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3594,9 +3657,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3837,9 +3901,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://linklogistics.wd5.myworkdayjobs.com/wday/cxs/linklogistics/Link/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3859,7 +3924,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 151,
+     "fail_streak": 152,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3888,7 +3953,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 151,
+     "fail_streak": 152,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4033,9 +4098,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://gables.wd5.myworkdayjobs.com/wday/cxs/gables/Gables_Careers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4054,9 +4120,10 @@
    "open": 6,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://ryancompanies.wd5.myworkdayjobs.com/wday/cxs/ryancompanies/ryancompanies/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4159,18 +4226,17 @@
    "sources": [
     {
      "changed_on": "2026-10-31",
-     "fail_streak": 0,
+     "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
+     "fail_streak": 1,
      "hash": "3973e022e93220f9",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.coniferllc.com/careers/"
     },
     {
+     "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.coniferllc.com/careers/\nCall log:\n  - navigating to \"https://www.coniferllc.com/careers/\", waiting until \"domcontentloaded\"\n",
      "kind": "browser",
-     "listed": 0,
-     "matched": 0,
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4210,9 +4276,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/Lennar_Jobs/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4231,9 +4298,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://pultegroup.wd1.myworkdayjobs.com/wday/cxs/pultegroup/PGI/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4317,9 +4385,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://simon.wd1.myworkdayjobs.com/wday/cxs/simon/Simon/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4401,9 +4470,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://extraspace.wd5.myworkdayjobs.com/wday/cxs/extraspace/ESS_External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4422,9 +4492,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://essex.wd5.myworkdayjobs.com/wday/cxs/essex/essexcareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4486,7 +4557,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 151,
+     "fail_streak": 152,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4515,7 +4586,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 151,
+     "fail_streak": 152,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4638,7 +4709,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 10,
+     "fail_streak": 11,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4812,9 +4883,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://americancentury.wd5.myworkdayjobs.com/wday/cxs/americancentury/AmericanCenturyInvestments/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4833,9 +4905,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://godirect.wd5.myworkdayjobs.com/wday/cxs/godirect/voya_jobs/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4854,9 +4927,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://corebridgefinancial.wd1.myworkdayjobs.com/wday/cxs/corebridgefinancial/CorebridgeFinancial/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4896,9 +4970,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://countryfinancial.wd5.myworkdayjobs.com/wday/cxs/countryfinancial/COUNTRYCorporateInternships/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4917,9 +4992,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "HTTPError: 521 Server Error: <none> for url: https://fei.wd5.myworkdayjobs.com/wday/cxs/fei/External/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -5325,7 +5401,7 @@
     {
      "changed_on": "2026-11-13",
      "fail_streak": 0,
-     "hash": "0f855c0fcacce283",
+     "hash": "2ccb3cd8d0081ee7",
      "kind": "page",
      "links": [],
      "ok": true,
