@@ -5,13 +5,13 @@
    "domain": "morganstanley.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Morgan Stanley",
    "open": 6,
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
@@ -33,7 +33,7 @@
    "domain": "gs.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Goldman Sachs",
    "open": 17,
    "sources": [
@@ -70,7 +70,7 @@
    "domain": "jpmorgan.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "J.P. Morgan",
    "open": 3,
    "sources": [
@@ -92,13 +92,13 @@
    "domain": "bankofamerica.com",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Bank of America / Merrill",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/us-emplsv/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
@@ -131,9 +131,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -154,7 +155,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -171,7 +172,7 @@
    "domain": "ubs.com",
    "focus": "mixed",
    "hq": "Zurich / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "UBS",
    "open": 1,
    "sources": [
@@ -211,9 +212,10 @@
    "open": 2,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -232,9 +234,10 @@
    "open": 8,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -253,19 +256,22 @@
    "open": 5,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -285,9 +291,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -307,14 +314,16 @@
    "open": 4,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -333,9 +342,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -349,7 +359,7 @@
    "domain": "hsbc.com",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "HSBC",
    "open": 3,
    "sources": [
@@ -380,14 +390,14 @@
    "domain": "bmo.com",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "BMO (incl. BMO Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "fadecb638d2426f1",
+     "hash": "6dd7304b129b7f4f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -416,9 +426,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -432,7 +443,7 @@
    "domain": "jefferies.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Jefferies (Private Wealth)",
    "open": 0,
    "sources": [
@@ -454,7 +465,7 @@
    "domain": "lazard.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Lazard (Lazard Wealth Management)",
    "open": 8,
    "sources": [
@@ -475,7 +486,7 @@
    "domain": "rothschildandco.com",
    "focus": "mixed",
    "hq": "Paris / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Rothschild & Co (Wealth Mgmt)",
    "open": 7,
    "sources": [
@@ -509,7 +520,7 @@
    "domain": "evercore.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Evercore Wealth Management",
    "open": 0,
    "sources": [
@@ -540,7 +551,7 @@
    "domain": "williamblair.com",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "William Blair (Private Wealth)",
    "open": 0,
    "sources": [
@@ -561,7 +572,7 @@
    "domain": "pipersandler.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Piper Sandler",
    "open": 0,
    "sources": [
@@ -588,7 +599,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -604,7 +615,7 @@
    "domain": "bny.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "BNY (incl. BNY Wealth)",
    "open": 0,
    "sources": [
@@ -631,7 +642,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/BBH/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -653,7 +664,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/wtexternal/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -675,7 +686,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/Primary-External-1/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -691,7 +702,7 @@
    "domain": "bessemertrust.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Bessemer Trust",
    "open": 0,
    "sources": [
@@ -725,7 +736,7 @@
    "domain": "glenmede.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Glenmede",
    "open": 0,
    "sources": [
@@ -756,7 +767,7 @@
    "domain": "brownadvisory.com",
    "focus": "wealth",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Brown Advisory",
    "open": 0,
    "sources": [
@@ -789,7 +800,7 @@
    "domain": "firstcitizens.com",
    "focus": "mixed",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "First Citizens (Wealth)",
    "open": 0,
    "sources": [
@@ -826,7 +837,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -849,7 +860,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -872,7 +883,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -895,13 +906,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/Campus/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/MTB/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -918,7 +929,7 @@
    "domain": "citizensbank.com",
    "focus": "mixed",
    "hq": "Providence, RI",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Citizens (Private Wealth)",
    "open": 1,
    "sources": [
@@ -956,7 +967,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://fifththird.wd5.myworkdayjobs.com/wday/cxs/fifththird/53careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -979,7 +990,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/External_Career_Site/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -996,7 +1007,7 @@
    "domain": "huntington.com",
    "focus": "mixed",
    "hq": "Columbus, OH",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Huntington (Private Bank)",
    "open": 0,
    "sources": [
@@ -1024,7 +1035,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/regions_careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1047,7 +1058,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1069,7 +1080,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://frostbank.wd5.myworkdayjobs.com/wday/cxs/frostbank/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1085,7 +1096,7 @@
    "domain": "fultonbank.com",
    "focus": "mixed",
    "hq": "Lancaster, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Fulton Bank (Fulton Private Bank)",
    "open": 0,
    "sources": [
@@ -1117,7 +1128,7 @@
    "domain": "univest.net",
    "focus": "mixed",
    "hq": "Souderton, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Univest (Wealth)",
    "open": 0,
    "sources": [
@@ -1148,7 +1159,7 @@
    "domain": "wsfsbank.com",
    "focus": "mixed",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "WSFS / Bryn Mawr Trust",
    "open": 0,
    "sources": [
@@ -1187,13 +1198,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/targeted/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1209,7 +1220,7 @@
    "domain": "schwab.com",
    "focus": "wealth",
    "hq": "Westlake, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Charles Schwab",
    "open": 1,
    "sources": [
@@ -1230,7 +1241,7 @@
    "domain": "edwardjones.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Edward Jones",
    "open": 1,
    "sources": [
@@ -1267,13 +1278,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1295,7 +1306,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1317,13 +1328,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/university/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1339,7 +1350,7 @@
    "domain": "stifel.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Stifel",
    "open": 3,
    "sources": [
@@ -1366,7 +1377,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://baird.wd1.myworkdayjobs.com/wday/cxs/baird/careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1382,7 +1393,7 @@
    "domain": "rockco.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Rockefeller Capital Management",
    "open": 1,
    "sources": [
@@ -1403,7 +1414,7 @@
    "domain": "oppenheimer.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Oppenheimer & Co.",
    "open": 0,
    "sources": [
@@ -1434,7 +1445,7 @@
    "domain": "janney.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Janney Montgomery Scott",
    "open": 0,
    "sources": [
@@ -1465,7 +1476,7 @@
    "domain": "dadavidson.com",
    "focus": "wealth",
    "hq": "Great Falls, MT",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "D.A. Davidson",
    "open": 0,
    "sources": [
@@ -1496,7 +1507,7 @@
    "domain": "stephens.com",
    "focus": "mixed",
    "hq": "Little Rock, AR",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Stephens",
    "open": 1,
    "sources": [
@@ -1527,7 +1538,7 @@
    "domain": "hilltopsecurities.com",
    "focus": "mixed",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Hilltop Securities",
    "open": 0,
    "sources": [
@@ -1558,7 +1569,7 @@
    "domain": "joincambridge.com",
    "focus": "wealth",
    "hq": "Fairfield, IA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Cambridge Investment Research",
    "open": 1,
    "sources": [
@@ -1585,7 +1596,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://advisorgroup.wd1.myworkdayjobs.com/wday/cxs/advisorgroup/advisor_career_site/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1601,7 +1612,7 @@
    "domain": "cetera.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Cetera Financial Group",
    "open": 0,
    "sources": [
@@ -1628,7 +1639,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://seic.wd1.myworkdayjobs.com/wday/cxs/seic/SEI_Global_Services/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1644,14 +1655,14 @@
    "domain": "creativeplanning.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Creative Planning",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "49b77bbd5be2e234",
+     "hash": "b19aaea7a082d3cd",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1678,7 +1689,7 @@
    "domain": "captrust.com",
    "focus": "wealth",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "CAPTRUST",
    "open": 0,
    "sources": [
@@ -1699,7 +1710,7 @@
    "domain": "ceritypartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Cerity Partners",
    "open": 15,
    "sources": [
@@ -1720,7 +1731,7 @@
    "domain": "focusfinancialpartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Focus Financial Partners",
    "open": 0,
    "sources": [
@@ -1741,7 +1752,7 @@
    "domain": "mariner.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Mariner",
    "open": 0,
    "sources": [
@@ -1772,7 +1783,7 @@
    "domain": "cressetcapital.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Cresset",
    "open": 0,
    "sources": [
@@ -1803,13 +1814,13 @@
    "domain": "hightoweradvisors.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Hightower Advisors",
    "open": 1,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 152,
+     "fail_streak": 153,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1832,7 +1843,7 @@
    "domain": "wealthenhancement.com",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Wealth Enhancement Group",
    "open": 0,
    "sources": [
@@ -1863,13 +1874,13 @@
    "domain": "sanctuarywealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Sanctuary Wealth",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 152,
+     "fail_streak": 153,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1892,14 +1903,14 @@
    "domain": "carsongroup.com",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Carson Group",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "ae10bcf1447bfbed",
+     "hash": "ab08905cea2734f5",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1923,7 +1934,7 @@
    "domain": "merceradvisors.com",
    "focus": "wealth",
    "hq": "Denver, CO",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Mercer Advisors",
    "open": 0,
    "sources": [
@@ -1954,13 +1965,13 @@
    "domain": "edelmanfinancialengines.com",
    "focus": "wealth",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Edelman Financial Engines",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 121,
+     "fail_streak": 122,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1984,13 +1995,13 @@
    "domain": "fisherinvestments.com",
    "focus": "wealth",
    "hq": "Plano, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Fisher Investments",
    "open": 0,
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 63,
+     "fail_streak": 64,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -2014,13 +2025,13 @@
    "domain": "savantwealth.com",
    "focus": "wealth",
    "hq": "Rockford, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Savant Wealth Management",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 152,
+     "fail_streak": 153,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2043,7 +2054,7 @@
    "domain": "dynastyfinancial.com",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Dynasty Financial Partners",
    "open": 0,
    "sources": [
@@ -2074,7 +2085,7 @@
    "domain": "silvercrestgroup.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Silvercrest Asset Management",
    "open": 3,
    "sources": [
@@ -2105,13 +2116,13 @@
    "domain": "northwesternmutual.com",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Northwestern Mutual",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://northwesternmutual.wd5.myworkdayjobs.com/wday/cxs/northwesternmutual/corporate-careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
@@ -2154,7 +2165,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://massmutual.wd1.myworkdayjobs.com/wday/cxs/massmutual/MMCareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2177,7 +2188,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://guardianlife.wd5.myworkdayjobs.com/wday/cxs/guardianlife/guardian-life-careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2199,7 +2210,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2221,7 +2232,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://thrivent.wd5.myworkdayjobs.com/wday/cxs/thrivent/external/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2237,7 +2248,7 @@
    "domain": "securian.com",
    "focus": "mixed",
    "hq": "St. Paul, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Securian Financial",
    "open": 0,
    "sources": [
@@ -2264,7 +2275,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2286,7 +2297,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/USAAJOBSWD/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2302,7 +2313,7 @@
    "domain": "newyorklife.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "New York Life",
    "open": 0,
    "sources": [
@@ -2336,7 +2347,7 @@
    "domain": "principal.com",
    "focus": "mixed",
    "hq": "Des Moines, IA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Principal Financial Group",
    "open": 0,
    "sources": [
@@ -2370,27 +2381,22 @@
    "domain": "lincolnfinancial.com",
    "focus": "mixed",
    "hq": "Radnor, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Lincoln Financial",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "bcc0033116b329d5",
+     "hash": "6affc4dcc91a731d",
      "kind": "page",
-     "links": [
-      "Actuarial Internship Program Jobs | https://jobs.lincolnfinancial.com/go/Actuarial-Internship-Program/7745300/",
-      "Actuarial Internship Program | https://jobs.lincolnfinancial.com/go/Actuarial-Internship-Program/7745300/",
-      "Internship Development Program | https://jobs.lincolnfinancial.com/go/Internship-Jobs/2254900/",
-      "Internship Jobs | https://jobs.lincolnfinancial.com/go/Internship-Jobs/2254900/"
-     ],
+     "links": [],
      "ok": true,
      "url": "https://jobs.lincolnfinancial.com/"
     },
     {
      "kind": "browser",
-     "listed": 2,
+     "listed": 0,
      "matched": 0,
      "ok": true
     }
@@ -2412,7 +2418,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2434,13 +2440,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Early_Careers_Program/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2463,13 +2469,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/abcampuscareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2491,7 +2497,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2513,7 +2519,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2535,7 +2541,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/invitation-only/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2557,13 +2563,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZearlycareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2586,7 +2592,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://nb.wd1.myworkdayjobs.com/wday/cxs/nb/NBCareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2608,7 +2614,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/dfa_careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2630,7 +2636,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/Campus/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2652,7 +2658,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2674,7 +2680,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2697,7 +2703,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2719,7 +2725,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2742,7 +2748,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://orionadvisor.wd1.myworkdayjobs.com/wday/cxs/orionadvisor/Orion_Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2758,7 +2764,7 @@
    "domain": "addepar.com",
    "focus": "wealth",
    "hq": "Mountain View, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Addepar",
    "open": 3,
    "sources": [
@@ -2779,7 +2785,7 @@
    "domain": "range.com",
    "focus": "wealth",
    "hq": "McLean, VA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Range",
    "open": 0,
    "sources": [
@@ -2800,7 +2806,7 @@
    "domain": "wealthfront.com",
    "focus": "wealth",
    "hq": "Palo Alto, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Wealthfront",
    "open": 0,
    "sources": [
@@ -2831,17 +2837,17 @@
    "domain": "betterment.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Betterment",
    "open": 0,
    "sources": [
     {
      "changed_on": "2026-11-04",
-     "fail_streak": 0,
+     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.betterment.com/careers",
+     "fail_streak": 1,
      "hash": "9f0c143f5cffba36",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.betterment.com/careers"
     },
     {
@@ -2862,7 +2868,7 @@
    "domain": "altruist.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Altruist",
    "open": 0,
    "sources": [
@@ -2893,7 +2899,7 @@
    "domain": "farther.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Farther",
    "open": 0,
    "sources": [
@@ -2924,7 +2930,7 @@
    "domain": "cbre.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "CBRE (incl. Trammell Crow Company)",
    "open": 0,
    "sources": [
@@ -2961,7 +2967,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2983,7 +2989,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/external/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3004,9 +3010,10 @@
    "open": 8,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3020,7 +3027,7 @@
    "domain": "nmrk.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Newmark",
    "open": 1,
    "sources": [
@@ -3041,7 +3048,7 @@
    "domain": "avisonyoung.com",
    "focus": "real_estate",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Avison Young",
    "open": 0,
    "sources": [
@@ -3077,7 +3084,7 @@
    "domain": "marcusmillichap.com",
    "focus": "real_estate",
    "hq": "Calabasas, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Marcus & Millichap",
    "open": 0,
    "sources": [
@@ -3108,7 +3115,7 @@
    "domain": "eastdilsecured.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Eastdil Secured",
    "open": 1,
    "sources": [
@@ -3139,7 +3146,7 @@
    "domain": "savills.com",
    "focus": "real_estate",
    "hq": "London / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Savills",
    "open": 0,
    "sources": [
@@ -3170,7 +3177,7 @@
    "domain": "kidder.com",
    "focus": "real_estate",
    "hq": "Seattle, WA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Kidder Mathews",
    "open": 0,
    "sources": [
@@ -3201,7 +3208,7 @@
    "domain": "lee-associates.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Lee & Associates",
    "open": 0,
    "sources": [
@@ -3232,14 +3239,14 @@
    "domain": "altusgroup.com",
    "focus": "real_estate",
    "hq": "Toronto / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Altus Group (ARGUS)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "965c9e286a0fc1e6",
+     "hash": "108178df69693fe1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3269,13 +3276,13 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/Costar_Campus/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/CoStarCareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3291,7 +3298,7 @@
    "domain": "trepp.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Trepp",
    "open": 0,
    "sources": [
@@ -3328,7 +3335,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://walkerdunlop.wd1.myworkdayjobs.com/wday/cxs/walkerdunlop/WD/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3344,14 +3351,14 @@
    "domain": "berkadia.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Berkadia",
    "open": 2,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "3c15fe3ff992d35d",
+     "hash": "307752e5cc6ad25f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3375,14 +3382,14 @@
    "domain": "greystone.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Greystone",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "63811a728378e800",
+     "hash": "1acbe555e7695bf7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3406,7 +3413,7 @@
    "domain": "northmarq.com",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Northmarq",
    "open": 0,
    "sources": [
@@ -3437,7 +3444,7 @@
    "domain": "trimont.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Trimont",
    "open": 0,
    "sources": [
@@ -3468,7 +3475,7 @@
    "domain": "arbor.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Arbor Realty Trust",
    "open": 0,
    "sources": [
@@ -3505,7 +3512,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3527,7 +3534,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://freddiemac.wd5.myworkdayjobs.com/wday/cxs/freddiemac/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3543,7 +3550,7 @@
    "domain": "capitalone.com",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Capital One (Commercial Real Estate)",
    "open": 0,
    "sources": [
@@ -3570,7 +3577,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://firstam.wd1.myworkdayjobs.com/wday/cxs/firstam/firstamericancareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3592,7 +3599,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3614,7 +3621,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/pgim_careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3636,7 +3643,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://aresmgmt.wd1.myworkdayjobs.com/wday/cxs/aresmgmt/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3658,7 +3665,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3674,7 +3681,7 @@
    "domain": "kkr.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "KKR (Real Estate)",
    "open": 0,
    "sources": [
@@ -3705,7 +3712,7 @@
    "domain": "starwoodcapital.com",
    "focus": "real_estate",
    "hq": "Miami Beach, FL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Starwood Capital Group",
    "open": 0,
    "sources": [
@@ -3739,7 +3746,7 @@
    "domain": "clarionpartners.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Clarion Partners",
    "open": 0,
    "sources": [
@@ -3770,14 +3777,14 @@
    "domain": "heitman.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Heitman",
    "open": 1,
    "sources": [
     {
-     "changed_on": "2026-11-12",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "ca380f96c797a6f4",
+     "hash": "26fa96faebad3f04",
      "kind": "page",
      "links": [
       "2027 Summer Internship – Acquisitions | https://www.heitman.com/jobs/ofOQAfwd/"
@@ -3803,7 +3810,7 @@
    "domain": "harrisonst.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Harrison Street",
    "open": 0,
    "sources": [
@@ -3834,7 +3841,7 @@
    "domain": "bridgeig.com",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Bridge Investment Group",
    "open": 0,
    "sources": [
@@ -3865,7 +3872,7 @@
    "domain": "crowholdings.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Crow Holdings",
    "open": 0,
    "sources": [
@@ -3902,7 +3909,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://linklogistics.wd5.myworkdayjobs.com/wday/cxs/linklogistics/Link/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3918,13 +3925,13 @@
    "domain": "hines.com",
    "focus": "real_estate",
    "hq": "Houston, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Hines",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 152,
+     "fail_streak": 153,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3947,13 +3954,13 @@
    "domain": "tishmanspeyer.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Tishman Speyer",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 152,
+     "fail_streak": 153,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3976,7 +3983,7 @@
    "domain": "related.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Related Companies",
    "open": 0,
    "sources": [
@@ -4007,7 +4014,7 @@
    "domain": "lpc.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Lincoln Property Company",
    "open": 0,
    "sources": [
@@ -4038,7 +4045,7 @@
    "domain": "greystar.com",
    "focus": "real_estate",
    "hq": "Charleston, SC",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Greystar",
    "open": 0,
    "sources": [
@@ -4072,7 +4079,7 @@
    "domain": "cortland.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Cortland",
    "open": 0,
    "sources": [
@@ -4099,7 +4106,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://gables.wd5.myworkdayjobs.com/wday/cxs/gables/Gables_Careers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4121,7 +4128,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://ryancompanies.wd5.myworkdayjobs.com/wday/cxs/ryancompanies/ryancompanies/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4137,7 +4144,7 @@
    "domain": "jbgsmith.com",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "JBG SMITH",
    "open": 0,
    "sources": [
@@ -4168,7 +4175,7 @@
    "domain": "rxr.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "RXR",
    "open": 0,
    "sources": [
@@ -4189,7 +4196,7 @@
    "domain": "morgan-properties.com",
    "focus": "real_estate",
    "hq": "King of Prussia, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Morgan Properties",
    "open": 0,
    "sources": [
@@ -4227,7 +4234,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4250,7 +4257,7 @@
    "domain": "invh.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Invitation Homes",
    "open": 0,
    "sources": [
@@ -4277,7 +4284,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/Lennar_Jobs/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4299,7 +4306,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://pultegroup.wd1.myworkdayjobs.com/wday/cxs/pultegroup/PGI/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4315,7 +4322,7 @@
    "domain": "drhorton.com",
    "focus": "real_estate",
    "hq": "Arlington, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "D.R. Horton",
    "open": 0,
    "sources": [
@@ -4349,7 +4356,7 @@
    "domain": "prologis.com",
    "focus": "real_estate",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Prologis",
    "open": 0,
    "sources": [
@@ -4386,7 +4393,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://simon.wd1.myworkdayjobs.com/wday/cxs/simon/Simon/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4402,7 +4409,7 @@
    "domain": "bxp.com",
    "focus": "real_estate",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "BXP (Boston Properties)",
    "open": 1,
    "sources": [
@@ -4423,7 +4430,7 @@
    "domain": "realtyincome.com",
    "focus": "real_estate",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Realty Income",
    "open": 2,
    "sources": [
@@ -4444,7 +4451,7 @@
    "domain": "digitalrealty.com",
    "focus": "real_estate",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Digital Realty",
    "open": 0,
    "sources": [
@@ -4471,7 +4478,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://extraspace.wd5.myworkdayjobs.com/wday/cxs/extraspace/ESS_External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4493,7 +4500,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://essex.wd5.myworkdayjobs.com/wday/cxs/essex/essexcareers/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4509,7 +4516,7 @@
    "domain": "rexfordindustrial.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Rexford Industrial",
    "open": 0,
    "sources": [
@@ -4530,7 +4537,7 @@
    "domain": "hudsonpacificproperties.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Hudson Pacific Properties",
    "open": 0,
    "sources": [
@@ -4551,13 +4558,13 @@
    "domain": "eqr.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Equity Residential",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 152,
+     "fail_streak": 153,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4580,13 +4587,13 @@
    "domain": "avalonbay.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "AvalonBay",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 152,
+     "fail_streak": 153,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4609,7 +4616,7 @@
    "domain": "vno.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Vornado Realty Trust",
    "open": 0,
    "sources": [
@@ -4640,7 +4647,7 @@
    "domain": "slgreen.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "SL Green",
    "open": 0,
    "sources": [
@@ -4671,7 +4678,7 @@
    "domain": "kimcorealty.com",
    "focus": "real_estate",
    "hq": "Jericho, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Kimco Realty",
    "open": 0,
    "sources": [
@@ -4702,14 +4709,14 @@
    "domain": "brixmor.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Brixmor Property Group",
    "open": 0,
    "sources": [
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 11,
+     "fail_streak": 12,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4733,7 +4740,7 @@
    "domain": "federalrealty.com",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Federal Realty",
    "open": 0,
    "sources": [
@@ -4764,7 +4771,7 @@
    "domain": "brandywinerealty.com",
    "focus": "real_estate",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Brandywine Realty Trust",
    "open": 0,
    "sources": [
@@ -4795,7 +4802,7 @@
    "domain": "welltower.com",
    "focus": "real_estate",
    "hq": "Toledo, OH",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Welltower",
    "open": 0,
    "sources": [
@@ -4826,7 +4833,7 @@
    "domain": "ventasreit.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Ventas",
    "open": 0,
    "sources": [
@@ -4857,7 +4864,7 @@
    "domain": "publicstorage.com",
    "focus": "real_estate",
    "hq": "Glendale, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Public Storage",
    "open": 0,
    "sources": [
@@ -4884,7 +4891,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://americancentury.wd5.myworkdayjobs.com/wday/cxs/americancentury/AmericanCenturyInvestments/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4906,7 +4913,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://godirect.wd5.myworkdayjobs.com/wday/cxs/godirect/voya_jobs/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4928,7 +4935,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://corebridgefinancial.wd1.myworkdayjobs.com/wday/cxs/corebridgefinancial/CorebridgeFinancial/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4949,9 +4956,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4971,7 +4979,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://countryfinancial.wd5.myworkdayjobs.com/wday/cxs/countryfinancial/COUNTRYCorporateInternships/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4993,7 +5001,7 @@
    "sources": [
     {
      "error": "HTTPError: 521 Server Error: <none> for url: https://fei.wd5.myworkdayjobs.com/wday/cxs/fei/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -5009,7 +5017,7 @@
    "domain": "wealth.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Wealth.com",
    "open": 0,
    "sources": [
@@ -5030,7 +5038,7 @@
    "domain": "pennmutual.com",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Penn Mutual",
    "open": 0,
    "sources": [
@@ -5063,7 +5071,7 @@
    "domain": "kestrafinancial.com",
    "focus": "wealth",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Kestra Financial",
    "open": 0,
    "sources": [
@@ -5094,7 +5102,7 @@
    "domain": "aspiriant.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Aspiriant",
    "open": 0,
    "sources": [
@@ -5125,7 +5133,7 @@
    "domain": "pathstone.com",
    "focus": "wealth",
    "hq": "Englewood, NJ",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Pathstone",
    "open": 0,
    "sources": [
@@ -5156,7 +5164,7 @@
    "domain": "wealthspire.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Wealthspire Advisors",
    "open": 0,
    "sources": [
@@ -5187,7 +5195,7 @@
    "domain": "beaconpointe.com",
    "focus": "wealth",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Beacon Pointe Advisors",
    "open": 0,
    "sources": [
@@ -5218,7 +5226,7 @@
    "domain": "buckinghamstrategicwealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Buckingham Strategic Wealth",
    "open": 0,
    "sources": [
@@ -5249,7 +5257,7 @@
    "domain": "monetagroup.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Moneta",
    "open": 0,
    "sources": [
@@ -5270,7 +5278,7 @@
    "domain": "homrichberg.com",
    "focus": "wealth",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Homrich Berg",
    "open": 2,
    "sources": [
@@ -5301,7 +5309,7 @@
    "domain": "sequoia-financial.com",
    "focus": "wealth",
    "hq": "Akron, OH",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Sequoia Financial Group",
    "open": 0,
    "sources": [
@@ -5332,7 +5340,7 @@
    "domain": "bleakley.com",
    "focus": "wealth",
    "hq": "Fairfield, NJ",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Bleakley Financial Group",
    "open": 0,
    "sources": [
@@ -5363,7 +5371,7 @@
    "domain": "cnbank.com",
    "focus": "mixed",
    "hq": "Canandaigua, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Canandaigua National Bank (Wealth)",
    "open": 0,
    "sources": [
@@ -5394,14 +5402,14 @@
    "domain": "synovus.com",
    "focus": "mixed",
    "hq": "Columbus, GA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Synovus (Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "2ccb3cd8d0081ee7",
+     "hash": "246f4bdb2bacaf4b",
      "kind": "page",
      "links": [],
      "ok": true,
