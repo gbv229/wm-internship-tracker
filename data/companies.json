@@ -7,13 +7,12 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-14",
    "name": "Morgan Stanley",
-   "open": 6,
+   "open": 5,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
      "fail_streak": 0,
@@ -97,8 +96,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/us-emplsv/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     },
@@ -132,7 +131,7 @@
    "sources": [
     {
      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -154,8 +153,8 @@
    "open": 4,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -207,15 +206,14 @@
    "domain": "barclays.com",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Barclays",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -229,15 +227,14 @@
    "domain": "db.com",
    "focus": "mixed",
    "hq": "Frankfurt / New York",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Deutsche Bank",
    "open": 8,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -251,27 +248,24 @@
    "domain": "rbc.com",
    "focus": "mixed",
    "hq": "Toronto / Minneapolis",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "RBC (incl. RBC Wealth Mgmt & City National)",
    "open": 5,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -286,15 +280,14 @@
    "domain": "td.com",
    "focus": "mixed",
    "hq": "Toronto / Cherry Hill, NJ",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "TD (incl. TD Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -309,21 +302,19 @@
    "domain": "cibc.com",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "CIBC Private Wealth",
    "open": 4,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -337,15 +328,14 @@
    "domain": "santander.com",
    "focus": "mixed",
    "hq": "Madrid / Boston",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Santander (Private Banking)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -397,7 +387,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "6dd7304b129b7f4f",
+     "hash": "3dcabc4ef5f319a7",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -421,15 +411,14 @@
    "domain": "juliusbaer.com",
    "focus": "wealth",
    "hq": "Zurich",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Julius Baer",
    "open": 1,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -598,8 +587,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -636,15 +625,14 @@
    "domain": "bbh.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Brown Brothers Harriman",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/BBH/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -658,15 +646,14 @@
    "domain": "wilmingtontrust.com",
    "focus": "wealth",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Wilmington Trust",
    "open": 2,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/wtexternal/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -680,15 +667,14 @@
    "domain": "fiduciarytrust.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Fiduciary Trust International (Franklin)",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/Primary-External-1/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -836,8 +822,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -859,8 +845,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -882,8 +868,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -900,21 +886,19 @@
    "domain": "mtb.com",
    "focus": "mixed",
    "hq": "Buffalo, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "M&T Bank (Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/Campus/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/MTB/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -966,8 +950,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://fifththird.wd5.myworkdayjobs.com/wday/cxs/fifththird/53careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -984,15 +968,14 @@
    "domain": "key.com",
    "focus": "mixed",
    "hq": "Cleveland, OH",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "KeyBank",
    "open": 7,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/External_Career_Site/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1034,8 +1017,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/regions_careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1057,8 +1040,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1074,15 +1057,14 @@
    "domain": "frostbank.com",
    "focus": "mixed",
    "hq": "San Antonio, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Frost (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://frostbank.wd5.myworkdayjobs.com/wday/cxs/frostbank/External/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1197,14 +1179,14 @@
    "open": 12,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/targeted/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1277,14 +1259,14 @@
    "open": 1,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1305,8 +1287,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1322,21 +1304,19 @@
    "domain": "lpl.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "LPL Financial",
    "open": 5,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/university/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1376,8 +1356,8 @@
    "open": 26,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://baird.wd1.myworkdayjobs.com/wday/cxs/baird/careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1595,8 +1575,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://advisorgroup.wd1.myworkdayjobs.com/wday/cxs/advisorgroup/advisor_career_site/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1638,8 +1618,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://seic.wd1.myworkdayjobs.com/wday/cxs/seic/SEI_Global_Services/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1820,7 +1800,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 153,
+     "fail_streak": 154,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1880,7 +1860,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 153,
+     "fail_streak": 154,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1971,7 +1951,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 122,
+     "fail_streak": 123,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -2001,7 +1981,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 64,
+     "fail_streak": 65,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -2031,7 +2011,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 153,
+     "fail_streak": 154,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2121,10 +2101,9 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://northwesternmutual.wd5.myworkdayjobs.com/wday/cxs/northwesternmutual/corporate-careers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     },
     {
      "changed_on": null,
@@ -2164,8 +2143,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://massmutual.wd1.myworkdayjobs.com/wday/cxs/massmutual/MMCareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2182,15 +2161,14 @@
    "domain": "guardianlife.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Guardian Life",
    "open": 1,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://guardianlife.wd5.myworkdayjobs.com/wday/cxs/guardianlife/guardian-life-careers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2209,8 +2187,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2226,15 +2204,14 @@
    "domain": "thrivent.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Thrivent",
    "open": 1,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://thrivent.wd5.myworkdayjobs.com/wday/cxs/thrivent/external/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2274,8 +2251,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2296,8 +2273,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/USAAJOBSWD/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2388,15 +2365,20 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "6affc4dcc91a731d",
+     "hash": "33dd53a57dfdc0e9",
      "kind": "page",
-     "links": [],
+     "links": [
+      "Actuarial Internship Program Jobs | https://jobs.lincolnfinancial.com/go/Actuarial-Internship-Program/7745300/",
+      "Actuarial Internship Program | https://jobs.lincolnfinancial.com/go/Actuarial-Internship-Program/7745300/",
+      "Internship Development Program | https://jobs.lincolnfinancial.com/go/Internship-Jobs/2254900/",
+      "Internship Jobs | https://jobs.lincolnfinancial.com/go/Internship-Jobs/2254900/"
+     ],
      "ok": true,
      "url": "https://jobs.lincolnfinancial.com/"
     },
     {
      "kind": "browser",
-     "listed": 0,
+     "listed": 2,
      "matched": 0,
      "ok": true
     }
@@ -2417,8 +2399,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2439,14 +2421,14 @@
    "open": 1,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Early_Careers_Program/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2468,14 +2450,14 @@
    "open": 6,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/abcampuscareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2491,15 +2473,14 @@
    "domain": "troweprice.com",
    "focus": "mixed",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "T. Rowe Price",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2518,8 +2499,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2540,8 +2521,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/invitation-only/jobs",
-     "fail_streak": 2,
+     "error": "HTTPError: 520 Server Error: <none> for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/invitation-only/jobs",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2562,14 +2543,14 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZearlycareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2586,15 +2567,14 @@
    "domain": "nb.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Neuberger Berman (Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://nb.wd1.myworkdayjobs.com/wday/cxs/nb/NBCareers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2608,15 +2588,14 @@
    "domain": "dimensional.com",
    "focus": "mixed",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Dimensional Fund Advisors",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/dfa_careers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2630,15 +2609,14 @@
    "domain": "wellington.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Wellington Management",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/Campus/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2657,8 +2635,8 @@
    "open": 1,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2679,8 +2657,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2702,8 +2680,8 @@
    "open": 4,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2719,15 +2697,14 @@
    "domain": "blackstone.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Blackstone",
    "open": 6,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2747,8 +2724,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://orionadvisor.wd1.myworkdayjobs.com/wday/cxs/orionadvisor/Orion_Careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2843,11 +2820,11 @@
    "sources": [
     {
      "changed_on": "2026-11-04",
-     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.betterment.com/careers",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "hash": "9f0c143f5cffba36",
      "kind": "page",
-     "ok": false,
+     "links": [],
+     "ok": true,
      "url": "https://www.betterment.com/careers"
     },
     {
@@ -2904,9 +2881,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "3bba756026cab8d6",
+     "hash": "a2b2f1824ef44fff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2966,8 +2943,8 @@
    "open": 21,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2988,8 +2965,8 @@
    "open": 19,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/external/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -3005,15 +2982,14 @@
    "domain": "colliers.com",
    "focus": "real_estate",
    "hq": "Toronto / Seattle",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Colliers",
    "open": 8,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3246,7 +3222,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "108178df69693fe1",
+     "hash": "0cbf5068afcaa0a1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3275,14 +3251,14 @@
    "open": 1,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/Costar_Campus/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     },
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/CoStarCareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -3329,15 +3305,14 @@
    "domain": "walkerdunlop.com",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Walker & Dunlop",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://walkerdunlop.wd1.myworkdayjobs.com/wday/cxs/walkerdunlop/WD/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3389,7 +3364,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "1acbe555e7695bf7",
+     "hash": "bc32f4411b331b64",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3511,8 +3486,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -3528,15 +3503,14 @@
    "domain": "freddiemac.com",
    "focus": "mixed",
    "hq": "McLean, VA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Freddie Mac (Multifamily)",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://freddiemac.wd5.myworkdayjobs.com/wday/cxs/freddiemac/External/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3576,8 +3550,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://firstam.wd1.myworkdayjobs.com/wday/cxs/firstam/firstamericancareers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -3593,15 +3567,14 @@
    "domain": "brookfield.com",
    "focus": "mixed",
    "hq": "New York / Toronto",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Brookfield",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3620,8 +3593,8 @@
    "open": 2,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/pgim_careers/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -3642,8 +3615,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://aresmgmt.wd1.myworkdayjobs.com/wday/cxs/aresmgmt/External/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -3659,15 +3632,14 @@
    "domain": "apollo.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Apollo (Real Estate)",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3903,15 +3875,14 @@
    "domain": "linklogistics.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Link Logistics",
    "open": 1,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://linklogistics.wd5.myworkdayjobs.com/wday/cxs/linklogistics/Link/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3931,7 +3902,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 153,
+     "fail_streak": 154,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3960,7 +3931,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 153,
+     "fail_streak": 154,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4100,15 +4071,14 @@
    "domain": "gables.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Gables Residential",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://gables.wd5.myworkdayjobs.com/wday/cxs/gables/Gables_Careers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4122,15 +4092,14 @@
    "domain": "ryancompanies.com",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Ryan Companies",
    "open": 6,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://ryancompanies.wd5.myworkdayjobs.com/wday/cxs/ryancompanies/ryancompanies/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4234,7 +4203,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4283,8 +4252,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/Lennar_Jobs/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -4305,8 +4274,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://pultegroup.wd1.myworkdayjobs.com/wday/cxs/pultegroup/PGI/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -4392,8 +4361,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://simon.wd1.myworkdayjobs.com/wday/cxs/simon/Simon/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -4472,15 +4441,14 @@
    "domain": "extraspace.com",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Extra Space Storage",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://extraspace.wd5.myworkdayjobs.com/wday/cxs/extraspace/ESS_External/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4494,15 +4462,14 @@
    "domain": "essex.com",
    "focus": "real_estate",
    "hq": "San Mateo, CA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Essex Property Trust",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://essex.wd5.myworkdayjobs.com/wday/cxs/essex/essexcareers/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4564,7 +4531,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 153,
+     "fail_streak": 154,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4593,7 +4560,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 153,
+     "fail_streak": 154,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4716,7 +4683,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 12,
+     "fail_streak": 13,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4885,15 +4852,14 @@
    "domain": "americancentury.com",
    "focus": "mixed",
    "hq": "Kansas City, MO",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "American Century Investments",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://americancentury.wd5.myworkdayjobs.com/wday/cxs/americancentury/AmericanCenturyInvestments/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4907,15 +4873,14 @@
    "domain": "voya.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Voya Financial",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://godirect.wd5.myworkdayjobs.com/wday/cxs/godirect/voya_jobs/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4934,8 +4899,8 @@
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://corebridgefinancial.wd1.myworkdayjobs.com/wday/cxs/corebridgefinancial/CorebridgeFinancial/jobs",
-     "fail_streak": 2,
+     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -4951,15 +4916,14 @@
    "domain": "johnhancock.com",
    "focus": "mixed",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "John Hancock (Manulife)",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4973,15 +4937,14 @@
    "domain": "countryfinancial.com",
    "focus": "mixed",
    "hq": "Bloomington, IL",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "COUNTRY Financial",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://countryfinancial.wd5.myworkdayjobs.com/wday/cxs/countryfinancial/COUNTRYCorporateInternships/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -4995,15 +4958,14 @@
    "domain": "firsteagle.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "First Eagle Investments",
    "open": 0,
    "sources": [
     {
-     "error": "HTTPError: 521 Server Error: <none> for url: https://fei.wd5.myworkdayjobs.com/wday/cxs/fei/External/jobs",
-     "fail_streak": 2,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -5409,7 +5371,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "246f4bdb2bacaf4b",
+     "hash": "8146403a219e0ac4",
      "kind": "page",
      "links": [],
      "ok": true,
