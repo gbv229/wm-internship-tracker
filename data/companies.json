@@ -226,7 +226,7 @@
    "hq": "Frankfurt / New York",
    "last_ok": "2026-11-14",
    "name": "Deutsche Bank",
-   "open": 8,
+   "open": 7,
    "sources": [
     {
      "fail_streak": 0,
@@ -384,7 +384,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "36442756602ca807",
+     "hash": "aa2b619b9a57b8d8",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1009,9 +1009,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='regions.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/regions/regions_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1052,9 +1053,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='frostbank.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/frostbank/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1252,9 +1254,10 @@
      "ok": true
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='raymondjames.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/raymondjames/RaymondJamesCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1446,11 +1449,11 @@
    "sources": [
     {
      "changed_on": "2026-11-12",
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.dadavidson.com/careers",
+     "fail_streak": 1,
      "hash": "35008f2bdec37641",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://dadavidson.com/careers"
     },
     {
@@ -1476,12 +1479,11 @@
    "open": 1,
    "sources": [
     {
-     "changed_on": null,
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.stephens.com/careers/",
+     "fail_streak": 1,
      "hash": "e1d7b50179b77e67",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.stephens.com/careers/"
     },
     {
@@ -1624,7 +1626,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "b19aaea7a082d3cd",
+     "hash": "43be0a7174077e45",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1782,7 +1784,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 156,
+     "fail_streak": 157,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1842,7 +1844,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://sanctuarywealth.com/careers/",
-     "fail_streak": 156,
+     "fail_streak": 157,
      "kind": "page",
      "ok": false,
      "url": "https://sanctuarywealth.com/careers/"
@@ -1933,7 +1935,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 125,
+     "fail_streak": 126,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1963,7 +1965,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 67,
+     "fail_streak": 68,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1993,7 +1995,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 156,
+     "fail_streak": 157,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2163,15 +2165,14 @@
    "domain": "prudential.com",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "Prudential Financial",
    "open": 0,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 5,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -2849,7 +2850,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "3bba756026cab8d6",
+     "hash": "a2b2f1824ef44fff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3186,7 +3187,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "130a3ed49fc69303",
+     "hash": "fa1d76c4d05f0b3c",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3326,7 +3327,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "6e102dfbc2d95c73",
+     "hash": "6b7a9a824b4d3002",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3548,15 +3549,14 @@
    "domain": "pgim.com",
    "focus": "mixed",
    "hq": "Newark, NJ",
-   "last_ok": "2026-11-13",
+   "last_ok": "2026-11-14",
    "name": "PGIM Real Estate",
    "open": 2,
    "sources": [
     {
-     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-     "fail_streak": 5,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3861,7 +3861,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 156,
+     "fail_streak": 157,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3890,7 +3890,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 156,
+     "fail_streak": 157,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4162,7 +4162,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4288,11 +4288,11 @@
    "sources": [
     {
      "changed_on": "2026-10-29",
-     "fail_streak": 0,
+     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.prologis.com/careers",
+     "fail_streak": 1,
      "hash": "ecedc4b9df4a7670",
      "kind": "page",
-     "links": [],
-     "ok": true,
+     "ok": false,
      "url": "https://www.prologis.com/careers"
     },
     {
@@ -4487,7 +4487,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 156,
+     "fail_streak": 157,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4516,7 +4516,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 156,
+     "fail_streak": 157,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4639,7 +4639,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 15,
+     "fail_streak": 16,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -5326,7 +5326,7 @@
     {
      "changed_on": "2026-11-14",
      "fail_streak": 0,
-     "hash": "6d03243763ad5f8e",
+     "hash": "2c05223e7ace2c21",
      "kind": "page",
      "links": [],
      "ok": true,
