@@ -7035,50 +7035,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Must have completed at least 3 years of college.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-12",
-   "first_seen": "2026-10-15",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|hotels and hospitality summer 2027 internship",
-   "group_title": "Hotels and Hospitality Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ542763",
-   "last_seen": "2026-11-14",
-   "level": "Undergraduate",
-   "location": "Miami, FL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-15",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Hotels and Hospitality Summer 2027 Internship - Miami, FL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Hotels-and-Hospitality-Summer-2027-Internship---Miami--FL_REQ542763",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "JLL",
@@ -17767,6 +17723,51 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/HSE-Internship_REQ547215",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Must have completed at least 3 years of college.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-15",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-12",
+   "first_seen": "2026-10-15",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|hotels and hospitality summer 2027 internship",
+   "group_title": "Hotels and Hospitality Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ542763",
+   "last_seen": "2026-11-14",
+   "level": "Undergraduate",
+   "location": "Miami, FL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-15",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Hotels and Hospitality Summer 2027 Internship - Miami, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Hotels-and-Hospitality-Summer-2027-Internship---Miami--FL_REQ542763",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
