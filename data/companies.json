@@ -5,14 +5,15 @@
    "domain": "morganstanley.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Morgan Stanley",
    "open": 5,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='ms.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ms/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "fail_streak": 0,
@@ -32,7 +33,7 @@
    "domain": "gs.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Goldman Sachs",
    "open": 17,
    "sources": [
@@ -69,7 +70,7 @@
    "domain": "jpmorgan.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "J.P. Morgan",
    "open": 3,
    "sources": [
@@ -91,14 +92,15 @@
    "domain": "bankofamerica.com",
    "focus": "mixed",
    "hq": "Charlotte, NC",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Bank of America / Merrill",
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='ghr.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ghr/us-emplsv/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "fail_streak": 0,
@@ -124,7 +126,7 @@
    "domain": "wellsfargo.com",
    "focus": "mixed",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Wells Fargo",
    "open": 0,
    "sources": [
@@ -148,12 +150,13 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-15",
    "name": "Citi (incl. Citi Private Bank)",
-   "open": 5,
+   "open": 4,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='citi.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/citi/2/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -168,7 +171,7 @@
    "domain": "ubs.com",
    "focus": "mixed",
    "hq": "Zurich / New York",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "UBS",
    "open": 1,
    "sources": [
@@ -208,9 +211,10 @@
    "open": 2,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='barclays.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/barclays/External_Career_Site_Barclays/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -229,9 +233,10 @@
    "open": 7,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='db.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/db/DBWebsite/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -250,19 +255,22 @@
    "open": 4,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='rbc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/rbc/RBCEARLYTALENT1/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='rbc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/rbc/ExternalPrivatePostingStudents/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='rbc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/rbc/rbcglobal1/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -282,9 +290,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='td.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/td/TD_Bank_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -304,14 +313,16 @@
    "open": 4,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='cibc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cibc/campus/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='cibc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cibc/search/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -330,9 +341,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='santander.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/santander/SantanderCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -346,7 +358,7 @@
    "domain": "hsbc.com",
    "focus": "mixed",
    "hq": "London / New York",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "HSBC",
    "open": 3,
    "sources": [
@@ -361,7 +373,7 @@
     },
     {
      "kind": "browser",
-     "listed": 12,
+     "listed": 14,
      "matched": 3,
      "ok": true
     }
@@ -377,14 +389,14 @@
    "domain": "bmo.com",
    "focus": "mixed",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "BMO (incl. BMO Private Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "9194cf743dc9a251",
+     "hash": "99105ae37687c021",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -413,9 +425,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='juliusbaer.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/juliusbaer/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -429,7 +442,7 @@
    "domain": "jefferies.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Jefferies (Private Wealth)",
    "open": 0,
    "sources": [
@@ -451,9 +464,9 @@
    "domain": "lazard.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Lazard (Lazard Wealth Management)",
-   "open": 8,
+   "open": 7,
    "sources": [
     {
      "fail_streak": 0,
@@ -472,7 +485,7 @@
    "domain": "rothschildandco.com",
    "focus": "mixed",
    "hq": "Paris / New York",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Rothschild & Co (Wealth Mgmt)",
    "open": 7,
    "sources": [
@@ -506,7 +519,7 @@
    "domain": "evercore.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Evercore Wealth Management",
    "open": 0,
    "sources": [
@@ -537,7 +550,7 @@
    "domain": "williamblair.com",
    "focus": "mixed",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "William Blair (Private Wealth)",
    "open": 0,
    "sources": [
@@ -558,7 +571,7 @@
    "domain": "pipersandler.com",
    "focus": "mixed",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Piper Sandler",
    "open": 0,
    "sources": [
@@ -584,9 +597,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='ntrs.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ntrs/northerntrust/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -600,7 +614,7 @@
    "domain": "bny.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "BNY (incl. BNY Wealth)",
    "open": 0,
    "sources": [
@@ -626,9 +640,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='bbh.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/bbh/BBH/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -647,9 +662,10 @@
    "open": 2,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='mtb.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mtb/wtexternal/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -668,9 +684,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='franklintempleton.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/franklintempleton/Primary-External-1/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -684,7 +701,7 @@
    "domain": "bessemertrust.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Bessemer Trust",
    "open": 0,
    "sources": [
@@ -718,7 +735,7 @@
    "domain": "glenmede.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Glenmede",
    "open": 0,
    "sources": [
@@ -749,7 +766,7 @@
    "domain": "brownadvisory.com",
    "focus": "wealth",
    "hq": "Baltimore, MD",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Brown Advisory",
    "open": 0,
    "sources": [
@@ -782,7 +799,7 @@
    "domain": "firstcitizens.com",
    "focus": "mixed",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "First Citizens (Wealth)",
    "open": 0,
    "sources": [
@@ -818,9 +835,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='pnc.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pnc/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -840,9 +858,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='truist.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/truist/Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -862,9 +881,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='usbank.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/usbank/US_Bank_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -884,14 +904,16 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='mtb.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mtb/Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='mtb.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mtb/MTB/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -906,7 +928,7 @@
    "domain": "citizensbank.com",
    "focus": "mixed",
    "hq": "Providence, RI",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Citizens (Private Wealth)",
    "open": 1,
    "sources": [
@@ -943,9 +965,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='fifththird.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fifththird/53careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -965,9 +988,10 @@
    "open": 7,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='keybank.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/keybank/External_Career_Site/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -987,9 +1011,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='huntington.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/huntington/HNBcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1009,9 +1034,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='regions.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/regions/regions_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1031,9 +1057,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='associatedbank.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/associatedbank/external_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1052,9 +1079,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='frostbank.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/frostbank/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1068,7 +1096,7 @@
    "domain": "fultonbank.com",
    "focus": "mixed",
    "hq": "Lancaster, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Fulton Bank (Fulton Private Bank)",
    "open": 0,
    "sources": [
@@ -1100,7 +1128,7 @@
    "domain": "univest.net",
    "focus": "mixed",
    "hq": "Souderton, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Univest (Wealth)",
    "open": 0,
    "sources": [
@@ -1131,7 +1159,7 @@
    "domain": "wsfsbank.com",
    "focus": "mixed",
    "hq": "Wilmington, DE",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "WSFS / Bryn Mawr Trust",
    "open": 0,
    "sources": [
@@ -1166,17 +1194,19 @@
    "hq": "Boston, MA",
    "last_ok": "2026-11-15",
    "name": "Fidelity Investments",
-   "open": 14,
+   "open": 12,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='fmr.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fmr/targeted/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='fmr.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fmr/fidelitycareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1190,7 +1220,7 @@
    "domain": "schwab.com",
    "focus": "wealth",
    "hq": "Westlake, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Charles Schwab",
    "open": 1,
    "sources": [
@@ -1211,7 +1241,7 @@
    "domain": "edwardjones.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Edward Jones",
    "open": 1,
    "sources": [
@@ -1247,14 +1277,16 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='raymondjames.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='raymondjames.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/raymondjames/RaymondJamesCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1273,9 +1305,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='ameriprise.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ameriprise/Ameriprise/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1289,7 +1322,7 @@
    "domain": "lpl.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "LPL Financial",
    "open": 5,
    "sources": [
@@ -1299,9 +1332,10 @@
      "ok": true
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='lplfinancial.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/lplfinancial/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1315,7 +1349,7 @@
    "domain": "stifel.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Stifel",
    "open": 3,
    "sources": [
@@ -1341,9 +1375,10 @@
    "open": 26,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='baird.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/baird/careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1357,7 +1392,7 @@
    "domain": "rockco.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Rockefeller Capital Management",
    "open": 1,
    "sources": [
@@ -1378,7 +1413,7 @@
    "domain": "oppenheimer.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Oppenheimer & Co.",
    "open": 0,
    "sources": [
@@ -1409,7 +1444,7 @@
    "domain": "janney.com",
    "focus": "wealth",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Janney Montgomery Scott",
    "open": 0,
    "sources": [
@@ -1440,14 +1475,14 @@
    "domain": "dadavidson.com",
    "focus": "wealth",
    "hq": "Great Falls, MT",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "D.A. Davidson",
    "open": 0,
    "sources": [
     {
      "changed_on": "2026-11-12",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.dadavidson.com/careers",
-     "fail_streak": 5,
+     "fail_streak": 6,
      "hash": "35008f2bdec37641",
      "kind": "page",
      "ok": false,
@@ -1471,7 +1506,7 @@
    "domain": "stephens.com",
    "focus": "mixed",
    "hq": "Little Rock, AR",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Stephens",
    "open": 1,
    "sources": [
@@ -1502,7 +1537,7 @@
    "domain": "hilltopsecurities.com",
    "focus": "mixed",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Hilltop Securities",
    "open": 0,
    "sources": [
@@ -1539,7 +1574,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='cir.wd108.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cir/CIR_External_Career_Site/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1560,9 +1595,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='advisorgroup.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/advisorgroup/advisor_career_site/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1576,7 +1612,7 @@
    "domain": "cetera.com",
    "focus": "wealth",
    "hq": "San Diego, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Cetera Financial Group",
    "open": 0,
    "sources": [
@@ -1602,9 +1638,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='seic.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/seic/SEI_Global_Services/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1618,7 +1655,7 @@
    "domain": "creativeplanning.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Creative Planning",
    "open": 0,
    "sources": [
@@ -1652,7 +1689,7 @@
    "domain": "captrust.com",
    "focus": "wealth",
    "hq": "Raleigh, NC",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "CAPTRUST",
    "open": 0,
    "sources": [
@@ -1679,7 +1716,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='ceritypartners.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ceritypartners/ceritypartnerscareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1695,7 +1732,7 @@
    "domain": "focusfinancialpartners.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Focus Financial Partners",
    "open": 0,
    "sources": [
@@ -1716,7 +1753,7 @@
    "domain": "mariner.com",
    "focus": "wealth",
    "hq": "Overland Park, KS",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Mariner",
    "open": 0,
    "sources": [
@@ -1747,7 +1784,7 @@
    "domain": "cressetcapital.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Cresset",
    "open": 0,
    "sources": [
@@ -1778,13 +1815,13 @@
    "domain": "hightoweradvisors.com",
    "focus": "wealth",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Hightower Advisors",
    "open": 1,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 161,
+     "fail_streak": 162,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1807,7 +1844,7 @@
    "domain": "wealthenhancement.com",
    "focus": "wealth",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Wealth Enhancement Group",
    "open": 0,
    "sources": [
@@ -1838,14 +1875,14 @@
    "domain": "sanctuarywealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Sanctuary Wealth",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "cecd7c38eda64cd6",
+     "hash": "a34a85a639733d48",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1869,14 +1906,14 @@
    "domain": "carsongroup.com",
    "focus": "wealth",
    "hq": "Omaha, NE",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Carson Group",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "e723ebd23b582a73",
+     "hash": "34d40387099a70dd",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1900,7 +1937,7 @@
    "domain": "merceradvisors.com",
    "focus": "wealth",
    "hq": "Denver, CO",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Mercer Advisors",
    "open": 0,
    "sources": [
@@ -1931,13 +1968,13 @@
    "domain": "edelmanfinancialengines.com",
    "focus": "wealth",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Edelman Financial Engines",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 130,
+     "fail_streak": 131,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -1961,13 +1998,13 @@
    "domain": "fisherinvestments.com",
    "focus": "wealth",
    "hq": "Plano, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Fisher Investments",
    "open": 0,
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 72,
+     "fail_streak": 73,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -1991,13 +2028,13 @@
    "domain": "savantwealth.com",
    "focus": "wealth",
    "hq": "Rockford, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Savant Wealth Management",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 161,
+     "fail_streak": 162,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2020,7 +2057,7 @@
    "domain": "dynastyfinancial.com",
    "focus": "wealth",
    "hq": "St. Petersburg, FL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Dynasty Financial Partners",
    "open": 0,
    "sources": [
@@ -2051,7 +2088,7 @@
    "domain": "silvercrestgroup.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Silvercrest Asset Management",
    "open": 3,
    "sources": [
@@ -2082,14 +2119,15 @@
    "domain": "northwesternmutual.com",
    "focus": "wealth",
    "hq": "Milwaukee, WI",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Northwestern Mutual",
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='northwesternmutual.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/northwesternmutual/corporate-careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "changed_on": null,
@@ -2129,9 +2167,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='massmutual.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/massmutual/MMCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2151,9 +2190,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='guardianlife.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/guardianlife/guardian-life-careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2172,9 +2212,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='pru.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pru/Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2193,9 +2234,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='thrivent.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/thrivent/external/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2215,7 +2257,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='hq.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/hq/Securian_External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2236,9 +2278,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='nationwide.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/nationwide/Nationwide_Career/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2257,9 +2300,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='usaa.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/usaa/USAAJOBSWD/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2273,7 +2317,7 @@
    "domain": "newyorklife.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "New York Life",
    "open": 0,
    "sources": [
@@ -2307,7 +2351,7 @@
    "domain": "principal.com",
    "focus": "mixed",
    "hq": "Des Moines, IA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Principal Financial Group",
    "open": 0,
    "sources": [
@@ -2341,7 +2385,7 @@
    "domain": "lincolnfinancial.com",
    "focus": "mixed",
    "hq": "Radnor, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Lincoln Financial",
    "open": 0,
    "sources": [
@@ -2382,9 +2426,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='vanguard.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/vanguard/vanguard_external/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2403,14 +2448,16 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='blackrock.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/blackrock/BlackRock_Early_Careers_Program/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='blackrock.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/blackrock/BlackRock_Professional/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2430,14 +2477,16 @@
    "open": 6,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='abglobal.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/abglobal/abcampuscareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='abglobal.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/abglobal/alliancebernsteincareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2456,9 +2505,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='troweprice.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/troweprice/TRowePrice/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2477,9 +2527,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='capgroup.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/capgroup/capitalgroupcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2498,9 +2549,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='franklintempleton.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/franklintempleton/invitation-only/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2519,14 +2571,16 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='invesco.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/invesco/IVZearlycareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='invesco.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/invesco/IVZ/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2546,9 +2600,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='nb.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/nb/NBCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2567,9 +2622,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='dimensional.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/dimensional/dfa_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2588,9 +2644,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='wellington.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/wellington/Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2609,9 +2666,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='statestreet.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/statestreet/Global/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2630,9 +2688,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='tiaa.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/tiaa/Search/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2652,9 +2711,10 @@
    "open": 3,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='pimco.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pimco/pimco-careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2673,9 +2733,10 @@
    "open": 6,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='blackstone.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/blackstone/Blackstone_Campus_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2695,9 +2756,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='orionadvisor.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/orionadvisor/Orion_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2711,7 +2773,7 @@
    "domain": "addepar.com",
    "focus": "wealth",
    "hq": "Mountain View, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Addepar",
    "open": 3,
    "sources": [
@@ -2732,7 +2794,7 @@
    "domain": "range.com",
    "focus": "wealth",
    "hq": "McLean, VA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Range",
    "open": 0,
    "sources": [
@@ -2753,7 +2815,7 @@
    "domain": "wealthfront.com",
    "focus": "wealth",
    "hq": "Palo Alto, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Wealthfront",
    "open": 0,
    "sources": [
@@ -2784,7 +2846,7 @@
    "domain": "betterment.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Betterment",
    "open": 0,
    "sources": [
@@ -2815,7 +2877,7 @@
    "domain": "altruist.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Altruist",
    "open": 0,
    "sources": [
@@ -2846,14 +2908,14 @@
    "domain": "farther.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Farther",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "3bba756026cab8d6",
+     "hash": "4dcd9e36c12ea559",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2877,7 +2939,7 @@
    "domain": "cbre.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "CBRE (incl. Trammell Crow Company)",
    "open": 0,
    "sources": [
@@ -2913,9 +2975,10 @@
    "open": 20,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='jll.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/jll/jllcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2934,9 +2997,10 @@
    "open": 19,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='cw.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cw/external/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2955,9 +3019,10 @@
    "open": 8,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='colliers.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/colliers/Colliers-External-Career-Site/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -2971,7 +3036,7 @@
    "domain": "nmrk.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Newmark",
    "open": 1,
    "sources": [
@@ -2992,7 +3057,7 @@
    "domain": "avisonyoung.com",
    "focus": "real_estate",
    "hq": "Toronto / Chicago",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Avison Young",
    "open": 0,
    "sources": [
@@ -3028,14 +3093,14 @@
    "domain": "marcusmillichap.com",
    "focus": "real_estate",
    "hq": "Calabasas, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Marcus & Millichap",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "f47da16d5aa76f43",
+     "hash": "f9c8c821c97556d3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3059,7 +3124,7 @@
    "domain": "eastdilsecured.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Eastdil Secured",
    "open": 1,
    "sources": [
@@ -3090,7 +3155,7 @@
    "domain": "savills.com",
    "focus": "real_estate",
    "hq": "London / New York",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Savills",
    "open": 0,
    "sources": [
@@ -3121,7 +3186,7 @@
    "domain": "kidder.com",
    "focus": "real_estate",
    "hq": "Seattle, WA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Kidder Mathews",
    "open": 0,
    "sources": [
@@ -3152,7 +3217,7 @@
    "domain": "lee-associates.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Lee & Associates",
    "open": 0,
    "sources": [
@@ -3183,14 +3248,14 @@
    "domain": "altusgroup.com",
    "focus": "real_estate",
    "hq": "Toronto / New York",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Altus Group (ARGUS)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "3a4d843b7bd8c099",
+     "hash": "6431c705ccf0e3a3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3219,14 +3284,16 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='costar.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/costar/Costar_Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='costar.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/costar/CoStarCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3240,7 +3307,7 @@
    "domain": "trepp.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Trepp",
    "open": 0,
    "sources": [
@@ -3276,9 +3343,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='walkerdunlop.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/walkerdunlop/WD/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3292,7 +3360,7 @@
    "domain": "berkadia.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Berkadia",
    "open": 2,
    "sources": [
@@ -3323,7 +3391,7 @@
    "domain": "greystone.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Greystone",
    "open": 0,
    "sources": [
@@ -3354,7 +3422,7 @@
    "domain": "northmarq.com",
    "focus": "real_estate",
    "hq": "Minneapolis, MN",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Northmarq",
    "open": 0,
    "sources": [
@@ -3385,7 +3453,7 @@
    "domain": "trimont.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Trimont",
    "open": 0,
    "sources": [
@@ -3416,7 +3484,7 @@
    "domain": "arbor.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Arbor Realty Trust",
    "open": 0,
    "sources": [
@@ -3452,9 +3520,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='fanniemae.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fanniemae/FannieMaeCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3473,9 +3542,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='freddiemac.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/freddiemac/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3495,7 +3565,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='capitalone.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/capitalone/Capital_One/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3516,9 +3586,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='firstam.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/firstam/firstamericancareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3537,9 +3608,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='brookfield.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfield/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3558,9 +3630,10 @@
    "open": 2,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='pru.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pru/pgim_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3579,9 +3652,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='aresmgmt.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/aresmgmt/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3600,9 +3674,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='athene.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/athene/Apollo_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3616,7 +3691,7 @@
    "domain": "kkr.com",
    "focus": "mixed",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "KKR (Real Estate)",
    "open": 0,
    "sources": [
@@ -3647,7 +3722,7 @@
    "domain": "starwoodcapital.com",
    "focus": "real_estate",
    "hq": "Miami Beach, FL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Starwood Capital Group",
    "open": 0,
    "sources": [
@@ -3681,7 +3756,7 @@
    "domain": "clarionpartners.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Clarion Partners",
    "open": 0,
    "sources": [
@@ -3712,7 +3787,7 @@
    "domain": "heitman.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Heitman",
    "open": 1,
    "sources": [
@@ -3745,7 +3820,7 @@
    "domain": "harrisonst.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Harrison Street",
    "open": 0,
    "sources": [
@@ -3776,7 +3851,7 @@
    "domain": "bridgeig.com",
    "focus": "real_estate",
    "hq": "Salt Lake City, UT",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Bridge Investment Group",
    "open": 0,
    "sources": [
@@ -3807,7 +3882,7 @@
    "domain": "crowholdings.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Crow Holdings",
    "open": 0,
    "sources": [
@@ -3843,9 +3918,10 @@
    "open": 1,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='linklogistics.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/linklogistics/Link/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -3859,13 +3935,13 @@
    "domain": "hines.com",
    "focus": "real_estate",
    "hq": "Houston, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Hines",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 161,
+     "fail_streak": 162,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3888,13 +3964,13 @@
    "domain": "tishmanspeyer.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Tishman Speyer",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 161,
+     "fail_streak": 162,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3917,7 +3993,7 @@
    "domain": "related.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Related Companies",
    "open": 0,
    "sources": [
@@ -3948,7 +4024,7 @@
    "domain": "lpc.com",
    "focus": "real_estate",
    "hq": "Dallas, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Lincoln Property Company",
    "open": 0,
    "sources": [
@@ -3979,7 +4055,7 @@
    "domain": "greystar.com",
    "focus": "real_estate",
    "hq": "Charleston, SC",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Greystar",
    "open": 0,
    "sources": [
@@ -4013,7 +4089,7 @@
    "domain": "cortland.com",
    "focus": "real_estate",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Cortland",
    "open": 0,
    "sources": [
@@ -4039,9 +4115,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='gables.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/gables/Gables_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4060,9 +4137,10 @@
    "open": 6,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='ryancompanies.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ryancompanies/ryancompanies/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4076,7 +4154,7 @@
    "domain": "jbgsmith.com",
    "focus": "real_estate",
    "hq": "Bethesda, MD",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "JBG SMITH",
    "open": 0,
    "sources": [
@@ -4107,7 +4185,7 @@
    "domain": "rxr.com",
    "focus": "real_estate",
    "hq": "Uniondale, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "RXR",
    "open": 0,
    "sources": [
@@ -4128,7 +4206,7 @@
    "domain": "morgan-properties.com",
    "focus": "real_estate",
    "hq": "King of Prussia, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Morgan Properties",
    "open": 0,
    "sources": [
@@ -4166,7 +4244,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 10,
+     "fail_streak": 11,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4194,9 +4272,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='invitationhomes.wd503.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/invitationhomes/INVH/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4215,9 +4294,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='lennar.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/lennar/Lennar_Jobs/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4236,9 +4316,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='pultegroup.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pultegroup/PGI/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4252,14 +4333,14 @@
    "domain": "drhorton.com",
    "focus": "real_estate",
    "hq": "Arlington, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "D.R. Horton",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "6d7a0fb72024eca6",
+     "hash": "3794b5109d74bd08",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -4286,7 +4367,7 @@
    "domain": "prologis.com",
    "focus": "real_estate",
    "hq": "San Francisco, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Prologis",
    "open": 0,
    "sources": [
@@ -4322,9 +4403,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='simon.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/simon/Simon/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4338,7 +4420,7 @@
    "domain": "bxp.com",
    "focus": "real_estate",
    "hq": "Boston, MA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "BXP (Boston Properties)",
    "open": 1,
    "sources": [
@@ -4365,7 +4447,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='realtyincome.wd108.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/realtyincome/realty_income_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4381,7 +4463,7 @@
    "domain": "digitalrealty.com",
    "focus": "real_estate",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Digital Realty",
    "open": 0,
    "sources": [
@@ -4407,9 +4489,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='extraspace.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/extraspace/ESS_External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4428,9 +4511,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='essex.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/essex/essexcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4444,7 +4528,7 @@
    "domain": "rexfordindustrial.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Rexford Industrial",
    "open": 0,
    "sources": [
@@ -4465,7 +4549,7 @@
    "domain": "hudsonpacificproperties.com",
    "focus": "real_estate",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Hudson Pacific Properties",
    "open": 0,
    "sources": [
@@ -4486,13 +4570,13 @@
    "domain": "eqr.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Equity Residential",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 161,
+     "fail_streak": 162,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4515,13 +4599,13 @@
    "domain": "avalonbay.com",
    "focus": "real_estate",
    "hq": "Arlington, VA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "AvalonBay",
    "open": 0,
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 161,
+     "fail_streak": 162,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4544,7 +4628,7 @@
    "domain": "vno.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Vornado Realty Trust",
    "open": 0,
    "sources": [
@@ -4575,7 +4659,7 @@
    "domain": "slgreen.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "SL Green",
    "open": 0,
    "sources": [
@@ -4606,7 +4690,7 @@
    "domain": "kimcorealty.com",
    "focus": "real_estate",
    "hq": "Jericho, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Kimco Realty",
    "open": 0,
    "sources": [
@@ -4637,14 +4721,14 @@
    "domain": "brixmor.com",
    "focus": "real_estate",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Brixmor Property Group",
    "open": 0,
    "sources": [
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 20,
+     "fail_streak": 21,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4668,7 +4752,7 @@
    "domain": "federalrealty.com",
    "focus": "real_estate",
    "hq": "North Bethesda, MD",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Federal Realty",
    "open": 0,
    "sources": [
@@ -4699,7 +4783,7 @@
    "domain": "brandywinerealty.com",
    "focus": "real_estate",
    "hq": "Philadelphia, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Brandywine Realty Trust",
    "open": 0,
    "sources": [
@@ -4730,7 +4814,7 @@
    "domain": "welltower.com",
    "focus": "real_estate",
    "hq": "Toledo, OH",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Welltower",
    "open": 0,
    "sources": [
@@ -4761,7 +4845,7 @@
    "domain": "ventasreit.com",
    "focus": "real_estate",
    "hq": "Chicago, IL",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Ventas",
    "open": 0,
    "sources": [
@@ -4792,7 +4876,7 @@
    "domain": "publicstorage.com",
    "focus": "real_estate",
    "hq": "Glendale, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Public Storage",
    "open": 0,
    "sources": [
@@ -4818,9 +4902,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='americancentury.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/americancentury/AmericanCenturyInvestments/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4839,9 +4924,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='godirect.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/godirect/voya_jobs/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4860,9 +4946,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='corebridgefinancial.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/corebridgefinancial/CorebridgeFinancial/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4881,9 +4968,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='manulife.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/manulife/MFCJH_Jobs/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4902,9 +4990,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='countryfinancial.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/countryfinancial/COUNTRYCorporateInternships/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4923,9 +5012,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='fei.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fei/External/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -4939,7 +5029,7 @@
    "domain": "wealth.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Wealth.com",
    "open": 0,
    "sources": [
@@ -4960,7 +5050,7 @@
    "domain": "pennmutual.com",
    "focus": "mixed",
    "hq": "Malvern, PA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Penn Mutual",
    "open": 0,
    "sources": [
@@ -4993,7 +5083,7 @@
    "domain": "kestrafinancial.com",
    "focus": "wealth",
    "hq": "Austin, TX",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Kestra Financial",
    "open": 0,
    "sources": [
@@ -5024,7 +5114,7 @@
    "domain": "aspiriant.com",
    "focus": "wealth",
    "hq": "Los Angeles, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Aspiriant",
    "open": 0,
    "sources": [
@@ -5055,7 +5145,7 @@
    "domain": "pathstone.com",
    "focus": "wealth",
    "hq": "Englewood, NJ",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Pathstone",
    "open": 0,
    "sources": [
@@ -5086,7 +5176,7 @@
    "domain": "wealthspire.com",
    "focus": "wealth",
    "hq": "New York, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Wealthspire Advisors",
    "open": 0,
    "sources": [
@@ -5117,7 +5207,7 @@
    "domain": "beaconpointe.com",
    "focus": "wealth",
    "hq": "Newport Beach, CA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Beacon Pointe Advisors",
    "open": 0,
    "sources": [
@@ -5148,7 +5238,7 @@
    "domain": "buckinghamstrategicwealth.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Buckingham Strategic Wealth",
    "open": 0,
    "sources": [
@@ -5179,7 +5269,7 @@
    "domain": "monetagroup.com",
    "focus": "wealth",
    "hq": "St. Louis, MO",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Moneta",
    "open": 0,
    "sources": [
@@ -5200,7 +5290,7 @@
    "domain": "homrichberg.com",
    "focus": "wealth",
    "hq": "Atlanta, GA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Homrich Berg",
    "open": 2,
    "sources": [
@@ -5231,7 +5321,7 @@
    "domain": "sequoia-financial.com",
    "focus": "wealth",
    "hq": "Akron, OH",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Sequoia Financial Group",
    "open": 0,
    "sources": [
@@ -5262,7 +5352,7 @@
    "domain": "bleakley.com",
    "focus": "wealth",
    "hq": "Fairfield, NJ",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Bleakley Financial Group",
    "open": 0,
    "sources": [
@@ -5293,7 +5383,7 @@
    "domain": "cnbank.com",
    "focus": "mixed",
    "hq": "Canandaigua, NY",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Canandaigua National Bank (Wealth)",
    "open": 0,
    "sources": [
@@ -5324,14 +5414,14 @@
    "domain": "synovus.com",
    "focus": "mixed",
    "hq": "Columbus, GA",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Synovus (Wealth)",
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "393a405a3b5d5fc3",
+     "hash": "3289bd40c646339c",
      "kind": "page",
      "links": [],
      "ok": true,
