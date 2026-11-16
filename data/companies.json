@@ -11,7 +11,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='ms.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ms/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
@@ -53,7 +53,7 @@
     },
     {
      "kind": "browser",
-     "listed": 13,
+     "listed": 12,
      "matched": 0,
      "ok": true
     }
@@ -72,7 +72,7 @@
    "hq": "New York, NY",
    "last_ok": "2026-11-16",
    "name": "J.P. Morgan",
-   "open": 3,
+   "open": 7,
    "sources": [
     {
      "fail_streak": 0,
@@ -98,7 +98,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='ghr.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ghr/us-emplsv/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
@@ -154,7 +154,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='citi.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/citi/2/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -212,7 +212,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='barclays.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/barclays/External_Career_Site_Barclays/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -234,7 +234,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='db.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/db/DBWebsite/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -256,19 +256,19 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='rbc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/rbc/RBCEARLYTALENT1/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='rbc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/rbc/ExternalPrivatePostingStudents/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='rbc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/rbc/rbcglobal1/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -291,7 +291,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='td.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/td/TD_Bank_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -314,13 +314,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='cibc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cibc/campus/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='cibc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cibc/search/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -342,7 +342,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='santander.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/santander/SantanderCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -373,7 +373,7 @@
     },
     {
      "kind": "browser",
-     "listed": 14,
+     "listed": 12,
      "matched": 3,
      "ok": true
     }
@@ -396,7 +396,7 @@
     {
      "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "99105ae37687c021",
+     "hash": "042f6263fbb86e82",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -426,7 +426,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='juliusbaer.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/juliusbaer/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -576,9 +576,10 @@
    "open": 0,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='pipersandler.wd501.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pipersandler/Piper_Sandler_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -598,7 +599,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='ntrs.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ntrs/northerntrust/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -641,7 +642,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='bbh.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/bbh/BBH/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -663,7 +664,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='mtb.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mtb/wtexternal/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -685,7 +686,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='franklintempleton.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/franklintempleton/Primary-External-1/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -836,7 +837,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='pnc.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pnc/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -859,7 +860,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='truist.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/truist/Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -882,7 +883,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='usbank.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/usbank/US_Bank_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -905,13 +906,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='mtb.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mtb/Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='mtb.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mtb/MTB/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -966,7 +967,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='fifththird.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fifththird/53careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -989,7 +990,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='keybank.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/keybank/External_Career_Site/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1012,7 +1013,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='huntington.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/huntington/HNBcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1035,7 +1036,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='regions.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/regions/regions_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1058,7 +1059,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='associatedbank.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/associatedbank/external_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1080,7 +1081,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='frostbank.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/frostbank/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1198,13 +1199,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='fmr.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fmr/targeted/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='fmr.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fmr/fidelitycareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1278,13 +1279,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='raymondjames.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='raymondjames.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/raymondjames/RaymondJamesCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1306,7 +1307,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='ameriprise.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ameriprise/Ameriprise/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1327,13 +1328,14 @@
    "open": 5,
    "sources": [
     {
-     "fail_streak": 0,
+     "error": "RetryError: HTTPSConnectionPool(host='lplfinancial.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/lplfinancial/university/jobs (Caused by ResponseError('too many 429 error responses'))",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true
+     "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='lplfinancial.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/lplfinancial/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1376,7 +1378,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='baird.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/baird/careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1482,7 +1484,7 @@
     {
      "changed_on": "2026-11-12",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.dadavidson.com/careers",
-     "fail_streak": 6,
+     "fail_streak": 7,
      "hash": "35008f2bdec37641",
      "kind": "page",
      "ok": false,
@@ -1574,7 +1576,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='cir.wd108.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cir/CIR_External_Career_Site/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1590,15 +1592,14 @@
    "domain": "osaic.com",
    "focus": "wealth",
    "hq": "Phoenix, AZ",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Osaic",
    "open": 0,
    "sources": [
     {
-     "error": "RetryError: HTTPSConnectionPool(host='advisorgroup.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/advisorgroup/advisor_career_site/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -1639,7 +1640,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='seic.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/seic/SEI_Global_Services/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1660,9 +1661,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-14",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "43be0a7174077e45",
+     "hash": "0470cd6de9aa3be9",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1716,7 +1717,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='ceritypartners.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ceritypartners/ceritypartnerscareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -1821,7 +1822,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 162,
+     "fail_streak": 163,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1882,7 +1883,7 @@
     {
      "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "a34a85a639733d48",
+     "hash": "cecd7c38eda64cd6",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1913,7 +1914,7 @@
     {
      "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "34d40387099a70dd",
+     "hash": "f3cef3cb357d658f",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1974,7 +1975,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 131,
+     "fail_streak": 132,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -2004,7 +2005,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 73,
+     "fail_streak": 74,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -2034,7 +2035,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 162,
+     "fail_streak": 163,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2125,7 +2126,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='northwesternmutual.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/northwesternmutual/corporate-careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
@@ -2168,7 +2169,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='massmutual.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/massmutual/MMCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2191,7 +2192,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='guardianlife.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/guardianlife/guardian-life-careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2213,7 +2214,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='pru.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pru/Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2235,7 +2236,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='thrivent.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/thrivent/external/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2257,7 +2258,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='hq.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/hq/Securian_External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -2279,7 +2280,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='nationwide.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/nationwide/Nationwide_Career/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2301,7 +2302,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='usaa.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/usaa/USAAJOBSWD/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2427,7 +2428,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='vanguard.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/vanguard/vanguard_external/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2449,13 +2450,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='blackrock.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/blackrock/BlackRock_Early_Careers_Program/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='blackrock.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/blackrock/BlackRock_Professional/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2478,13 +2479,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='abglobal.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/abglobal/abcampuscareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='abglobal.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/abglobal/alliancebernsteincareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2506,7 +2507,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='troweprice.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/troweprice/TRowePrice/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2528,7 +2529,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='capgroup.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/capgroup/capitalgroupcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2550,7 +2551,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='franklintempleton.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/franklintempleton/invitation-only/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2572,13 +2573,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='invesco.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/invesco/IVZearlycareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='invesco.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/invesco/IVZ/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2601,7 +2602,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='nb.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/nb/NBCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2623,7 +2624,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='dimensional.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/dimensional/dfa_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2645,7 +2646,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='wellington.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/wellington/Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2667,7 +2668,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='statestreet.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/statestreet/Global/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2689,7 +2690,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='tiaa.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/tiaa/Search/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2712,7 +2713,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='pimco.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pimco/pimco-careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2734,7 +2735,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='blackstone.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/blackstone/Blackstone_Campus_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2757,7 +2758,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='orionadvisor.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/orionadvisor/Orion_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2915,7 +2916,7 @@
     {
      "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "4dcd9e36c12ea559",
+     "hash": "a2b2f1824ef44fff",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -2976,7 +2977,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='jll.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/jll/jllcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -2998,7 +2999,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='cw.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cw/external/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3020,7 +3021,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='colliers.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/colliers/Colliers-External-Career-Site/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3255,7 +3256,7 @@
     {
      "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "6431c705ccf0e3a3",
+     "hash": "fb393636f9a59b31",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3285,13 +3286,13 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='costar.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/costar/Costar_Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     },
     {
      "error": "RetryError: HTTPSConnectionPool(host='costar.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/costar/CoStarCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3344,7 +3345,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='walkerdunlop.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/walkerdunlop/WD/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3396,9 +3397,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-15",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "0f98559821c0f72d",
+     "hash": "bc32f4411b331b64",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3521,7 +3522,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='fanniemae.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fanniemae/FannieMaeCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3543,7 +3544,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='freddiemac.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/freddiemac/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3565,7 +3566,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='capitalone.wd12.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/capitalone/Capital_One/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -3587,7 +3588,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='firstam.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/firstam/firstamericancareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3603,15 +3604,14 @@
    "domain": "brookfield.com",
    "focus": "mixed",
    "hq": "New York / Toronto",
-   "last_ok": "2026-11-15",
+   "last_ok": "2026-11-16",
    "name": "Brookfield",
    "open": 0,
    "sources": [
     {
-     "error": "RetryError: HTTPSConnectionPool(host='brookfield.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfield/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 0,
      "kind": "workday",
-     "ok": false
+     "ok": true
     }
    ],
    "tracks": [
@@ -3631,7 +3631,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='pru.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pru/pgim_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3653,7 +3653,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='aresmgmt.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/aresmgmt/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3675,7 +3675,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='athene.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/athene/Apollo_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3919,7 +3919,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='linklogistics.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/linklogistics/Link/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -3941,7 +3941,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 162,
+     "fail_streak": 163,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3970,7 +3970,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 162,
+     "fail_streak": 163,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4116,7 +4116,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='gables.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/gables/Gables_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4138,7 +4138,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='ryancompanies.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ryancompanies/ryancompanies/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4244,7 +4244,7 @@
     {
      "changed_on": "2026-10-31",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 11,
+     "fail_streak": 12,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4273,7 +4273,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='invitationhomes.wd503.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/invitationhomes/INVH/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4295,7 +4295,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='lennar.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/lennar/Lennar_Jobs/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4317,7 +4317,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='pultegroup.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/pultegroup/PGI/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4340,7 +4340,7 @@
     {
      "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "3794b5109d74bd08",
+     "hash": "6d7a0fb72024eca6",
      "kind": "page",
      "links": [
       "Get experience in the industry by joining our internship program. | https://www.drhorton.com/internships",
@@ -4404,7 +4404,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='simon.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/simon/Simon/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4447,7 +4447,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='realtyincome.wd108.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/realtyincome/realty_income_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 2,
+     "fail_streak": 3,
      "kind": "workday",
      "ok": false
     }
@@ -4490,7 +4490,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='extraspace.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/extraspace/ESS_External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4512,7 +4512,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='essex.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/essex/essexcareers/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4576,7 +4576,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 162,
+     "fail_streak": 163,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4605,7 +4605,7 @@
    "sources": [
     {
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 162,
+     "fail_streak": 163,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4728,7 +4728,7 @@
     {
      "changed_on": "2026-11-05",
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 21,
+     "fail_streak": 22,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4757,9 +4757,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-13",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "416fa572e97c95c0",
+     "hash": "f0582b03093e7e12",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4903,7 +4903,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='americancentury.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/americancentury/AmericanCenturyInvestments/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4925,7 +4925,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='godirect.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/godirect/voya_jobs/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4947,7 +4947,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='corebridgefinancial.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/corebridgefinancial/CorebridgeFinancial/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4969,7 +4969,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='manulife.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/manulife/MFCJH_Jobs/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -4991,7 +4991,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='countryfinancial.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/countryfinancial/COUNTRYCorporateInternships/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -5013,7 +5013,7 @@
    "sources": [
     {
      "error": "RetryError: HTTPSConnectionPool(host='fei.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/fei/External/jobs (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -5243,9 +5243,9 @@
    "open": 0,
    "sources": [
     {
-     "changed_on": "2026-11-10",
+     "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "0d70afc789f708e5",
+     "hash": "38faa9b830b4da8b",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -5421,7 +5421,7 @@
     {
      "changed_on": "2026-11-16",
      "fail_streak": 0,
-     "hash": "3289bd40c646339c",
+     "hash": "61dd367a805b19c0",
      "kind": "page",
      "links": [],
      "ok": true,
