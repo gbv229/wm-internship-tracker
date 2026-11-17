@@ -81,48 +81,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Addepar",
-   "company_type": "Wealthtech",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-16",
-   "first_seen": "2026-11-10",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Addepar|product intern",
-   "group_title": "Product Intern",
-   "hide": null,
-   "id": "gh:addepar1:8927575002",
-   "last_seen": "2026-11-16",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": "$40/hr",
-   "posted": "2026-11-10",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "greenhouse",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Product Intern - Summer 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927575002",
-   "v": 11,
-   "weeks": 12,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- May or June 2028 Bachelor’s degree candidates in business, finance, economics, math, computer science, engineering, or liberal arts",
    "classes": [
     2028
@@ -5742,7 +5700,7 @@
    "last_seen": "2026-11-16",
    "level": "Undergraduate",
    "location": "Frankfurt, Hessen, Germany",
-   "misses": 1,
+   "misses": 0,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -7924,7 +7882,7 @@
    "last_seen": "2026-11-16",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte; Tempe",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-12",
    "region": "US",
@@ -7971,7 +7929,7 @@
    "last_seen": "2026-11-16",
    "level": "Undergraduate",
    "location": "Washington, DC",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-21",
    "region": "US",
@@ -8015,7 +7973,7 @@
    "last_seen": "2026-11-16",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte",
-   "misses": 0,
+   "misses": 1,
    "pay": "$20–$26/hr",
    "posted": "2026-10-16",
    "region": "US",
@@ -8060,7 +8018,7 @@
    "last_seen": "2026-11-16",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "US",
@@ -8105,7 +8063,7 @@
    "last_seen": "2026-11-16",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "US",
@@ -10342,6 +10300,49 @@
    "url": "https://mtb.wd5.myworkdayjobs.com/wtexternal/job/Dublin-Ireland/GCM-Intern---Ireland_R91263",
    "v": 11,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-16",
+   "company": "Addepar",
+   "company_type": "Wealthtech",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-16",
+   "first_seen": "2026-11-10",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Addepar|product intern",
+   "group_title": "Product Intern",
+   "hide": null,
+   "id": "gh:addepar1:8927575002",
+   "last_seen": "2026-11-16",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": "$40/hr",
+   "posted": "2026-11-10",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "greenhouse",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Product Intern - Summer 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927575002",
+   "v": 11,
+   "weeks": 12,
    "work_mode": null
   },
   {
