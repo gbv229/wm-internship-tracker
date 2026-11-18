@@ -1761,7 +1761,7 @@
    "last_seen": "2026-11-15",
    "level": "Graduate/MBA",
    "location": "New York, NY",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-16",
    "region": "US",
@@ -8611,48 +8611,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-17",
-   "first_seen": "2026-11-17",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Newmark|newmark management consulting intern",
-   "group_title": "Newmark Management Consulting Intern",
-   "hide": null,
-   "id": "or:hdow:250561",
-   "last_seen": "2026-11-18",
-   "level": "Undergraduate",
-   "location": "OH, United States",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-11-17",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "open",
-   "title": "Newmark Management Consulting Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250561",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Newmark",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-18",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
@@ -8684,6 +8642,48 @@
     "real_estate"
    ],
    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|newmark management consulting intern",
+   "group_title": "Newmark Management Consulting Intern",
+   "hide": null,
+   "id": "or:hdow:250561",
+   "last_seen": "2026-11-18",
+   "level": "Undergraduate",
+   "location": "OH, United States",
+   "misses": 1,
+   "pay": null,
+   "posted": "2026-11-17",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "open",
+   "title": "Newmark Management Consulting Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250561",
    "v": 11,
    "weeks": null,
    "work_mode": null
