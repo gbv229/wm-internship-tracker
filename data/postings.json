@@ -8611,6 +8611,48 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|newmark management consulting intern",
+   "group_title": "Newmark Management Consulting Intern",
+   "hide": null,
+   "id": "or:hdow:250561",
+   "last_seen": "2026-11-17",
+   "level": "Undergraduate",
+   "location": "OH, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-17",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "open",
+   "title": "Newmark Management Consulting Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250561",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-11-15",
    "first_seen": "2026-10-08",
    "function": "Real Estate (general)",
@@ -9295,48 +9337,6 @@
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-off-cycle-internship-denmark-team/",
    "v": 11,
    "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "You will be graduating in 2028; eligible students will be in their penultimate year.",
-   "classes": [
-    2028
-   ],
-   "company": "Rothschild & Co (Wealth Mgmt)",
-   "company_type": "Investment Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-16",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Rothschild & Co (Wealth Mgmt)|2027 uk wealth management summer analyst programme",
-   "group_title": "2027 UK Wealth Management Summer Analyst Programme",
-   "hide": "Outside the US",
-   "id": "br:175b580a23b2b0",
-   "last_seen": "2026-11-17",
-   "level": "Undergraduate",
-   "location": "London, United Kingdom",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 UK Wealth Management Summer Analyst Programme",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-uk-wealth-management-summer-analyst-programme/",
-   "v": 11,
-   "weeks": 10,
    "work_mode": null
   },
   {
@@ -23957,6 +23957,49 @@
    "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2026-global-advisory-long-term-internship-riyadh/",
    "v": 11,
    "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "You will be graduating in 2028; eligible students will be in their penultimate year.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-17",
+   "company": "Rothschild & Co (Wealth Mgmt)",
+   "company_type": "Investment Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-16",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Rothschild & Co (Wealth Mgmt)|2027 uk wealth management summer analyst programme",
+   "group_title": "2027 UK Wealth Management Summer Analyst Programme",
+   "hide": "Outside the US",
+   "id": "br:175b580a23b2b0",
+   "last_seen": "2026-11-17",
+   "level": "Undergraduate",
+   "location": "London, United Kingdom",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 UK Wealth Management Summer Analyst Programme",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-uk-wealth-management-summer-analyst-programme/",
+   "v": 11,
+   "weeks": 10,
    "work_mode": null
   },
   {
