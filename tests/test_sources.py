@@ -55,3 +55,22 @@ def test_phenom_and_radancy():
         ("rd:citi:102910130192", "Wealth - Summer Analyst, New York - USA, 2027", "New York, New York"),
         ("rd:citi:555", "Private Bank Intern", "Charlotte, NC")]
     assert "Rising juniors" in jobs[0].detail() and jobs[0].posted == date(2026, 11, 5)
+
+
+def test_workday_feed_from_mac(tmp_path, monkeypatch):
+    import gzip, json
+    from datetime import datetime, timezone
+    now = datetime.now(timezone.utc).isoformat(timespec="minutes")
+    feed = {"generated_at": now, "boards": {"baird/careers": {"ok": True, "checked_at": now, "jobs": [
+        {"id": "wd:baird:R1", "title": "Internship – Private Wealth Management", "url": "https://u/1", "location": "2 Locations",
+         "postedOn": "Posted 3 Days Ago", "detail": {"jobDescription": "<p>Class of 2029</p>", "location": "Milwaukee, WI",
+                                                     "additionalLocations": ["Chicago, IL"]}}]},
+        "old/x": {"ok": True, "checked_at": "2026-01-01T00:00+00:00", "jobs": []}}}
+    p = tmp_path / "f.json.gz"
+    p.write_bytes(gzip.compress(json.dumps(feed).encode()))
+    monkeypatch.setattr(sources, "FEED_PATH", p)
+    monkeypatch.setattr(sources, "_feed_cache", None)
+    assert sources.feed_board("old/x") is None                       # too old to trust
+    jobs = sources.workday(None, {"host": "baird.wd1.myworkdayjobs.com", "tenant": "baird", "site": "careers"}, date.today())
+    assert [j.id for j in jobs] == ["wd:baird:R1"]
+    assert "Class of 2029" in jobs[0].detail() and jobs[0].location == "Milwaukee, WI; Chicago, IL"

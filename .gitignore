@@ -7,3 +7,4 @@ data/*.ics
 data/early_programs.json
 data/*.xml
 data/firm_notes.json
+data/workday_feed.json.gz

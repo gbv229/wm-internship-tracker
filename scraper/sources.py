@@ -13,7 +13,8 @@ import re
 import threading
 import time
 from dataclasses import dataclass, field
-from datetime import date
+from datetime import date, datetime, timezone
+from pathlib import Path
 from typing import Callable
 from urllib.parse import quote, urljoin
 
@@ -138,10 +139,65 @@ TIMEOUT = 25
 
 
 # ------------------------------------------------------------------ Workday
+# ------------------------------------------------ Workday feed from Gage's Mac
+# tools/local_workday.py checks the Workday boards from a home connection (Workday refuses cloud
+# servers) and uploads workday_feed.json.gz; the workflow downloads it to data/ before a run.
+FEED_PATH = Path(__file__).resolve().parent.parent / "data" / "workday_feed.json.gz"
+FEED_MAX_AGE_H = 4.0
+_feed_cache: dict | None = None
+
+
+def workday_feed() -> dict:
+    global _feed_cache
+    if _feed_cache is None:
+        try:
+            import gzip
+            _feed_cache = json.loads(gzip.decompress(FEED_PATH.read_bytes()))
+        except (OSError, ValueError):
+            _feed_cache = {}
+    return _feed_cache
+
+
+def feed_board(key: str) -> dict | None:
+    """The Mac's latest result for a board, if it's recent enough to trust."""
+    b = (workday_feed().get("boards") or {}).get(key)
+    if not b or not b.get("ok") or not b.get("checked_at"):
+        return None
+    try:
+        age = (datetime.now(timezone.utc) - datetime.fromisoformat(b["checked_at"])).total_seconds() / 3600
+    except ValueError:
+        return None
+    return b if age <= FEED_MAX_AGE_H else None
+
+
+def _feed_jobs(b: dict, today: date) -> list[Job]:
+    try:
+        checked = datetime.fromisoformat(b["checked_at"]).date()
+    except ValueError:
+        checked = today
+    out = []
+    for j in b.get("jobs") or []:
+        job = Job(source="workday", id=j["id"], title=j["title"], url=j["url"], location=j.get("location") or "",
+                  posted=parse.relative_posted(j.get("postedOn"), checked), remote_hint=j.get("remoteType"))
+        info = j.get("detail") or {}
+
+        def detail(info=info, job=job):
+            locs = [l for l in dict.fromkeys([info.get("location")] + list(info.get("additionalLocations") or [])) if l]
+            if locs:
+                job.location = "; ".join(locs)
+            return parse.html_to_text(info.get("jobDescription") or "")
+        job._detail = detail
+        out.append(job)
+    return out
+
+
 def workday(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     host, tenant, site = cfg["host"], cfg["tenant"], str(cfg["site"])
     api = f"https://{host}/wday/cxs/{tenant}/{site}"
     public = f"https://{host}{cfg.get('path_prefix', '')}/{site}"
+    fb = feed_board(wd_key(cfg))
+    if fb is not None:
+        return _feed_jobs(fb, today)
     WD.start_board(wd_key(cfg))
     try:
         jobs = _workday_list(s, cfg, today, api, public, tenant)

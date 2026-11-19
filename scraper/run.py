@@ -196,6 +196,19 @@ def _title_key(p: dict) -> str:
     return re.sub(r"[^a-z0-9]+", " ", (p.get("title") or "").lower()).strip()
 
 
+def write_workday_boards(companies: list[dict]):
+    """The board list the Mac's Workday reader works from (tools/local_workday.py)."""
+    DATA.mkdir(parents=True, exist_ok=True)
+    boards = []
+    for co in companies:
+        for src in co["sources"]:
+            kind, cfg = next(iter(src.items()))
+            if kind == "workday":
+                boards.append({"key": sources.wd_key(cfg), "company": co["name"], "host": cfg["host"], "tenant": cfg["tenant"],
+                               "site": str(cfg["site"]), "path_prefix": cfg.get("path_prefix", "")})
+    (DATA / "workday_boards.json").write_text(json.dumps({"boards": boards}, indent=1) + "\n")
+
+
 def migrate_switched_sources(out: dict, results: dict, companies: list[dict], today: date) -> int:
     """When a firm moves to a different source (e.g. from Workday to its own careers site), its
     old records would otherwise stay open forever. Carry each one's history over to the matching
@@ -352,7 +365,9 @@ def main(argv=None):
             wd.append((not co.get("priority"), o.get("checked_at") or "", sources.wd_key(cfg)))
     wd.sort()
     n_wd = int(os.environ.get("WD_BOARDS_PER_RUN", "16"))
+    wd = [x for x in wd if sources.feed_board(x[2]) is None]      # boards the Mac read recently need no call
     sources.WD.allowed = {k for _, _, k in wd[:n_wd]} | {k for p, _, k in wd if not p}
+    write_workday_boards(companies)
     order = list(companies)
     random.shuffle(order)
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
@@ -533,7 +548,9 @@ def main(argv=None):
         "sources_ok": sum(1 for c in status_out for x in c["sources"] if x["ok"]),
         "sources_total": sum(len(c["sources"]) for c in status_out),
         "repo": repo,
-        "workday": {"calls": sources.WD.calls, "refused": sources.WD.refused},
+        "workday": {"calls": sources.WD.calls, "refused": sources.WD.refused,
+                    "feed_generated": sources.workday_feed().get("generated_at"),
+                    "feed_boards_fresh": sum(1 for k in (sources.workday_feed().get("boards") or {}) if sources.feed_board(k))},
     })
     print(f"\nDone in {time.time()-started:.0f}s: {sum(1 for p in postings if p['status']=='open')} open postings, "
           f"{len(postings)} total. Details budget left: {budget.n}. "
