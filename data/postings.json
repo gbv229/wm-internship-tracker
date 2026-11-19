@@ -5050,53 +5050,6 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-28",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Fidelity Investments|intern investor center marlton",
-   "group_title": "Intern, Investor Center - Marlton",
-   "hide": null,
-   "id": "wd:fmr:2135889-1",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "501 ROUTE 73 SOUTH, SUITE N, Marlton NJ",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": "$20–$32/hr",
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - Marlton, NJ",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/501-ROUTE-73-SOUTH-SUITE-N-Marlton-NJ/Intern--Investor-Center---Marlton--NJ_2135889-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-19",
    "first_seen": "2026-10-28",
    "function": "Investments",
@@ -5129,100 +5082,6 @@
     "wealth"
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Millburn-NJ/Intern--Investor-Center---Millburn--NJ_2135881-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-28",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Fidelity Investments|intern investor center morristown",
-   "group_title": "Intern, Investor Center - Morristown",
-   "hide": null,
-   "id": "wd:fmr:2135883-1",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Morristown, NJ",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": "$20–$32/hr",
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NJ"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - Morristown, NJ",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Morristown-NJ/Intern--Investor-Center---Morristown--NJ_2135883-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-28",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Fidelity Investments|intern investor center",
-   "group_title": "Intern, Investor Center",
-   "hide": null,
-   "id": "wd:fmr:2135877",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "320 Park Ave, New York NY",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": "$20–$32/hr",
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - New York, NY",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/320-Park-Ave-New-York-NY/Intern--Investor-Center---New-York--NY_2135877",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -15451,6 +15310,150 @@
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
    "work_mode": "Remote"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-19",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-28",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center marlton",
+   "group_title": "Intern, Investor Center - Marlton",
+   "hide": null,
+   "id": "wd:fmr:2135889-1",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "501 ROUTE 73 SOUTH, SUITE N, Marlton NJ",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": "$20–$32/hr",
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - Marlton, NJ",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/501-ROUTE-73-SOUTH-SUITE-N-Marlton-NJ/Intern--Investor-Center---Marlton--NJ_2135889-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-19",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-28",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center morristown",
+   "group_title": "Intern, Investor Center - Morristown",
+   "hide": null,
+   "id": "wd:fmr:2135883-1",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Morristown, NJ",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": "$20–$32/hr",
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NJ"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - Morristown, NJ",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Morristown-NJ/Intern--Investor-Center---Morristown--NJ_2135883-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-19",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-28",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center",
+   "group_title": "Intern, Investor Center",
+   "hide": null,
+   "id": "wd:fmr:2135877",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "320 Park Ave, New York NY",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": "$20–$32/hr",
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - New York, NY",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/320-Park-Ave-New-York-NY/Intern--Investor-Center---New-York--NY_2135877",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
