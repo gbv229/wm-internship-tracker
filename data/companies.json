@@ -13,9 +13,11 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oleeo",
      "ok": true
@@ -38,12 +40,14 @@
    "open": 19,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "goldman",
      "ok": true
     },
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "b2185d4027bab0ae",
      "kind": "page",
@@ -75,6 +79,7 @@
    "open": 7,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -100,9 +105,11 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oleeo",
      "ok": true
@@ -134,7 +141,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -157,7 +165,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -178,6 +187,7 @@
    "sources": [
     {
      "changed_on": "2026-11-10",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "5f323c064b83bb11",
      "kind": "page",
@@ -212,8 +222,9 @@
    "open": 2,
    "sources": [
     {
-     "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
-     "fail_streak": 12,
+     "checked_at": null,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
+     "fail_streak": 13,
      "kind": "workday",
      "ok": false
     }
@@ -237,7 +248,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 7,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -256,8 +268,9 @@
    "open": 4,
    "sources": [
     {
-     "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
-     "fail_streak": 3,
+     "checked_at": null,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/RBCEARLYTALENT1/jobs",
+     "fail_streak": 4,
      "kind": "workday",
      "ok": false
     },
@@ -265,13 +278,15 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -294,7 +309,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -317,13 +333,15 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -345,7 +363,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -365,6 +384,7 @@
    "sources": [
     {
      "changed_on": "2026-11-05",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "b1535a34a2a08213",
      "kind": "page",
@@ -396,8 +416,9 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
-     "hash": "2fc1ed4952c41c32",
+     "hash": "6fcb7e3fcbf3b9da",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -429,7 +450,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://juliusbaer.wd3.myworkdayjobs.com/wday/cxs/juliusbaer/External/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -448,6 +470,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -470,6 +493,7 @@
    "open": 7,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -492,6 +516,7 @@
    "sources": [
     {
      "changed_on": "2026-11-09",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "06b60012b6c24fe0",
      "kind": "page",
@@ -526,6 +551,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "0dea200907df2d4a",
      "kind": "page",
@@ -556,6 +582,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -579,7 +606,8 @@
     {
      "fail_streak": 0,
      "kind": "workday",
-     "ok": true
+     "ok": true,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -601,7 +629,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -620,6 +649,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -644,7 +674,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -666,7 +697,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -688,7 +720,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/Primary-External-1/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -708,6 +741,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "45e90d1d093bacb2",
      "kind": "page",
@@ -742,6 +776,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "d7fedc0ef283d068",
      "kind": "page",
@@ -773,6 +808,7 @@
    "sources": [
     {
      "changed_on": "2026-10-27",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "818c23bc88f35d5c",
      "kind": "page",
@@ -806,6 +842,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "06049d97cc4f6eab",
      "kind": "page",
@@ -839,7 +876,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -862,7 +900,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -885,7 +924,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -908,13 +948,15 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/Campus/jobs",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/MTB/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -935,6 +977,7 @@
    "sources": [
     {
      "changed_on": "2026-10-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "9467c3cb6a9379c3",
      "kind": "page",
@@ -969,7 +1012,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -992,7 +1036,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1015,7 +1060,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1038,7 +1084,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1058,8 +1105,9 @@
    "open": 0,
    "sources": [
     {
-     "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
-     "fail_streak": 12,
+     "checked_at": null,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/jobs",
+     "fail_streak": 13,
      "kind": "workday",
      "ok": false
     }
@@ -1083,7 +1131,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1103,6 +1152,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "967cfba6ec9ae079",
      "kind": "page",
@@ -1135,6 +1185,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "a1fbebb49ab88887",
      "kind": "page",
@@ -1166,6 +1217,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "0d3346bc5dd5122f",
      "kind": "page",
@@ -1201,13 +1253,15 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1226,6 +1280,7 @@
    "open": 1,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1248,6 +1303,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "fa51069b30c21ba5",
      "kind": "page",
@@ -1281,13 +1337,15 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1306,8 +1364,9 @@
    "open": 0,
    "sources": [
     {
-     "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
-     "fail_streak": 12,
+     "checked_at": null,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs",
+     "fail_streak": 13,
      "kind": "workday",
      "ok": false
     }
@@ -1331,13 +1390,15 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/university/jobs",
      "fail_streak": 11,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs",
      "fail_streak": 9,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1356,6 +1417,7 @@
    "open": 3,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1380,7 +1442,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1399,6 +1462,7 @@
    "open": 1,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1421,6 +1485,7 @@
    "sources": [
     {
      "changed_on": "2026-10-22",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "4e097448fdfc6f38",
      "kind": "page",
@@ -1452,6 +1517,7 @@
    "sources": [
     {
      "changed_on": "2026-11-16",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "0c777a5a0655e82d",
      "kind": "page",
@@ -1483,8 +1549,9 @@
    "sources": [
     {
      "changed_on": "2026-11-12",
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.dadavidson.com/careers",
-     "fail_streak": 17,
+     "fail_streak": 18,
      "hash": "35008f2bdec37641",
      "kind": "page",
      "ok": false,
@@ -1514,6 +1581,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "e1d7b50179b77e67",
      "kind": "page",
@@ -1545,6 +1613,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "141ec77912857372",
      "kind": "page",
@@ -1578,7 +1647,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1600,7 +1670,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 10,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1619,6 +1690,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -1643,7 +1715,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1663,8 +1736,9 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
-     "hash": "fe2e21e21c722b0c",
+     "hash": "fef7d98176860692",
      "kind": "page",
      "links": [
       "internships@creativeplanning.com | mailto:internships@creativeplanning.com",
@@ -1696,6 +1770,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1720,7 +1795,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 13,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -1739,6 +1815,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -1761,6 +1838,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "6296dc1df0d684a0",
      "kind": "page",
@@ -1792,6 +1870,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "a38d8b7652eed35b",
      "kind": "page",
@@ -1822,8 +1901,9 @@
    "open": 1,
    "sources": [
     {
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 173,
+     "fail_streak": 174,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1852,6 +1932,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "6386d0ef4044a70c",
      "kind": "page",
@@ -1883,6 +1964,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "5e2681a748deb660",
      "kind": "page",
@@ -1914,6 +1996,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "ae10bcf1447bfbed",
      "kind": "page",
@@ -1945,6 +2028,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "3749f7514f940f7a",
      "kind": "page",
@@ -1975,8 +2059,9 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 142,
+     "fail_streak": 143,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -2005,8 +2090,9 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": null,
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 84,
+     "fail_streak": 85,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -2035,8 +2121,9 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 173,
+     "fail_streak": 174,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2065,6 +2152,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "e3b0c44298fc1c14",
      "kind": "page",
@@ -2096,6 +2184,7 @@
    "sources": [
     {
      "changed_on": "2026-10-27",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "8656577d25faf769",
      "kind": "page",
@@ -2129,10 +2218,12 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "1edeb0b3d9598673",
      "kind": "page",
@@ -2141,6 +2232,7 @@
      "url": "https://www.northwesternmutual.com/careers/"
     },
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
@@ -2172,7 +2264,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2195,7 +2288,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2217,7 +2311,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2239,7 +2334,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://thrivent.wd5.myworkdayjobs.com/wday/cxs/thrivent/external/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2260,7 +2356,8 @@
     {
      "fail_streak": 0,
      "kind": "workday",
-     "ok": true
+     "ok": true,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2282,7 +2379,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2304,7 +2402,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2324,6 +2423,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "97eea1c8787c19f8",
      "kind": "page",
@@ -2358,6 +2458,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "acdc7df4c9f7f729",
      "kind": "page",
@@ -2392,6 +2493,7 @@
    "sources": [
     {
      "changed_on": "2026-11-14",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "33dd53a57dfdc0e9",
      "kind": "page",
@@ -2430,7 +2532,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2452,13 +2555,15 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Early_Careers_Program/jobs",
      "fail_streak": 4,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2478,14 +2583,16 @@
    "open": 6,
    "sources": [
     {
-     "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
-     "fail_streak": 12,
+     "checked_at": null,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/abcampuscareers/jobs",
+     "fail_streak": 13,
      "kind": "workday",
      "ok": false
     },
     {
-     "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
-     "fail_streak": 12,
+     "checked_at": null,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
+     "fail_streak": 13,
      "kind": "workday",
      "ok": false
     }
@@ -2509,7 +2616,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2531,7 +2639,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2553,7 +2662,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 4,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2575,13 +2685,15 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2604,7 +2716,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2626,7 +2739,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2648,7 +2762,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2670,7 +2785,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2692,7 +2808,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2715,7 +2832,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2737,7 +2855,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2760,7 +2879,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2779,6 +2899,7 @@
    "open": 2,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -2800,6 +2921,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "ashby",
      "ok": true
@@ -2822,6 +2944,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "155391284c2172d7",
      "kind": "page",
@@ -2853,6 +2976,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "b0dd4a5466ce45c8",
      "kind": "page",
@@ -2884,6 +3008,7 @@
    "sources": [
     {
      "changed_on": "2026-11-13",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "0aa56acb903af798",
      "kind": "page",
@@ -2915,6 +3040,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "35167bec27cf0776",
      "kind": "page",
@@ -2946,6 +3072,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "20699276eda9f621",
      "kind": "page",
@@ -2978,7 +3105,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3000,7 +3128,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/external/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3022,7 +3151,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://colliers.wd3.myworkdayjobs.com/wday/cxs/colliers/Colliers-External-Career-Site/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3041,6 +3171,7 @@
    "open": 1,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -3062,12 +3193,14 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
     },
     {
      "changed_on": "2026-11-16",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "0796baab5777b424",
      "kind": "page",
@@ -3099,6 +3232,7 @@
    "sources": [
     {
      "changed_on": "2026-11-16",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "f9c8c821c97556d3",
      "kind": "page",
@@ -3130,6 +3264,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "9976a2b742e99485",
      "kind": "page",
@@ -3161,6 +3296,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "3636f6c5e8131ee9",
      "kind": "page",
@@ -3192,6 +3328,7 @@
    "sources": [
     {
      "changed_on": "2026-11-02",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "5ab67224d3d6a9ae",
      "kind": "page",
@@ -3223,6 +3360,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "168f2e83705cc6aa",
      "kind": "page",
@@ -3254,8 +3392,9 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
-     "hash": "91dd2f67a9b41d21",
+     "hash": "3ea61af374cf98b1",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3287,13 +3426,15 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/Costar_Campus/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/CoStarCareers/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3313,6 +3454,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "1f7276d4addd58b7",
      "kind": "page",
@@ -3346,7 +3488,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3366,6 +3509,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "38e0cbc695043c91",
      "kind": "page",
@@ -3397,8 +3541,9 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
-     "hash": "0246e700a592680b",
+     "hash": "63811a728378e800",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3428,6 +3573,7 @@
    "sources": [
     {
      "changed_on": "2026-10-20",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "a7f714e53a57778a",
      "kind": "page",
@@ -3459,6 +3605,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "b1a24b6d745f2878",
      "kind": "page",
@@ -3490,6 +3637,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "a3b9d85639b4abc1",
      "kind": "page",
@@ -3523,7 +3671,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3545,7 +3694,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3567,7 +3717,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 13,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3589,7 +3740,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3611,7 +3763,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs",
      "fail_streak": 10,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3633,7 +3786,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3652,8 +3806,9 @@
    "open": 0,
    "sources": [
     {
-     "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
-     "fail_streak": 12,
+     "checked_at": null,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://aresmgmt.wd1.myworkdayjobs.com/wday/cxs/aresmgmt/External/jobs",
+     "fail_streak": 13,
      "kind": "workday",
      "ok": false
     }
@@ -3677,7 +3832,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3697,6 +3853,7 @@
    "sources": [
     {
      "changed_on": "2026-10-30",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "b16790f802d681f4",
      "kind": "page",
@@ -3728,6 +3885,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "93bfd5c9ee7b05c8",
      "kind": "page",
@@ -3762,6 +3920,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "4d81bae97ffe53ab",
      "kind": "page",
@@ -3793,6 +3952,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "7a385cee1ca36c6f",
      "kind": "page",
@@ -3826,6 +3986,7 @@
    "sources": [
     {
      "changed_on": "2026-11-11",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "0275ba14afc5f254",
      "kind": "page",
@@ -3857,6 +4018,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "1ec480001273eb3c",
      "kind": "page",
@@ -3888,6 +4050,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "403c002aaca9d5a7",
      "kind": "page",
@@ -3921,7 +4084,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://linklogistics.wd5.myworkdayjobs.com/wday/cxs/linklogistics/Link/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3940,8 +4104,9 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 173,
+     "fail_streak": 174,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -3969,8 +4134,9 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 173,
+     "fail_streak": 174,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -3999,6 +4165,7 @@
    "sources": [
     {
      "changed_on": "2026-11-10",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "94dbe9f2b5d4c67b",
      "kind": "page",
@@ -4030,6 +4197,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "cee548f047beab10",
      "kind": "page",
@@ -4061,6 +4229,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "e9bb6b110ad5b8fa",
      "kind": "page",
@@ -4094,6 +4263,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -4118,7 +4288,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4140,7 +4311,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4160,6 +4332,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "62b3c311584508bc",
      "kind": "page",
@@ -4190,6 +4363,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -4212,6 +4386,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "b427a84a541ead9e",
      "kind": "page",
@@ -4243,8 +4418,9 @@
    "sources": [
     {
      "changed_on": "2026-10-31",
+     "checked_at": null,
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4275,7 +4451,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 2,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4297,7 +4474,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4319,7 +4497,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4339,6 +4518,7 @@
    "sources": [
     {
      "changed_on": "2026-11-16",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "3794b5109d74bd08",
      "kind": "page",
@@ -4373,6 +4553,7 @@
    "sources": [
     {
      "changed_on": "2026-10-29",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "ecedc4b9df4a7670",
      "kind": "page",
@@ -4406,7 +4587,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4425,6 +4607,7 @@
    "open": 1,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -4449,7 +4632,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://realtyincome.wd108.myworkdayjobs.com/wday/cxs/realtyincome/realty_income_careers/jobs",
      "fail_streak": 13,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4468,6 +4652,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -4492,7 +4677,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4514,7 +4700,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://essex.wd5.myworkdayjobs.com/wday/cxs/essex/essexcareers/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4533,6 +4720,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -4554,6 +4742,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "ashby",
      "ok": true
@@ -4575,8 +4764,9 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 173,
+     "fail_streak": 174,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4604,8 +4794,9 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 173,
+     "fail_streak": 174,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4634,6 +4825,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "a866d2e502e8b5da",
      "kind": "page",
@@ -4665,6 +4857,7 @@
    "sources": [
     {
      "changed_on": "2026-11-07",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "4ed8dcaf2fb4dbea",
      "kind": "page",
@@ -4696,6 +4889,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "ce1dad5fa6207afa",
      "kind": "page",
@@ -4727,8 +4921,9 @@
    "sources": [
     {
      "changed_on": "2026-11-05",
+     "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 32,
+     "fail_streak": 33,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4758,8 +4953,9 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
-     "hash": "6bec2620f4ca547d",
+     "hash": "197cfcd7f34836af",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4789,6 +4985,7 @@
    "sources": [
     {
      "changed_on": "2026-11-09",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "c947dc09613ef55b",
      "kind": "page",
@@ -4820,6 +5017,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "1a02c0ce4ac71c16",
      "kind": "page",
@@ -4851,6 +5049,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "58b0515850a35257",
      "kind": "page",
@@ -4881,6 +5080,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
@@ -4905,7 +5105,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4927,7 +5128,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4949,7 +5151,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4971,7 +5174,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -4993,7 +5197,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://countryfinancial.wd5.myworkdayjobs.com/wday/cxs/countryfinancial/COUNTRYCorporateInternships/jobs",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -5015,7 +5220,8 @@
      "error": "RuntimeError: Workday time budget for this run used up; this board is checked next run",
      "fail_streak": 12,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -5034,6 +5240,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "ashby",
      "ok": true
@@ -5056,6 +5263,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "f1f389c38603b665",
      "kind": "page",
@@ -5089,6 +5297,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "6dcdba76d50eb7dd",
      "kind": "page",
@@ -5120,6 +5329,7 @@
    "sources": [
     {
      "changed_on": "2026-11-12",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "74865eceae2a1099",
      "kind": "page",
@@ -5151,6 +5361,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "61ec2fb10a7f6064",
      "kind": "page",
@@ -5182,6 +5393,7 @@
    "sources": [
     {
      "changed_on": "2026-11-06",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "4ec41d3212bce4b2",
      "kind": "page",
@@ -5213,6 +5425,7 @@
    "sources": [
     {
      "changed_on": "2026-11-09",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "0cb1cf9544eb459e",
      "kind": "page",
@@ -5244,6 +5457,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "d9d0f2851b2470b4",
      "kind": "page",
@@ -5274,6 +5488,7 @@
    "open": 0,
    "sources": [
     {
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
@@ -5296,6 +5511,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "a7c3c9112a92b36e",
      "kind": "page",
@@ -5327,6 +5543,7 @@
    "sources": [
     {
      "changed_on": "2026-11-13",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "699acc8dd3fdd64a",
      "kind": "page",
@@ -5358,6 +5575,7 @@
    "sources": [
     {
      "changed_on": "2026-11-05",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "7a926d7d4479e40d",
      "kind": "page",
@@ -5389,6 +5607,7 @@
    "sources": [
     {
      "changed_on": null,
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
      "hash": "bd31b5effb3cdb4c",
      "kind": "page",
@@ -5420,8 +5639,9 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
+     "checked_at": "2026-11-19T16:36+00:00",
      "fail_streak": 0,
-     "hash": "1aacb5f04b8f8206",
+     "hash": "8aaa70ab8033d79c",
      "kind": "page",
      "links": [],
      "ok": true,
