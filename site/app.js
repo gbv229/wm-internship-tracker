@@ -263,7 +263,9 @@
   function enrich(p) {
     const dl = parseDay(p.deadline);
     const status = p.status === "closed" ? "closed" : dl && dl < TODAY ? "past" : dl && daysUntil(dl) <= 14 ? "soon" : "open";
-    return { ...p, _dl: dl, _posted: parseDay(p.posted), _first: parseDay(p.first_seen), _status: status,
+    const lastSeen = parseDay(p.last_seen);
+    const stale = p.status === "open" && lastSeen && (TODAY - lastSeen) / DAY >= 2 ? lastSeen : null;
+    return { ...p, _dl: dl, _posted: parseDay(p.posted), _first: parseDay(p.first_seen), _status: status, _stale: stale,
       _new: FIRST_VISIT ? p.first_seen && (TODAY - parseDay(p.first_seen)) / DAY <= 3 : !PREV_SEEN.has(p.id) && p.status === "open",
       _hay: `${p.company} ${p.title} ${p.location} ${p.company_type} ${p.function}`.toLowerCase() };
   }
@@ -803,7 +805,8 @@
     const posted = p._posted ? fmtDay(p._posted, p._posted.getFullYear() !== TODAY.getFullYear()) : "";
     const regs = [...new Set(members.flatMap((m) => regionsOf(m)))].filter((r) => r !== "US");
     const where = multi ? `${members.length} offices${regs.length ? " · " + regs.slice(0, 3).join(", ") + (regs.length > 3 ? "…" : "") : ""}` : fmtLoc(p.location);
-    const meta = [where, p.level === "Graduate/MBA" ? "MBA / graduate" : "", p.hide ? `Hidden by default: ${p.hide}` : ""].filter(Boolean).join(" · ");
+    const meta = [where, p.level === "Graduate/MBA" ? "MBA / graduate" : "", p.hide ? `Hidden by default: ${p.hide}` : "",
+      p._stale ? `Last confirmed ${fmtDay(p._stale)}: the firm's job board isn't answering our checks, so open the posting to confirm it's still up` : ""].filter(Boolean).join(" · ");
     const isOpen = state.open.has(p.id);
     const apply = p._status === "closed" && !multi
       ? `<span class="status-closed">Closed ${p.closed_on ? fmtDay(parseDay(p.closed_on)) : ""}</span>`
@@ -873,7 +876,7 @@
     const items = [
       ["Pay", p.pay], ["Minimum GPA", p.gpa], ["Length", p.weeks ? `${p.weeks} weeks` : null],
       ["Work setup", p.work_mode], ["Visa sponsorship", p.sponsorship], ["Area", p.function],
-      ["Location", p.location], ["Region", regionsOf(p).filter((r) => r !== "US").join(", ") || null], ["First seen here", p._first ? fmtDay(p._first, true) : null],
+      ["Location", p.location], ["Region", regionsOf(p).filter((r) => r !== "US").join(", ") || null], ["First seen here", p._first ? fmtDay(p._first, true) : null], ["Last confirmed", p._stale ? fmtDay(p._stale, true) : null],
     ].filter(([, v]) => v);
     const ev = [];
     const from = (v) => (/^Confirmed by hand/.test(v || "") ? "confirmed by hand" : "from the posting");
