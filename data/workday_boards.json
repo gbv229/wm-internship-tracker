@@ -1,0 +1,660 @@
+{
+ "boards": [
+  {
+   "key": "ms/External",
+   "company": "Morgan Stanley",
+   "host": "ms.wd5.myworkdayjobs.com",
+   "tenant": "ms",
+   "site": "External",
+   "path_prefix": ""
+  },
+  {
+   "key": "ghr/us-emplsv",
+   "company": "Bank of America / Merrill",
+   "host": "ghr.wd1.myworkdayjobs.com",
+   "tenant": "ghr",
+   "site": "us-emplsv",
+   "path_prefix": ""
+  },
+  {
+   "key": "wf/WellsFargoJobs",
+   "company": "Wells Fargo",
+   "host": "wd1.myworkdaysite.com",
+   "tenant": "wf",
+   "site": "WellsFargoJobs",
+   "path_prefix": "/recruiting/wf"
+  },
+  {
+   "key": "db/DBWebsite",
+   "company": "Deutsche Bank",
+   "host": "db.wd3.myworkdayjobs.com",
+   "tenant": "db",
+   "site": "DBWebsite",
+   "path_prefix": ""
+  },
+  {
+   "key": "td/TD_Bank_Careers",
+   "company": "TD (incl. TD Wealth)",
+   "host": "td.wd3.myworkdayjobs.com",
+   "tenant": "td",
+   "site": "TD_Bank_Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "cibc/campus",
+   "company": "CIBC Private Wealth",
+   "host": "cibc.wd3.myworkdayjobs.com",
+   "tenant": "cibc",
+   "site": "campus",
+   "path_prefix": ""
+  },
+  {
+   "key": "cibc/search",
+   "company": "CIBC Private Wealth",
+   "host": "cibc.wd3.myworkdayjobs.com",
+   "tenant": "cibc",
+   "site": "search",
+   "path_prefix": ""
+  },
+  {
+   "key": "santander/SantanderCareers",
+   "company": "Santander (Private Banking)",
+   "host": "santander.wd3.myworkdayjobs.com",
+   "tenant": "santander",
+   "site": "SantanderCareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "juliusbaer/External",
+   "company": "Julius Baer",
+   "host": "juliusbaer.wd3.myworkdayjobs.com",
+   "tenant": "juliusbaer",
+   "site": "External",
+   "path_prefix": ""
+  },
+  {
+   "key": "pipersandler/Piper_Sandler_Careers",
+   "company": "Piper Sandler",
+   "host": "pipersandler.wd501.myworkdayjobs.com",
+   "tenant": "pipersandler",
+   "site": "Piper_Sandler_Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "ntrs/northerntrust",
+   "company": "Northern Trust",
+   "host": "ntrs.wd1.myworkdayjobs.com",
+   "tenant": "ntrs",
+   "site": "northerntrust",
+   "path_prefix": ""
+  },
+  {
+   "key": "bbh/BBH",
+   "company": "Brown Brothers Harriman",
+   "host": "bbh.wd5.myworkdayjobs.com",
+   "tenant": "bbh",
+   "site": "BBH",
+   "path_prefix": ""
+  },
+  {
+   "key": "mtb/wtexternal",
+   "company": "Wilmington Trust",
+   "host": "mtb.wd5.myworkdayjobs.com",
+   "tenant": "mtb",
+   "site": "wtexternal",
+   "path_prefix": ""
+  },
+  {
+   "key": "franklintempleton/Primary-External-1",
+   "company": "Fiduciary Trust International (Franklin)",
+   "host": "franklintempleton.wd5.myworkdayjobs.com",
+   "tenant": "franklintempleton",
+   "site": "Primary-External-1",
+   "path_prefix": ""
+  },
+  {
+   "key": "usbank/US_Bank_Careers",
+   "company": "U.S. Bank (Private Wealth)",
+   "host": "usbank.wd1.myworkdayjobs.com",
+   "tenant": "usbank",
+   "site": "US_Bank_Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "mtb/Campus",
+   "company": "M&T Bank (Wealth)",
+   "host": "mtb.wd5.myworkdayjobs.com",
+   "tenant": "mtb",
+   "site": "Campus",
+   "path_prefix": ""
+  },
+  {
+   "key": "mtb/MTB",
+   "company": "M&T Bank (Wealth)",
+   "host": "mtb.wd5.myworkdayjobs.com",
+   "tenant": "mtb",
+   "site": "MTB",
+   "path_prefix": ""
+  },
+  {
+   "key": "fifththird/53careers",
+   "company": "Fifth Third (Wealth)",
+   "host": "fifththird.wd5.myworkdayjobs.com",
+   "tenant": "fifththird",
+   "site": "53careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "keybank/External_Career_Site",
+   "company": "KeyBank",
+   "host": "keybank.wd5.myworkdayjobs.com",
+   "tenant": "keybank",
+   "site": "External_Career_Site",
+   "path_prefix": ""
+  },
+  {
+   "key": "huntington/HNBcareers",
+   "company": "Huntington (Private Bank)",
+   "host": "huntington.wd12.myworkdayjobs.com",
+   "tenant": "huntington",
+   "site": "HNBcareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "associatedbank/external_careers",
+   "company": "Associated Bank (Private Wealth)",
+   "host": "associatedbank.wd1.myworkdayjobs.com",
+   "tenant": "associatedbank",
+   "site": "external_careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "frostbank/External",
+   "company": "Frost (Private Wealth)",
+   "host": "frostbank.wd5.myworkdayjobs.com",
+   "tenant": "frostbank",
+   "site": "External",
+   "path_prefix": ""
+  },
+  {
+   "key": "fmr/targeted",
+   "company": "Fidelity Investments",
+   "host": "fmr.wd1.myworkdayjobs.com",
+   "tenant": "fmr",
+   "site": "targeted",
+   "path_prefix": ""
+  },
+  {
+   "key": "fmr/fidelitycareers",
+   "company": "Fidelity Investments",
+   "host": "fmr.wd1.myworkdayjobs.com",
+   "tenant": "fmr",
+   "site": "fidelitycareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "raymondjames/RaymondJamesEarlyCareers",
+   "company": "Raymond James",
+   "host": "raymondjames.wd1.myworkdayjobs.com",
+   "tenant": "raymondjames",
+   "site": "RaymondJamesEarlyCareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "raymondjames/RaymondJamesCareers",
+   "company": "Raymond James",
+   "host": "raymondjames.wd1.myworkdayjobs.com",
+   "tenant": "raymondjames",
+   "site": "RaymondJamesCareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "ameriprise/Ameriprise",
+   "company": "Ameriprise Financial",
+   "host": "ameriprise.wd5.myworkdayjobs.com",
+   "tenant": "ameriprise",
+   "site": "Ameriprise",
+   "path_prefix": ""
+  },
+  {
+   "key": "lplfinancial/university",
+   "company": "LPL Financial",
+   "host": "lplfinancial.wd1.myworkdayjobs.com",
+   "tenant": "lplfinancial",
+   "site": "university",
+   "path_prefix": ""
+  },
+  {
+   "key": "lplfinancial/External",
+   "company": "LPL Financial",
+   "host": "lplfinancial.wd1.myworkdayjobs.com",
+   "tenant": "lplfinancial",
+   "site": "External",
+   "path_prefix": ""
+  },
+  {
+   "key": "baird/careers",
+   "company": "Baird",
+   "host": "baird.wd1.myworkdayjobs.com",
+   "tenant": "baird",
+   "site": "careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "cir/CIR_External_Career_Site",
+   "company": "Cambridge Investment Research",
+   "host": "cir.wd108.myworkdayjobs.com",
+   "tenant": "cir",
+   "site": "CIR_External_Career_Site",
+   "path_prefix": ""
+  },
+  {
+   "key": "advisorgroup/advisor_career_site",
+   "company": "Osaic",
+   "host": "advisorgroup.wd1.myworkdayjobs.com",
+   "tenant": "advisorgroup",
+   "site": "advisor_career_site",
+   "path_prefix": ""
+  },
+  {
+   "key": "seic/SEI_Global_Services",
+   "company": "SEI",
+   "host": "seic.wd1.myworkdayjobs.com",
+   "tenant": "seic",
+   "site": "SEI_Global_Services",
+   "path_prefix": ""
+  },
+  {
+   "key": "ceritypartners/ceritypartnerscareers",
+   "company": "Cerity Partners",
+   "host": "ceritypartners.wd12.myworkdayjobs.com",
+   "tenant": "ceritypartners",
+   "site": "ceritypartnerscareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "northwesternmutual/corporate-careers",
+   "company": "Northwestern Mutual",
+   "host": "northwesternmutual.wd5.myworkdayjobs.com",
+   "tenant": "northwesternmutual",
+   "site": "corporate-careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "guardianlife/guardian-life-careers",
+   "company": "Guardian Life",
+   "host": "guardianlife.wd5.myworkdayjobs.com",
+   "tenant": "guardianlife",
+   "site": "guardian-life-careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "pru/Careers",
+   "company": "Prudential Financial",
+   "host": "pru.wd5.myworkdayjobs.com",
+   "tenant": "pru",
+   "site": "Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "thrivent/external",
+   "company": "Thrivent",
+   "host": "thrivent.wd5.myworkdayjobs.com",
+   "tenant": "thrivent",
+   "site": "external",
+   "path_prefix": ""
+  },
+  {
+   "key": "hq/Securian_External",
+   "company": "Securian Financial",
+   "host": "hq.wd12.myworkdayjobs.com",
+   "tenant": "hq",
+   "site": "Securian_External",
+   "path_prefix": ""
+  },
+  {
+   "key": "nationwide/Nationwide_Career",
+   "company": "Nationwide",
+   "host": "nationwide.wd1.myworkdayjobs.com",
+   "tenant": "nationwide",
+   "site": "Nationwide_Career",
+   "path_prefix": ""
+  },
+  {
+   "key": "usaa/USAAJOBSWD",
+   "company": "USAA",
+   "host": "usaa.wd1.myworkdayjobs.com",
+   "tenant": "usaa",
+   "site": "USAAJOBSWD",
+   "path_prefix": ""
+  },
+  {
+   "key": "vanguard/vanguard_external",
+   "company": "Vanguard",
+   "host": "vanguard.wd5.myworkdayjobs.com",
+   "tenant": "vanguard",
+   "site": "vanguard_external",
+   "path_prefix": ""
+  },
+  {
+   "key": "abglobal/abcampuscareers",
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "host": "abglobal.wd1.myworkdayjobs.com",
+   "tenant": "abglobal",
+   "site": "abcampuscareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "abglobal/alliancebernsteincareers",
+   "company": "AllianceBernstein (Bernstein Private Wealth)",
+   "host": "abglobal.wd1.myworkdayjobs.com",
+   "tenant": "abglobal",
+   "site": "alliancebernsteincareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "troweprice/TRowePrice",
+   "company": "T. Rowe Price",
+   "host": "troweprice.wd5.myworkdayjobs.com",
+   "tenant": "troweprice",
+   "site": "TRowePrice",
+   "path_prefix": ""
+  },
+  {
+   "key": "capgroup/capitalgroupcareers",
+   "company": "Capital Group",
+   "host": "capgroup.wd1.myworkdayjobs.com",
+   "tenant": "capgroup",
+   "site": "capitalgroupcareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "invesco/IVZearlycareers",
+   "company": "Invesco",
+   "host": "invesco.wd1.myworkdayjobs.com",
+   "tenant": "invesco",
+   "site": "IVZearlycareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "invesco/IVZ",
+   "company": "Invesco",
+   "host": "invesco.wd1.myworkdayjobs.com",
+   "tenant": "invesco",
+   "site": "IVZ",
+   "path_prefix": ""
+  },
+  {
+   "key": "nb/NBCareers",
+   "company": "Neuberger Berman (Private Wealth)",
+   "host": "nb.wd1.myworkdayjobs.com",
+   "tenant": "nb",
+   "site": "NBCareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "dimensional/dfa_careers",
+   "company": "Dimensional Fund Advisors",
+   "host": "dimensional.wd5.myworkdayjobs.com",
+   "tenant": "dimensional",
+   "site": "dfa_careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "wellington/Campus",
+   "company": "Wellington Management",
+   "host": "wellington.wd5.myworkdayjobs.com",
+   "tenant": "wellington",
+   "site": "Campus",
+   "path_prefix": ""
+  },
+  {
+   "key": "tiaa/Search",
+   "company": "TIAA / Nuveen",
+   "host": "tiaa.wd1.myworkdayjobs.com",
+   "tenant": "tiaa",
+   "site": "Search",
+   "path_prefix": ""
+  },
+  {
+   "key": "pimco/pimco-careers",
+   "company": "PIMCO",
+   "host": "pimco.wd1.myworkdayjobs.com",
+   "tenant": "pimco",
+   "site": "pimco-careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "blackstone/Blackstone_Campus_Careers",
+   "company": "Blackstone",
+   "host": "blackstone.wd1.myworkdayjobs.com",
+   "tenant": "blackstone",
+   "site": "Blackstone_Campus_Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "orionadvisor/Orion_Careers",
+   "company": "Orion",
+   "host": "orionadvisor.wd1.myworkdayjobs.com",
+   "tenant": "orionadvisor",
+   "site": "Orion_Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "jll/jllcareers",
+   "company": "JLL",
+   "host": "jll.wd1.myworkdayjobs.com",
+   "tenant": "jll",
+   "site": "jllcareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "cw/external",
+   "company": "Cushman & Wakefield",
+   "host": "cw.wd1.myworkdayjobs.com",
+   "tenant": "cw",
+   "site": "external",
+   "path_prefix": ""
+  },
+  {
+   "key": "colliers/Colliers-External-Career-Site",
+   "company": "Colliers",
+   "host": "colliers.wd3.myworkdayjobs.com",
+   "tenant": "colliers",
+   "site": "Colliers-External-Career-Site",
+   "path_prefix": ""
+  },
+  {
+   "key": "costar/Costar_Campus",
+   "company": "CoStar Group",
+   "host": "costar.wd1.myworkdayjobs.com",
+   "tenant": "costar",
+   "site": "Costar_Campus",
+   "path_prefix": ""
+  },
+  {
+   "key": "costar/CoStarCareers",
+   "company": "CoStar Group",
+   "host": "costar.wd1.myworkdayjobs.com",
+   "tenant": "costar",
+   "site": "CoStarCareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "walkerdunlop/WD",
+   "company": "Walker & Dunlop",
+   "host": "walkerdunlop.wd1.myworkdayjobs.com",
+   "tenant": "walkerdunlop",
+   "site": "WD",
+   "path_prefix": ""
+  },
+  {
+   "key": "fanniemae/FannieMaeCareers",
+   "company": "Fannie Mae (Multifamily)",
+   "host": "fanniemae.wd1.myworkdayjobs.com",
+   "tenant": "fanniemae",
+   "site": "FannieMaeCareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "brookfield/brookfield",
+   "company": "Brookfield",
+   "host": "brookfield.wd5.myworkdayjobs.com",
+   "tenant": "brookfield",
+   "site": "brookfield",
+   "path_prefix": ""
+  },
+  {
+   "key": "pru/pgim_careers",
+   "company": "PGIM Real Estate",
+   "host": "pru.wd5.myworkdayjobs.com",
+   "tenant": "pru",
+   "site": "pgim_careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "aresmgmt/External",
+   "company": "Ares Management (Real Estate)",
+   "host": "aresmgmt.wd1.myworkdayjobs.com",
+   "tenant": "aresmgmt",
+   "site": "External",
+   "path_prefix": ""
+  },
+  {
+   "key": "athene/Apollo_Careers",
+   "company": "Apollo (Real Estate)",
+   "host": "athene.wd5.myworkdayjobs.com",
+   "tenant": "athene",
+   "site": "Apollo_Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "linklogistics/Link",
+   "company": "Link Logistics",
+   "host": "linklogistics.wd5.myworkdayjobs.com",
+   "tenant": "linklogistics",
+   "site": "Link",
+   "path_prefix": ""
+  },
+  {
+   "key": "gables/Gables_Careers",
+   "company": "Gables Residential",
+   "host": "gables.wd5.myworkdayjobs.com",
+   "tenant": "gables",
+   "site": "Gables_Careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "ryancompanies/ryancompanies",
+   "company": "Ryan Companies",
+   "host": "ryancompanies.wd5.myworkdayjobs.com",
+   "tenant": "ryancompanies",
+   "site": "ryancompanies",
+   "path_prefix": ""
+  },
+  {
+   "key": "invitationhomes/INVH",
+   "company": "Invitation Homes",
+   "host": "invitationhomes.wd503.myworkdayjobs.com",
+   "tenant": "invitationhomes",
+   "site": "INVH",
+   "path_prefix": ""
+  },
+  {
+   "key": "lennar/Lennar_Jobs",
+   "company": "Lennar",
+   "host": "lennar.wd1.myworkdayjobs.com",
+   "tenant": "lennar",
+   "site": "Lennar_Jobs",
+   "path_prefix": ""
+  },
+  {
+   "key": "pultegroup/PGI",
+   "company": "PulteGroup",
+   "host": "pultegroup.wd1.myworkdayjobs.com",
+   "tenant": "pultegroup",
+   "site": "PGI",
+   "path_prefix": ""
+  },
+  {
+   "key": "simon/Simon",
+   "company": "Simon Property Group",
+   "host": "simon.wd1.myworkdayjobs.com",
+   "tenant": "simon",
+   "site": "Simon",
+   "path_prefix": ""
+  },
+  {
+   "key": "realtyincome/realty_income_careers",
+   "company": "Realty Income",
+   "host": "realtyincome.wd108.myworkdayjobs.com",
+   "tenant": "realtyincome",
+   "site": "realty_income_careers",
+   "path_prefix": ""
+  },
+  {
+   "key": "extraspace/ESS_External",
+   "company": "Extra Space Storage",
+   "host": "extraspace.wd5.myworkdayjobs.com",
+   "tenant": "extraspace",
+   "site": "ESS_External",
+   "path_prefix": ""
+  },
+  {
+   "key": "essex/essexcareers",
+   "company": "Essex Property Trust",
+   "host": "essex.wd5.myworkdayjobs.com",
+   "tenant": "essex",
+   "site": "essexcareers",
+   "path_prefix": ""
+  },
+  {
+   "key": "americancentury/AmericanCenturyInvestments",
+   "company": "American Century Investments",
+   "host": "americancentury.wd5.myworkdayjobs.com",
+   "tenant": "americancentury",
+   "site": "AmericanCenturyInvestments",
+   "path_prefix": ""
+  },
+  {
+   "key": "godirect/voya_jobs",
+   "company": "Voya Financial",
+   "host": "godirect.wd5.myworkdayjobs.com",
+   "tenant": "godirect",
+   "site": "voya_jobs",
+   "path_prefix": ""
+  },
+  {
+   "key": "corebridgefinancial/CorebridgeFinancial",
+   "company": "Corebridge Financial",
+   "host": "corebridgefinancial.wd1.myworkdayjobs.com",
+   "tenant": "corebridgefinancial",
+   "site": "CorebridgeFinancial",
+   "path_prefix": ""
+  },
+  {
+   "key": "manulife/MFCJH_Jobs",
+   "company": "John Hancock (Manulife)",
+   "host": "manulife.wd3.myworkdayjobs.com",
+   "tenant": "manulife",
+   "site": "MFCJH_Jobs",
+   "path_prefix": ""
+  },
+  {
+   "key": "countryfinancial/COUNTRYCorporateInternships",
+   "company": "COUNTRY Financial",
+   "host": "countryfinancial.wd5.myworkdayjobs.com",
+   "tenant": "countryfinancial",
+   "site": "COUNTRYCorporateInternships",
+   "path_prefix": ""
+  },
+  {
+   "key": "fei/External",
+   "company": "First Eagle Investments",
+   "host": "fei.wd5.myworkdayjobs.com",
+   "tenant": "fei",
+   "site": "External",
+   "path_prefix": ""
+  }
+ ]
+}
