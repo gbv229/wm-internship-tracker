@@ -34,15 +34,22 @@ mkdir -p "$DIR" "$HOME/Library/LaunchAgents"
 curl -fsSL "$RAW" -o "$DIR/local_workday.py"
 
 if ! security find-generic-password -s wm-tracker-github >/dev/null 2>&1; then
-  echo
-  echo "Paste the GitHub key you made (it won't show as you type), then press Return:"
-  read -rs TOKEN < /dev/tty
-  echo
-  code=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer $TOKEN" "https://api.github.com/repos/$REPO")
-  if [ "$code" != "200" ]; then
-    echo "That key didn't work (GitHub said $code). Make sure it has access to $REPO, then try again."
-    exit 1
-  fi
+  ok=""
+  for attempt in 1 2 3; do
+    echo
+    echo "Paste the GitHub key now (Cmd+V). Nothing will show on screen — that's normal. Then press Return:"
+    read -rs TOKEN < /dev/tty
+    TOKEN="$(printf '%s' "$TOKEN" | tr -d '[:space:]')"
+    echo
+    if [ -z "$TOKEN" ]; then
+      echo "Nothing was pasted. Copy the key from GitHub, then paste it here before pressing Return."
+      continue
+    fi
+    code=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer $TOKEN" "https://api.github.com/repos/$REPO")
+    if [ "$code" = "200" ]; then ok=1; break; fi
+    echo "That key didn't work (GitHub said $code). Check it has access to $REPO with Contents: Read and write."
+  done
+  if [ -z "$ok" ]; then echo "Stopping. Run the install command again when you have the key."; exit 1; fi
   security add-generic-password -U -s wm-tracker-github -a "$USER" -w "$TOKEN"
   unset TOKEN
 fi
