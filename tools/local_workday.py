@@ -55,12 +55,37 @@ def curl(url, method="GET", data=None, headers=None, timeout=40, data_file=None)
     try:
         p = subprocess.run(cmd, input=data, capture_output=True, timeout=timeout + 10)
     except subprocess.TimeoutExpired:
+        LAST_ERR[0] = "timed out"
         return 0, b""
     body, _, code = p.stdout.rpartition(b"\n")
+    LAST_ERR[0] = p.stderr.decode(errors="replace").strip()[:200] or f"curl exit {p.returncode}"
     try:
         return int(code), body
     except ValueError:
         return 0, p.stdout
+
+
+LAST_ERR = [""]
+
+
+def get_retry(url, tries=4):
+    for i in range(tries):
+        code, out = curl(url)
+        if code == 200:
+            return code, out
+        log(f"couldn't load {url.rsplit('/', 1)[-1]} (HTTP {code}: {LAST_ERR[0]}); retrying" if i < tries - 1 else
+            f"couldn't load {url.rsplit('/', 1)[-1]} (HTTP {code}: {LAST_ERR[0]})")
+        time.sleep(20)
+    return code, out
+
+
+def self_update():
+    """Pick up fixes pushed to the project: replace this file if the published copy differs."""
+    code, out = curl(f"https://raw.githubusercontent.com/{REPO}/main/tools/local_workday.py")
+    me = Path(__file__)
+    if code == 200 and out.startswith(b"#!/usr/bin/env python3") and b"def main()" in out and out != me.read_bytes():
+        me.write_bytes(out)
+        log("updated the reader to the latest version (takes effect next run)")
 
 
 def token() -> str:
@@ -160,10 +185,10 @@ def upload(feed: bytes, tok: str):
 def main():
     HOME.mkdir(parents=True, exist_ok=True)
     tok = token()
-    code, out = curl(BOARDS_URL)
+    code, out = get_retry(BOARDS_URL)
     if code != 200:
-        log("couldn't load the board list, HTTP", code)
         return 1
+    self_update()
     boards = json.loads(out)["boards"]
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     results, cache = state.get("boards", {}), state.get("details", {})
