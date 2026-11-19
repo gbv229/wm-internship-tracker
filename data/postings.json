@@ -10300,20 +10300,23 @@
    "group": "State Street|state street investment management us wealth 2027 summer internship",
    "group_title": "State Street Investment Management - US Wealth - 2027 Summer Internship",
    "hide": null,
-   "id": "wd:statestreet:R-800715",
+   "id": "ph:statestreet:R-800715",
    "last_seen": "2026-11-19",
    "level": "Undergraduate",
-   "location": "Boston, Massachusetts",
+   "location": "Boston",
    "misses": 0,
    "pay": "$20–$31/hr (≈ $42k–$65k/yr)",
    "posted": "2026-11-03",
+   "previous_ids": [
+    "wd:statestreet:R-800715"
+   ],
    "region": "US",
    "regions": [
     "Northeast"
    ],
    "season": "Summer 2027",
    "season_inferred": false,
-   "source": "workday",
+   "source": "phenom",
    "sponsorship": null,
    "states": [
     "MA"
@@ -10323,7 +10326,7 @@
    "tracks": [
     "wealth"
    ],
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---US-Wealth---2027-Summer-Internship_R-800715",
+   "url": "https://careers.statestreet.com/global/en/job/R-800715",
    "v": 11,
    "weeks": null,
    "work_mode": "Hybrid"
