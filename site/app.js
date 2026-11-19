@@ -89,6 +89,13 @@
     EARLY.researched = e?.researched ? parseDay(e.researched) : null;
     FIRM_NOTES = fn || {};
     state.postings = (p?.postings || []).map(enrich);
+    // a firm that moved to a new job source keeps its old posting ids in previous_ids:
+    // carry saved / applied marks over so "My list" doesn't lose them
+    let moved = false;
+    state.postings.forEach((q) => (q.previous_ids || []).forEach((old) => {
+      if (TRACK[old] && !TRACK[q.id]) { TRACK[q.id] = TRACK[old]; delete TRACK[old]; moved = true; }
+    }));
+    if (moved) store.set("it.tracker.v1", TRACK);
     state.firms = c?.companies || [];
     state.firms.forEach((f) => { if (f.domain) DOMAINS[f.name] = f.domain; });
     state.run = r;
@@ -266,7 +273,7 @@
     const lastSeen = parseDay(p.last_seen);
     const stale = p.status === "open" && lastSeen && (TODAY - lastSeen) / DAY >= 2 ? lastSeen : null;
     return { ...p, _dl: dl, _posted: parseDay(p.posted), _first: parseDay(p.first_seen), _status: status, _stale: stale,
-      _new: FIRST_VISIT ? p.first_seen && (TODAY - parseDay(p.first_seen)) / DAY <= 3 : !PREV_SEEN.has(p.id) && p.status === "open",
+      _new: FIRST_VISIT ? p.first_seen && (TODAY - parseDay(p.first_seen)) / DAY <= 3 : !PREV_SEEN.has(p.id) && !(p.previous_ids || []).some((x) => PREV_SEEN.has(x)) && p.status === "open",
       _hay: `${p.company} ${p.title} ${p.location} ${p.company_type} ${p.function}`.toLowerCase() };
   }
 

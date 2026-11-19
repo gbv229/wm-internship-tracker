@@ -186,6 +186,55 @@ def handle_job(j, co, old, seen, today, budget, rejected):
     }
 
 
+def _req_key(pid: str) -> str:
+    """Requisition number from a posting id: wd:truist:R0119116-1 -> r0119116."""
+    tail = pid.rsplit(":", 1)[-1]
+    return re.sub(r"-\d{1,2}$", "", tail).lower()
+
+
+def _title_key(p: dict) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", (p.get("title") or "").lower()).strip()
+
+
+def migrate_switched_sources(out: dict, results: dict, companies: list[dict], today: date) -> int:
+    """When a firm moves to a different source (e.g. from Workday to its own careers site), its
+    old records would otherwise stay open forever. Carry each one's history over to the matching
+    new record (same requisition number, else same title and location) and drop it; close the rest
+    once the new source has been read successfully."""
+    n = 0
+    for co in companies:
+        name = co["name"]
+        if name not in results:
+            continue
+        kinds = {next(iter(src)) for src in co["sources"]} | {"browser"}
+        st = results[name][2]
+        new_ok = all(x["ok"] for x in st["sources"] if x["kind"] not in ("browser",)) and st["sources"]
+        recs = [p for p in out.values() if p["company"] == name]
+        orphans = [p for p in recs if p.get("source") not in kinds]
+        if not orphans:
+            continue
+        fresh = [p for p in recs if p.get("source") in kinds]
+        by_req = {_req_key(p["id"]): p for p in fresh}
+        by_title = {(_title_key(p), (p.get("location") or "").lower()[:20]): p for p in fresh}
+        by_title_only = {}
+        for p in fresh:
+            by_title_only.setdefault(_title_key(p), []).append(p)
+        for old in orphans:
+            new = by_req.get(_req_key(old["id"])) or by_title.get((_title_key(old), (old.get("location") or "").lower()[:20]))
+            if not new and len(by_title_only.get(_title_key(old), [])) == 1:
+                new = by_title_only[_title_key(old)][0]
+            if new:
+                for k in ("first_seen", "posted", "deadline", "deadline_evidence", "classes", "class_evidence"):
+                    if old.get(k) and (k == "first_seen" or not new.get(k)):
+                        new[k] = old[k]
+                new["previous_ids"] = sorted(set(new.get("previous_ids", [])) | {old["id"]} | set(old.get("previous_ids", [])))
+                out.pop(old["id"], None)
+                n += 1
+            elif new_ok and old["status"] == "open":
+                old["status"], old["closed_on"] = "closed", today.isoformat()
+    return n
+
+
 def drop_cross_firm_duplicates(postings: dict) -> int:
     """Two tracked firms sometimes share one job board (PGIM and Prudential), so the same role
     is listed twice under different ids. Keep one: the firm named in the title, else the first."""
@@ -386,6 +435,7 @@ def main(argv=None):
                     p["closed_on"] = today.isoformat()
             out[p["id"]] = p
 
+    migrate_switched_sources(out, results, companies, today)
     cutoff = (today - timedelta(days=KEEP_CLOSED_DAYS)).isoformat()
     out = {k: v for k, v in out.items() if not (v["status"] == "closed" and v.get("closed_on", "9") < cutoff)}
     seen = {k: v for k, v in seen.items() if v >= cutoff}

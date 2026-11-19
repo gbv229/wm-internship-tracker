@@ -128,3 +128,18 @@ def test_skipped_source_is_not_a_miss(tmp_path, monkeypatch):
     assert posts["wd:x:3"]["status"] == "open" and posts["wd:x:3"]["misses"] == 0
     src = {c["name"]: c for c in read(tmp_path, "companies.json")["companies"]}["Big Bank"]["sources"][0]
     assert src["ok"] is True and src["skipped"] and src["fail_streak"] == 0 and src["checked_at"]
+
+
+def test_migrate_switched_source():
+    from datetime import date as _d
+    out = {"wd:t:R0119116-1": {"id": "wd:t:R0119116-1", "company": "Big Bank", "source": "workday", "title": "Wealth Intern",
+                               "status": "open", "first_seen": "2026-10-01", "classes": [2028]},
+           "wd:t:R9": {"id": "wd:t:R9", "company": "Big Bank", "source": "workday", "title": "Gone Intern", "status": "open"},
+           "ph:t:R0119116": {"id": "ph:t:R0119116", "company": "Big Bank", "source": "phenom", "title": "Wealth Intern",
+                             "status": "open", "first_seen": "2026-11-19", "classes": []}}
+    cos = [{"name": "Big Bank", "sources": [{"phenom": {"host": "x"}}]}]
+    results = {"Big Bank": ({}, {}, {"sources": [{"kind": "phenom", "ok": True}]})}
+    assert run.migrate_switched_sources(out, results, cos, _d(2026, 11, 19)) == 1
+    assert "wd:t:R0119116-1" not in out
+    assert out["ph:t:R0119116"]["first_seen"] == "2026-10-01" and out["ph:t:R0119116"]["classes"] == [2028]
+    assert out["wd:t:R9"]["status"] == "closed"

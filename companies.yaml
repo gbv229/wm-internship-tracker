@@ -95,7 +95,7 @@ companies:
     careers: https://jobs.citi.com/students-and-graduates
     domain: citi.com
     sources:
-      - workday: {host: citi.wd5.myworkdayjobs.com, tenant: citi, site: "2"}
+      - radancy: {host: jobs.citi.com, key: citi}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: UBS
@@ -114,7 +114,7 @@ companies:
     careers: https://search.jobs.barclays/
     domain: barclays.com
     sources:
-      - workday: {host: barclays.wd3.myworkdayjobs.com, tenant: barclays, site: External_Career_Site_Barclays}
+      - radancy: {host: search.jobs.barclays, key: barclays}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: Deutsche Bank
@@ -136,9 +136,7 @@ companies:
     careers: https://jobs.rbc.com/ca/en/students-and-graduates
     domain: rbc.com
     sources:
-      - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: RBCEARLYTALENT1}
-      - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: ExternalPrivatePostingStudents}
-      - workday: {host: rbc.wd3.myworkdayjobs.com, tenant: rbc, site: rbcglobal1}
+      - phenom: {host: jobs.rbc.com, locale: ca/en, key: rbc}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: TD (incl. TD Wealth)
@@ -355,7 +353,7 @@ companies:
     careers: https://careers.pnc.com/global/en/students
     domain: pnc.com
     sources:
-      - workday: {host: pnc.wd5.myworkdayjobs.com, tenant: pnc, site: External}
+      - phenom: {host: careers.pnc.com, locale: global/en, key: pnc}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: Truist (Truist Wealth)
@@ -366,7 +364,7 @@ companies:
     careers: https://careers.truist.com/
     domain: truist.com
     sources:
-      - workday: {host: truist.wd1.myworkdayjobs.com, tenant: truist, site: Careers}
+      - phenom: {host: careers.truist.com, locale: us/en, key: truist}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: U.S. Bank (Private Wealth)
@@ -444,7 +442,7 @@ companies:
     careers: https://regions.wd5.myworkdayjobs.com/regions_careers
     domain: regions.com
     sources:
-      - workday: {host: regions.wd5.myworkdayjobs.com, tenant: regions, site: regions_careers}
+      - phenom: {host: careers.regions.com, locale: us/en, key: regions}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: Associated Bank (Private Wealth)
@@ -846,7 +844,7 @@ companies:
     careers: https://massmutual.wd1.myworkdayjobs.com/MMCareers
     domain: massmutual.com
     sources:
-      - workday: {host: massmutual.wd1.myworkdayjobs.com, tenant: massmutual, site: MMCareers}
+      - radancy: {host: careers.massmutual.com, key: massmutual}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: Guardian Life
@@ -956,8 +954,7 @@ companies:
     careers: https://careers.blackrock.com/early-careers/
     domain: blackrock.com
     sources:
-      - workday: {host: blackrock.wd1.myworkdayjobs.com, tenant: blackrock, site: BlackRock_Early_Careers_Program}
-      - workday: {host: blackrock.wd1.myworkdayjobs.com, tenant: blackrock, site: BlackRock_Professional}
+      - radancy: {host: careers.blackrock.com, key: blackrock}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: AllianceBernstein (Bernstein Private Wealth)
@@ -998,7 +995,7 @@ companies:
     careers: https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1
     domain: franklintempleton.com
     sources:
-      - workday: {host: franklintempleton.wd5.myworkdayjobs.com, tenant: franklintempleton, site: invitation-only}
+      - phenom: {host: careers.franklintempleton.com, locale: us/en, key: franklin}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: Invesco
@@ -1050,7 +1047,7 @@ companies:
     careers: https://statestreet.wd1.myworkdayjobs.com/Global
     domain: statestreet.com
     sources:
-      - workday: {host: statestreet.wd1.myworkdayjobs.com, tenant: statestreet, site: Global}
+      - phenom: {host: careers.statestreet.com, locale: us/en, key: statestreet}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: TIAA / Nuveen
@@ -1383,7 +1380,7 @@ companies:
     careers: https://careers.freddiemac.com/
     domain: freddiemac.com
     sources:
-      - workday: {host: freddiemac.wd5.myworkdayjobs.com, tenant: freddiemac, site: External}
+      - phenom: {host: careers.freddiemac.com, locale: us/en, key: freddiemac}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: Capital One (Commercial Real Estate)
@@ -1394,7 +1391,7 @@ companies:
     careers: https://www.capitalonecareers.com/
     domain: capitalone.com
     sources:
-      - workday: {host: capitalone.wd12.myworkdayjobs.com, tenant: capitalone, site: Capital_One}
+      - radancy: {host: www.capitalonecareers.com, key: capitalone}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: First American
@@ -1405,7 +1402,7 @@ companies:
     careers: https://careers.firstam.com/
     domain: firstam.com
     sources:
-      - workday: {host: firstam.wd1.myworkdayjobs.com, tenant: firstam, site: firstamericancareers}
+      - phenom: {host: careers.firstam.com, locale: us/en, key: firstam}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: Brookfield

@@ -7,6 +7,7 @@ filter and aren't already cached, to keep each run polite and fast.
 from __future__ import annotations
 
 import hashlib
+import json
 import random
 import re
 import threading
@@ -442,6 +443,142 @@ def _page_detail(s, url):
     return f
 
 
+# ------------------------------------------------- firm careers sites (Phenom)
+# Many banks' own careers sites (careers.truist.com, careers.pnc.com, jobs.rbc.com...) run on
+# Phenom, which puts the search results in the page as JSON (phApp.ddo). They list the same
+# Workday requisitions, but they're the firm's public site, not Workday's job board.
+_DDO_RE = re.compile(r"phApp\.ddo\s*=\s*(\{.*?\});\s*phApp\.", re.S)
+PHENOM_TERMS = ["intern", "summer analyst", "sophomore", "insight", "co-op"]
+
+
+def _ddo(html: str) -> dict:
+    m = _DDO_RE.search(html)
+    if not m:
+        return {}
+    try:
+        return json.loads(m.group(1))
+    except ValueError:
+        return {}
+
+
+def phenom(s: requests.Session, cfg: dict, today: date) -> list[Job]:
+    host, loc = cfg["host"], cfg.get("locale", "us/en")
+    key = cfg.get("key") or host.split(".")[-2]
+    out: dict[str, Job] = {}
+    got_page = False
+    for term in cfg.get("terms") or PHENOM_TERMS:
+        start = 0
+        while start < 300:
+            r = s.get(f"https://{host}/{loc}/search-results", params={"keywords": term, "from": start} if start else {"keywords": term},
+                      timeout=TIMEOUT, headers={"Accept": "text/html"})
+            r.raise_for_status()
+            ers = _ddo(r.text).get("eagerLoadRefineSearch") or {}
+            data = ers.get("data") or {}
+            if "jobs" not in data:
+                break
+            got_page = True
+            jobs = data.get("jobs") or []
+            for j in jobs:
+                jid = str(j.get("jobId") or j.get("reqId") or "")
+                if not jid or f"ph:{key}:{jid}" in out:
+                    continue
+                url = f"https://{host}/{loc}/job/{jid}"
+                where = "; ".join(j.get("multi_location") or []) or j.get("location") or j.get("cityStateCountry") or ""
+                posted = None
+                try:
+                    posted = date.fromisoformat((j.get("postedDate") or "")[:10])
+                except ValueError:
+                    pass
+                job = Job(source="phenom", id=f"ph:{key}:{jid}", title=(j.get("title") or "").strip(), url=url,
+                          location=where, posted=posted)
+                job._detail = _phenom_detail(s, url)
+                out[job.id] = job
+            start += len(jobs) or 10
+            if not jobs or start >= int(ers.get("totalHits") or 0):
+                break
+    if not got_page:
+        raise RuntimeError("search page had no job data (site layout changed?)")
+    return list(out.values())
+
+
+def _phenom_detail(s, url):
+    def f():
+        r = s.get(url, timeout=TIMEOUT, headers={"Accept": "text/html"})
+        r.raise_for_status()
+        job = ((_ddo(r.text).get("jobDetail") or {}).get("data") or {}).get("job") or {}
+        parts = [job.get(k) or "" for k in ("description", "ml_Description", "qualification", "emb_complete_desc")]
+        return "\n".join(parse.html_to_text(x) for x in parts if isinstance(x, str) and x).strip()
+    return f
+
+
+# ------------------------------------------------ firm careers sites (Radancy)
+# jobs.citi.com, careers.blackrock.com, capitalonecareers.com... run on Radancy TalentBrew,
+# whose search page loads results from /search-jobs/results as JSON-wrapped HTML.
+_RAD_ITEM = re.compile(r'(?is)<li\b[^>]*>(.*?)</li>|<div[^>]*class="[^"]*(?:job-list|search-results--card)[^"]*item[^"]*"[^>]*>(.*?)</div>')
+
+
+def radancy(s: requests.Session, cfg: dict, today: date) -> list[Job]:
+    host = cfg["host"]
+    key = cfg.get("key") or host.split(".")[-2]
+    out: dict[str, Job] = {}
+    for term in cfg.get("terms") or ["intern", "summer analyst", "sophomore"]:
+        for page in range(1, 6):
+            r = s.get(f"https://{host}/search-jobs/results", timeout=TIMEOUT,
+                      headers={"X-Requested-With": "XMLHttpRequest", "Accept": "application/json"},
+                      params={"ActiveFacetID": 0, "CurrentPage": page, "RecordsPerPage": 100, "Keywords": term, "Distance": 50,
+                              "RadiusUnitType": 0, "SearchResultsModuleName": "Search Results",
+                              "SearchFiltersModuleName": "Search Filters", "SortCriteria": 0, "SortDirection": 0,
+                              "SearchType": 5, "ResultsType": 0})
+            r.raise_for_status()
+            html = r.json().get("results") or ""
+            for jid, job in _radancy_items(html, host, key).items():
+                if jid not in out:
+                    job._detail = _radancy_detail(s, job)
+                    out[jid] = job
+            m = re.search(r'data-total-pages="(\d+)"', html)
+            if not m or page >= int(m.group(1)):
+                break
+    return list(out.values())
+
+
+def _radancy_items(html: str, host: str, key: str) -> dict[str, Job]:
+    out: dict[str, Job] = {}
+    # split into one chunk per job link so title and location stay together
+    for chunk in re.split(r'(?i)(?=<a\b[^>]*href="/job/)', html)[1:]:
+        m = re.match(r'(?is)<a\b[^>]*href="(/job/[^"]+)"[^>]*>(.*?)</a>(.{0,1500})', chunk)
+        if not m:
+            continue
+        href, inner, after = m.groups()
+        jid = href.rstrip("/").rsplit("/", 1)[-1]
+        title = parse.html_to_text(re.sub(r"(?is)<span[^>]*location[^>]*>.*?</span>", " ", inner)).strip()
+        if not title:
+            h = re.search(r"(?is)<h[1-4][^>]*>(.*?)</h[1-4]>", inner + after)
+            title = parse.html_to_text(h.group(1)).strip() if h else ""
+        loc = re.search(r'(?is)<span[^>]*class="[^"]*location[^"]*"[^>]*>(.*?)</span>', inner + after)
+        if not title or f"rd:{key}:{jid}" in out:
+            continue
+        out[f"rd:{key}:{jid}"] = Job(source="radancy", id=f"rd:{key}:{jid}", title=title, url=f"https://{host}{href}",
+                                     location=parse.html_to_text(loc.group(1)).strip() if loc else "")
+    return out
+
+
+def _radancy_detail(s, job: Job):
+    def f():
+        r = s.get(job.url, timeout=TIMEOUT, headers={"Accept": "text/html"})
+        r.raise_for_status()
+        m = re.search(r'"datePosted"\s*:\s*"(\d{4}-\d\d-\d\d)', r.text)
+        if m and not job.posted:
+            job.posted = date.fromisoformat(m.group(1))
+        if not job.location:
+            loc = re.search(r'"addressLocality"\s*:\s*"([^"]*)".{0,80}?"addressRegion"\s*:\s*"([^"]*)"', r.text, re.S)
+            if loc:
+                job.location = ", ".join(x for x in loc.groups() if x)
+        i = r.text.find("ats-description")
+        body = r.text[i:i + 60000] if i >= 0 else re.sub(r"(?is)<(script|style|nav|header|footer)\b.*?</\1>", " ", r.text)
+        return parse.html_to_text(body)
+    return f
+
+
 # ------------------------------------------------------------ Goldman Sachs
 GS_API = "https://api-higher.gs.com/gateway/api/v1/graphql"
 GS_QUERY = ("query GetRoles($searchQueryInput: RoleSearchQueryInput!) { roleSearch(searchQueryInput: $searchQueryInput) "
@@ -502,4 +639,4 @@ def page_fingerprint(s: requests.Session, url: str) -> tuple[str, list[str]]:
 
 FETCHERS = {"workday": workday, "oracle": oracle, "greenhouse": greenhouse, "lever": lever,
             "ashby": ashby, "icims": icims, "smartrecruiters": smartrecruiters, "oleeo": oleeo,
-            "goldman": goldman}
+            "goldman": goldman, "phenom": phenom, "radancy": radancy}
