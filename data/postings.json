@@ -8862,48 +8862,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Newmark",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-18",
-   "first_seen": "2026-11-18",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Newmark|newmark management consulting intern",
-   "group_title": "Newmark Management Consulting Intern",
-   "hide": null,
-   "id": "or:hdow:250563",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "OK, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-18",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": null,
-   "states": [
-    "OK"
-   ],
-   "status": "open",
-   "title": "Newmark Management Consulting Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250563",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "PGIM Real Estate",
    "company_type": "RE Investment Manager",
    "deadline": null,
@@ -22112,6 +22070,49 @@
     "real_estate"
    ],
    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250017",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-19",
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|newmark management consulting intern",
+   "group_title": "Newmark Management Consulting Intern",
+   "hide": null,
+   "id": "or:hdow:250563",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "OK, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-18",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "OK"
+   ],
+   "status": "closed",
+   "title": "Newmark Management Consulting Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250563",
    "v": 11,
    "weeks": null,
    "work_mode": null
