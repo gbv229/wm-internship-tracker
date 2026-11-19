@@ -131,8 +131,14 @@ def check_board(b: dict, cache: dict) -> list[dict]:
 def upload(feed: bytes, tok: str):
     h = {"Authorization": f"Bearer {tok}", "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
     code, out = curl(f"https://api.github.com/repos/{REPO}/releases/tags/{RELEASE_TAG}", headers=h)
+    if code == 404:                   # first run: make the release that holds the feed
+        code, out = curl(f"https://api.github.com/repos/{REPO}/releases", "POST", headers=h, data=json.dumps({
+            "tag_name": RELEASE_TAG, "target_commitish": "main", "name": "Workday feed (uploaded by the Mac reader)",
+            "body": "Holds workday_feed.json.gz, uploaded every 30 minutes by tools/local_workday.py. Not a software release.",
+            "prerelease": True}).encode())
+        code = 200 if code == 201 else code
     if code != 200:
-        raise RuntimeError(f"can't find the {RELEASE_TAG} release (HTTP {code}): {out[:200]!r}")
+        raise RuntimeError(f"can't find or create the {RELEASE_TAG} release (HTTP {code}): {out[:200]!r}")
     rel = json.loads(out)
     tmp = HOME / ASSET
     tmp.write_bytes(feed)
