@@ -7,7 +7,9 @@ filter and aren't already cached, to keep each run polite and fast.
 from __future__ import annotations
 
 import hashlib
+import random
 import re
+import threading
 import time
 from dataclasses import dataclass, field
 from datetime import date
@@ -25,7 +27,58 @@ UA = ("Mozilla/5.0 (compatible; WM-Internship-Tracker/1.0; student project; "
 
 # Workday's search is fuzzy, so several short queries catch programs that
 # don't use the word "intern" (e.g. "Summer Analyst", "Early Insights").
-SEARCH_TERMS = ["intern", "summer analyst", "sophomore", "insight", "co-op", "wealth management program"]
+SEARCH_TERMS = ["intern", "summer analyst", "sophomore", "insight", "co-op"]
+WD_MAX_PAGES = 15          # 300 results per term; search is relevance-ranked, so student roles come first
+
+
+class _WorkdayGate:
+    """Since Nov 2026 Cloudflare in front of every Workday job board turns away a share of requests
+    from cloud servers with 429s. Space all Workday calls out across threads, back off when refused,
+    and speed up again as calls get through."""
+
+    def __init__(self):
+        self.lock = threading.Lock()
+        self.last = 0.0
+        self.gap = 0.5
+        self.plain = requests.Session()          # no urllib3 retries: this class does the retrying
+        self.plain.mount("https://", HTTPAdapter(pool_maxsize=8))
+        self.refused = 0
+        self.calls = 0
+        self.budget_end = None             # set by the run: stop starting new Workday boards after this
+
+    def start_board(self):
+        if self.budget_end and time.monotonic() > self.budget_end:
+            raise RuntimeError("Workday time budget for this run used up; this board is checked next run")
+
+    def request(self, s: requests.Session, method: str, url: str, **kw) -> requests.Response:
+        kw.setdefault("timeout", TIMEOUT)
+        headers = {**s.headers, **(kw.pop("headers", None) or {})}
+        r = None
+        for attempt in range(7):
+            with self.lock:
+                wait = self.last + self.gap - time.monotonic()
+                if wait > 0:
+                    time.sleep(wait)
+                self.last = time.monotonic()
+            try:
+                r = self.plain.request(method, url, headers=headers, **kw)
+            except requests.ConnectionError:
+                r = None
+            self.calls += 1
+            if r is not None and r.status_code != 429 and r.status_code < 500:
+                with self.lock:
+                    self.gap = max(0.5, self.gap * 0.9)
+                return r
+            with self.lock:
+                self.refused += 1
+                self.gap = min(6.0, self.gap * 1.6)
+            time.sleep(min(45, 3 * 2 ** attempt) * random.uniform(0.6, 1.2))
+        if r is None:
+            raise requests.ConnectionError(f"Workday unreachable: {url}")
+        return r
+
+
+WD = _WorkdayGate()
 
 
 def session(repo: str) -> requests.Session:
@@ -68,12 +121,13 @@ def workday(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     host, tenant, site = cfg["host"], cfg["tenant"], str(cfg["site"])
     api = f"https://{host}/wday/cxs/{tenant}/{site}"
     public = f"https://{host}{cfg.get('path_prefix', '')}/{site}"
+    WD.start_board()
     jobs: dict[str, Job] = {}
     for term in SEARCH_TERMS:
         offset = 0
-        while offset < 5000:  # stops early when the results run out
-            r = s.post(f"{api}/jobs", json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": term},
-                       timeout=TIMEOUT, headers={"Content-Type": "application/json"})
+        while offset < 20 * WD_MAX_PAGES:  # stops early when the results run out
+            r = WD.request(s, "POST", f"{api}/jobs", json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": term},
+                           headers={"Content-Type": "application/json", "Accept": "application/json"})
             r.raise_for_status()
             data = r.json()
             posts = data.get("jobPostings") or []
@@ -93,13 +147,12 @@ def workday(s: requests.Session, cfg: dict, today: date) -> list[Job]:
             offset += 20
             if len(posts) < 20 or offset >= (data.get("total") or 0):
                 break
-            time.sleep(0.25)
     return list(jobs.values())
 
 
 def _wd_detail(s, url, job: Job):
     def f():
-        r = s.get(url, timeout=TIMEOUT)
+        r = WD.request(s, "GET", url, headers={"Accept": "application/json"})
         r.raise_for_status()
         info = r.json().get("jobPostingInfo", {})
         # the listing only says "3 Locations"; the detail page names them

@@ -8,7 +8,7 @@
 # status: open | upcoming | closed | watch (no date published) | invite (no public application)
 # source: where the date came from (official page preferred).
 #
-# Last researched: 2026-10-28
+# Last researched: 2026-11-19
 
 programs:
 
@@ -18,11 +18,11 @@ programs:
     program: JPMorganChase Fellowship Program
     type: fellowship
     field: multi
-    eligibility: All sophomores. Five-week paid, full-time summer fellowship at select offices.
+    eligibility: All sophomores (last cycle asked for graduation one year after the current juniors', which this time means Dec 2028 – Summer 2029). Five-week paid, full-time summer fellowship at select offices; leads to consideration for a Summer 2028 internship.
     when: Summer 2027 (5 weeks)
-    opens: 2026-11-11
+    opens: 2026-12-01
     opens_est: true
-    opens_note: Last cycle opened Nov 11.
+    opens_note: "Not posted as of Nov 19, 2026. Last cycle opened between Nov 18 and Dec 1, 2025."
     deadline: 2027-01-13
     deadline_est: true
     deadline_note: Last cycle closed Jan 13.
@@ -80,7 +80,7 @@ programs:
     when: Summer 2028
     opens: 2026-12-01
     opens_est: true
-    opens_note: Estimates range from December 2026 to spring 2027.
+    opens_note: "JPMorgan posted its first 2028 role (IB, Houston) Nov 4 – 8, 2026; its main 2028 programs are expected from December."
     deadline: 2027-09-30
     deadline_est: true
     deadline_note: The 2027 Markets posting closed Sep 30, 2026.
@@ -327,13 +327,8 @@ programs:
     field: banking
     eligibility: Sophomores, 3.2+ GPA (last cycle). Two-part virtual insight program.
     when: Last cycle - Part 1 mid-November, Part 2 early December
-    opens: 2026-10-26
-    opens_est: true
-    opens_note: Not posted as of Oct 16; expected late October – November.
-    deadline: 2026-11-07
-    deadline_est: true
-    deadline_note: Last cycle's deadline was Nov 7.
-    status: upcoming
+    opens_note: "Still not posted as of mid-November 2026 (last cycle's deadline was Nov 7, 2025). Check the link."
+    status: watch
     link: https://search.jobs.barclays/discovery
     source: https://www.extern.com/post/barclays-discovery-program-guide
   - id: db-insight
@@ -463,11 +458,8 @@ programs:
     type: insight
     field: banking
     eligibility: Sophomores. Educational and networking events.
-    opens_note: Not posted yet.
-    deadline: 2026-11-10
-    deadline_est: true
-    deadline_note: Last cycle's deadline was Nov 10.
-    status: upcoming
+    opens_note: "No 2026 posting found as of Nov 19, 2026 (last cycle's deadline was Nov 10). Check the link."
+    status: watch
     link: https://www.guggenheimsecurities.com/careers
     source: https://www.extern.com/post/sophomore-internships-2027-guide
 
@@ -860,9 +852,9 @@ programs:
     field: wealth
     eligibility: Class of 2029 (rising seniors in Summer 2028). Confirm on the posting.
     when: Summer 2028
-    opens: 2026-11-16
+    opens: 2026-11-30
     opens_est: true
-    opens_note: "Adventis expects Stifel's first 2028 summer posting in Nov 2026. Stifel's 2027 branch and advisory internships appeared in Oct 2026."
+    opens_note: "Not posted as of Nov 19, 2026. Adventis expected Stifel's first 2028 posting in Nov 2026; other trackers expect late November."
     status: upcoming
     link: https://www.stifel.com/careers
     source: https://www.adventiscg.com/class-of-2029-recruiting-timeline
@@ -1160,3 +1152,33 @@ programs:
     status: upcoming
     link: https://www.pgim.com/careers
     source: https://gbv229.github.io/wm-internship-tracker/
+
+  # ============================================================ added 2026-11-19
+  - id: rbc-2028
+    firm: RBC (incl. RBC Wealth Mgmt & City National)
+    program: "2028 Summer Analyst (Real Estate Capital Partners – Dallas; IB; Sales & Trading)"
+    type: summer_2028
+    field: multi
+    eligibility: Class of 2029 (rising seniors in Summer 2028).
+    when: Summer 2028
+    opens: 2026-11-01
+    deadline: 2027-01-01
+    deadline_note: "RBC takes applications until 11:59 PM the day before. SF M&A closes Dec 31."
+    status: open
+    notes: "Includes a Real Estate Capital Partners summer analyst role in Dallas."
+    link: https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1
+    source: https://www.extern.com/post/rbc-capital-markets-internship-guide
+
+  - id: pwp-2028
+    firm: Perella Weinberg
+    program: 2028 U.S. Advisory Summer Analyst
+    type: summer_2028
+    field: banking
+    eligibility: Class of 2029.
+    when: Summer 2028 (New York, Chicago, Palm Beach, Los Angeles, San Francisco)
+    opens: 2026-11-11
+    deadline: 2027-01-05
+    status: open
+    link: https://pwpartners.com/careers/intern-graduate-recruitment/
+    source: https://www.extern.com/post/perella-weinberg-internship-guide
+

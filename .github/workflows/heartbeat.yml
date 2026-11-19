@@ -1,0 +1,48 @@
+name: Heartbeat (start an update every 30 minutes)
+
+# GitHub runs scheduled workflows on free repos only every few hours, so this job keeps the
+# 30-minute cadence itself: it starts the update workflow every 30 minutes for ~5.5 hours, then
+# starts a fresh copy of itself. The schedule below only restarts the loop if it ever stops.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 */4 * * *"
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+jobs:
+  beat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Start an update every 30 minutes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          end=$((SECONDS + 330*60))
+          while [ $SECONDS -lt $end ]; do
+            busy=0
+            for st in in_progress queued; do
+              n=$(gh api "repos/$REPO/actions/workflows/update.yml/runs?status=$st&per_page=1" -q .total_count || echo 0)
+              busy=$((busy + n))
+            done
+            if [ "$busy" -eq 0 ]; then
+              gh api -X POST "repos/$REPO/actions/workflows/update.yml/dispatches" -f ref=main && echo "$(date -u +%H:%M) started an update"
+            else
+              echo "$(date -u +%H:%M) update already running"
+            fi
+            sleep 1800
+          done
+      - name: Hand over to a fresh heartbeat
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: gh api -X POST "repos/$REPO/actions/workflows/heartbeat.yml/dispatches" -f ref=main

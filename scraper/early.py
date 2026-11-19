@@ -25,7 +25,7 @@ EXTRA_DOMAINS = {
 US_REGIONS = {"Northeast", "Mid-Atlantic", "Southeast", "Midwest", "Southwest", "West", "Remote", "US"}
 TEXT_FIELDS = {"detect", "firm", "program", "eligibility", "when", "opens_note", "deadline_note", "notes", "link", "source"}
 SITE = "https://gbv229.github.io/wm-internship-tracker/"
-RESEARCHED = "2026-10-28"
+RESEARCHED = "2026-11-19"
 
 
 def _d(v):
@@ -151,6 +151,15 @@ def detect_live(curated: list[dict], postings: list[dict]) -> set[str]:
     return used
 
 
+def close_past(curated: list[dict], today: date):
+    """A confirmed deadline that has passed means the program is closed, without a hand edit."""
+    for rec in curated:
+        if (rec.get("status") in ("open", "upcoming", "watch") and rec.get("deadline") and not rec.get("deadline_est")
+                and not rec.get("spotted") and rec["deadline"] < today.isoformat()):
+            rec["status"] = "closed"
+            rec["deadline_note"] = (rec.get("deadline_note") or "") + " Deadline passed."
+
+
 def write_watch_feed(programs: list[dict], data: Path):
     """Atom feed: one entry each time a watchlist program is spotted open."""
     from xml.sax.saxutils import escape
@@ -264,6 +273,7 @@ def build(root: Path, data: Path, postings: list[dict], companies: list[dict], t
     write_firm_notes(root, data, companies)
     curated = load_curated(root / "early_programs.yaml", companies)
     used = detect_live(curated, postings)
+    close_past(curated, today)
     live = live_programs(postings, companies)
     # don't list a live posting twice if the curated entry links to it
     curated_links = {p["link"] for p in curated} | used

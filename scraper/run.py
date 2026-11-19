@@ -284,10 +284,16 @@ def main(argv=None):
     s = sources.session(repo)
     budget = Budget(MAX_DETAILS_PER_RUN)
     results = {}
+    # Workday boards share one rate limit: give them a time budget and a fresh order every run,
+    # so a slow day skips different firms each time instead of the same ones.
+    import random
+    sources.WD.budget_end = time.monotonic() + float(os.environ.get("WD_BUDGET_MIN", "22")) * 60
+    order = list(companies)
+    random.shuffle(order)
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         futs = {ex.submit(scrape_company, s, co,
                           {k: v for k, v in prev.items() if v["company"] == co["name"]},
-                          seen, today, budget): co for co in companies}
+                          seen, today, budget): co for co in order}
         for f in as_completed(futs):
             co = futs[f]
             try:
@@ -451,9 +457,11 @@ def main(argv=None):
         "sources_ok": sum(1 for c in status_out for x in c["sources"] if x["ok"]),
         "sources_total": sum(len(c["sources"]) for c in status_out),
         "repo": repo,
+        "workday": {"calls": sources.WD.calls, "refused": sources.WD.refused},
     })
     print(f"\nDone in {time.time()-started:.0f}s: {sum(1 for p in postings if p['status']=='open')} open postings, "
-          f"{len(postings)} total. Details budget left: {budget.n}")
+          f"{len(postings)} total. Details budget left: {budget.n}. "
+          f"Workday calls {sources.WD.calls}, refused {sources.WD.refused}")
 
 
 if __name__ == "__main__":

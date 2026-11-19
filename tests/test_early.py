@@ -65,3 +65,12 @@ def test_watchlist_flips_open_when_posting_appears():
     assert cur[0]["status"] == "open" and cur[0]["opens"] == "2027-01-06" and not cur[0]["opens_est"]
     assert cur[1]["status"] == "upcoming"
     assert early.same_firm("Citi", "Citi (incl. Citi Private Bank)") and not early.same_firm("Baird", "Bain Capital")
+
+
+def test_confirmed_deadline_passed_closes():
+    from datetime import date as _d
+    recs = [{"id": "a", "status": "open", "deadline": "2026-11-15", "deadline_est": False},
+            {"id": "b", "status": "upcoming", "deadline": "2026-11-07", "deadline_est": True},
+            {"id": "c", "status": "open", "deadline": "2027-01-05", "deadline_est": False}]
+    early.close_past(recs, _d(2026, 11, 19))
+    assert [r["status"] for r in recs] == ["closed", "upcoming", "open"]
