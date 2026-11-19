@@ -1047,7 +1047,7 @@ companies:
     careers: https://statestreet.wd1.myworkdayjobs.com/Global
     domain: statestreet.com
     sources:
-      - phenom: {host: careers.statestreet.com, locale: us/en, key: statestreet}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
+      - phenom: {host: careers.statestreet.com, locale: global/en, key: statestreet}      # firm's own careers site (Workday blocks cloud servers since Nov 2026)
     verified: true
 
   - name: TIAA / Nuveen
