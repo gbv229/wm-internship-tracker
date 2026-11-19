@@ -87,6 +87,7 @@ companies:
     verified: true
 
   - name: Citi (incl. Citi Private Bank)
+    priority: true            # checked every run (Workday rotation)
     type: Global Bank
     focus: mixed
     tracks: [wealth, real_estate]
@@ -127,6 +128,7 @@ companies:
     verified: true
 
   - name: RBC (incl. RBC Wealth Mgmt & City National)
+    priority: true            # checked every run (Workday rotation)
     type: Global Bank
     focus: mixed
     tracks: [wealth, real_estate]
@@ -495,6 +497,7 @@ companies:
 
   # -------------------------------------------- Wirehouses, brokerages, platforms
   - name: Fidelity Investments
+    priority: true            # checked every run (Workday rotation)
     type: Brokerage & Platform
     focus: mixed
     hq: Boston, MA

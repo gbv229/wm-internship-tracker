@@ -77,6 +77,8 @@ def scrape_company(s, co: dict, prev: dict, seen: dict, today: date, budget: Bud
                     if rec:
                         postings[j.id] = rec
                 st["matched"] = sum(1 for p in postings.values() if p["source"] == kind)
+        except sources.Skipped as e:
+            st.update(ok=False, skipped=True, error=str(e))
         except Exception as e:  # noqa: BLE001
             msg = f"{type(e).__name__}: {e}"
             st.update(ok=False, error=msg[:300])
@@ -287,7 +289,21 @@ def main(argv=None):
     # Workday boards share one rate limit: give them a time budget and a fresh order every run,
     # so a slow day skips different firms each time instead of the same ones.
     import random
-    sources.WD.budget_end = time.monotonic() + float(os.environ.get("WD_BUDGET_MIN", "22")) * 60
+    sources.WD.budget_end = time.monotonic() + float(os.environ.get("WD_BUDGET_MIN", "20")) * 60
+    # Workday rotation: the boards checked longest ago go first, a few per run (priority firms
+    # every run), so the whole set is covered every couple of hours without tripping rate limits.
+    wd = []
+    for co in companies:
+        old_srcs = prev_status.get(co["name"], {}).get("sources", [])
+        for i, src in enumerate(co["sources"]):
+            kind, cfg = next(iter(src.items()))
+            if kind != "workday":
+                continue
+            o = old_srcs[i] if i < len(old_srcs) and old_srcs[i].get("kind") == kind else {}
+            wd.append((not co.get("priority"), o.get("checked_at") or "", sources.wd_key(cfg)))
+    wd.sort()
+    n_wd = int(os.environ.get("WD_BOARDS_PER_RUN", "16"))
+    sources.WD.allowed = {k for _, _, k in wd[:n_wd]} | {k for p, _, k in wd if not p}
     order = list(companies)
     random.shuffle(order)
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
@@ -348,7 +364,9 @@ def main(argv=None):
     for name, (found, rejected, st) in results.items():
         for k, v in rejected.items():
             seen[k] = today.isoformat()
-        ok_kinds = {x["kind"] for x in st["sources"] if x["ok"]}
+        # a posting only counts as missing when every source of its kind was read this run
+        ok_kinds = {x["kind"] for x in st["sources"]
+                    if all(y["ok"] for y in st["sources"] if y["kind"] == x["kind"])}
         for pid, p in found.items():
             if pid in out and out[pid]["company"] != name:
                 continue                  # same posting reached through two firms' feeds: keep one
@@ -392,7 +410,15 @@ def main(argv=None):
             kind, cfg = next(iter(src.items()))
             d = {"kind": kind, "ok": x["ok"]}
             prev_src = old_srcs[i] if i < len(old_srcs) and old_srcs[i].get("kind") == kind else {}
+            if x.get("skipped"):
+                # not checked this run: keep the last real result
+                d.update({k: prev_src[k] for k in ("ok", "fail_streak", "error", "checked_at") if k in prev_src})
+                d["ok"] = prev_src.get("ok", True)
+                d["skipped"] = True
+                srcs.append(d)
+                continue
             d["fail_streak"] = 0 if x["ok"] else prev_src.get("fail_streak", 0) + 1
+            d["checked_at"] = now.isoformat(timespec="minutes") if x["ok"] else prev_src.get("checked_at")
             if not x["ok"]:
                 d["error"] = x.get("error")
             if kind == "page":

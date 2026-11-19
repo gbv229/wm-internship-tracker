@@ -113,3 +113,18 @@ overrides:
     assert a["deadline"] == "2026-12-01" and a["classes"] == [2029] and a["verified"] == "2026-10-16"
     assert "recruiter email" in a["deadline_evidence"] and a["note"] == "Confirmed with recruiter"
     assert posts["b"]["deadline"] is None
+
+
+def test_skipped_source_is_not_a_miss(tmp_path, monkeypatch):
+    setup(tmp_path, monkeypatch, make_jobs())
+    run.main(["--browser", "off"])
+
+    def skip(s, cfg, today):
+        raise sources.Skipped("checked in rotation; not this run")
+    monkeypatch.setitem(sources.FETCHERS, "workday", skip)
+    run.main(["--browser", "off"])
+    run.main(["--browser", "off"])
+    posts = {p["id"]: p for p in read(tmp_path, "postings.json")["postings"]}
+    assert posts["wd:x:3"]["status"] == "open" and posts["wd:x:3"]["misses"] == 0
+    src = {c["name"]: c for c in read(tmp_path, "companies.json")["companies"]}["Big Bank"]["sources"][0]
+    assert src["ok"] is True and src["skipped"] and src["fail_streak"] == 0 and src["checked_at"]

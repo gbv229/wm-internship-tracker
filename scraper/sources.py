@@ -27,8 +27,12 @@ UA = ("Mozilla/5.0 (compatible; WM-Internship-Tracker/1.0; student project; "
 
 # Workday's search is fuzzy, so several short queries catch programs that
 # don't use the word "intern" (e.g. "Summer Analyst", "Early Insights").
-SEARCH_TERMS = ["intern", "summer analyst", "sophomore", "insight", "co-op"]
+SEARCH_TERMS = ["intern", "summer", "insight", "co-op"]   # "summer" also catches Summer Analyst / Sophomore Summer
 WD_MAX_PAGES = 15          # 300 results per term; search is relevance-ranked, so student roles come first
+
+
+class Skipped(Exception):
+    """A source deliberately not checked this run (not a failure)."""
 
 
 class _WorkdayGate:
@@ -39,22 +43,36 @@ class _WorkdayGate:
     def __init__(self):
         self.lock = threading.Lock()
         self.last = 0.0
-        self.gap = 0.5
+        self.min_gap = 2.0
+        self.gap = self.min_gap
+        self.allowed: set | None = None    # boards to check this run (None = all)
+        self.failed_boards = 0             # consecutive boards that ended refused
+        self.tripped = False
         self.plain = requests.Session()          # no urllib3 retries: this class does the retrying
         self.plain.mount("https://", HTTPAdapter(pool_maxsize=8))
         self.refused = 0
         self.calls = 0
         self.budget_end = None             # set by the run: stop starting new Workday boards after this
 
-    def start_board(self):
+    def start_board(self, key: str):
+        if self.allowed is not None and key not in self.allowed:
+            raise Skipped("checked in rotation; not this run")
+        if self.tripped:
+            raise Skipped("Workday was refusing requests this run, so the rest wait for the next run")
         if self.budget_end and time.monotonic() > self.budget_end:
-            raise RuntimeError("Workday time budget for this run used up; this board is checked next run")
+            raise Skipped("Workday time budget for this run used up; checked next run")
+
+    def end_board(self, ok: bool):
+        with self.lock:
+            self.failed_boards = 0 if ok else self.failed_boards + 1
+            if self.failed_boards >= 3:
+                self.tripped = True        # be polite: stop asking until the next run
 
     def request(self, s: requests.Session, method: str, url: str, **kw) -> requests.Response:
         kw.setdefault("timeout", TIMEOUT)
         headers = {**s.headers, **(kw.pop("headers", None) or {})}
         r = None
-        for attempt in range(7):
+        for attempt in range(3):
             with self.lock:
                 wait = self.last + self.gap - time.monotonic()
                 if wait > 0:
@@ -67,12 +85,14 @@ class _WorkdayGate:
             self.calls += 1
             if r is not None and r.status_code != 429 and r.status_code < 500:
                 with self.lock:
-                    self.gap = max(0.5, self.gap * 0.9)
+                    self.gap = max(self.min_gap, self.gap * 0.9)
                 return r
             with self.lock:
                 self.refused += 1
-                self.gap = min(6.0, self.gap * 1.6)
-            time.sleep(min(45, 3 * 2 ** attempt) * random.uniform(0.6, 1.2))
+                self.gap = min(10.0, self.gap * 1.5)
+            if self.tripped:
+                break
+            time.sleep(10 * (attempt + 1) * random.uniform(0.8, 1.2))
         if r is None:
             raise requests.ConnectionError(f"Workday unreachable: {url}")
         return r
@@ -121,7 +141,21 @@ def workday(s: requests.Session, cfg: dict, today: date) -> list[Job]:
     host, tenant, site = cfg["host"], cfg["tenant"], str(cfg["site"])
     api = f"https://{host}/wday/cxs/{tenant}/{site}"
     public = f"https://{host}{cfg.get('path_prefix', '')}/{site}"
-    WD.start_board()
+    WD.start_board(wd_key(cfg))
+    try:
+        jobs = _workday_list(s, cfg, today, api, public, tenant)
+    except Exception:
+        WD.end_board(False)
+        raise
+    WD.end_board(True)
+    return jobs
+
+
+def wd_key(cfg: dict) -> str:
+    return f"{cfg['tenant']}/{cfg['site']}"
+
+
+def _workday_list(s, cfg, today, api, public, tenant) -> list[Job]:
     jobs: dict[str, Job] = {}
     for term in SEARCH_TERMS:
         offset = 0
