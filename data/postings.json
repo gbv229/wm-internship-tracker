@@ -489,52 +489,6 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-11-03",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
-   "hide": null,
-   "id": "wd:baird:R20261249",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "VA-Alexandria",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-03",
-   "region": "",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "VA"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Alexandria, VA Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/VA-Alexandria/Internship---Private-Wealth-Management--Alexandria--VA-Summer-2027-_R20261249",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-19",
    "first_seen": "2026-11-19",
    "function": "Wealth Management",
@@ -937,52 +891,6 @@
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-11-03",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
-   "hide": null,
-   "id": "wd:baird:R20261248-1",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "VA-Fairfax",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-03",
-   "region": "",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "VA"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Fairfax, VA Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/VA-Fairfax/Internship---Private-Wealth-Management--Fairfax--VA-Summer-2027-_R20261248-1",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
   },
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
@@ -1999,46 +1907,6 @@
     "real_estate"
    ],
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Blackstone",
-   "company_type": "Asset Manager",
-   "deadline": "2026-10-20",
-   "deadline_evidence": "- Applications will close on Friday 3 0 October 202 6",
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Blackstone|2027 blackstone real estate institutional client solutions summer analyst",
-   "group_title": "2027 Blackstone Real Estate Institutional Client Solutions Summer Analyst",
-   "hide": "Outside the US",
-   "id": "wd:blackstone:43188",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "London",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-08",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "2027 Blackstone Real Estate Institutional Client Solutions Summer Analyst (London)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Institutional-Client-Solutions-Summer-Analyst--London-_43188",
    "v": 11,
    "weeks": 10,
    "work_mode": null
@@ -6848,139 +6716,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ532423",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Jacksonville, FL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Jacksonville, FL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Capital-Markets-Summer-2027-Internship---Jacksonville--FL_REQ532423",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ530581",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Orlando, FL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Orlando, FL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Orlando-FL/Capital-Markets-Summer-2027-Internship---Orlando--FL_REQ530581",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior or senior, graduating in 2027 or 2028.",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship portland",
-   "group_title": "Capital Markets Summer 2027 Internship - Portland",
-   "hide": null,
-   "id": "wd:jll:REQ530226",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Portland, OR",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "OR"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - Portland, OR",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Capital-Markets-Summer-2027-Internship---Portland--OR_REQ530226",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-19",
    "first_seen": "2026-10-08",
    "function": "Capital Markets / Investment Sales",
@@ -7056,51 +6791,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Capital-Markets-Summer-2027-Internship---Washington--DC_REQ530230",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior or senior, graduating in 2027 or 2028.",
-   "classes": [
-    2027,
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer internship 2027",
-   "group_title": "Capital Markets Summer Internship 2027",
-   "hide": null,
-   "id": "wd:jll:REQ530584",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Seattle, WA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "WA"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer Internship 2027 - Seattle, WA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Capital-Markets-Summer-Internship-2027---Seattle--WA_REQ530584",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -7191,50 +6881,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Environmental-Health-and-Safety-Specialist-Summer-2027-Internship---Andover--MA_REQ541929",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Must have completed at least 3 years of college.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-13",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|hotels and hospitality summer 2027 internship",
-   "group_title": "Hotels and Hospitality Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ531742",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-02",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "Hotels and Hospitality Summer 2027 Internship - Chicago, IL",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Hotels-and-Hospitality-Summer-2027-Internship---Chicago--IL_REQ531742",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -8298,183 +7944,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Orlando-FL/Property-Management-Summer-2027-Internship---Orlando--FL_REQ540388",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|property management summer 2027 internship",
-   "group_title": "Property Management Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ540476",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "San Francisco, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Property Management Summer 2027 Internship - San Francisco, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Property-Management-Summer-2027-Internship---San-Francisco--CA_REQ540476",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "JLL|property management summer 2027 internship",
-   "group_title": "Property Management Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ540468",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Washington, DC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "DC"
-   ],
-   "status": "open",
-   "title": "Property Management Summer 2027 Internship - Washington, DC",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Property-Management-Summer-2027-Internship---Washington--DC_REQ540468",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-13",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|real estate advisory and consulting summer 2027 internship",
-   "group_title": "Real Estate Advisory and Consulting Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ541736",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Washington, DC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "DC"
-   ],
-   "status": "open",
-   "title": "Real Estate Advisory and Consulting Summer 2027 Internship - Washington, DC",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Real-Estate-Advisory-and-Consulting-Summer-2027-Internship---Washington--DC_REQ541736",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "• Actively pursuing a bachelor's degree, with 2-3 years completed majoring in business, program management, engineering, life sciences, or related field.",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "JLL|strategic program support summer 2027 internship",
-   "group_title": "Strategic Program Support Summer 2027 Internship",
-   "hide": "Not a wealth / real estate role",
-   "id": "wd:jll:REQ534203",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "San Francisco, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Strategic Program Support Summer 2027 Internship - San Francisco, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Strategic-Program-Support-Summer-2027-Internship---San-Francisco--CA_REQ534203",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -9958,52 +9427,6 @@
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "PIMCO",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-15",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "PIMCO|2027 summer intern global wealth management private family capital analyst",
-   "group_title": "2027 Summer Intern – Global Wealth Management, Private Family Capital Analyst",
-   "hide": null,
-   "id": "wd:pimco:R106771",
-   "last_seen": "2026-11-15",
-   "level": "Undergraduate",
-   "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southwest",
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA",
-    "NY",
-    "TX"
-   ],
-   "status": "open",
-   "title": "2027 Summer Intern – Global Wealth Management, Private Family Capital Analyst, US",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Family-Capital-Analyst--US-_R106771",
-   "v": 11,
    "weeks": 10,
    "work_mode": null
   },
@@ -12167,6 +11590,53 @@
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
    "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-19",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-11-03",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "hide": null,
+   "id": "wd:baird:R20261249",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "VA-Alexandria",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-03",
+   "region": "",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "VA"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Alexandria, VA Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/VA-Alexandria/Internship---Private-Wealth-Management--Alexandria--VA-Summer-2027-_R20261249",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
     2028
    ],
    "closed_on": "2026-10-27",
@@ -12341,6 +11811,53 @@
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1",
    "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-19",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-11-03",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "hide": null,
+   "id": "wd:baird:R20261248-1",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "VA-Fairfax",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-03",
+   "region": "",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "VA"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Fairfax, VA Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/VA-Fairfax/Internship---Private-Wealth-Management--Fairfax--VA-Summer-2027-_R20261248-1",
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -12865,6 +12382,47 @@
    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tokyo/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--Tokyo_40708",
    "v": 9,
    "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-19",
+   "company": "Blackstone",
+   "company_type": "Asset Manager",
+   "deadline": "2026-10-20",
+   "deadline_evidence": "- Applications will close on Friday 3 0 October 202 6",
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Blackstone|2027 blackstone real estate institutional client solutions summer analyst",
+   "group_title": "2027 Blackstone Real Estate Institutional Client Solutions Summer Analyst",
+   "hide": "Outside the US",
+   "id": "wd:blackstone:43188",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "London",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-08",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "2027 Blackstone Real Estate Institutional Client Solutions Summer Analyst (London)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Institutional-Client-Solutions-Summer-Analyst--London-_43188",
+   "v": 11,
+   "weeks": 10,
    "work_mode": null
   },
   {
@@ -19028,6 +18586,51 @@
    "classes": [
     2028
    ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ532423",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Jacksonville, FL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Jacksonville, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Capital-Markets-Summer-2027-Internship---Jacksonville--FL_REQ532423",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
    "closed_on": "2026-11-10",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -19163,6 +18766,97 @@
    "classes": [
     2028
    ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530581",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Orlando, FL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "FL"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Orlando, FL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Orlando-FL/Capital-Markets-Summer-2027-Internship---Orlando--FL_REQ530581",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior or senior, graduating in 2027 or 2028.",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship portland",
+   "group_title": "Capital Markets Summer 2027 Internship - Portland",
+   "hide": null,
+   "id": "wd:jll:REQ530226",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Portland, OR",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "OR"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - Portland, OR",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Capital-Markets-Summer-2027-Internship---Portland--OR_REQ530226",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
    "closed_on": "2026-10-29",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -19245,6 +18939,52 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tampa-FL/Capital-Markets-Summer-2027-Internship---Tampa--FL_REQ532419",
    "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior or senior, graduating in 2027 or 2028.",
+   "classes": [
+    2027,
+    2028
+   ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer internship 2027",
+   "group_title": "Capital Markets Summer Internship 2027",
+   "hide": null,
+   "id": "wd:jll:REQ530584",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Seattle, WA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "WA"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer Internship 2027 - Seattle, WA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Capital-Markets-Summer-Internship-2027---Seattle--WA_REQ530584",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -19408,6 +19148,51 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/HSE-Internship_REQ547215",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Must have completed at least 3 years of college.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-13",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|hotels and hospitality summer 2027 internship",
+   "group_title": "Hotels and Hospitality Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ531742",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-02",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "Hotels and Hospitality Summer 2027 Internship - Chicago, IL",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Hotels-and-Hospitality-Summer-2027-Internship---Chicago--IL_REQ531742",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -20582,6 +20367,98 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|property management summer 2027 internship",
+   "group_title": "Property Management Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ540476",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "San Francisco, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Property Management Summer 2027 Internship - San Francisco, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Property-Management-Summer-2027-Internship---San-Francisco--CA_REQ540476",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Actively pursuing a bachelor’s degree, with 2-3 years completed majoring in business or related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "JLL|property management summer 2027 internship",
+   "group_title": "Property Management Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ540468",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "closed",
+   "title": "Property Management Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Property-Management-Summer-2027-Internship---Washington--DC_REQ540468",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "• Actively pursuing a bachelor's degree, with 2-3 years completed majoring in finance, real estate, economics, business, or related field",
    "classes": [
     2028,
@@ -20677,6 +20554,49 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-13",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|real estate advisory and consulting summer 2027 internship",
+   "group_title": "Real Estate Advisory and Consulting Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ541736",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "closed",
+   "title": "Real Estate Advisory and Consulting Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Real-Estate-Advisory-and-Consulting-Summer-2027-Internship---Washington--DC_REQ541736",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-27",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -20753,6 +20673,52 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Petaling-Jaya-Malaysia/Specialist--Intern_REQ542979",
    "v": 9,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "• Actively pursuing a bachelor's degree, with 2-3 years completed majoring in business, program management, engineering, life sciences, or related field.",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-19",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "JLL|strategic program support summer 2027 internship",
+   "group_title": "Strategic Program Support Summer 2027 Internship",
+   "hide": "Not a wealth / real estate role",
+   "id": "wd:jll:REQ534203",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "San Francisco, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Strategic Program Support Summer 2027 Internship - San Francisco, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Strategic-Program-Support-Summer-2027-Internship---San-Francisco--CA_REQ534203",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
@@ -23246,6 +23212,53 @@
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-19",
+   "company": "PIMCO",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-15",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "PIMCO|2027 summer intern global wealth management private family capital analyst",
+   "group_title": "2027 Summer Intern – Global Wealth Management, Private Family Capital Analyst",
+   "hide": null,
+   "id": "wd:pimco:R106771",
+   "last_seen": "2026-11-15",
+   "level": "Undergraduate",
+   "location": "Newport Beach, CA USA; Austin, TX USA; New York, NY USA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest",
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA",
+    "NY",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Intern – Global Wealth Management, Private Family Capital Analyst, US",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Private-Family-Capital-Analyst--US-_R106771",
+   "v": 11,
    "weeks": 10,
    "work_mode": null
   },
