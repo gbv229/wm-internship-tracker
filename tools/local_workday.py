@@ -52,6 +52,7 @@ def curl(url, method="GET", data=None, headers=None, timeout=40, data_file=None)
         cmd += ["--data-binary", "@-"]
     if data_file:
         cmd += ["--data-binary", f"@{data_file}"]
+    cmd.append(url)
     try:
         p = subprocess.run(cmd, input=data, capture_output=True, timeout=timeout + 10)
     except subprocess.TimeoutExpired:
