@@ -9486,49 +9486,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-19",
-   "first_seen": "2026-10-22",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
-   "group_title": "Financial Advisor Intern",
-   "hide": "Outside the US",
-   "id": "ph:rbc:R-0000184478",
-   "last_seen": "2026-11-20",
-   "level": "Undergraduate",
-   "location": "HAMILTON, Ontario, Canada",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-11-06",
-   "previous_ids": [
-    "wd:rbc:R-0000184478"
-   ],
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "phenom",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://jobs.rbc.com/ca/en/job/R-0000184478",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
    "first_seen": "2026-11-19",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -9569,21 +9526,21 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-19",
-   "first_seen": "2026-10-20",
+   "first_seen": "2026-10-22",
    "function": "Advisory / Client Service",
    "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial planner relationship intern",
-   "group_title": "Financial Planner Relationship Intern",
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
    "hide": "Outside the US",
-   "id": "ph:rbc:R-0000190805",
+   "id": "ph:rbc:R-0000184478",
    "last_seen": "2026-11-20",
    "level": "Undergraduate",
-   "location": "GATINEAU, Quebec, Canada",
-   "misses": 0,
+   "location": "HAMILTON, Ontario, Canada",
+   "misses": 1,
    "pay": null,
-   "posted": "2026-10-20",
+   "posted": "2026-11-06",
    "previous_ids": [
-    "wd:rbc:R-0000190805-1"
+    "wd:rbc:R-0000184478"
    ],
    "region": "Canada",
    "regions": [
@@ -9595,11 +9552,11 @@
    "sponsorship": null,
    "states": [],
    "status": "open",
-   "title": "Financial Planner Relationship Intern",
+   "title": "Financial Advisor Intern",
    "tracks": [
     "wealth"
    ],
-   "url": "https://jobs.rbc.com/ca/en/job/R-0000190805",
+   "url": "https://jobs.rbc.com/ca/en/job/R-0000184478",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -9640,6 +9597,49 @@
     "wealth"
    ],
    "url": "https://jobs.rbc.com/ca/en/job/R-0000192909",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-20",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial planner relationship intern",
+   "group_title": "Financial Planner Relationship Intern",
+   "hide": "Outside the US",
+   "id": "ph:rbc:R-0000190805",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "GATINEAU, Quebec, Canada",
+   "misses": 1,
+   "pay": null,
+   "posted": "2026-10-20",
+   "previous_ids": [
+    "wd:rbc:R-0000190805-1"
+   ],
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "phenom",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Planner Relationship Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://jobs.rbc.com/ca/en/job/R-0000190805",
    "v": 11,
    "weeks": null,
    "work_mode": null
