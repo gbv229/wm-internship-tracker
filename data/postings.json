@@ -8766,46 +8766,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "PGIM Real Estate",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Acquisitions / Investments",
-   "gpa": null,
-   "group": "PGIM Real Estate|pgim real estate private equity analyst intern",
-   "group_title": "PGIM | Real Estate Private Equity Analyst Intern",
-   "hide": "Outside the US",
-   "id": "wd:pru:R-124980-1",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Paris, France",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "PGIM | Real Estate Private Equity Analyst Intern (all genders)",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Paris-France/PGIM---Real-Estate-Private-Equity-Analyst-Intern--all-genders-_R-124980-1",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028,
@@ -23841,6 +23801,47 @@
     "real_estate"
    ],
    "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Frankfurt-Germany/PGIM---Intern--Real-Estate-Private-Equity-Portfolio-Management--all-genders--as-of-Q1-2027--Based-in-Frankfurt_R-125016-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "PGIM Real Estate",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Acquisitions / Investments",
+   "gpa": null,
+   "group": "PGIM Real Estate|pgim real estate private equity analyst intern",
+   "group_title": "PGIM | Real Estate Private Equity Analyst Intern",
+   "hide": "Outside the US",
+   "id": "wd:pru:R-124980-1",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Paris, France",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "PGIM | Real Estate Private Equity Analyst Intern (all genders)",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Paris-France/PGIM---Real-Estate-Private-Equity-Analyst-Intern--all-genders-_R-124980-1",
    "v": 11,
    "weeks": null,
    "work_mode": null
