@@ -387,6 +387,48 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "BXP (Boston Properties)",
+   "company_type": "REIT",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "BXP (Boston Properties)|network operations co op",
+   "group_title": "Network Operations Co-Op",
+   "hide": null,
+   "id": "or:edxn:26190",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "Boston, MA, United States",
+   "misses": 0,
+   "pay": "$23–$26/hr",
+   "posted": "2026-11-20",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "open",
+   "title": "Network Operations Co-Op",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26190",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "- Anticipated graduation date of May 2028 or later",
    "classes": [
     2028,
