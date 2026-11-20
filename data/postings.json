@@ -1763,49 +1763,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Barclays|private bank and wealth management off cycle internship programme 2027 monaco",
-   "group_title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Monaco",
-   "hide": "Outside the US",
-   "id": "rd:barclays:100305156896",
-   "last_seen": "2026-11-20",
-   "level": "Undergraduate",
-   "location": "Monaco - Default Legacy Site",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-07",
-   "previous_ids": [
-    "wd:barclays:JR-0000124680"
-   ],
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "radancy",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Monaco",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://search.jobs.barclays/job/monaco/private-bank-and-wealth-management-off-cycle-internship-programme-2027-monaco/13015/100305156896",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Barclays",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
    "first_seen": "2026-10-22",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -1914,48 +1871,6 @@
    "v": 11,
    "weeks": null,
    "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "Eligibility: MBA students graduating between September 2027 and July 2028 with at least two years of relevant pre-MBA work experience",
-   "classes": [],
-   "company": "BlackRock",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "BlackRock|2027 mba internship program client product functions sales relationship management institutional wealth",
-   "group_title": "2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth",
-   "hide": "Graduate / MBA only",
-   "id": "rd:blackrock:100661849456",
-   "last_seen": "2026-11-20",
-   "level": "Graduate/MBA",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-09-16",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "radancy",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth - New York\n 09/16/2026",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers.blackrock.com/job/new-york/2027-mba-internship-program-client-and-product-functions-sales-and-relationship-management-institut/45831/100661849456",
-   "v": 11,
-   "weeks": 9,
-   "work_mode": null
   },
   {
    "class_evidence": null,
@@ -12218,6 +12133,50 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "Barclays",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Barclays|private bank and wealth management off cycle internship programme 2027 monaco",
+   "group_title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Monaco",
+   "hide": "Outside the US",
+   "id": "rd:barclays:100305156896",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "Monaco - Default Legacy Site",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-07",
+   "previous_ids": [
+    "wd:barclays:JR-0000124680"
+   ],
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "radancy",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Private Bank and Wealth Management Off Cycle Internship Programme 2027 Monaco",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://search.jobs.barclays/job/monaco/private-bank-and-wealth-management-off-cycle-internship-programme-2027-monaco/13015/100305156896",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-27",
    "company": "Barclays",
    "company_type": "Global Bank",
@@ -12338,6 +12297,49 @@
     "wealth"
    ],
    "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466",
+   "v": 11,
+   "weeks": 9,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Eligibility: MBA students graduating between September 2027 and July 2028 with at least two years of relevant pre-MBA work experience",
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "BlackRock",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "BlackRock|2027 mba internship program client product functions sales relationship management institutional wealth",
+   "group_title": "2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth",
+   "hide": "Graduate / MBA only",
+   "id": "rd:blackrock:100661849456",
+   "last_seen": "2026-11-20",
+   "level": "Graduate/MBA",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-09-16",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "radancy",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth - New York\n 09/16/2026",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers.blackrock.com/job/new-york/2027-mba-internship-program-client-and-product-functions-sales-and-relationship-management-institut/45831/100661849456",
    "v": 11,
    "weeks": 9,
    "work_mode": null
