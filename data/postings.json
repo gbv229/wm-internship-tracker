@@ -2166,104 +2166,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Risk / Compliance",
-   "gpa": null,
-   "group": "Cerity Partners|2027 summer risk management strategy analyst internship",
-   "group_title": "2027 Summer Risk Management Strategy Analyst Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R918-1",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Louisville, KY",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-11-10",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "KY"
-   ],
-   "status": "open",
-   "title": "2027 Summer Risk Management Strategy Analyst Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Cerity Partners|central solutions strategy analyst internship",
-   "group_title": "Central Solutions Strategy Analyst Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R919",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "New York City, NY",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Central Solutions Strategy Analyst Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Central-Solutions-Strategy-Analyst-Internship_R919",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Cerity Partners",
@@ -2363,100 +2265,6 @@
    "work_mode": "Remote"
   },
   {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Cerity Partners|financial planning analyst internship",
-   "group_title": "Financial Planning Analyst Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R931",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "New York City, NY; West Conshohocken, PA",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-11-10",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY",
-    "PA"
-   ],
-   "status": "open",
-   "title": "Financial Planning Analyst Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Financial-Planning-Analyst-Internship_R931",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Cerity Partners|investment analyst intern",
-   "group_title": "Investment Analyst Intern",
-   "hide": null,
-   "id": "wd:ceritypartners:R944",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Austin, TX; Denver, CO",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southwest",
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CO",
-    "TX"
-   ],
-   "status": "open",
-   "title": "Investment Analyst Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R944",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Cerity Partners",
@@ -2537,251 +2345,6 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Grand-Rapids-MI/Summer-2027-Wealth-Management-Intern_R956",
    "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R882",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Cincinnati, OH",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "OH"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Wealth-Management-Intern_R882",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R888",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Elizabethtown, KY",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "KY"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Elizabethtown-KY/Summer-2027-Wealth-Management-Internship_R888",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R920",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Bowling Green, KY",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "KY"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R920",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|summer 2027 wealth management internship",
-   "group_title": "Summer 2027 Wealth Management Internship",
-   "hide": null,
-   "id": "wd:ceritypartners:R889-1",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Bowling Green, KY",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "KY"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Wealth Management Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R889-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Cerity Partners",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.2+",
-   "group": "Cerity Partners|wealth management intern",
-   "group_title": "Wealth Management Intern",
-   "hide": null,
-   "id": "wd:ceritypartners:R869",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Norfolk, VA",
-   "misses": 1,
-   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "VA"
-   ],
-   "status": "open",
-   "title": "Wealth Management Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Norfolk-VA/Wealth-Management-Intern_R869",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
@@ -3596,49 +3159,6 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Bloomington-Minnesota-USA/EIC-Brokerage-Intern--Multi-Market_R343438",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Rising junior or senior (3rd or 4th year) college student studying Real Estate, Business Administration, Finance, Economics, Research, Analytics, or a related field",
-   "classes": [
-    2028,
-    2029
-   ],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-27",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "Cushman & Wakefield|eic brokerage research intern",
-   "group_title": "EIC Brokerage Research Intern",
-   "hide": "Outside the US",
-   "id": "wd:cw:R341887",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Vancouver, Canada",
-   "misses": 1,
-   "pay": "$20–$23/hr",
-   "posted": "2026-10-27",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "EIC Brokerage Research Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Vancouver-Canada/EIC-Brokerage-Research-Intern_R341887",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -5980,6 +5500,46 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Greystar",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "Greystar|intern property management diemen",
+   "group_title": "Intern - Property Management Diemen",
+   "hide": "Outside the US",
+   "id": "br:1807bcdc8db816",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-20",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Intern - Property Management Diemen, Netherlands",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jobs.greystar.com/job/diemen/intern-property-management/35302/103429120224",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "We’re looking for students graduating in 2029, who already have some coding skills and want to keep developing them.",
    "classes": [
     2029
@@ -6144,82 +5704,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-18",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|advisory intern",
-   "group_title": "Advisory Intern",
-   "hide": null,
-   "id": "br:3bad9780688742",
-   "last_seen": "2026-11-20",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Advisory Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4494500",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Homrich Berg",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-18",
-   "first_seen": "2026-10-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Homrich Berg|advisory intern",
-   "group_title": "Advisory Intern",
-   "hide": null,
-   "id": "br:7d52479dd54efa",
-   "last_seen": "2026-11-20",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-16",
-   "region": "",
-   "regions": [],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Advisory Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4494500",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "company": "Invitation Homes",
    "company_type": "Developer & Operator",
    "deadline": null,
@@ -6232,7 +5716,7 @@
    "group_title": "Intern, Field Asset Management",
    "hide": null,
    "id": "wd:invitationhomes:R6022",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "level": "Undergraduate",
    "location": "Atlanta, Georgia",
    "misses": 0,
@@ -6699,46 +6183,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets intern",
-   "group_title": "Capital Markets Intern",
-   "hide": "Outside the US",
-   "id": "wd:jll:REQ549833",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Toronto, ON",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-19",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Capital Markets Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Capital-Markets-Intern_REQ549833",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
    "classes": [
     2028
@@ -7084,48 +6528,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Leasing-Summer-2027-Internship---Charlotte--NC_REQ539622",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-12",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship",
-   "group_title": "Leasing Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ539580",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Dallas, TX",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TX"
-   ],
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Dallas, TX",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Leasing-Summer-2027-Internship---Dallas--TX_REQ539580",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -7756,48 +7158,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Walnut-Creek-CA/Leasing-Summer-2027-Internship---Walnut-Creek--CA_REQ540030",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-12",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship",
-   "group_title": "Leasing Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ539928",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Washington, DC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "DC"
-   ],
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Washington, DC",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Leasing-Summer-2027-Internship---Washington--DC_REQ539928",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -13451,6 +12811,202 @@
    "work_mode": "Hybrid"
   },
   {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Risk / Compliance",
+   "gpa": null,
+   "group": "Cerity Partners|2027 summer risk management strategy analyst internship",
+   "group_title": "2027 Summer Risk Management Strategy Analyst Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R918-1",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Louisville, KY",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "KY"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Risk Management Strategy Analyst Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Cerity Partners|central solutions strategy analyst internship",
+   "group_title": "Central Solutions Strategy Analyst Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R919",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "New York City, NY",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Central Solutions Strategy Analyst Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Central-Solutions-Strategy-Analyst-Internship_R919",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Cerity Partners|financial planning analyst internship",
+   "group_title": "Financial Planning Analyst Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R931",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "New York City, NY; West Conshohocken, PA",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-11-10",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY",
+    "PA"
+   ],
+   "status": "closed",
+   "title": "Financial Planning Analyst Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Financial-Planning-Analyst-Internship_R931",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Cerity Partners|investment analyst intern",
+   "group_title": "Investment Analyst Intern",
+   "hide": null,
+   "id": "wd:ceritypartners:R944",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Austin, TX; Denver, CO",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southwest",
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Investment Analyst Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R944",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "closed_on": "2026-10-21",
@@ -13601,6 +13157,206 @@
     2029,
     2030
    ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R882",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Cincinnati, OH",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "OH"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Cincinnati-OH/Wealth-Management-Intern_R882",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R888",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Elizabethtown, KY",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "KY"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Elizabethtown-KY/Summer-2027-Wealth-Management-Internship_R888",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R920",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Bowling Green, KY",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "KY"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R920",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|summer 2027 wealth management internship",
+   "group_title": "Summer 2027 Wealth Management Internship",
+   "hide": null,
+   "id": "wd:ceritypartners:R889-1",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Bowling Green, KY",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "KY"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Wealth Management Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R889-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "closed_on": "2026-11-19",
    "company": "Cerity Partners",
    "company_type": "Independent RIA",
@@ -13727,6 +13483,56 @@
    ],
    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Houston-TX/Summer-2027-Wealth-Management-Internship_R935",
    "v": 9,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cerity Partners",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.2+",
+   "group": "Cerity Partners|wealth management intern",
+   "group_title": "Wealth Management Intern",
+   "hide": null,
+   "id": "wd:ceritypartners:R869",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Norfolk, VA",
+   "misses": 2,
+   "note": "The posting only asks for a current undergraduate (Wealth roles: 3.2+ GPA); no class year is required.",
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "VA"
+   ],
+   "status": "closed",
+   "title": "Wealth Management Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Norfolk-VA/Wealth-Management-Intern_R869",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": null,
    "work_mode": null
   },
@@ -15144,6 +14950,50 @@
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania-USA/EIC-2027-Summer-Intern--Philadelphia_R335729",
    "v": 6,
    "weeks": 8,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Rising junior or senior (3rd or 4th year) college student studying Real Estate, Business Administration, Finance, Economics, Research, Analytics, or a related field",
+   "classes": [
+    2028,
+    2029
+   ],
+   "closed_on": "2026-11-20",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-27",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "Cushman & Wakefield|eic brokerage research intern",
+   "group_title": "EIC Brokerage Research Intern",
+   "hide": "Outside the US",
+   "id": "wd:cw:R341887",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Vancouver, Canada",
+   "misses": 2,
+   "pay": "$20–$23/hr",
+   "posted": "2026-10-27",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "EIC Brokerage Research Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Vancouver-Canada/EIC-Brokerage-Research-Intern_R341887",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   },
   {
@@ -17400,6 +17250,84 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-18",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|advisory intern",
+   "group_title": "Advisory Intern",
+   "hide": null,
+   "id": "br:3bad9780688742",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Advisory Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4494500",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "Homrich Berg",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-18",
+   "first_seen": "2026-10-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Homrich Berg|advisory intern",
+   "group_title": "Advisory Intern",
+   "hide": null,
+   "id": "br:7d52479dd54efa",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-16",
+   "region": "",
+   "regions": [],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Advisory Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4494500",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Must be a rising senior pursuing a bachelor’s degree from an accredited college or university (required).",
    "classes": [
     2028
@@ -18814,6 +18742,47 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Business-Support--Intern_REQ534101",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets intern",
+   "group_title": "Capital Markets Intern",
+   "hide": "Outside the US",
+   "id": "wd:jll:REQ549833",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Toronto, ON",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-19",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Capital Markets Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Capital-Markets-Intern_REQ549833",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -20435,6 +20404,49 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539580",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Dallas, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Leasing-Summer-2027-Internship---Dallas--TX_REQ539580",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-13",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -20644,6 +20656,49 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/SAN-ANTONIO-TX/Leasing-Summer-2027-Internship---San-Antonio--TX_REQ539568",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539928",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Leasing-Summer-2027-Internship---Washington--DC_REQ539928",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
