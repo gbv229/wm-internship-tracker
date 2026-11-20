@@ -6075,46 +6075,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "HSBC",
-   "company_type": "Global Bank",
-   "deadline": "2026-11-20",
-   "deadline_evidence": "Closing Date: Fri Nov 20, 2026",
-   "detail_at": "2026-11-17",
-   "first_seen": "2026-11-05",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "HSBC|corporate and institutional banking spring insight programme",
-   "group_title": "Corporate and Institutional Banking - Spring Insight Programme",
-   "hide": "Outside the US",
-   "id": "br:120ba97e7e5633",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "London, GB, E14 5HQ",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-05",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": "Spring 2027",
-   "season_inferred": true,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Corporate and Institutional Banking - Spring Insight Programme",
-   "tracks": [
-    "early"
-   ],
-   "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Corporate-and-Institutional-Banking-Spring-Insight-Programme-E14-5HQ/1376330157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": "We’re looking for students graduating in 2029, who already have some coding skills and want to keep developing them.",
    "classes": [
     2029
@@ -17144,6 +17104,47 @@
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "HSBC",
+   "company_type": "Global Bank",
+   "deadline": "2026-11-20",
+   "deadline_evidence": "Closing Date: Fri Nov 20, 2026",
+   "detail_at": "2026-11-17",
+   "first_seen": "2026-11-05",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "HSBC|corporate and institutional banking spring insight programme",
+   "group_title": "Corporate and Institutional Banking - Spring Insight Programme",
+   "hide": "Outside the US",
+   "id": "br:120ba97e7e5633",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "London, GB, E14 5HQ",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-05",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Spring 2027",
+   "season_inferred": true,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Corporate and Institutional Banking - Spring Insight Programme",
+   "tracks": [
+    "early"
+   ],
+   "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Corporate-and-Institutional-Banking-Spring-Insight-Programme-E14-5HQ/1376330157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+   "v": 11,
+   "weeks": null,
    "work_mode": null
   },
   {
