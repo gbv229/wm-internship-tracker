@@ -17,7 +17,7 @@
      "skipped": true
     },
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oleeo",
      "ok": true
@@ -40,14 +40,14 @@
    "open": 19,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "goldman",
      "ok": true
     },
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "b2185d4027bab0ae",
      "kind": "page",
@@ -79,7 +79,7 @@
    "open": 7,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -109,7 +109,7 @@
      "skipped": true
     },
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oleeo",
      "ok": true
@@ -162,7 +162,7 @@
    "open": 5,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "radancy",
      "ok": true
@@ -186,7 +186,7 @@
    "sources": [
     {
      "changed_on": "2026-11-10",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "5f323c064b83bb11",
      "kind": "page",
@@ -221,7 +221,7 @@
    "open": 1,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "radancy",
      "ok": true
@@ -247,7 +247,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
      "fail_streak": 21,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -266,7 +267,7 @@
    "open": 3,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -291,10 +292,9 @@
     {
      "checked_at": "2026-11-19T23:37+00:00",
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs",
-     "fail_streak": 15,
+     "fail_streak": 16,
      "kind": "workday",
-     "ok": false,
-     "skipped": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -316,7 +316,7 @@
     {
      "checked_at": "2026-11-19T23:37+00:00",
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/campus/jobs",
-     "fail_streak": 24,
+     "fail_streak": 25,
      "kind": "workday",
      "ok": false
     },
@@ -370,7 +370,7 @@
    "sources": [
     {
      "changed_on": "2026-11-05",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "b1535a34a2a08213",
      "kind": "page",
@@ -402,9 +402,9 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
-     "hash": "9ebae42c55bb9e42",
+     "hash": "8c0f647734f00ac3",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -456,7 +456,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -479,7 +479,7 @@
    "open": 7,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -502,7 +502,7 @@
    "sources": [
     {
      "changed_on": "2026-11-09",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "06b60012b6c24fe0",
      "kind": "page",
@@ -537,7 +537,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "0dea200907df2d4a",
      "kind": "page",
@@ -568,7 +568,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -636,7 +636,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -728,7 +728,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "763b7cc34fa0fcb8",
      "kind": "page",
@@ -763,7 +763,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "d7fedc0ef283d068",
      "kind": "page",
@@ -795,7 +795,7 @@
    "sources": [
     {
      "changed_on": "2026-10-27",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "818c23bc88f35d5c",
      "kind": "page",
@@ -829,7 +829,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "06049d97cc4f6eab",
      "kind": "page",
@@ -860,7 +860,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -883,7 +883,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -962,7 +962,7 @@
    "sources": [
     {
      "changed_on": "2026-10-18",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "9467c3cb6a9379c3",
      "kind": "page",
@@ -1066,7 +1066,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -1136,9 +1136,9 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
-     "hash": "526a9bb33fea3828",
+     "hash": "0566f5e589ea8672",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -1169,7 +1169,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "a1fbebb49ab88887",
      "kind": "page",
@@ -1201,7 +1201,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "0d3346bc5dd5122f",
      "kind": "page",
@@ -1236,17 +1236,16 @@
     {
      "checked_at": "2026-11-20T14:35+00:00",
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/targeted/jobs",
-     "fail_streak": 3,
+     "fail_streak": 4,
      "kind": "workday",
-     "ok": false,
-     "skipped": true
+     "ok": false
     },
     {
      "checked_at": "2026-11-20T17:05+00:00",
-     "fail_streak": 0,
+     "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs",
+     "fail_streak": 1,
      "kind": "workday",
-     "ok": true,
-     "skipped": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1265,7 +1264,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1288,7 +1287,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "fa51069b30c21ba5",
      "kind": "page",
@@ -1381,7 +1380,7 @@
     {
      "checked_at": "2026-11-20T00:37+00:00",
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs",
-     "fail_streak": 1,
+     "fail_streak": 2,
      "kind": "workday",
      "ok": false
     }
@@ -1402,7 +1401,7 @@
    "open": 3,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1448,7 +1447,7 @@
    "open": 1,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1471,7 +1470,7 @@
    "sources": [
     {
      "changed_on": "2026-10-22",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "4e097448fdfc6f38",
      "kind": "page",
@@ -1503,7 +1502,7 @@
    "sources": [
     {
      "changed_on": "2026-11-16",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "0c777a5a0655e82d",
      "kind": "page",
@@ -1537,7 +1536,7 @@
      "changed_on": "2026-11-12",
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.dadavidson.com/careers",
-     "fail_streak": 78,
+     "fail_streak": 79,
      "hash": "35008f2bdec37641",
      "kind": "page",
      "ok": false,
@@ -1567,7 +1566,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "e1d7b50179b77e67",
      "kind": "page",
@@ -1599,7 +1598,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "141ec77912857372",
      "kind": "page",
@@ -1655,10 +1654,9 @@
     {
      "checked_at": "2026-11-20T00:37+00:00",
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://advisorgroup.wd1.myworkdayjobs.com/wday/cxs/advisorgroup/advisor_career_site/jobs",
-     "fail_streak": 6,
+     "fail_streak": 7,
      "kind": "workday",
-     "ok": false,
-     "skipped": true
+     "ok": false
     }
    ],
    "tracks": [
@@ -1677,7 +1675,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -1723,7 +1721,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "bd0f212c2f74391b",
      "kind": "page",
@@ -1757,7 +1755,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
@@ -1803,7 +1801,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -1826,7 +1824,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "6296dc1df0d684a0",
      "kind": "page",
@@ -1858,7 +1856,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "a38d8b7652eed35b",
      "kind": "page",
@@ -1891,7 +1889,7 @@
     {
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://hightoweradvisors.com/careers",
-     "fail_streak": 234,
+     "fail_streak": 235,
      "kind": "page",
      "ok": false,
      "url": "https://hightoweradvisors.com/careers/"
@@ -1920,7 +1918,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "6386d0ef4044a70c",
      "kind": "page",
@@ -1952,7 +1950,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "9acab9eab1b54d36",
      "kind": "page",
@@ -1984,7 +1982,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "f3cef3cb357d658f",
      "kind": "page",
@@ -2016,7 +2014,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "3749f7514f940f7a",
      "kind": "page",
@@ -2049,7 +2047,7 @@
     {
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.edelmanfinancialengines.com/careers/",
-     "fail_streak": 203,
+     "fail_streak": 204,
      "hash": "2de559024e793a16",
      "kind": "page",
      "ok": false,
@@ -2080,7 +2078,7 @@
     {
      "checked_at": null,
      "error": "RetryError: HTTPSConnectionPool(host='www.fisherinvestments.com', port=443): Max retries exceeded with url: /en-us/careers (Caused by ResponseError('too many 429 error responses'))",
-     "fail_streak": 145,
+     "fail_streak": 146,
      "hash": "16e06dfbcded2d35",
      "kind": "page",
      "ok": false,
@@ -2111,7 +2109,7 @@
     {
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.savantwealth.com/careers/",
-     "fail_streak": 234,
+     "fail_streak": 235,
      "kind": "page",
      "ok": false,
      "url": "https://www.savantwealth.com/careers/"
@@ -2140,7 +2138,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "e3b0c44298fc1c14",
      "kind": "page",
@@ -2172,7 +2170,7 @@
    "sources": [
     {
      "changed_on": "2026-10-27",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "8656577d25faf769",
      "kind": "page",
@@ -2211,7 +2209,7 @@
     },
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "1edeb0b3d9598673",
      "kind": "page",
@@ -2220,7 +2218,7 @@
      "url": "https://www.northwesternmutual.com/careers/"
     },
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
@@ -2249,7 +2247,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "radancy",
      "ok": true
@@ -2274,7 +2272,7 @@
     {
      "checked_at": "2026-11-20T00:37+00:00",
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://guardianlife.wd5.myworkdayjobs.com/wday/cxs/guardianlife/guardian-life-careers/jobs",
-     "fail_streak": 6,
+     "fail_streak": 7,
      "kind": "workday",
      "ok": false
     }
@@ -2368,7 +2366,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs",
      "fail_streak": 1,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -2411,7 +2410,7 @@
    "sources": [
     {
      "changed_on": "2026-10-16",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "97eea1c8787c19f8",
      "kind": "page",
@@ -2446,7 +2445,7 @@
    "sources": [
     {
      "changed_on": "2026-10-12",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "acdc7df4c9f7f729",
      "kind": "page",
@@ -2481,7 +2480,7 @@
    "sources": [
     {
      "changed_on": "2026-11-14",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "33dd53a57dfdc0e9",
      "kind": "page",
@@ -2540,7 +2539,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "radancy",
      "ok": true
@@ -2639,7 +2638,7 @@
    "open": 2,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -2665,7 +2664,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZearlycareers/jobs",
      "fail_streak": 3,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     },
     {
      "checked_at": "2026-11-20T00:37+00:00",
@@ -2761,7 +2761,7 @@
    "open": 1,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -2877,7 +2877,7 @@
    "open": 2,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -2899,7 +2899,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "ashby",
      "ok": true
@@ -2922,7 +2922,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "155391284c2172d7",
      "kind": "page",
@@ -2954,7 +2954,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "b0dd4a5466ce45c8",
      "kind": "page",
@@ -2986,7 +2986,7 @@
    "sources": [
     {
      "changed_on": "2026-11-13",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "0aa56acb903af798",
      "kind": "page",
@@ -3018,9 +3018,9 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
-     "hash": "de9bdbbb21fddb31",
+     "hash": "35167bec27cf0776",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3050,7 +3050,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "20699276eda9f621",
      "kind": "page",
@@ -3085,7 +3085,8 @@
      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs",
      "fail_streak": 2,
      "kind": "workday",
-     "ok": false
+     "ok": false,
+     "skipped": true
     }
    ],
    "tracks": [
@@ -3150,7 +3151,7 @@
    "open": 1,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -3172,14 +3173,14 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "icims",
      "ok": true
     },
     {
      "changed_on": "2026-11-16",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "0796baab5777b424",
      "kind": "page",
@@ -3211,7 +3212,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "f9c8c821c97556d3",
      "kind": "page",
@@ -3243,7 +3244,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "9976a2b742e99485",
      "kind": "page",
@@ -3275,7 +3276,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "3636f6c5e8131ee9",
      "kind": "page",
@@ -3307,7 +3308,7 @@
    "sources": [
     {
      "changed_on": "2026-11-02",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "5ab67224d3d6a9ae",
      "kind": "page",
@@ -3339,7 +3340,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "168f2e83705cc6aa",
      "kind": "page",
@@ -3371,9 +3372,9 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
-     "hash": "920646f9cd414997",
+     "hash": "183c3932f93d8a53",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3433,7 +3434,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "1f7276d4addd58b7",
      "kind": "page",
@@ -3488,7 +3489,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "38e0cbc695043c91",
      "kind": "page",
@@ -3520,9 +3521,9 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
-     "hash": "e14555d4c9e523dd",
+     "hash": "bc32f4411b331b64",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -3552,7 +3553,7 @@
    "sources": [
     {
      "changed_on": "2026-10-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "a7f714e53a57778a",
      "kind": "page",
@@ -3584,7 +3585,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "b1a24b6d745f2878",
      "kind": "page",
@@ -3616,7 +3617,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "a3b9d85639b4abc1",
      "kind": "page",
@@ -3670,7 +3671,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -3692,7 +3693,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "radancy",
      "ok": true
@@ -3714,7 +3715,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "phenom",
      "ok": true
@@ -3829,7 +3830,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "b16790f802d681f4",
      "kind": "page",
@@ -3861,7 +3862,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "93bfd5c9ee7b05c8",
      "kind": "page",
@@ -3896,7 +3897,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "4d81bae97ffe53ab",
      "kind": "page",
@@ -3928,7 +3929,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "2ec689c64e3611e2",
      "kind": "page",
@@ -3962,7 +3963,7 @@
    "sources": [
     {
      "changed_on": "2026-11-11",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "0275ba14afc5f254",
      "kind": "page",
@@ -3994,7 +3995,7 @@
    "sources": [
     {
      "changed_on": "2026-11-17",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "1ec480001273eb3c",
      "kind": "page",
@@ -4026,7 +4027,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "403c002aaca9d5a7",
      "kind": "page",
@@ -4082,7 +4083,7 @@
     {
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.hines.com/careers",
-     "fail_streak": 234,
+     "fail_streak": 235,
      "kind": "page",
      "ok": false,
      "url": "https://www.hines.com/careers"
@@ -4112,7 +4113,7 @@
     {
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tishmanspeyer.com/careers",
-     "fail_streak": 234,
+     "fail_streak": 235,
      "kind": "page",
      "ok": false,
      "url": "https://tishmanspeyer.com/careers"
@@ -4141,7 +4142,7 @@
    "sources": [
     {
      "changed_on": "2026-11-10",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "94dbe9f2b5d4c67b",
      "kind": "page",
@@ -4173,7 +4174,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "cee548f047beab10",
      "kind": "page",
@@ -4205,7 +4206,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "e9bb6b110ad5b8fa",
      "kind": "page",
@@ -4239,7 +4240,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -4308,7 +4309,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "62b3c311584508bc",
      "kind": "page",
@@ -4339,7 +4340,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -4362,7 +4363,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "b427a84a541ead9e",
      "kind": "page",
@@ -4396,7 +4397,7 @@
      "changed_on": "2026-10-31",
      "checked_at": "2026-11-20T13:35+00:00",
      "error": "ConnectionError: HTTPSConnectionPool(host='www.coniferllc.com', port=443): Max retries exceeded with url: /careers/ (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))",
-     "fail_streak": 9,
+     "fail_streak": 10,
      "hash": "3973e022e93220f9",
      "kind": "page",
      "ok": false,
@@ -4494,7 +4495,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "3794b5109d74bd08",
      "kind": "page",
@@ -4529,7 +4530,7 @@
    "sources": [
     {
      "changed_on": "2026-10-29",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "ecedc4b9df4a7670",
      "kind": "page",
@@ -4583,7 +4584,7 @@
    "open": 1,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -4628,7 +4629,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "oracle",
      "ok": true
@@ -4696,7 +4697,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "greenhouse",
      "ok": true
@@ -4718,7 +4719,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "ashby",
      "ok": true
@@ -4742,7 +4743,7 @@
     {
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.equityapartments.com/careers",
-     "fail_streak": 234,
+     "fail_streak": 235,
      "kind": "page",
      "ok": false,
      "url": "https://www.equityapartments.com/careers"
@@ -4772,7 +4773,7 @@
     {
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.vivmarkresidential.com/",
-     "fail_streak": 234,
+     "fail_streak": 235,
      "kind": "page",
      "ok": false,
      "url": "https://jobs.avalonbay.com/"
@@ -4801,7 +4802,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "a866d2e502e8b5da",
      "kind": "page",
@@ -4833,7 +4834,7 @@
    "sources": [
     {
      "changed_on": "2026-11-07",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "4ed8dcaf2fb4dbea",
      "kind": "page",
@@ -4865,7 +4866,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "ce1dad5fa6207afa",
      "kind": "page",
@@ -4899,7 +4900,7 @@
      "changed_on": "2026-11-05",
      "checked_at": null,
      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.brixmor.com/careers",
-     "fail_streak": 93,
+     "fail_streak": 94,
      "hash": "4464396dbc99c744",
      "kind": "page",
      "ok": false,
@@ -4929,9 +4930,9 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
-     "hash": "b3b8097d96d3aee8",
+     "hash": "416fa572e97c95c0",
      "kind": "page",
      "links": [],
      "ok": true,
@@ -4961,7 +4962,7 @@
    "sources": [
     {
      "changed_on": "2026-11-09",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "c947dc09613ef55b",
      "kind": "page",
@@ -4993,7 +4994,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "1a02c0ce4ac71c16",
      "kind": "page",
@@ -5025,7 +5026,7 @@
    "sources": [
     {
      "changed_on": "2026-11-18",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "58b0515850a35257",
      "kind": "page",
@@ -5056,7 +5057,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
@@ -5216,7 +5217,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "ashby",
      "ok": true
@@ -5239,7 +5240,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "4550af910fe32e66",
      "kind": "page",
@@ -5273,7 +5274,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "6dcdba76d50eb7dd",
      "kind": "page",
@@ -5305,7 +5306,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "74865eceae2a1099",
      "kind": "page",
@@ -5337,7 +5338,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "3431fc817d9e81d8",
      "kind": "page",
@@ -5369,7 +5370,7 @@
    "sources": [
     {
      "changed_on": "2026-11-06",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "4ec41d3212bce4b2",
      "kind": "page",
@@ -5401,7 +5402,7 @@
    "sources": [
     {
      "changed_on": "2026-11-09",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "0cb1cf9544eb459e",
      "kind": "page",
@@ -5433,7 +5434,7 @@
    "sources": [
     {
      "changed_on": "2026-11-19",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "e7346fa936bf35a8",
      "kind": "page",
@@ -5464,7 +5465,7 @@
    "open": 0,
    "sources": [
     {
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "kind": "smartrecruiters",
      "ok": true
@@ -5487,7 +5488,7 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "537d6826a8d31315",
      "kind": "page",
@@ -5519,7 +5520,7 @@
    "sources": [
     {
      "changed_on": "2026-11-13",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "699acc8dd3fdd64a",
      "kind": "page",
@@ -5551,7 +5552,7 @@
    "sources": [
     {
      "changed_on": "2026-11-05",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "7a926d7d4479e40d",
      "kind": "page",
@@ -5583,7 +5584,7 @@
    "sources": [
     {
      "changed_on": null,
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
      "hash": "bd31b5effb3cdb4c",
      "kind": "page",
@@ -5615,9 +5616,9 @@
    "sources": [
     {
      "changed_on": "2026-11-20",
-     "checked_at": "2026-11-20T18:05+00:00",
+     "checked_at": "2026-11-20T18:41+00:00",
      "fail_streak": 0,
-     "hash": "90745f16a9aaa22b",
+     "hash": "66600b1e7cc1bd02",
      "kind": "page",
      "links": [],
      "ok": true,
