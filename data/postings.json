@@ -1588,48 +1588,6 @@
    "work_mode": "Hybrid"
   },
   {
-   "class_evidence": "- Candidates are required to be pursuing a bachelor’s degree or a bachelor’s direct to master’s degree from an accredited college or university with a graduation time frame between November 2027 and August 2028",
-   "classes": [
-    2028
-   ],
-   "company": "Bank of America / Merrill",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "Bank of America / Merrill|wealth management summer analyst program merrill advisor development 2027",
-   "group_title": "Wealth Management Summer Analyst Program – Merrill Advisor Development 2027",
-   "hide": null,
-   "id": "oleeo:bofa:15305",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "United States of America",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-19",
-   "region": "US",
-   "regions": [
-    "US"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "oleeo",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Wealth Management Summer Analyst Program – Merrill Advisor Development 2027",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/15305-Wealth-Management-Summer-Analyst-Program-Merrill-Advisor-Development-2027/en-GB",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
    "class_evidence": null,
    "classes": [],
    "company": "Barclays",
@@ -12086,6 +12044,49 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Candidates are required to be pursuing a bachelor’s degree or a bachelor’s direct to master’s degree from an accredited college or university with a graduation time frame between November 2027 and August 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-19",
+   "company": "Bank of America / Merrill",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "Bank of America / Merrill|wealth management summer analyst program merrill advisor development 2027",
+   "group_title": "Wealth Management Summer Analyst Program – Merrill Advisor Development 2027",
+   "hide": null,
+   "id": "oleeo:bofa:15305",
+   "last_seen": "2026-11-19",
+   "level": "Undergraduate",
+   "location": "United States of America",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-19",
+   "region": "US",
+   "regions": [
+    "US"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "oleeo",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Wealth Management Summer Analyst Program – Merrill Advisor Development 2027",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/15305-Wealth-Management-Summer-Analyst-Program-Merrill-Advisor-Development-2027/en-GB",
    "v": 11,
    "weeks": null,
    "work_mode": null
