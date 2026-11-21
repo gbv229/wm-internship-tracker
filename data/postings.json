@@ -3813,48 +3813,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "function": "Leasing / Brokerage",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic leasing tenant representation intern",
-   "group_title": "EIC Leasing Tenant Representation Intern",
-   "hide": null,
-   "id": "wd:cw:R343019",
-   "last_seen": "2026-11-21",
-   "level": "Undergraduate",
-   "location": "Irvine, California, USA",
-   "misses": 1,
-   "pay": "$21–$25/hr",
-   "posted": "2026-11-18",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Winter 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "EIC Leasing Tenant Representation Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Irvine-California-USA/EIC-Leasing-Tenant-Representation-Intern_R343019",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
    "first_seen": "2026-10-12",
    "function": "Real Estate (general)",
    "gpa": null,
@@ -15530,6 +15488,49 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---VNM---Ha-Noi---4th-Floor-Building-A--Tien-Bo-Plaza/EIC-Intern---Real-Estate-Valuation-Services--Ha-Noi_R338349",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-21",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "function": "Leasing / Brokerage",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic leasing tenant representation intern",
+   "group_title": "EIC Leasing Tenant Representation Intern",
+   "hide": null,
+   "id": "wd:cw:R343019",
+   "last_seen": "2026-11-21",
+   "level": "Undergraduate",
+   "location": "Irvine, California, USA",
+   "misses": 2,
+   "pay": "$21–$25/hr",
+   "posted": "2026-11-18",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Winter 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "EIC Leasing Tenant Representation Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Irvine-California-USA/EIC-Leasing-Tenant-Representation-Intern_R343019",
    "v": 11,
    "weeks": null,
    "work_mode": null
