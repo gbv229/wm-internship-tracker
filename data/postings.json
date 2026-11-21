@@ -7598,50 +7598,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
-   "classes": [
-    2029
-   ],
-   "company": "KeyBank",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "KeyBank|summer 2027 key investment services internship boise",
-   "group_title": "Summer 2027 Key Investment Services Internship - Boise",
-   "hide": null,
-   "id": "wd:keybank:R-41218",
-   "last_seen": "2026-11-21",
-   "level": "Undergraduate",
-   "location": "Boise, ID",
-   "misses": 1,
-   "pay": "$23/hr",
-   "posted": "2026-10-26",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "ID"
-   ],
-   "status": "open",
-   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Boise, ID",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
-   "v": 11,
-   "weeks": 5,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Pursuing a four-year or graduate-level degree by June 2028 with focused coursework in finance, accounting, economics, and/or data science.",
    "classes": [
     2028
@@ -21885,6 +21841,51 @@
     "real_estate"
    ],
    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---New-York-City-CMG_R-43108",
+   "v": 11,
+   "weeks": 5,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Pursuing a four-year or graduate-level degree by May 2029 with focused coursework in finance, accounting, economics, and/or data science.",
+   "classes": [
+    2029
+   ],
+   "closed_on": "2026-11-21",
+   "company": "KeyBank",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "KeyBank|summer 2027 key investment services internship boise",
+   "group_title": "Summer 2027 Key Investment Services Internship - Boise",
+   "hide": null,
+   "id": "wd:keybank:R-41218",
+   "last_seen": "2026-11-21",
+   "level": "Undergraduate",
+   "location": "Boise, ID",
+   "misses": 2,
+   "pay": "$23/hr",
+   "posted": "2026-10-26",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "ID"
+   ],
+   "status": "closed",
+   "title": "Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Boise, ID",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Boise--ID_R-41218",
    "v": 11,
    "weeks": 5,
    "work_mode": null
