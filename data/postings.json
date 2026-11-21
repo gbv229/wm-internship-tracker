@@ -5517,7 +5517,7 @@
    "last_seen": "2026-11-20",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-20",
    "region": "International",
@@ -6242,50 +6242,6 @@
    "group": "JLL|capital markets summer 2027 internship",
    "group_title": "Capital Markets Summer 2027 Internship",
    "hide": null,
-   "id": "wd:jll:REQ530207-1",
-   "last_seen": "2026-11-20",
-   "level": "Undergraduate",
-   "location": "San Diego, CA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-01",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CA"
-   ],
-   "status": "open",
-   "title": "Capital Markets Summer 2027 Internship - San Diego, CA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Capital-Markets-Summer-2027-Internship---San-Diego--CA_REQ530207-1",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-08",
-   "function": "Capital Markets / Investment Sales",
-   "gpa": null,
-   "group": "JLL|capital markets summer 2027 internship",
-   "group_title": "Capital Markets Summer 2027 Internship",
-   "hide": null,
    "id": "wd:jll:REQ530230",
    "last_seen": "2026-11-20",
    "level": "Undergraduate",
@@ -6864,48 +6820,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Leasing-Summer-2027-Internship---Portland--OR_REQ540039",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-12",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship",
-   "group_title": "Leasing Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ539937",
-   "last_seen": "2026-11-20",
-   "level": "Undergraduate",
-   "location": "Raleigh, NC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "NC"
-   ],
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Raleigh, NC",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Raleigh-NC/Leasing-Summer-2027-Internship---Raleigh--NC_REQ539937",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -19505,6 +19419,51 @@
    "classes": [
     2028
    ],
+   "closed_on": "2026-11-20",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-08",
+   "function": "Capital Markets / Investment Sales",
+   "gpa": null,
+   "group": "JLL|capital markets summer 2027 internship",
+   "group_title": "Capital Markets Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ530207-1",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "San Diego, CA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-01",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CA"
+   ],
+   "status": "closed",
+   "title": "Capital Markets Summer 2027 Internship - San Diego, CA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Diego-CA/Capital-Markets-Summer-2027-Internship---San-Diego--CA_REQ530207-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "- Currently a college/university junior, graduating in Summer 2028.",
+   "classes": [
+    2028
+   ],
    "closed_on": "2026-10-29",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -20699,6 +20658,49 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Leasing-Summer-2027-Internship---Miami--FL_REQ539933",
    "v": 6,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-20",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539937",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "Raleigh, NC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NC"
+   ],
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Raleigh, NC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Raleigh-NC/Leasing-Summer-2027-Internship---Raleigh--NC_REQ539937",
+   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
