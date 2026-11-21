@@ -6246,7 +6246,7 @@
    "last_seen": "2026-11-20",
    "level": "Undergraduate",
    "location": "San Diego, CA",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-01",
    "region": "US",
@@ -6528,6 +6528,48 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Leasing-Summer-2027-Internship---Charlotte--NC_REQ539622",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539580",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "Dallas, TX",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "TX"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Dallas, TX",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Leasing-Summer-2027-Internship---Dallas--TX_REQ539580",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -6844,7 +6886,7 @@
    "last_seen": "2026-11-20",
    "level": "Undergraduate",
    "location": "Raleigh, NC",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-20",
    "region": "US",
@@ -7158,6 +7200,48 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Walnut-Creek-CA/Leasing-Summer-2027-Internship---Walnut-Creek--CA_REQ540030",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-19",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539928",
+   "last_seen": "2026-11-20",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-20",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "DC"
+   ],
+   "status": "open",
+   "title": "Leasing Summer 2027 Internship - Washington, DC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Leasing-Summer-2027-Internship---Washington--DC_REQ539928",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -20449,49 +20533,6 @@
   {
    "class_evidence": null,
    "classes": [],
-   "closed_on": "2026-11-20",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-12",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship",
-   "group_title": "Leasing Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ539580",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Dallas, TX",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "TX"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Dallas, TX",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Leasing-Summer-2027-Internship---Dallas--TX_REQ539580",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
    "closed_on": "2026-10-13",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -20701,49 +20742,6 @@
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/SAN-ANTONIO-TX/Leasing-Summer-2027-Internship---San-Antonio--TX_REQ539568",
    "v": 6,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "closed_on": "2026-11-20",
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-19",
-   "first_seen": "2026-10-12",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship",
-   "group_title": "Leasing Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ539928",
-   "last_seen": "2026-11-19",
-   "level": "Undergraduate",
-   "location": "Washington, DC",
-   "misses": 2,
-   "pay": null,
-   "posted": "2026-10-20",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "DC"
-   ],
-   "status": "closed",
-   "title": "Leasing Summer 2027 Internship - Washington, DC",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Leasing-Summer-2027-Internship---Washington--DC_REQ539928",
-   "v": 11,
    "weeks": null,
    "work_mode": "On-site"
   },
