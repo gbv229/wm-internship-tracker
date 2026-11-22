@@ -9471,48 +9471,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Sanctuary Wealth",
-   "company_type": "Independent RIA",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-21",
-   "first_seen": "2026-11-21",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Sanctuary Wealth|2027 summer rotational internship program",
-   "group_title": "2027 Summer Rotational Internship Program",
-   "hide": null,
-   "id": "br:068a618a6d61c5",
-   "last_seen": "2026-11-21",
-   "level": "Undergraduate",
-   "location": "Indianapolis, Indiana",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-21",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [
-    "IN"
-   ],
-   "status": "open",
-   "title": "2027 Summer Rotational Internship Program",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4684132/Sanctuary-Wealth-Group-LLC---FTE/2027-Summer-Rotational-Internship-Program",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
    "class_evidence": "Silvercrest’s Summer Internship Program is both an education and experiential opportunity for rising sophomores, juniors, and seniors.",
    "classes": [
     2028,
@@ -25864,6 +25822,49 @@
    "v": 11,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-22",
+   "company": "Sanctuary Wealth",
+   "company_type": "Independent RIA",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-21",
+   "first_seen": "2026-11-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Sanctuary Wealth|2027 summer rotational internship program",
+   "group_title": "2027 Summer Rotational Internship Program",
+   "hide": null,
+   "id": "br:068a618a6d61c5",
+   "last_seen": "2026-11-21",
+   "level": "Undergraduate",
+   "location": "Indianapolis, Indiana",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-21",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [
+    "IN"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Rotational Internship Program",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4684132/Sanctuary-Wealth-Group-LLC---FTE/2027-Summer-Rotational-Internship-Program",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
