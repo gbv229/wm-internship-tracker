@@ -8491,6 +8491,50 @@
    "work_mode": null
   },
   {
+   "class_evidence": "– Must have completed 2 years of College",
+   "classes": [
+    2029
+   ],
+   "company": "Newmark",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Newmark|intern",
+   "group_title": "Intern",
+   "hide": null,
+   "id": "or:hdow:250564",
+   "last_seen": "2026-11-23",
+   "level": "Undergraduate",
+   "location": "Chicago, IL, United States",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-23",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "oracle",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250564",
+   "v": 11,
+   "weeks": 8,
+   "work_mode": null
+  },
+  {
    "class_evidence": null,
    "classes": [],
    "company": "Newmark",
