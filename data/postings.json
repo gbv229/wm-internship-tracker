@@ -5443,46 +5443,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Greystar",
-   "company_type": "Developer & Operator",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-23",
-   "first_seen": "2026-11-20",
-   "function": "Asset / Property Management",
-   "gpa": null,
-   "group": "Greystar|intern property management diemen",
-   "group_title": "Intern - Property Management Diemen",
-   "hide": "Outside the US",
-   "id": "br:1807bcdc8db816",
-   "last_seen": "2026-11-23",
-   "level": "Undergraduate",
-   "location": "",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-20",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "browser",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Intern - Property Management Diemen, Netherlands",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jobs.greystar.com/job/diemen/intern-property-management/35302/103429120224",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "We’re looking for students graduating in 2029, who already have some coding skills and want to keep developing them.",
    "classes": [
     2029
@@ -5662,7 +5622,7 @@
    "last_seen": "2026-11-23",
    "level": "Undergraduate",
    "location": "",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-10-21",
    "region": "",
@@ -9606,7 +9566,7 @@
    "last_seen": "2026-11-23",
    "level": "Undergraduate",
    "location": "Indianapolis, Indiana",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-21",
    "region": "US",
@@ -17046,6 +17006,47 @@
    "v": 9,
    "weeks": 10,
    "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-23",
+   "company": "Greystar",
+   "company_type": "Developer & Operator",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-23",
+   "first_seen": "2026-11-20",
+   "function": "Asset / Property Management",
+   "gpa": null,
+   "group": "Greystar|intern property management diemen",
+   "group_title": "Intern - Property Management Diemen",
+   "hide": "Outside the US",
+   "id": "br:1807bcdc8db816",
+   "last_seen": "2026-11-23",
+   "level": "Undergraduate",
+   "location": "",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-20",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "browser",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Intern - Property Management Diemen, Netherlands",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jobs.greystar.com/job/diemen/intern-property-management/35302/103429120224",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
   },
   {
    "class_evidence": null,
