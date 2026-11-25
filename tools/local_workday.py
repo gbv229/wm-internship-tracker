@@ -166,6 +166,12 @@ def upload(feed: bytes, tok: str):
     if code != 200:
         raise RuntimeError(f"can't find or create the {RELEASE_TAG} release (HTTP {code}): {out[:200]!r}")
     rel = json.loads(out)
+    # a run cut off mid-upload (sleep, network drop) can leave its temporary file behind;
+    # clear it first or GitHub refuses the new upload as "already_exists"
+    for a in rel.get("assets") or []:
+        if a["name"] == f"new-{ASSET}":
+            curl(f"https://api.github.com/repos/{REPO}/releases/assets/{a['id']}", "DELETE", headers=h)
+    rel["assets"] = [a for a in rel.get("assets") or [] if a["name"] != f"new-{ASSET}"]
     tmp = HOME / ASSET
     tmp.write_bytes(feed)
     # upload under a temporary name first, so the GitHub side never sees a missing file
