@@ -8591,6 +8591,46 @@
    "work_mode": null
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "company": "PGIM Real Estate",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "PGIM Real Estate|real estate summer intern",
+   "group_title": "Real Estate Summer Intern",
+   "hide": "Outside the US",
+   "id": "wd:pru:R-125472",
+   "last_seen": "2026-11-24",
+   "level": "Undergraduate",
+   "location": "Letterkenny, Ireland",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-24",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Real Estate Summer Intern | PGIM Ireland",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Letterkenny-Ireland/Real-Estate-Summer-Intern---PGIM-Ireland_R-125472",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028,
