@@ -1988,94 +1988,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": "• Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-29",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "CIBC Private Wealth|2027 summer intern private wealth management chicago",
-   "group_title": "2027 Summer Intern  Private Wealth Management Chicago",
-   "hide": null,
-   "id": "wd:cibc:2620150",
-   "last_seen": "2026-11-22",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": "$25/hr",
-   "posted": "2026-11-18",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "2027 Summer Intern  Private Wealth Management Chicago",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern--Private-Wealth-Management-Chicago_2620150",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "• Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
-   "classes": [
-    2028
-   ],
-   "company": "CIBC Private Wealth",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-29",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "CIBC Private Wealth|2027 summer intern private wealth management chicago",
-   "group_title": "2027 Summer Intern  Private Wealth Management Chicago",
-   "hide": null,
-   "id": "wd:cibc:2620150-1",
-   "last_seen": "2026-11-22",
-   "level": "Undergraduate",
-   "location": "Chicago, IL",
-   "misses": 1,
-   "pay": "$25/hr",
-   "posted": "2026-11-18",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "IL"
-   ],
-   "status": "open",
-   "title": "2027 Summer Intern  Private Wealth Management Chicago",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern--Private-Wealth-Management-Chicago_2620150-1",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028,
@@ -2730,48 +2642,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-11-19",
-   "function": "Real Estate (general)",
-   "gpa": null,
-   "group": "Colliers|public finance internship",
-   "group_title": "Public Finance Internship",
-   "hide": null,
-   "id": "wd:colliers:JR18837",
-   "last_seen": "2026-11-23",
-   "level": "Undergraduate",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "misses": 1,
-   "pay": "$20/hr",
-   "posted": "2026-11-17",
-   "region": "US",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "MN"
-   ],
-   "status": "open",
-   "title": "Public Finance Internship",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Minneapolis-Minnesota-United-States-of-America/Public-Finance-Internship_JR18837",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Colliers",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-25",
    "first_seen": "2026-11-11",
    "function": "Real Estate (general)",
@@ -3395,48 +3265,6 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R344150",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Cushman & Wakefield",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-23",
-   "first_seen": "2026-11-20",
-   "function": "Real Estate (general)",
-   "gpa": "3.0+",
-   "group": "Cushman & Wakefield|eic intern",
-   "group_title": "EIC Intern",
-   "hide": null,
-   "id": "wd:cw:R343456",
-   "last_seen": "2026-11-23",
-   "level": "Undergraduate",
-   "location": "Fort Collins, Colorado, USA",
-   "misses": 1,
-   "pay": "$17–$20/hr",
-   "posted": "2026-11-20",
-   "region": "US",
-   "regions": [
-    "West"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "CO"
-   ],
-   "status": "open",
-   "title": "EIC Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Fort-Collins-Colorado-USA/EIC-Intern_R343456",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -4252,46 +4080,6 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-08",
-   "function": "Sales / Marketing",
-   "gpa": null,
-   "group": "Deutsche Bank|sales coverage support intern",
-   "group_title": "Sales Coverage Support Intern",
-   "hide": "Outside the US",
-   "id": "wd:db:R0450629",
-   "last_seen": "2026-11-24",
-   "level": "Undergraduate",
-   "location": "Geneva Place des Bergues 3",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-23",
-   "region": "International",
-   "regions": [
-    "International"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Sales Coverage Support Intern (f/m/x)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Geneva-Place-des-Bergues-3/Sales-Coverage-Support-Intern--f-m-x-_R0450629",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Deutsche Bank",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-25",
    "first_seen": "2026-10-26",
    "function": "Advisory / Client Service",
@@ -4778,53 +4566,6 @@
     "wealth"
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/2780-MONROE-AVE-SUITE-201-ROCHESTER-NY/Intern--Investor-Center---Rochester--NY_2135880-1",
-   "v": 11,
-   "verified": "2026-10-28",
-   "verified_source": "Posting text, checked by hand 2026-10-28",
-   "weeks": 10,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
-   "classes": [
-    2028
-   ],
-   "company": "Fidelity Investments",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-11-19",
-   "function": "Investments",
-   "gpa": null,
-   "group": "Fidelity Investments|intern investor center tucson",
-   "group_title": "Intern, Investor Center - Tucson",
-   "hide": null,
-   "id": "wd:fmr:2135868",
-   "last_seen": "2026-11-24",
-   "level": "Undergraduate",
-   "location": "Tucson, AZ",
-   "misses": 1,
-   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
-   "pay": null,
-   "posted": "2026-11-17",
-   "region": "US",
-   "regions": [
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "AZ"
-   ],
-   "status": "open",
-   "title": "Intern, Investor Center - Tucson, AZ",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tucson-AZ/Intern--Investor-Center---Tucson--AZ_2135868",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -6787,48 +6528,6 @@
    "company_type": "CRE Services & Brokerage",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-12",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship",
-   "group_title": "Leasing Summer 2027 Internship",
-   "hide": null,
-   "id": "wd:jll:REQ539622",
-   "last_seen": "2026-11-22",
-   "level": "Undergraduate",
-   "location": "Charlotte, NC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "NC"
-   ],
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Charlotte, NC",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Leasing-Summer-2027-Internship---Charlotte--NC_REQ539622",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-25",
    "first_seen": "2026-10-12",
    "function": "Leasing / Brokerage",
@@ -7154,48 +6853,6 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Portland-OR/Leasing-Summer-2027-Internship---Portland--OR_REQ540039",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "On-site"
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "JLL",
-   "company_type": "CRE Services & Brokerage",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-11-11",
-   "function": "Leasing / Brokerage",
-   "gpa": null,
-   "group": "JLL|leasing summer 2027 internship richmond",
-   "group_title": "Leasing Summer 2027 Internship - Richmond",
-   "hide": null,
-   "id": "wd:jll:REQ546397",
-   "last_seen": "2026-11-22",
-   "level": "Undergraduate",
-   "location": "Richmond, VA",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-12",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "VA"
-   ],
-   "status": "open",
-   "title": "Leasing Summer 2027 Internship - Richmond, VA",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Leasing-Summer-2027-Internship---Richmond--VA_REQ546397",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -8630,94 +8287,6 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": "- Current junior, undergraduate student at an accredited four-year institution; must be actively enrolled at the time of consideration.",
-   "classes": [
-    2028
-   ],
-   "company": "Link Logistics",
-   "company_type": "RE Investment Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-08",
-   "function": "Development / Construction",
-   "gpa": null,
-   "group": "Link Logistics|development summer intern",
-   "group_title": "Development Summer Intern",
-   "hide": null,
-   "id": "wd:linklogistics:JR101857",
-   "last_seen": "2026-11-24",
-   "level": "Undergraduate",
-   "location": "New York, New York; Dallas, Texas",
-   "misses": 1,
-   "pay": "$30/hr",
-   "posted": "2026-11-12",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY",
-    "TX"
-   ],
-   "status": "open",
-   "title": "Development Summer Intern",
-   "tracks": [
-    "real_estate"
-   ],
-   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "M&T Bank (Wealth)",
-   "company_type": "Regional Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-11-19",
-   "function": "Investments",
-   "gpa": "3.0+",
-   "group": "M&T Bank (Wealth)|2027 corporate summer internship program wealth markets northeast",
-   "group_title": "2027 Corporate Summer Internship Program- Wealth Markets- Northeast",
-   "hide": null,
-   "id": "wd:mtb:R91801",
-   "last_seen": "2026-11-24",
-   "level": "Undergraduate",
-   "location": "New York, NY",
-   "misses": 1,
-   "pay": "$18–$28/hr",
-   "posted": "2026-11-19",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "2027 Corporate Summer Internship Program- Wealth Markets- Northeast",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/New-York-NY/XMLNAME-2027-Corporate-Summer-Internship-Program--Wealth-Markets--Northeast_R91801",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- You have graduated from university or able to take the time off to commit for a full-time internship role for 6 months from January 2027 if you are currently in study",
    "classes": [
     2027
@@ -9198,46 +8767,6 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-23",
-   "first_seen": "2026-11-23",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
-   "group_title": "Financial Advisor Intern",
-   "hide": "Outside the US",
-   "id": "ph:rbc:R-0000193289",
-   "last_seen": "2026-11-25",
-   "level": "Undergraduate",
-   "location": "HAMILTON, Ontario, Canada",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-11-23",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "phenom",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://jobs.rbc.com/ca/en/job/R-0000193289",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
    "detail_at": "2026-11-25",
    "first_seen": "2026-11-19",
    "function": "Advisory / Client Service",
@@ -9267,6 +8796,46 @@
     "wealth"
    ],
    "url": "https://jobs.rbc.com/ca/en/job/R-0000193009",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "hide": "Outside the US",
+   "id": "ph:rbc:R-0000193289",
+   "last_seen": "2026-11-25",
+   "level": "Undergraduate",
+   "location": "HAMILTON, Ontario, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-23",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "phenom",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://jobs.rbc.com/ca/en/job/R-0000193289",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -12803,6 +12372,96 @@
    "work_mode": null
   },
   {
+   "class_evidence": "• Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-25",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management chicago",
+   "group_title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "hide": null,
+   "id": "wd:cibc:2620150",
+   "last_seen": "2026-11-22",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": "$25/hr",
+   "posted": "2026-11-18",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern--Private-Wealth-Management-Chicago_2620150",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "• Pursuing a bachelor’s degree, with an expected graduation date between December 2027 and June 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-25",
+   "company": "CIBC Private Wealth",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-29",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "CIBC Private Wealth|2027 summer intern private wealth management chicago",
+   "group_title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "hide": null,
+   "id": "wd:cibc:2620150-1",
+   "last_seen": "2026-11-22",
+   "level": "Undergraduate",
+   "location": "Chicago, IL",
+   "misses": 2,
+   "pay": "$25/hr",
+   "posted": "2026-11-18",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "IL"
+   ],
+   "status": "closed",
+   "title": "2027 Summer Intern  Private Wealth Management Chicago",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern--Private-Wealth-Management-Chicago_2620150-1",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
    "class_evidence": "- University or college student majoring in Business Administration, Economics, Finance, or a related field with an expected graduation date between December 2027 and June 2028",
    "classes": [
     2028
@@ -15327,6 +14986,49 @@
    "work_mode": "On-site"
   },
   {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-25",
+   "company": "Colliers",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-11-19",
+   "function": "Real Estate (general)",
+   "gpa": null,
+   "group": "Colliers|public finance internship",
+   "group_title": "Public Finance Internship",
+   "hide": null,
+   "id": "wd:colliers:JR18837",
+   "last_seen": "2026-11-23",
+   "level": "Undergraduate",
+   "location": "Minneapolis, Minnesota, United States of America",
+   "misses": 2,
+   "pay": "$20/hr",
+   "posted": "2026-11-17",
+   "region": "US",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "MN"
+   ],
+   "status": "closed",
+   "title": "Public Finance Internship",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Minneapolis-Minnesota-United-States-of-America/Public-Finance-Internship_JR18837",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
    "classes": [
     2028,
@@ -15758,6 +15460,49 @@
     "real_estate"
    ],
    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/EIC-Hospitality-intern---Capital-Markets_R337039",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-25",
+   "company": "Cushman & Wakefield",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-23",
+   "first_seen": "2026-11-20",
+   "function": "Real Estate (general)",
+   "gpa": "3.0+",
+   "group": "Cushman & Wakefield|eic intern",
+   "group_title": "EIC Intern",
+   "hide": null,
+   "id": "wd:cw:R343456",
+   "last_seen": "2026-11-23",
+   "level": "Undergraduate",
+   "location": "Fort Collins, Colorado, USA",
+   "misses": 2,
+   "pay": "$17–$20/hr",
+   "posted": "2026-11-20",
+   "region": "US",
+   "regions": [
+    "West"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "CO"
+   ],
+   "status": "closed",
+   "title": "EIC Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://cw.wd1.myworkdayjobs.com/external/job/Fort-Collins-Colorado-USA/EIC-Intern_R343456",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -16475,6 +16220,47 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-25",
+   "company": "Deutsche Bank",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-08",
+   "function": "Sales / Marketing",
+   "gpa": null,
+   "group": "Deutsche Bank|sales coverage support intern",
+   "group_title": "Sales Coverage Support Intern",
+   "hide": "Outside the US",
+   "id": "wd:db:R0450629",
+   "last_seen": "2026-11-24",
+   "level": "Undergraduate",
+   "location": "Geneva Place des Bergues 3",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "International",
+   "regions": [
+    "International"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [],
+   "status": "closed",
+   "title": "Sales Coverage Support Intern (f/m/x)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Geneva-Place-des-Bergues-3/Sales-Coverage-Support-Intern--f-m-x-_R0450629",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-26",
    "company": "Digital Realty",
    "company_type": "REIT",
@@ -17177,6 +16963,54 @@
     "wealth"
    ],
    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Tampa-FL/Intern--Investor-Center---Tampa--FL_2135954-1",
+   "v": 11,
+   "verified": "2026-10-28",
+   "verified_source": "Posting text, checked by hand 2026-10-28",
+   "weeks": 10,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": "Confirmed by hand (Posting text, checked by hand 2026-10-28).",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-25",
+   "company": "Fidelity Investments",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-11-19",
+   "function": "Investments",
+   "gpa": null,
+   "group": "Fidelity Investments|intern investor center tucson",
+   "group_title": "Intern, Investor Center - Tucson",
+   "hide": null,
+   "id": "wd:fmr:2135868",
+   "last_seen": "2026-11-24",
+   "level": "Undergraduate",
+   "location": "Tucson, AZ",
+   "misses": 2,
+   "note": "10-week summer internship (June 7 – Aug 13, 2027) for students in their junior year.",
+   "pay": null,
+   "posted": "2026-11-17",
+   "region": "US",
+   "regions": [
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "AZ"
+   ],
+   "status": "closed",
+   "title": "Intern, Investor Center - Tucson, AZ",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Tucson-AZ/Intern--Investor-Center---Tucson--AZ_2135868",
    "v": 11,
    "verified": "2026-10-28",
    "verified_source": "Posting text, checked by hand 2026-10-28",
@@ -20917,6 +20751,49 @@
   {
    "class_evidence": null,
    "classes": [],
+   "closed_on": "2026-11-25",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-12",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship",
+   "group_title": "Leasing Summer 2027 Internship",
+   "hide": null,
+   "id": "wd:jll:REQ539622",
+   "last_seen": "2026-11-22",
+   "level": "Undergraduate",
+   "location": "Charlotte, NC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "NC"
+   ],
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Charlotte, NC",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Leasing-Summer-2027-Internship---Charlotte--NC_REQ539622",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
    "closed_on": "2026-10-29",
    "company": "JLL",
    "company_type": "CRE Services & Brokerage",
@@ -21211,6 +21088,49 @@
     "real_estate"
    ],
    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Raleigh-NC/Leasing-Summer-2027-Internship---Raleigh--NC_REQ539937",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-25",
+   "company": "JLL",
+   "company_type": "CRE Services & Brokerage",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-11-11",
+   "function": "Leasing / Brokerage",
+   "gpa": null,
+   "group": "JLL|leasing summer 2027 internship richmond",
+   "group_title": "Leasing Summer 2027 Internship - Richmond",
+   "hide": null,
+   "id": "wd:jll:REQ546397",
+   "last_seen": "2026-11-22",
+   "level": "Undergraduate",
+   "location": "Richmond, VA",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-12",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "VA"
+   ],
+   "status": "closed",
+   "title": "Leasing Summer 2027 Internship - Richmond, VA",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Leasing-Summer-2027-Internship---Richmond--VA_REQ546397",
    "v": 11,
    "weeks": null,
    "work_mode": "On-site"
@@ -23339,6 +23259,53 @@
    "work_mode": null
   },
   {
+   "class_evidence": "- Current junior, undergraduate student at an accredited four-year institution; must be actively enrolled at the time of consideration.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-25",
+   "company": "Link Logistics",
+   "company_type": "RE Investment Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-08",
+   "function": "Development / Construction",
+   "gpa": null,
+   "group": "Link Logistics|development summer intern",
+   "group_title": "Development Summer Intern",
+   "hide": null,
+   "id": "wd:linklogistics:JR101857",
+   "last_seen": "2026-11-24",
+   "level": "Undergraduate",
+   "location": "New York, New York; Dallas, Texas",
+   "misses": 2,
+   "pay": "$30/hr",
+   "posted": "2026-11-12",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY",
+    "TX"
+   ],
+   "status": "closed",
+   "title": "Development Summer Intern",
+   "tracks": [
+    "real_estate"
+   ],
+   "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Development-Summer-Intern_JR101857",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Link is looking for actively enrolled juniors (rising seniors) who would be interested in gaining hands-on experience with institutional real estate finance at portfolio scale.",
    "classes": [
     2028
@@ -23480,6 +23447,49 @@
     "real_estate"
    ],
    "url": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Power---Infrastructure-Investments-Summer-Intern_JR101855",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-25",
+   "company": "M&T Bank (Wealth)",
+   "company_type": "Regional Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-11-19",
+   "function": "Investments",
+   "gpa": "3.0+",
+   "group": "M&T Bank (Wealth)|2027 corporate summer internship program wealth markets northeast",
+   "group_title": "2027 Corporate Summer Internship Program- Wealth Markets- Northeast",
+   "hide": null,
+   "id": "wd:mtb:R91801",
+   "last_seen": "2026-11-24",
+   "level": "Undergraduate",
+   "location": "New York, NY",
+   "misses": 2,
+   "pay": "$18–$28/hr",
+   "posted": "2026-11-19",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "2027 Corporate Summer Internship Program- Wealth Markets- Northeast",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/New-York-NY/XMLNAME-2027-Corporate-Summer-Internship-Program--Wealth-Markets--Northeast_R91801",
    "v": 11,
    "weeks": 10,
    "work_mode": null
