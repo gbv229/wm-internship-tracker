@@ -89,7 +89,7 @@
    "company_type": "Asset Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Investments",
    "gpa": "3.0+",
@@ -97,12 +97,12 @@
    "group_title": "Portfolio Implementation Intern",
    "hide": null,
    "id": "wd:abglobal:R0019738",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Nashville, Tennessee",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Southeast"
@@ -133,7 +133,7 @@
    "company_type": "Asset Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -141,12 +141,12 @@
    "group_title": "Private Wealth Summer Intern",
    "hide": null,
    "id": "wd:abglobal:R0019834",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "New York, New York",
    "misses": 0,
    "pay": "$37–$37/hr (≈ $78k–$78k/yr)",
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Northeast"
@@ -177,7 +177,7 @@
    "company_type": "Asset Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -185,12 +185,12 @@
    "group_title": "Private Wealth Summer Intern",
    "hide": null,
    "id": "wd:abglobal:R0019829",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Chicago, IL",
    "misses": 0,
    "pay": "$31–$31/hr (≈ $66k–$66k/yr)",
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Midwest"
@@ -221,7 +221,7 @@
    "company_type": "Asset Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -229,12 +229,12 @@
    "group_title": "Private Wealth Summer Intern",
    "hide": null,
    "id": "wd:abglobal:R0019819",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Washington DC",
    "misses": 0,
    "pay": "$34–$34/hr (≈ $72k–$72k/yr)",
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Mid-Atlantic"
@@ -265,7 +265,7 @@
    "company_type": "Asset Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -273,12 +273,12 @@
    "group_title": "Private Wealth Summer Intern",
    "hide": null,
    "id": "wd:abglobal:R0019817",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Houston, Texas",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Southwest"
@@ -309,7 +309,7 @@
    "company_type": "Asset Manager",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": "3.0+",
@@ -317,12 +317,12 @@
    "group_title": "Private Wealth Summer Intern",
    "hide": null,
    "id": "wd:abglobal:R0019816",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Philadelphia, Pennsylvania",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Northeast"
@@ -477,13 +477,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of May 2028 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-13",
    "function": "Wealth Management",
    "gpa": null,
@@ -496,7 +500,7 @@
    "location": "WI-Waukesha",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Midwest"
@@ -795,13 +799,17 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -814,7 +822,7 @@
    "location": "OH-Miamisburg",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Midwest"
@@ -837,13 +845,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-19",
    "function": "Wealth Management",
    "gpa": null,
@@ -856,7 +868,7 @@
    "location": "CO-Durango",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "West"
@@ -879,13 +891,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -898,7 +914,7 @@
    "location": "MN-Edina",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Midwest"
@@ -967,13 +983,17 @@
    "work_mode": "On-site"
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-11-12",
    "function": "Wealth Management",
    "gpa": null,
@@ -986,7 +1006,7 @@
    "location": "WI-Janesville",
    "misses": 0,
    "pay": null,
-   "posted": "2026-11-12",
+   "posted": "2026-11-13",
    "region": "",
    "regions": [
     "Midwest"
@@ -1004,52 +1024,6 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Janesville/Internship---Private-Wealth-Management--Janesville--WI-Summer-2027-_R20261290-1",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
-   "hide": null,
-   "id": "wd:baird:R2026995-1",
-   "last_seen": "2026-11-23",
-   "level": "Undergraduate",
-   "location": "WI-Onalaska",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-23",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "WI"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (La Crosse, WI Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -1101,13 +1075,18 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2026 or later",
+   "classes": [
+    2027,
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -1120,7 +1099,7 @@
    "location": "WI-Madison West",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Midwest"
@@ -1143,13 +1122,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-13",
    "function": "Wealth Management",
    "gpa": null,
@@ -1162,7 +1145,7 @@
    "location": "WI-Mequon",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Midwest"
@@ -1185,13 +1168,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -1204,7 +1191,7 @@
    "location": "MN-Minnetonka",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Midwest"
@@ -1227,13 +1214,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -1246,7 +1237,7 @@
    "location": "KY-Owensboro",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Southeast"
@@ -1315,13 +1306,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -1334,7 +1329,7 @@
    "location": "PA-Canonsburg",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Northeast"
@@ -1403,13 +1398,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-26",
    "function": "Wealth Management",
    "gpa": null,
@@ -1422,7 +1421,7 @@
    "location": "UT-Salt Lake City",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "West"
@@ -1445,13 +1444,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-26",
    "function": "Wealth Management",
    "gpa": null,
@@ -1464,7 +1467,7 @@
    "location": "IA-Sioux City",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-26",
+   "posted": "2026-10-27",
    "region": "",
    "regions": [
     "Midwest"
@@ -1487,13 +1490,17 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
    "company": "Baird",
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": null,
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-27",
    "function": "Wealth Management",
    "gpa": null,
@@ -1506,7 +1513,7 @@
    "location": "WI-Wausau",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-27",
+   "posted": "2026-10-28",
    "region": "",
    "regions": [
     "Midwest"
@@ -7766,7 +7773,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Sales / Marketing",
    "gpa": null,
@@ -7774,7 +7781,7 @@
    "group_title": "Intern 2027 - Business Development",
    "hide": null,
    "id": "wd:lplfinancial:R-052926",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte; Tempe",
    "misses": 0,
@@ -7902,7 +7909,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Wealth Management",
    "gpa": null,
@@ -7910,12 +7917,12 @@
    "group_title": "Intern 2027 - Transition Support Partner",
    "hide": null,
    "id": "wd:lplfinancial:R-053345",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Southeast"
@@ -7947,7 +7954,7 @@
    "company_type": "Brokerage & Platform",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-10-08",
    "function": "Advisory / Client Service",
    "gpa": null,
@@ -7955,12 +7962,12 @@
    "group_title": "Intern 2027 - Wealth Advisory Group",
    "hide": null,
    "id": "wd:lplfinancial:R-052554",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Fort Mill/Charlotte",
    "misses": 0,
    "pay": null,
-   "posted": "2026-10-23",
+   "posted": "2026-10-27",
    "region": "US",
    "regions": [
     "Southeast"
@@ -8458,6 +8465,48 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-11-25",
+   "first_seen": "2026-10-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Morgan Stanley|intern",
+   "group_title": "Intern",
+   "hide": null,
+   "id": "wd:ms:JR045797",
+   "last_seen": "2026-11-25",
+   "level": "Undergraduate",
+   "location": "Winter Park, Florida, United States of America",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "FL"
+   ],
+   "status": "open",
+   "title": "Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "Morgan Stanley",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-11-24",
    "first_seen": "2026-11-20",
    "function": "Wealth Management",
@@ -8469,7 +8518,7 @@
    "last_seen": "2026-11-24",
    "level": "Undergraduate",
    "location": "Garden City, New York, United States of America",
-   "misses": 0,
+   "misses": 1,
    "pay": "$17/hr",
    "posted": "2026-11-20",
    "region": "US",
@@ -8489,48 +8538,6 @@
     "wealth"
    ],
    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Garden-City-New-York-United-States-of-America/Intern_JR046556",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Morgan Stanley",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-19",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Morgan Stanley|intern",
-   "group_title": "Intern",
-   "hide": null,
-   "id": "wd:ms:JR045797",
-   "last_seen": "2026-11-24",
-   "level": "Undergraduate",
-   "location": "Winter Park, Florida, United States of America",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "FL"
-   ],
-   "status": "open",
-   "title": "Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -10149,7 +10156,7 @@
    "company_type": "Insurance & Planning",
    "deadline": null,
    "deadline_evidence": null,
-   "detail_at": "2026-11-22",
+   "detail_at": "2026-11-25",
    "first_seen": "2026-11-10",
    "function": "Wealth Management",
    "gpa": null,
@@ -10157,7 +10164,7 @@
    "group_title": "Financial Services Field Internship - Allison Park",
    "hide": null,
    "id": "wd:thrivent:REQ-48389-1",
-   "last_seen": "2026-11-22",
+   "last_seen": "2026-11-25",
    "level": "Undergraduate",
    "location": "Allison Park - PA",
    "misses": 0,
@@ -11390,6 +11397,53 @@
     "wealth"
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/PA-Greensburg/Internship---Private-Wealth-Management--Greensburg--PA-Summer-2027-_R20261131-2",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-25",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "hide": null,
+   "id": "wd:baird:R2026995-1",
+   "last_seen": "2026-11-23",
+   "level": "Undergraduate",
+   "location": "WI-Onalaska",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (La Crosse, WI Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1",
    "v": 11,
    "weeks": null,
    "work_mode": null
