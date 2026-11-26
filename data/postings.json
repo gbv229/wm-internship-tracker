@@ -6042,56 +6042,6 @@
    "work_mode": null
   },
   {
-   "class_evidence": null,
-   "classes": [],
-   "company": "J.P. Morgan",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-25",
-   "first_seen": "2026-11-16",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "J.P. Morgan|u s private bank united states 2027 reentry program",
-   "group_title": "U.S. Private Bank - United States - 2027 ReEntry Program",
-   "hide": null,
-   "id": "or:jpmc:210809294",
-   "last_seen": "2026-11-26",
-   "level": "Undergraduate",
-   "location": "Chicago, IL, United States; Greenwich, CT, United States; Tampa, FL, United States; Atlanta, GA, United States; New York, NY, United States; Milwaukee, WI, United States; Birmingham, MI, United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-18",
-   "region": "US",
-   "regions": [
-    "Northeast",
-    "Southeast",
-    "Midwest"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "oracle",
-   "sponsorship": "No sponsorship",
-   "states": [
-    "CT",
-    "FL",
-    "GA",
-    "IL",
-    "MI",
-    "NY",
-    "WI"
-   ],
-   "status": "open",
-   "title": "U.S. Private Bank - United States - 2027 ReEntry Program",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809294",
-   "v": 11,
-   "weeks": 15,
-   "work_mode": null
-  },
-  {
    "class_evidence": "Rising juniors, seniors, and graduate students preferred.",
    "classes": [
     2028,
@@ -7563,7 +7513,7 @@
    "group_title": "Intern – DCFO P&BS 100% - [Fixed-Term Contract of 5-6 months / Julius Baer’s Intern Programme]",
    "hide": "Outside the US",
    "id": "wd:juliusbaer:r-20015-1",
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "level": "Undergraduate",
    "location": "Zurich",
    "misses": 0,
@@ -19060,6 +19010,57 @@
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789075",
    "v": 11,
    "weeks": 10,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-26",
+   "company": "J.P. Morgan",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-25",
+   "first_seen": "2026-11-16",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "J.P. Morgan|u s private bank united states 2027 reentry program",
+   "group_title": "U.S. Private Bank - United States - 2027 ReEntry Program",
+   "hide": null,
+   "id": "or:jpmc:210809294",
+   "last_seen": "2026-11-26",
+   "level": "Undergraduate",
+   "location": "Chicago, IL, United States; Greenwich, CT, United States; Tampa, FL, United States; Atlanta, GA, United States; New York, NY, United States; Milwaukee, WI, United States; Birmingham, MI, United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-18",
+   "region": "US",
+   "regions": [
+    "Northeast",
+    "Southeast",
+    "Midwest"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "oracle",
+   "sponsorship": "No sponsorship",
+   "states": [
+    "CT",
+    "FL",
+    "GA",
+    "IL",
+    "MI",
+    "NY",
+    "WI"
+   ],
+   "status": "closed",
+   "title": "U.S. Private Bank - United States - 2027 ReEntry Program",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809294",
+   "v": 11,
+   "weeks": 15,
    "work_mode": null
   },
   {
