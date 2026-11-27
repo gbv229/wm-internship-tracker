@@ -1040,99 +1040,6 @@
    "deadline": null,
    "deadline_evidence": null,
    "detail_at": "2026-11-25",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
-   "hide": null,
-   "id": "wd:baird:R20261032-1",
-   "last_seen": "2026-11-25",
-   "level": "Undergraduate",
-   "location": "KY-Lexington",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-26",
-   "region": "",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "KY"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Lexington, KY Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Lexington/Internship---Private-Wealth-Management--Lexington--KY-Summer-2027-_R20261032-1",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2026 or later",
-   "classes": [
-    2027,
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-25",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Baird|internship private wealth management",
-   "group_title": "Internship – Private Wealth Management",
-   "hide": null,
-   "id": "wd:baird:R20261059",
-   "last_seen": "2026-11-25",
-   "level": "Undergraduate",
-   "location": "WI-Madison West",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-27",
-   "region": "",
-   "regions": [
-    "Midwest"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "WI"
-   ],
-   "status": "open",
-   "title": "Internship – Private Wealth Management (Madison, WI Summer 2027)",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": "- Anticipated graduation date of December 2027 or later",
-   "classes": [
-    2028,
-    2029,
-    2030
-   ],
-   "company": "Baird",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-25",
    "first_seen": "2026-10-13",
    "function": "Wealth Management",
    "gpa": null,
@@ -4862,7 +4769,7 @@
    "last_seen": "2026-11-27",
    "level": "Undergraduate",
    "location": "Amsterdam, Noord-Holland, Netherlands",
-   "misses": 0,
+   "misses": 1,
    "pay": null,
    "posted": "2026-11-04",
    "region": "International",
@@ -7554,95 +7461,6 @@
    "work_mode": "Hybrid"
   },
   {
-   "class_evidence": "· Currently enrolled in an Undergraduate degree program with an expected graduation date of December 2027 or May 2028",
-   "classes": [
-    2028
-   ],
-   "company": "LPL Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-21",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "LPL Financial|intern 2027 government relations",
-   "group_title": "Intern 2027 - Government Relations",
-   "hide": "Not a wealth / real estate role",
-   "id": "wd:lplfinancial:R-054560",
-   "last_seen": "2026-11-24",
-   "level": "Undergraduate",
-   "location": "Washington, DC",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Mid-Atlantic"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "DC"
-   ],
-   "status": "open",
-   "title": "Intern 2027 - Government Relations",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Washington-DC/Intern-2027---Government-Relations_R-054560",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": "Hybrid"
-  },
-  {
-   "class_evidence": "- Currently pursuing a bachelor's degree in Business, Finance, Economics, Communications, Marketing, Management, or a related field, with an anticipated graduation date between December 2027 and May 2028",
-   "classes": [
-    2028
-   ],
-   "company": "LPL Financial",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-10-08",
-   "function": "Wealth Management",
-   "gpa": "3.3+",
-   "group": "LPL Financial|intern 2027 strategy and growth analyst",
-   "group_title": "Intern 2027 - Strategy and Growth Analyst",
-   "hide": null,
-   "id": "wd:lplfinancial:R-052938",
-   "last_seen": "2026-11-22",
-   "level": "Undergraduate",
-   "location": "Fort Mill/Charlotte",
-   "misses": 1,
-   "pay": "$20–$26/hr",
-   "posted": "2026-10-23",
-   "region": "US",
-   "regions": [
-    "Southeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NC",
-    "SC"
-   ],
-   "status": "open",
-   "title": "Intern 2027 - Strategy and Growth Analyst",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027---Strategy-and-Growth_R-052938",
-   "v": 11,
-   "weeks": 10,
-   "work_mode": null
-  },
-  {
    "class_evidence": "- Currently enrolled in an undergraduate degree program with an expected graduation date of December 2027 or May 2028.",
    "classes": [
     2028
@@ -8740,48 +8558,6 @@
    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-MBA-Internship--Assistant-to-the-Chair--Executive-Strategy-Program--St-Petersburg--FL-_R-0013364",
    "v": 11,
    "weeks": 12,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "Raymond James",
-   "company_type": "Brokerage & Platform",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-22",
-   "first_seen": "2026-11-19",
-   "function": "Wealth Management",
-   "gpa": null,
-   "group": "Raymond James|branch summer associate",
-   "group_title": "Branch Summer Associate",
-   "hide": "Graduate / MBA only",
-   "id": "wd:raymondjames:R-0013889",
-   "last_seen": "2026-11-22",
-   "level": "Graduate/MBA",
-   "location": "New York, New York - United States",
-   "misses": 1,
-   "pay": null,
-   "posted": "2026-11-19",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "source": "workday",
-   "sponsorship": null,
-   "states": [
-    "NY"
-   ],
-   "status": "open",
-   "title": "Branch Summer Associate - New York, NY 3JF",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/Branch-Summer-Associate---New-York--NY-3JF_R-0013889",
-   "v": 11,
-   "weeks": null,
    "work_mode": null
   },
   {
@@ -11100,6 +10876,53 @@
   {
    "class_evidence": "- Anticipated graduation date of December 2027 or later",
    "classes": [
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-27",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-25",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "hide": null,
+   "id": "wd:baird:R20261032-1",
+   "last_seen": "2026-11-25",
+   "level": "Undergraduate",
+   "location": "KY-Lexington",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-26",
+   "region": "",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "KY"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Lexington, KY Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Lexington/Internship---Private-Wealth-Management--Lexington--KY-Summer-2027-_R20261032-1",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2027 or later",
+   "classes": [
     2028
    ],
    "closed_on": "2026-10-16",
@@ -11139,6 +10962,54 @@
    ],
    "url": "https://baird.wd1.myworkdayjobs.com/careers/job/KY-Louisville/Internship---Private-Wealth-Management--Louisville--KY-Summer-2027-_R2026954-1",
    "v": 8,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": "- Anticipated graduation date of December 2026 or later",
+   "classes": [
+    2027,
+    2028,
+    2029,
+    2030
+   ],
+   "closed_on": "2026-11-27",
+   "company": "Baird",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-25",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Baird|internship private wealth management",
+   "group_title": "Internship – Private Wealth Management",
+   "hide": null,
+   "id": "wd:baird:R20261059",
+   "last_seen": "2026-11-25",
+   "level": "Undergraduate",
+   "location": "WI-Madison West",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-27",
+   "region": "",
+   "regions": [
+    "Midwest"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "WI"
+   ],
+   "status": "closed",
+   "title": "Internship – Private Wealth Management (Madison, WI Summer 2027)",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059",
+   "v": 11,
    "weeks": null,
    "work_mode": null
   },
@@ -22909,6 +22780,97 @@
    "work_mode": null
   },
   {
+   "class_evidence": "· Currently enrolled in an Undergraduate degree program with an expected graduation date of December 2027 or May 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-27",
+   "company": "LPL Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-21",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "LPL Financial|intern 2027 government relations",
+   "group_title": "Intern 2027 - Government Relations",
+   "hide": "Not a wealth / real estate role",
+   "id": "wd:lplfinancial:R-054560",
+   "last_seen": "2026-11-24",
+   "level": "Undergraduate",
+   "location": "Washington, DC",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Mid-Atlantic"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "DC"
+   ],
+   "status": "closed",
+   "title": "Intern 2027 - Government Relations",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Washington-DC/Intern-2027---Government-Relations_R-054560",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": "Hybrid"
+  },
+  {
+   "class_evidence": "- Currently pursuing a bachelor's degree in Business, Finance, Economics, Communications, Marketing, Management, or a related field, with an anticipated graduation date between December 2027 and May 2028",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-27",
+   "company": "LPL Financial",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-10-08",
+   "function": "Wealth Management",
+   "gpa": "3.3+",
+   "group": "LPL Financial|intern 2027 strategy and growth analyst",
+   "group_title": "Intern 2027 - Strategy and Growth Analyst",
+   "hide": null,
+   "id": "wd:lplfinancial:R-052938",
+   "last_seen": "2026-11-22",
+   "level": "Undergraduate",
+   "location": "Fort Mill/Charlotte",
+   "misses": 2,
+   "pay": "$20–$26/hr",
+   "posted": "2026-10-23",
+   "region": "US",
+   "regions": [
+    "Southeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NC",
+    "SC"
+   ],
+   "status": "closed",
+   "title": "Intern 2027 - Strategy and Growth Analyst",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Internship-Summer-2027---Strategy-and-Growth_R-052938",
+   "v": 11,
+   "weeks": 10,
+   "work_mode": null
+  },
+  {
    "class_evidence": "Our Spring Insight programme will be held in the Spring of 2027 and is open to students who are either currently in their first year of a three-year degree or second year of a four-year degree, graduating in 2029.",
    "classes": [
     2027,
@@ -26163,6 +26125,49 @@
    "v": 8,
    "weeks": null,
    "work_mode": "On-site"
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "closed_on": "2026-11-27",
+   "company": "Raymond James",
+   "company_type": "Brokerage & Platform",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-22",
+   "first_seen": "2026-11-19",
+   "function": "Wealth Management",
+   "gpa": null,
+   "group": "Raymond James|branch summer associate",
+   "group_title": "Branch Summer Associate",
+   "hide": "Graduate / MBA only",
+   "id": "wd:raymondjames:R-0013889",
+   "last_seen": "2026-11-22",
+   "level": "Graduate/MBA",
+   "location": "New York, New York - United States",
+   "misses": 2,
+   "pay": null,
+   "posted": "2026-11-19",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "source": "workday",
+   "sponsorship": null,
+   "states": [
+    "NY"
+   ],
+   "status": "closed",
+   "title": "Branch Summer Associate - New York, NY 3JF",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/Branch-Summer-Associate---New-York--NY-3JF_R-0013889",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
   },
   {
    "class_evidence": "- Currently pursuing a B.A., B.S., or Master's degree in Real Estate, Development, Urban Planning, Finance, or related field with an expected graduation date of December 2027 through June 2028",
