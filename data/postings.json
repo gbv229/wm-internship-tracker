@@ -8204,6 +8204,46 @@
    "company_type": "Global Bank",
    "deadline": null,
    "deadline_evidence": null,
+   "detail_at": "2026-11-28",
+   "first_seen": "2026-11-19",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
+   "group_title": "Financial Advisor Intern",
+   "hide": "Outside the US",
+   "id": "ph:rbc:R-0000193009",
+   "last_seen": "2026-11-28",
+   "level": "Undergraduate",
+   "location": "HAMILTON, Ontario, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-19",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "phenom",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Advisor Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://jobs.rbc.com/ca/en/job/R-0000193009",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
    "detail_at": "2026-11-26",
    "first_seen": "2026-11-23",
    "function": "Advisory / Client Service",
@@ -8248,46 +8288,6 @@
    "first_seen": "2026-11-19",
    "function": "Advisory / Client Service",
    "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial advisor intern",
-   "group_title": "Financial Advisor Intern",
-   "hide": "Outside the US",
-   "id": "ph:rbc:R-0000193009",
-   "last_seen": "2026-11-28",
-   "level": "Undergraduate",
-   "location": "HAMILTON, Ontario, Canada",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-11-19",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "phenom",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Advisor Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://jobs.rbc.com/ca/en/job/R-0000193009",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-28",
-   "first_seen": "2026-11-19",
-   "function": "Advisory / Client Service",
-   "gpa": null,
    "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial planner relationship intern",
    "group_title": "Financial Planner Relationship Intern",
    "hide": "Outside the US",
@@ -8313,46 +8313,6 @@
     "wealth"
    ],
    "url": "https://jobs.rbc.com/ca/en/job/R-0000192909",
-   "v": 11,
-   "weeks": null,
-   "work_mode": null
-  },
-  {
-   "class_evidence": null,
-   "classes": [],
-   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
-   "company_type": "Global Bank",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-26",
-   "first_seen": "2026-11-23",
-   "function": "Advisory / Client Service",
-   "gpa": null,
-   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial planner relationship intern",
-   "group_title": "Financial Planner Relationship Intern",
-   "hide": "Outside the US",
-   "id": "ph:rbc:R-0000193376",
-   "last_seen": "2026-11-28",
-   "level": "Undergraduate",
-   "location": "KIRKLAND, Quebec, Canada",
-   "misses": 0,
-   "pay": null,
-   "posted": "2026-11-23",
-   "region": "Canada",
-   "regions": [
-    "Canada"
-   ],
-   "season": null,
-   "season_inferred": false,
-   "source": "phenom",
-   "sponsorship": null,
-   "states": [],
-   "status": "open",
-   "title": "Financial Planner Relationship Intern",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://jobs.rbc.com/ca/en/job/R-0000193376",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -8476,6 +8436,46 @@
     "wealth"
    ],
    "url": "https://jobs.rbc.com/ca/en/job/R-0000193431",
+   "v": 11,
+   "weeks": null,
+   "work_mode": null
+  },
+  {
+   "class_evidence": null,
+   "classes": [],
+   "company": "RBC (incl. RBC Wealth Mgmt & City National)",
+   "company_type": "Global Bank",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-26",
+   "first_seen": "2026-11-23",
+   "function": "Advisory / Client Service",
+   "gpa": null,
+   "group": "RBC (incl. RBC Wealth Mgmt & City National)|financial planner relationship intern",
+   "group_title": "Financial Planner Relationship Intern",
+   "hide": "Outside the US",
+   "id": "ph:rbc:R-0000193376",
+   "last_seen": "2026-11-28",
+   "level": "Undergraduate",
+   "location": "KIRKLAND, Quebec, Canada",
+   "misses": 0,
+   "pay": null,
+   "posted": "2026-11-23",
+   "region": "Canada",
+   "regions": [
+    "Canada"
+   ],
+   "season": null,
+   "season_inferred": false,
+   "source": "phenom",
+   "sponsorship": null,
+   "states": [],
+   "status": "open",
+   "title": "Financial Planner Relationship Intern",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://jobs.rbc.com/ca/en/job/R-0000193376",
    "v": 11,
    "weeks": null,
    "work_mode": null
@@ -9323,50 +9323,6 @@
    "v": 11,
    "weeks": 10,
    "work_mode": null
-  },
-  {
-   "class_evidence": "- Currently pursuing a bachelor’s degree, with an expected graduation date of December 2027 or May 2028.",
-   "classes": [
-    2028
-   ],
-   "company": "State Street",
-   "company_type": "Asset Manager",
-   "deadline": null,
-   "deadline_evidence": null,
-   "detail_at": "2026-11-28",
-   "first_seen": "2026-11-03",
-   "function": "Investments",
-   "gpa": null,
-   "group": "State Street|state street investment management us wealth 2027 summer internship",
-   "group_title": "State Street Investment Management - US Wealth - 2027 Summer Internship",
-   "hide": null,
-   "id": "ph:statestreet:R-800715",
-   "last_seen": "2026-11-28",
-   "level": "Undergraduate",
-   "location": "Boston",
-   "misses": 1,
-   "pay": "$20–$31/hr (≈ $42k–$65k/yr)",
-   "posted": "2026-11-03",
-   "region": "US",
-   "regions": [
-    "Northeast"
-   ],
-   "season": "Summer 2027",
-   "season_inferred": false,
-   "source": "phenom",
-   "sponsorship": null,
-   "states": [
-    "MA"
-   ],
-   "status": "open",
-   "title": "State Street Investment Management - US Wealth - 2027 Summer Internship",
-   "tracks": [
-    "wealth"
-   ],
-   "url": "https://careers.statestreet.com/global/en/job/R-800715",
-   "v": 11,
-   "weeks": null,
-   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
@@ -26775,6 +26731,51 @@
    "v": 9,
    "weeks": null,
    "work_mode": null
+  },
+  {
+   "class_evidence": "- Currently pursuing a bachelor’s degree, with an expected graduation date of December 2027 or May 2028.",
+   "classes": [
+    2028
+   ],
+   "closed_on": "2026-11-28",
+   "company": "State Street",
+   "company_type": "Asset Manager",
+   "deadline": null,
+   "deadline_evidence": null,
+   "detail_at": "2026-11-28",
+   "first_seen": "2026-11-03",
+   "function": "Investments",
+   "gpa": null,
+   "group": "State Street|state street investment management us wealth 2027 summer internship",
+   "group_title": "State Street Investment Management - US Wealth - 2027 Summer Internship",
+   "hide": null,
+   "id": "ph:statestreet:R-800715",
+   "last_seen": "2026-11-28",
+   "level": "Undergraduate",
+   "location": "Boston",
+   "misses": 2,
+   "pay": "$20–$31/hr (≈ $42k–$65k/yr)",
+   "posted": "2026-11-03",
+   "region": "US",
+   "regions": [
+    "Northeast"
+   ],
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "source": "phenom",
+   "sponsorship": null,
+   "states": [
+    "MA"
+   ],
+   "status": "closed",
+   "title": "State Street Investment Management - US Wealth - 2027 Summer Internship",
+   "tracks": [
+    "wealth"
+   ],
+   "url": "https://careers.statestreet.com/global/en/job/R-800715",
+   "v": 11,
+   "weeks": null,
+   "work_mode": "Hybrid"
   },
   {
    "class_evidence": null,
